@@ -1,0 +1,5995 @@
+; 0x0004b460 設定を変更することができます。
+0x0004b460 Change the settings.
+
+; 0x0004b480 データを見ることができます。
+0x0004b480 Database.
+
+; 0x0004b4a0 エンドレスで戦うモードです。
+0x0004b4a0 I'm in endless fighting mode.
+
+; 0x0004b4c0 対戦を楽しむモードです。
+0x0004b4c0 Battle mode.
+
+; 0x0004b4e0 ストーリーを楽しむモードです。
+0x0004b4e0 Story mode.
+
+; 0x0004b500 もう１台と通信対戦します
+0x0004b500 Against another player
+
+; 0x0004b520 コンピュータと対戦します
+0x0004b520 Against the computer
+
+; 0x0004b540 モードを選択してください・・・
+0x0004b540 Select mode...
+
+; 0x0004b560 通信エラーが発生しました！
+0x0004b560 A communication error has occurred!
+
+; 0x0004bb04 どこから始めますか？
+0x0004bb04 Where should we start?
+
+; 0x0004bb24 キャラクターをえらんでください
+0x0004bb24 Select your character
+
+; 0x0004bb58 ゲート前
+0x0004bb58 Gatefront
+
+; 0x0004bb64 ソドム内部
+0x0004bb64 Sodom interior
+
+; 0x0004bb70 修行の章
+0x0004bb70 Training Chapter
+
+
+; 0x0004bb94 　柳救出　：%B決意！
+0x0004bb94 Rescue Yanagi: %B Determination!
+
+; 0x0004bbac クリア
+0x0004bbac Clear
+
+; 0x0004bbb4 　必殺技　：０／３
+0x0004bbb4 Sp.move:0/3
+
+; 0x0004bbc8 　超必殺技：０／１
+0x0004bbc8 S.Ult.Skill:0/1
+
+; 0x0004bbdc セーブ内容
+0x0004bbdc Save content
+
+; 0x0004bbe8 名前：
+0x0004bbe8 Name:
+
+; 0x0004bbf0 　クリア
+0x0004bbf0 Clear
+
+; 0x0004bbfc 紅麗
+0x0004bbfc Kurei
+
+; 0x0004bc04 小金井　薫
+0x0004bc04 Kaoru Koganei
+
+; 0x0004bc10 水鏡　凍季也
+0x0004bc10 Sueya Frozen
+
+; 0x0004bc20 霧沢　風子
+0x0004bc20 Fuko Kirisawa
+
+; 0x0004bc2c 石島　土門
+0x0004bc2c Tsuchikado Ishijima
+
+; 0x0004bc38 花菱　烈火
+0x0004bc38 Hanabishi Rekka
+
+; 0x0004bc44 第九話
+0x0004bc44 Episode 9
+
+; 0x0004bc4c 第八話
+0x0004bc4c Episode 8
+
+; 0x0004bc54 第七話
+0x0004bc54 Episode 7
+
+; 0x0004bc5c 第六話
+0x0004bc5c Episode 6
+
+; 0x0004bc64 第五話
+0x0004bc64 Episode 5
+
+; 0x0004bc6c 第四話
+0x0004bc6c Episode 4
+
+; 0x0004bc74 第三話
+0x0004bc74 Episode three
+
+; 0x0004bc7c 第ニ話
+0x0004bc7c Episode two
+
+; 0x0004bc84 第一話
+0x0004bc84 Episode one
+
+; 0x0004bca0 烈火と紅麗
+0x0004bca0 Flames and Crimson Beauty
+
+; 0x0004bcac 燃えさかりし炎
+0x0004bcac Burning Flames
+
+; 0x0004bcbc 裏切りし者
+0x0004bcbc Traitor
+
+; 0x0004bcc8 兄妹
+0x0004bcc8 Siblings
+
+; 0x0004bcd0 狂気の叫び
+0x0004bcd0 A scream of madness
+
+; 0x0004bcdc 狩りの始まり
+0x0004bcdc The Hunt Begins
+
+; 0x0004bcec 麗参戦！
+0x0004bcec Rejoin the battle!
+
+; 0x0004bcf8 突風！！
+0x0004bcf8 A gust of wind!!
+
+; 0x0004bd04 使命
+0x0004bd04 Mission
+
+; 0x0004bd0c 闇夜の挑戦者
+0x0004bd0c Darknight Challenger
+
+; 0x0004bd1c 真剣勝負
+0x0004bd1c A serious match
+
+; 0x0004bd28 誓い
+0x0004bd28 Oath
+
+; 0x0004bd30 迎撃
+0x0004bd30 Intercept
+
+; 0x0004bd38 奇襲
+0x0004bd38 Surprise attack
+
+; 0x0004bd40 土門の野望
+0x0004bd40 Tsuchimon's Ambition
+
+; 0x0004bd4c 告白
+0x0004bd4c Confession
+
+; 0x0004bd54 魔導具対決
+0x0004bd54 Magical item showdown
+
+; 0x0004bd60 最終決戦
+0x0004bd60 Final battle
+
+; 0x0004bd6c 開かれる扉
+0x0004bd6c The Door Opens
+
+; 0x0004bd78 復讐の植物兵器
+0x0004bd78 Vengeance Plant Weapons
+
+; 0x0004bd88 魔導具の怪物
+0x0004bd88 Magical-item monsters
+
+; 0x0004bd98 裏麗最凶の男
+0x0004bd98 Urarei's Worst Man
+
+; 0x0004bda8 忍び寄る魔手
+0x0004bda8 The Sneaking Demon Hand
+
+; 0x0004bdb8 要塞都市ＳＯＤＯＭ
+0x0004bdb8 Fortress City SODOM
+
+; 0x0004bdcc 火影出陣
+0x0004bdcc Hokage Dejin
+
+; 0x0004bdd8 迷い
+0x0004bdd8 Hesitation
+
+; 0x0004bde0 希望
+0x0004bde0 Hope
+
+; 0x0004bde8 戦いの始まり
+0x0004bde8 The beginning of the battle.
+
+; 0x0004bdf8 　クリア
+0x0004bdf8 Clear
+
+; 0x0004be04 　必殺技　：０／３
+0x0004be04 Sp.move:0/3
+
+; 0x0004be18 　超必殺技：０／１
+0x0004be18 S.Ult.Skill:0/1
+
+; 0x0004be2c 　柳救出　：%B決意！
+0x0004be2c Rescue Yanagi: %B Determination!
+
+; 0x0004be5c Ａボタンを押してください
+0x0004be5c Press the A button
+
+; 0x0004be78 せんたくできません
+0x0004be78 I can't do it
+
+; 0x0004be8c キャラクターをえらんでください
+0x0004be8c Select your character
+
+; 0x0004beac しばらくお待ちください
+0x0004beac Wait a moment
+
+; 0x0004becc ルールを設定してください
+0x0004becc Set the rules
+
+; 0x0004bef0 しばらくお待ちください
+0x0004bef0 Wait a moment
+
+; 0x0004bf10 フィールドをえらんでください
+0x0004bf10 Select map
+
+; 0x0004bf3c 通信対戦接続チェック中よ。
+0x0004bf3c I'm checking your comms match connection.
+
+; 0x0004bf57 通信対戦の準備をしてね。
+0x0004bf57 Prepare for a communication battle.
+
+; 0x0004bf70 接続完了したわ。
+0x0004bf70 The connection is complete.
+
+; 0x0004bf81 ＳＴＡＲＴボタンを押して！
+0x0004bf81 Press the START button!
+
+; 0x0004bfa4 接続完了したわ。
+0x0004bfa4 The connection is complete.
+
+; 0x0004bfb5 もうしばらく待ってね！
+0x0004bfb5 Wait a little longer!
+
+; 0x0004bfd8 せんたくできません
+0x0004bfd8 I can't do it
+
+; 0x0004bfec キャラクターをえらんでください
+0x0004bfec Select your character
+
+; 0x0004c00c お主には、もう
+0x0004c00c I've had enough of you.
+
+; 0x0004c01b 何も言うことはない。
+0x0004c01b I have nothing to say.
+
+; 0x0004c030 よくぞここまで強くなった！
+0x0004c030 Good job getting this strong!
+
+; 0x0004c04c 魔導具を完璧に
+0x0004c04c Perfectly enchanted.
+
+; 0x0004c05b 使いこなしておるな！
+0x0004c05b You're using it well!
+
+; 0x0004c070 たいしたものぢゃ！
+0x0004c070 That's great!
+
+; 0x0004c084 ワンダホーぢゃ！
+0x0004c084 Wandahoo!
+
+; 0x0004c095 これほど凄いとは
+0x0004c095 I didn't know it was this amazing.
+
+; 0x0004c0a6 思わんかったわい！！
+0x0004c0a6 I didn't think so!!
+
+; 0x0004c0bc これはこれは！
+0x0004c0bc Oh my, oh my!
+
+; 0x0004c0cb ビューティフルな
+0x0004c0cb Beautiful.
+
+; 0x0004c0dc 戦い方じゃ！
+0x0004c0dc It's how you fight!
+
+; 0x0004c0ec さすがぢゃ！
+0x0004c0ec That's a good one!
+
+; 0x0004c0f9 自分の技を、よく
+0x0004c0f9 I'm amazed at my technique.
+
+; 0x0004c10a 使いこなしておる！
+0x0004c10a He's mastering it!
+
+; 0x0004c120 けっこう、イケとるのぉ！
+0x0004c120 I'm pretty good!
+
+; 0x0004c139 だが、まだまだ
+0x0004c139 But I still have a long way to go.
+
+; 0x0004c148 頑張れるのではないか？
+0x0004c148 Wouldn't you be able to work hard?
+
+; 0x0004c160 たいした腕ぢゃの。
+0x0004c160 That's a lot of skill.
+
+; 0x0004c173 見とれてしまったワイ。
+0x0004c173 I'm captivated.
+
+; 0x0004c18c なかなかのモンぢゃ。
+0x0004c18c It's pretty good.
+
+; 0x0004c1a1 やるではないか。
+0x0004c1a1 Not bad, huh?
+
+; 0x0004c1b4 なにをやっておるのぢゃ。
+0x0004c1b4 What are you doing?
+
+; 0x0004c1cd そんなことでどうする！
+0x0004c1cd What are you going to do with that?!
+
+; 0x0004c1e4 全然ダメではないか。
+0x0004c1e4 It's no good at all.
+
+; 0x0004c1f9 時間のムダぢゃの。
+0x0004c1f9 It's a waste of time.
+
+; 0x0004c20c この程度で終わりか。
+0x0004c20c This is the end, huh?
+
+; 0x0004c221 期待はずれぢゃのぉ。
+0x0004c221 You're disappointing me
+
+; 0x0004c254 キャラクターをえらんでください
+0x0004c254 Select your character
+
+; 0x0004c274 もどります
+0x0004c274 Back
+
+; 0x0004c294 ワザリストです
+0x0004c294 I'm a deliberater
+
+; 0x0004c2b4 ＶＳせいせきです
+0x0004c2b4 VS Seiseki
+
+; 0x0004c2d4 プロフィールです
+0x0004c2d4 Profile
+
+; 0x0004c2f4 ることを誓う。
+0x0004c2f4 I swear I will.
+
+; 0x0004c30c となって命を賭して守
+0x0004c30c I will protect you with my life.
+
+; 0x0004c324 と呼び、自ら姫の忍び
+0x0004c324 Called it, the Princess’s Sneaker herself
+
+; 0x0004c33c 同級生の佐古下柳を姫
+0x0004c33c Princess Sako Shimoyanagi, my classmate.
+
+; 0x0004c354 あることから、高校で
+0x0004c354 Because of that, in high school
+
+; 0x0004c36c 従えている。
+0x0004c36c I'm obeying.
+
+; 0x0004c384 腕の中に八つの火竜を
+0x0004c384 Eight fire dragons in my arms.
+
+; 0x0004c39c は炎術士の能力を持ち
+0x0004c39c Is a flame caster's ability
+
+; 0x0004c3b4 火影党首の血を引く彼
+0x0004c3b4 He had the blood of the Hokage Party leader.
+
+; 0x0004c3cc られ今に至る。
+0x0004c3cc That's how I ended up here.
+
+; 0x0004c3e4 流離によって現代へ送
+0x0004c3e4 Sending them to the present by exile.
+
+; 0x0004c3fc ため陽炎の秘術・時空
+0x0004c3fc Therefore, Kageaki's Secret Art: Space-time
+
+; 0x0004c414 信長の猛威から逃れる
+0x0004c414 Escape from Nobunaga's ferocity
+
+; 0x0004c42c 孫。
+0x0004c42c My grandson.
+
+; 0x0004c444 の能力をもつ火影の子
+0x0004c444 Hokage's child with the power of .
+
+; 0x0004c45c の間に生まれた炎術士
+0x0004c45c A flame caster born between them.
+
+; 0x0004c474 首・桜花と正妻・陽炎
+0x0004c474 Head: Ouka and his legal wife: Kageaki
+
+; 0x0004c48c 四百年前、火影忍軍党
+0x0004c48c Four hundred years ago, the Hokage Shinobi Army Party
+
+; 0x0004c4bc 高校生。
+0x0004c4bc A high school student.
+
+; 0x0004c4d4 花火職人の義父をもつ
+0x0004c4d4 He has a father-in-law who works as a fireworks maker.
+
+; 0x0004c4ec 姓は花菱、名は烈火。
+0x0004c4ec His family name was Hanabishi, and his name was Rekka.
+
+; 0x0004c504 （はなびしれっか）
+0x0004c504 (I'm so lonely.)
+
+; 0x0004c51c 花菱烈火
+0x0004c51c Hanabishi Rekka
+
+; 0x0004c534 その１
+0x0004c534 Number one.
+
+; 0x0004c544 成長ぶりを見せる。
+0x0004c544 She looks like she's grown.
+
+; 0x0004c55c の戦いを通じて大きな
+0x0004c55c Over the course of the battle
+
+; 0x0004c574 思われていたが、多く
+0x0004c574 Or so they thought, but a lot of them.
+
+; 0x0004c58c 火影一の足手まといと
+0x0004c58c Hokage Hajime’s burden
+
+; 0x0004c5a4 強さかもしれない。
+0x0004c5a4 It might be strength.
+
+; 0x0004c5bc よるところが土門の
+0x0004c5bc That's where Tsuchikado is.
+
+; 0x0004c5d4 だが、すべては本能に
+0x0004c5d4 But it all came down to instinct.
+
+; 0x0004c5ec 持ち主。
+0x0004c5ec The owner.
+
+; 0x0004c604 を切り抜ける強運の
+0x0004c604 Of good luck to make it through.
+
+; 0x0004c61c とっさの行動でピンチ
+0x0004c61c We're in a pinch for acting so quickly.
+
+; 0x0004c634 パワーファイター。
+0x0004c634 Power Fighter.
+
+; 0x0004c64c 力任せの戦い方をする
+0x0004c64c Fight with all your might
+
+; 0x0004c664 ケンカ仲間。
+0x0004c664 Comrade in arms.
+
+; 0x0004c67c 烈火と同じ高校に通う
+0x0004c67c I go to the same high school as Rekka.
+
+; 0x0004c694 （いしじまどもん）
+0x0004c694 (Ishijimadomon.)
+
+; 0x0004c6ac 石島土門
+0x0004c6ac Ishijimadomon
+
+; 0x0004c6c4 得意技は風の爪。
+0x0004c6c4 Her specialty was Wind Claw.
+
+; 0x0004c6dc ある。
+0x0004c6dc There is.
+
+; 0x0004c6f4 が面倒見のいい一面も
+0x0004c6f4 But there's also a good side to him.
+
+; 0x0004c70c 負けず嫌いで荒っぽい
+0x0004c70c Undaunted and rough.
+
+; 0x0004c724 器用な一面を見せる。
+0x0004c724 I show her a deft side.
+
+; 0x0004c73c 鬼の爪を組合せて戦う
+0x0004c73c Fight by combining Demon Claws
+
+; 0x0004c754 もらい、後の戦いでは
+0x0004c754 In the later battles.
+
+; 0x0004c76c 陽炎に魔導具・風神を
+0x0004c76c A magic tool, a wind god, in the heat haze.
+
+; 0x0004c784 といつも戦っている。
+0x0004c784 She's always fighting.
+
+; 0x0004c79c 格闘好きで烈火や土門
+0x0004c79c He likes fighting, and he likes fire and earthen gates.
+
+; 0x0004c7b4 幼なじみの女子高生。
+0x0004c7b4 She was my childhood friend, a high school girl.
+
+; 0x0004c7cc （きりさわふうこ）
+0x0004c7cc (Kirisawa Fuuko)
+
+; 0x0004c7e4 霧沢風子
+0x0004c7e4 Kirisawa Fuko
+
+; 0x0004c7fc 変化が現れる。
+0x0004c7fc A change appears.
+
+; 0x0004c814 しさを悟り、少しずつ
+0x0004c814 Realizing that, little by little...
+
+; 0x0004c82c だけに生きる人生の空
+0x0004c82c Only the sky of life.
+
+; 0x0004c844 ちとの戦いの中、復讐
+0x0004c844 Revenge in the Battle of Chichi
+
+; 0x0004c85c いを続けるが、烈火た
+0x0004c85c I continue, but it's on fire.
+
+; 0x0004c874 閻水を武器に復讐の戦
+0x0004c874 A battle of revenge using Ensui as a weapon.
+
+; 0x0004c88c 姉の形見である魔導具
+0x0004c88c Magical tools that are a memento of my sister
+
+; 0x0004c8a4 非常に冷徹に見える。
+0x0004c8a4 She looks very cold-hearted.
+
+; 0x0004c8bc 復讐に生きるためか
+0x0004c8bc To live for revenge?
+
+; 0x0004c8d4 幼少の頃、姉を殺され
+0x0004c8d4 When I was a child, my sister was killed.
+
+; 0x0004c8ec 通う高校生。
+0x0004c8ec He was a high school student.
+
+; 0x0004c904 烈火らと同じ学校に
+0x0004c904 To the same school as Rekka and the others.
+
+; 0x0004c91c （みかがみときや）
+0x0004c91c (Mikagami Tokiya.)
+
+; 0x0004c934 水鏡凍季也
+0x0004c934 Sueya Mizukagami
+
+; 0x0004c94c となる。
+0x0004c94c That would be it.
+
+; 0x0004c964 優れた魔導具の使い手
+0x0004c964 An excellent magic tool user
+
+; 0x0004c97c 六の型を完成させ更に
+0x0004c97c I completed the sixth form, and then
+
+; 0x0004c994 にも引けをとらず幻の
+0x0004c994 It's a phantom one.
+
+; 0x0004c9ac 戦闘能力は、他の仲間
+0x0004c9ac As for her combat ability, she's my other companion.
+
+; 0x0004c9c4 鋼金暗器を使う。その
+0x0004c9c4 I'll use a steel-gold secret weapon.
+
+; 0x0004c9dc 五つの型を持つ魔導具
+0x0004c9dc Magical tools with five forms
+
+; 0x0004c9f4 行動を共にする。
+0x0004c9f4 We'll act together.
+
+; 0x0004ca0c 一員となり烈火たちと
+0x0004ca0c He became a member, with the raging flames.
+
+; 0x0004ca24 確かめるため、火影の
+0x0004ca24 To find out, Hokage's
+
+; 0x0004ca3c 紅麗の裏切りの真意を
+0x0004ca3c The true meaning of crimson betrayal.
+
+; 0x0004ca54 麗の元一員。
+0x0004ca54 He was a former member of the Rei clan.
+
+; 0x0004ca6c 紅麗率いる暗殺集団・
+0x0004ca6c The assassination group led by Kourei
+
+; 0x0004ca84 （こがねいかおる）
+0x0004ca84 (Kogane Kaoru)
+
+; 0x0004ca9c 小金井薫
+0x0004ca9c Koganei Kaoru
+
+; 0x0004cab4 する。
+0x0004cab4 I will.
+
+; 0x0004cacc 力は烈火の炎をも圧倒
+0x0004cacc Power overwhelms even the flames of a raging fire.
+
+; 0x0004cae4 取り込んでおり、その
+0x0004cae4 They're taking it in, and...
+
+; 0x0004cafc 自らの炎の戦士として
+0x0004cafc As their own flaming warrior
+
+; 0x0004cb14 された最愛の人・紅を
+0x0004cb14 My beloved crimson.
+
+; 0x0004cb2c 森光蘭の手によって殺
+0x0004cb2c Killed by the hand of Koran Mori
+
+; 0x0004cb44 長として仕えている。
+0x0004cb44 He served as the head of the clan.
+
+; 0x0004cb5c 近衛部隊・麗を従える
+0x0004cb5c He's accompanied by the Imperial Guard, Rei.
+
+; 0x0004cb74 て捕られているため、
+0x0004cb74 Because I'm being held captive...
+
+; 0x0004cb8c の母・月乃を人質とし
+0x0004cb8c She took her mother, Tsukino, hostage.
+
+; 0x0004cba4 また、森光蘭に、育て
+0x0004cba4 Also raised by Koran MORI.
+
+; 0x0004cbbc つづけている。
+0x0004cbbc She's continuing.
+
+; 0x0004cbd4 れが原因で烈火を恨み
+0x0004cbd4 Because of that, he resented the raging fire.
+
+; 0x0004cbec 子として虐げられ、そ
+0x0004cbec As a child, I was oppressed.
+
+; 0x0004cc04 火影忍軍たちに悪魔の
+0x0004cc04 To the hokage ninja army
+
+; 0x0004cc1c まれたことから周りの
+0x0004cc1c Because of what was done to them.
+
+; 0x0004cc34 正室・陽炎に烈火が生
+0x0004cc34 A raging fire erupts in his lawful wife, Kageaki.
+
+; 0x0004cc4c 側室の子であった彼は
+0x0004cc4c He was the child of a concubine
+
+; 0x0004cc64 生き延びている。
+0x0004cc64 I'm still alive.
+
+; 0x0004cc7c まぎれこみ、現代に
+0x0004cc7c Mixed in, in the modern world.
+
+; 0x0004cc94 空流離で送られた際に
+0x0004cc94 When it was sent by air currents
+
+; 0x0004ccac 烈火が陽炎の秘術・時
+0x0004ccac Blazing Fire Is the Secret Art of Kageaki: Time
+
+; 0x0004ccc4 孫。烈火の異母兄弟。
+0x0004ccc4 A grandson. A half-brother of a raging fire.
+
+; 0x0004ccdc 首・桜花と側室・麗奈
+0x0004ccdc Head: Ouka and Concubine: Reina
+
+; 0x0004ccf4 （くれい）
+0x0004ccf4 (Gimme.)
+
+; 0x0004cd0c 紅麗
+0x0004cd0c Kurei
+
+; 0x0004cd24 べ。
+0x0004cd24 Beh.
+
+; 0x0004cd3c 森光蘭の忠実なるしも
+0x0004cd3c Koran Mori's loyal sign too.
+
+; 0x0004cd54 を操ることができる。
+0x0004cd54 I can control it.
+
+; 0x0004cd6c 烈火、紅麗と同じく炎
+0x0004cd6c Flames, just like crimson.
+
+; 0x0004cd84 子をもつクローン。
+0x0004cd84 A clone with a child.
+
+; 0x0004cd9c された紅麗と紅の遺伝
+0x0004cd9c The crimson and crimson genes
+
+; 0x0004cdb4 森光蘭によって生み出
+0x0004cdb4 It was created by Koran MORI.
+
+; 0x0004cdcc （れんげ）
+0x0004cdcc (Renge)
+
+; 0x0004cde4 煉華
+0x0004cde4 Renga
+
+; 0x0004cdfc を行う。
+0x0004cdfc Do it.
+
+; 0x0004ce14 戦う使命感のみで戦闘
+0x0004ce14 Combat with only a sense of duty to fight
+
+; 0x0004ce2c の座を与えられた彼は
+0x0004ce2c He was given the position of sergeant.
+
+; 0x0004ce44 を受け、裏麗・死四天
+0x0004ce44 Receiving it, Urarei and Shiten
+
+; 0x0004ce5c 地獄のような戦闘教育
+0x0004ce5c Hellish Combat Education
+
+; 0x0004ce74 ままに操り戦う。
+0x0004ce74 I'll fight as I please.
+
+; 0x0004ce8c らの血液・魔血を意の
+0x0004ce8c Blood and demonic blood.
+
+; 0x0004cea4 合して、生成される自
+0x0004cea4 It's a self-contained unit.
+
+; 0x0004cebc 生体魔導具・血種と融
+0x0004cebc Biomagical tools, blood types, and melting
+
+; 0x0004ced4 通称、不死身の蛭湖。
+0x0004ced4 Commonly known as the Immortal Lake Hiruko.
+
+; 0x0004ceec 裏麗・死四天の一人。
+0x0004ceec He was one of the Urarei and Shishi shiten.
+
+; 0x0004cf04 （ひるこ）
+0x0004cf04 (Hiruko)
+
+; 0x0004cf1c 蛭湖
+0x0004cf1c Hiruko
+
+; 0x0004cf34 る。
+0x0004cf34 Ru.
+
+; 0x0004cf4c 様々な攻撃を生み出せ
+0x0004cf4c Create all kinds of attacks.
+
+; 0x0004cf64 組み合わせることで、
+0x0004cf64 By combining them,
+
+; 0x0004cf7c と異なり手甲の門構と
+0x0004cf7c Unlike that, it has a gate with a hand armor.
+
+; 0x0004cf94 魔導具・無名は他の物
+0x0004cf94 Magical items, unnamed items
+
+; 0x0004cfac ている。
+0x0004cfac She's here.
+
+; 0x0004cfc4 くパワーも人間離れし
+0x0004cfc4 The power is also inhuman.
+
+; 0x0004cfdc 体がとてつもなく大き
+0x0004cfdc His body is ridiculously large.
+
+; 0x0004cff4 して烈火たちを狙う。
+0x0004cff4 I aim for the raging flames.
+
+; 0x0004d00c らは森光蘭の部隊と
+0x0004d00c Koran mori's squad
+
+; 0x0004d024 紅麗が追放にあってか
+0x0004d024 So the crimson beauty is exiled.
+
+; 0x0004d03c 裏麗の一員。
+0x0004d03c He was a member of Urarei.
+
+; 0x0004d054 麗の内部用暗殺部隊・
+0x0004d054 Lei's Internal Assassination Unit
+
+; 0x0004d06c （かどつ）
+0x0004d06c (Kadotsu)
+
+; 0x0004d084 門都
+0x0004d084 Monto
+
+; 0x0004d09c こなっている。
+0x0004d09c This is it.
+
+; 0x0004d0b4 奥地で融合の準備をお
+0x0004d0b4 Prepare for fusion in the hinterlands.
+
+; 0x0004d0cc を誘拐し、ＳＯＤＯＭ
+0x0004d0cc Kidnapping, SODOM.
+
+; 0x0004d0e4 柳を取り込むべく彼女
+0x0004d0e4 She wanted to take in the willows.
+
+; 0x0004d0fc に治癒の少女・佐古下
+0x0004d0fc The healing girl, sakoshita.
+
+; 0x0004d114 光蘭は完全体となる為
+0x0004d114 Because koran will be complete.
+
+; 0x0004d12c 天堂地獄と融合した森
+0x0004d12c A forest fused with Tendo Jigoku
+
+; 0x0004d144 となった。
+0x0004d144 That's what happened.
+
+; 0x0004d15c し強大な力を持つ存在
+0x0004d15c A powerful being.
+
+; 0x0004d174 め、森光蘭自身と融合
+0x0004d174 M-Mori Koran fused with herself
+
+; 0x0004d18c の手によって再び目覚
+0x0004d18c Alarm by hand again.
+
+; 0x0004d1a4 満たそうとする森光蘭
+0x0004d1a4 Koran Mori trying to fill it
+
+; 0x0004d1bc たが、あらゆる欲望を
+0x0004d1bc But, every desire...
+
+; 0x0004d1d4 は長い間封印されてい
+0x0004d1d4 Has been sealed away for a long time.
+
+; 0x0004d1ec 危険視された天堂地獄
+0x0004d1ec Tendo Jigoku (Hell of the Heavenly Hall) deemed dangerous
+
+; 0x0004d204 込められている。
+0x0004d204 It's loaded.
+
+; 0x0004d21c り海魔自身の魂が封じ
+0x0004d21c The sea demon's own soul sealed it.
+
+; 0x0004d234 具が「天堂地獄」であ
+0x0004d234 It's called 'Tendo Jigoku'.
+
+; 0x0004d24c た火影忍軍最強の魔導
+0x0004d24c The strongest magic in the Hokage Ninja Army.
+
+; 0x0004d264 その海魔が最後に造っ
+0x0004d264 That sea demon was the last one to build it.
+
+; 0x0004d27c 導具として造られた。
+0x0004d27c It was made as a guide tool.
+
+; 0x0004d294 魔導具、殺すだけの魔
+0x0004d294 Magical tools, just to kill.
+
+; 0x0004d2ac それぞれ、生かす為の
+0x0004d2ac To keep each of them alive.
+
+; 0x0004d2c4 空と海魔の２人により
+0x0004d2c4 By the sky and sea demon.
+
+; 0x0004d2dc 火影忍軍の魔導具は虚
+0x0004d2dc The Hokage Ninja Army’s magic tools are empty.
+
+; 0x0004d2f4 （もりこうらん）
+0x0004d2f4 (Don't hold back.)
+
+; 0x0004d30c 森光蘭
+0x0004d30c Mori Kouran
+
+; 0x0004d324 することができない。
+0x0004d324 I can't do it.
+
+; 0x0004d33c 未知の相手の技は真似
+0x0004d33c An unknown opponent’s technique is mimicking it
+
+; 0x0004d354 すら真似てしまうが、
+0x0004d354 I ended up imitating her, but...
+
+; 0x0004d36c うことで烈火の八竜で
+0x0004d36c By doing so, he was the eight dragons of the raging fire
+
+; 0x0004d384 意。魔導具・偽火を使
+0x0004d384 Meaning. Use magic tools and fake fire.
+
+; 0x0004d39c 手の技を真似るのが得
+0x0004d39c It's good to copy a hand technique.
+
+; 0x0004d3b4 忍法・鏡地獄で対戦相
+0x0004d3b4 Ninpou: Warfare in Kagami Jigoku
+
+; 0x0004d3cc （かしゃまる）
+0x0004d3cc (Shakes up.)
+
+; 0x0004d3e4 火車丸
+0x0004d3e4 Kashamaru
+
+; 0x0004d3fc を見せる。
+0x0004d3fc I show her.
+
+; 0x0004d414 対し異様なまでの執着
+0x0004d414 On the other hand, a bizarre obsession.
+
+; 0x0004d42c 利己的で残虐。烈火に
+0x0004d42c Selfish and cruel. Into a raging fire.
+
+; 0x0004d444 使い。
+0x0004d444 A messenger.
+
+; 0x0004d45c の根を武器とする植物
+0x0004d45c Plants that use roots as weapons
+
+; 0x0004d474 を使い、体内に飼う木
+0x0004d474 Use it, and keep it inside your body.
+
+; 0x0004d48c する木の魔導具・木霊
+0x0004d48c Tree Magic Tools: Spirits of Trees
+
+; 0x0004d4a4 木火土金水の五行に属
+0x0004d4a4 It belongs to the five elements of wood, fire, earth, gold, and water.
+
+; 0x0004d4bc き男、木霊の木蓮。
+0x0004d4bc Kio, Kirei Mokuren.
+
+; 0x0004d4d4 麗の一員。通称、仁無
+0x0004d4d4 A member of the Rei. Commonly known as Ninmu.
+
+; 0x0004d4ec （もくれん）
+0x0004d4ec (Don't give me any more.)
+
+; 0x0004d504 木蓮
+0x0004d504 Mokuren
+
+; 0x0004d51c できるほど強力。
+0x0004d51c Strong enough to do it.
+
+; 0x0004d534 ＯＭの建物を楽に破壊
+0x0004d534 OM building destroyed with ease.
+
+; 0x0004d54c し、その威力はＳＯＤ
+0x0004d54c Th-That power is the SOD.
+
+; 0x0004d564 る無数の魔弾を武器と
+0x0004d564 Countless magic bullets as weapons.
+
+; 0x0004d57c 巨大な身体から放たれ
+0x0004d57c It shot out of its massive body
+
+; 0x0004d594 生物。
+0x0004d594 A living creature.
+
+; 0x0004d5ac によって操られる謎の
+0x0004d5ac The mystery of being manipulated by
+
+; 0x0004d5c4 キリトの魔導具・涅槃
+0x0004d5c4 Kirito’s magic tool, Nirvana
+
+; 0x0004d5dc （しぐま）
+0x0004d5dc (Shiguma)
+
+; 0x0004d5f4 死愚魔
+0x0004d5f4 Death Fool
+
+; 0x0004d60c 男性である。
+0x0004d60c He's a man.
+
+; 0x0004d624 どだがれっきとした
+0x0004d624 It's a big deal.
+
+; 0x0004d63c で女の子に見間違うほ
+0x0004d63c And then I mistook you for a girl.
+
+; 0x0004d654 見た目は凄くきゃしゃ
+0x0004d654 It looks really squeaky.
+
+; 0x0004d66c ことができない。
+0x0004d66c I can't do it.
+
+; 0x0004d684 持病のため長時間戦う
+0x0004d684 I fight for a long time because of my chronic illness.
+
+; 0x0004d69c 格闘集団・空の一員。
+0x0004d69c He was a member of the fighting group, Sora.
+
+; 0x0004d6b4 に命を吹き込んで戦う
+0x0004d6b4 I'll breathe life into you and fight.
+
+; 0x0004d6cc 魔導具・式紙を使い紙
+0x0004d6cc Using magic tools and shikigami, paper
+
+; 0x0004d6e4 （さいちょう）
+0x0004d6e4 (Saichou)
+
+; 0x0004d6fc 最澄
+0x0004d6fc Saichou
+
+; 0x0004d714 いる。
+0x0004d714 She's here.
+
+; 0x0004d72c 捕らわれの身となって
+0x0004d72c I'll be captured.
+
+; 0x0004d744 れ、ＳＯＤＯＭ奥地に
+0x0004d744 I-It's deep inside SODOM.
+
+; 0x0004d75c 森光蘭によってさらわ
+0x0004d75c By koran mori.
+
+; 0x0004d774 の力との融合を狙う
+0x0004d774 Aim to fuse with the power of .
+
+; 0x0004d78c 完全体になる為、治癒
+0x0004d78c Heal to become complete.
+
+; 0x0004d7a4 桜姫の生まれ変わり。
+0x0004d7a4 Sakurahime's reincarnation.
+
+; 0x0004d7bc 桜花に守られた沢木家
+0x0004d7bc The Sawaki family protected by Ouka
+
+; 0x0004d7d4 年前、火影忍軍党首・
+0x0004d7d4 A year ago, the leader of the Hokage Shinobi Army
+
+; 0x0004d7ec 治癒の力を持ち、四百
+0x0004d7ec It has healing power, four hundred
+
+; 0x0004d804 なる。
+0x0004d804 I'll do it.
+
+; 0x0004d81c 呼ばれ守られるように
+0x0004d81c To be called and protected.
+
+; 0x0004d834 ら同級生の烈火に姫と
+0x0004d834 With the princess in the raging fire of my classmate.
+
+; 0x0004d84c 女子高生。あることか
+0x0004d84c A high school girl. Something happened?
+
+; 0x0004d864 （さこしたやなぎ）
+0x0004d864 (Sakotanagi)
+
+; 0x0004d87c 佐古下柳
+0x0004d87c Sakoshimoyanagi
+
+; 0x0004d894 を与える。
+0x0004d894 I'll give you.
+
+; 0x0004d8ac を見通して烈火に試練
+0x0004d8ac Through the flames, through the trials.
+
+; 0x0004d8c4 て流れた紅麗との戦い
+0x0004d8c4 A battle against the flowing crimson
+
+; 0x0004d8dc 同じく時空流離によっ
+0x0004d8dc In the same way, in the spacetime flow.
+
+; 0x0004d8f4 で再び烈火に出会うが
+0x0004d8f4 Then we meet the raging fire again.
+
+; 0x0004d90c 四百年が経過した現代
+0x0004d90c Four hundred years have passed since then.
+
+; 0x0004d924 いによって不死の身と
+0x0004d924 I'm immortal.
+
+; 0x0004d93c 送るが、その秘術の呪
+0x0004d93c I’ll send it, but the curse of that secret technique.
+
+; 0x0004d954 離を使い烈火を現代へ
+0x0004d954 Use detachment to bring the raging fire to the present.
+
+; 0x0004d96c 滅ぶ際に秘術・時空流
+0x0004d96c Secret Art: Space-time Style
+
+; 0x0004d984 四百年前、火影忍軍が
+0x0004d984 Four hundred years ago, the Hokage Ninja Army
+
+; 0x0004d99c 正妻。烈火の母。
+0x0004d99c A legal wife. A mother of raging fire.
+
+; 0x0004d9b4 火影忍軍党首・桜花の
+0x0004d9b4 The leader of the Hokage Shinobi Army, Ouka no
+
+; 0x0004d9cc （かげろう）
+0x0004d9cc (Kagerou.)
+
+; 0x0004d9e4 陽炎
+0x0004d9e4 Kageaki
+
+; 0x0004d9fc を施す。
+0x0004d9fc I give it to her.
+
+; 0x0004da14 マインドコントロール
+0x0004da14 Mind control
+
+; 0x0004da2c い誘拐した佐古下柳に
+0x0004da2c To the kidnapped sakoshimoyanagi.
+
+; 0x0004da44 魔導具・神慮思考を使
+0x0004da44 Use Magical Tool: Divine Thought
+
+; 0x0004da5c プレックスを感じてい
+0x0004da5c You're feeling the prex.
+
+; 0x0004da74 失敗作と呼ばれ、コン
+0x0004da74 Called a failure, Kon.
+
+; 0x0004da8c 炎を操ることができず
+0x0004da8c I couldn't control the flames.
+
+; 0x0004daa4 子をもつクローンだが
+0x0004daa4 It's a clone with a child.
+
+; 0x0004dabc （あおい）
+0x0004dabc (Aoi.)
+
+; 0x0004dad4 葵
+0x0004dad4 Aoi
+
+; 0x0004daec 誓い仕えている。
+0x0004daec I swear to serve you.
+
+; 0x0004db04 てくれる紅麗に忠誠を
+0x0004db04 Loyalty to the crimson who will do it.
+
+; 0x0004db1c 筋を恥じ、それを認め
+0x0004db1c She was ashamed of her lineage, and acknowledged it
+
+; 0x0004db34 子孫であり、自らの血
+0x0004db34 Descendants, their own blood.
+
+; 0x0004db4c さに逃げ延びた火影の
+0x0004db4c The Hokage who escaped from Sani.
+
+; 0x0004db64 滅ぶ際に、我が身可愛
+0x0004db64 I'm cute when I'm destroyed.
+
+; 0x0004db7c ４００年前火影忍軍が
+0x0004db7c 400 years ago, the hokage ninja army
+
+; 0x0004db94 風神の核を渡す。
+0x0004db94 Hand over the Anemo Archon's core.
+
+; 0x0004dbac うことを決意。風子に
+0x0004dbac Deciding to do it. To Fuko.
+
+; 0x0004dbc4 を守るために雷神を使
+0x0004dbc4 Use the god of thunder to protect it.
+
+; 0x0004dbdc 核を使っていたが紅麗
+0x0004dbdc It was using a core, but it was crimson.
+
+; 0x0004dbf4 えるため雷覇は風神の
+0x0004dbf4 In order to do so, the Thunder Overlord is the Wind God.
+
+; 0x0004dc0c そのあまりの強さを抑
+0x0004dc0c That's how strong he is.
+
+; 0x0004dc24 神。
+0x0004dc24 A god.
+
+; 0x0004dc3c 雷覇の持つ魔導具・雷
+0x0004dc3c Raiha's Magical Tool: Lightning
+
+; 0x0004dc54 麗の一員で紅麗の忍。
+0x0004dc54 A member of the Rei and a crimson ninja.
+
+; 0x0004dc6c （らいは）
+0x0004dc6c (Raiha)
+
+; 0x0004dc84 雷覇
+0x0004dc84 Raiha
+
+; 0x0004dc9c ドバイスを与える。
+0x0004dc9c I'll give you dubais.
+
+; 0x0004dcb4 れ烈火たちに様々なア
+0x0004dcb4 There's a lot of different kinds of fire.
+
+; 0x0004dccc に謎のジジィとして現
+0x0004dccc As a mysterious geezer.
+
+; 0x0004dce4 な力によって現実世界
+0x0004dce4 By the power of the real world
+
+; 0x0004dcfc スーパーでワンダホー
+0x0004dcfc Wandaho at the supermarket.
+
+; 0x0004dd14 異なり、本人いわく、
+0x0004dd14 No, according to her,
+
+; 0x0004dd2c 他の封印された火竜と
+0x0004dd2c With other sealed fire dragons
+
+; 0x0004dd44 となっている。
+0x0004dd44 That's how it is.
+
+; 0x0004dd5c 士の為に力を貸す存在
+0x0004dd5c An existence that lends its power for the sake of the warriors.
+
+; 0x0004dd74 を晴らしてくれる炎術
+0x0004dd74 Flame Arts that can clear the air.
+
+; 0x0004dd8c 竜となり、その無念さ
+0x0004dd8c Became a dragon, and its regrets
+
+; 0x0004dda4 遂げられぬ想いから火
+0x0004dda4 Fire from unfulfilled feelings
+
+; 0x0004ddbc 忍者であり各忍の成し
+0x0004ddbc He was a ninja and the work of each ninja
+
+; 0x0004ddd4 一匹。元は火影忍軍の
+0x0004ddd4 One. It was originally from the hokage ninja army.
+
+; 0x0004ddec 烈火の中に潜む火竜の
+0x0004ddec The fire dragon lurking in the raging fire.
+
+; 0x0004de04 （こくう）
+0x0004de04 (*gulp*)
+
+; 0x0004de1c 虚空
+0x0004de1c Void
+
+; 0x0004de34 存在となる。
+0x0004de34 I'll become an existence.
+
+; 0x0004de4c 面で力を貸してくれる
+0x0004de4c He'll lend us a hand on the surface.
+
+; 0x0004de64 関係が生まれ様々な場
+0x0004de64 Relationships were born, and there were many places.
+
+; 0x0004de7c 火影との対戦後、信頼
+0x0004de7c After the battle with the Hokage, Trust
+
+; 0x0004de94 撃で人格が一変する。
+0x0004de94 The shot completely changed her personality.
+
+; 0x0004deac るものの、三度目の攻
+0x0004deac But this is my third attack.
+
+; 0x0004dec4 の攻撃には平穏で耐え
+0x0004dec4 It was peaceful and enduring the attack.
+
+; 0x0004dedc ばれ対戦者の二度まで
+0x0004dedc Find out. Until the second match of the match.
+
+; 0x0004def4 通称、仏の空海とも呼
+0x0004def4 He was also commonly called Kukai of Buddha.
+
+; 0x0004df0c 仏の顔も三度まで。
+0x0004df0c Buddha's face can be seen up to three times.
+
+; 0x0004df24 い肉体派。
+0x0004df24 He's a flesh-and-blood type.
+
+; 0x0004df3c 。魔導具などは使わな
+0x0004df3c  ⁇ Don't use magic tools ⁇ "
+
+; 0x0004df54 格闘集団・空の師範代
+0x0004df54 Assistant Master Sora, a fighting group
+
+; 0x0004df6c （くうかい）
+0x0004df6c (Shut up.)
+
+; 0x0004df84 空海
+0x0004df84 Kukai
+
+; 0x0004df9c 喋る。
+0x0004df9c I speak.
+
+; 0x0004dfb4 わった人物。関西弁を
+0x0004dfb4 He's a person who speaks Kansai dialect.
+
+; 0x0004dfcc 共にすることもある変
+0x0004dfcc It's a weird thing to do together.
+
+; 0x0004dfe4 時に烈火たちと行動を
+0x0004dfe4 Sometimes with the raging flames.
+
+; 0x0004dffc でいる。
+0x0004dffc It's coming out.
+
+; 0x0004e014 独自のスタイルを歩ん
+0x0004e014 He walks in his own style.
+
+; 0x0004e02c 何ものにも縛られない
+0x0004e02c I'm not bound by anything.
+
+; 0x0004e044 自由を愛し麗の中でも
+0x0004e044 Love freedom, even in beauty.
+
+; 0x0004e05c を巧みに使う強者。
+0x0004e05c He is a strong man who wields it skillfully.
+
+; 0x0004e074 釈廻天を使い重力変化
+0x0004e074 Use Shakumawariten to change gravity.
+
+; 0x0004e08c 麗の一員。魔導具・帝
+0x0004e08c A member of the Rei. The Magical Tool, Mikado.
+
+; 0x0004e0a4 （じょーかー）
+0x0004e0a4 (Are you okay?)
+
+; 0x0004e0bc ジョーカー
+0x0004e0bc Joker.
+
+; 0x0004e0d4 操作する。
+0x0004e0d4 I control it.
+
+; 0x0004e0ec 涅槃を使って死愚魔を
+0x0004e0ec Use nirvana to kill the fool.
+
+; 0x0004e104 もうひとつの魔導具・
+0x0004e104 Another magic tool
+
+; 0x0004e11c 光蘭の誘いに乗り手下
+0x0004e11c Kouran's invitation, minions.
+
+; 0x0004e134 それを知る恐怖から森
+0x0004e134 A forest out of fear of knowing that.
+
+; 0x0004e14c 当の姿を忘れてしまい
+0x0004e14c I forgot the figure in question.
+
+; 0x0004e164 共に変化する自分の本
+0x0004e164 My book that changes together.
+
+; 0x0004e17c させるが、精神・肉体
+0x0004e17c I will, mind and body.
+
+; 0x0004e194 らの年齢を自在に変化
+0x0004e194 You can freely change your age.
+
+; 0x0004e1ac 魔導具・輪廻により自
+0x0004e1ac By using magic tools and reincarnations, you can create your own
+
+; 0x0004e1c4 （きりと）
+0x0004e1c4 (Cut it out.)
+
+; 0x0004e1dc キリト
+0x0004e1dc Kirito
+
+; 0x0004e1f4 する卑劣な女戦士。
+0x0004e1f4 A despicable swordswoman.
+
+; 0x0004e20c 残虐非道な戦いを主に
+0x0004e20c They mainly fought atrocious battles.
+
+; 0x0004e224 魔導具・魅虚斗を使い
+0x0004e224 He used a magic tool, Mikuto
+
+; 0x0004e23c 魔導具・毒魔針と人型
+0x0004e23c Magic tools, poison magic needles, and humanoids
+
+; 0x0004e254 麗の一員。
+0x0004e254 A member of the Rei.
+
+; 0x0004e26c （みこと）
+0x0004e26c (Mikoto)
+
+; 0x0004e284 命
+0x0004e284 Life.
+
+; 0x0004e29c くことをひどく嫌って
+0x0004e29c He hated kukoto so much
+
+; 0x0004e2b4 で自らの身体に傷がつ
+0x0004e2b4 And wounds to their own bodies.
+
+; 0x0004e2cc 学力をひけらかし戦い
+0x0004e2cc Showing off his academic prowess in battle
+
+; 0x0004e2e4 ストな美少年。
+0x0004e2e4 A beautiful young man.
+
+; 0x0004e2fc つを使いこなすナルシ
+0x0004e2fc Narciss who knows how to use it.
+
+; 0x0004e314 魔導具・海月と朧の二
+0x0004e314 Magical Tool: Kaigetsu and Oboro
+
+; 0x0004e32c （つきしろ）
+0x0004e32c (Follow me.)
+
+; 0x0004e344 月白
+0x0004e344 Tsukishiro
+
+; 0x0004e35c な場面で戦いを共にす
+0x0004e35c We'll fight together in a situation like this.
+
+; 0x0004e374 に信頼が生まれ、様々
+0x0004e374 There's a lot of trust in them.
+
+; 0x0004e38c 以来、烈火たちとの仲
+0x0004e38c Ever since then, I've been on good terms with the raging fire.
+
+; 0x0004e3a4 風子との対戦で敗れて
+0x0004e3a4 He lost his match against Fuko.
+
+; 0x0004e3bc ・土蜘蛛の使い手。
+0x0004e3bc ・A Tsuchigumo wielder.
+
+; 0x0004e3d4 る魔元紗の弟で魔導具
+0x0004e3d4 He's Ruma Motosa's younger brother and a magic tool.
+
+; 0x0004e3ec 同じく裏麗の一員であ
+0x0004e3ec I'm also a member of the Urarei.
+
+; 0x0004e404 （がしゃくら）
+0x0004e404 (*shake shake*)
+
+; 0x0004e41c 餓紗喰
+0x0004e41c Gyuusakui
+
+; 0x0004e434 サウンドテストの終了
+0x0004e434 The sound test is over.
+
+; 0x0004e458 データの　　保存に　　　失敗しました
+0x0004e458 I failed to save the data.
+
+; 0x0004e480 　初期化に　成功しました
+0x0004e480 Initializing successful.
+
+; 0x0004e4a8 本当に初期化しますか？
+0x0004e4a8 Are we really going to reset it?
+
+; 0x0004e4d0 オプションの終了
+0x0004e4d0 Return
+
+; 0x0004e4f0 サウンドテスト
+0x0004e4f0 Sound test
+
+; 0x0004e510 データの初期化をします
+0x0004e510 Reset
+
+; 0x0004e530 フィールド選択の設定
+0x0004e530 Field selection settings
+
+; 0x0004e550 ルール設定
+0x0004e550 Rule setting
+
+; 0x0004e570 ハンディキャップ有無の設定
+0x0004e570 Handicap setting
+
+; 0x0004e590 柳２：いつまでも・・・
+0x0004e590 Yanagi 2: Forever...
+
+; 0x0004e5a8 柳１：烈火君
+0x0004e5a8 Yanagi 1: Rekka-kun
+
+; 0x0004e630 烈火の炎
+0x0004e630 Flames of Flames
+
+; 0x0004e63c 死愚魔：断末魔
+0x0004e63c Death Fool: Death Scream
+
+; 0x0004e64c 死愚魔：勝利
+0x0004e64c Death Fool: Victory
+
+; 0x0004e65c 死愚魔：やられ
+0x0004e65c Death Fool: Killed
+
+; 0x0004e66c 死愚魔：超必殺技
+0x0004e66c Death Fool: A super special move
+
+; 0x0004e680 死愚魔：通常攻撃
+0x0004e680 Death Fool: Normal Attack
+
+; 0x0004e694 森光蘭：掛声／やらせるか
+0x0004e694 Koran MORI: Kakegoe
+
+; 0x0004e6b0 森光蘭：やられ２
+0x0004e6b0 Koran MORI: Yare 2
+
+; 0x0004e6c4 森光蘭：カットイン
+0x0004e6c4 Koran MORI: Cut-in
+
+; 0x0004e6d8 森光蘭：やられ１
+0x0004e6d8 Koran MORI: Yare 1
+
+; 0x0004e6ec 森光蘭：超必殺技
+0x0004e6ec Koran Mori: a super special move
+
+; 0x0004e700 森光蘭：必殺技３
+0x0004e700 Koran Mori: Ultimate move 3
+
+; 0x0004e714 森光蘭：必殺技２
+0x0004e714 Koran Mori: Ultimate move 2
+
+; 0x0004e728 森光蘭：必殺技１
+0x0004e728 Koran Mori: Ultimate move 1
+
+; 0x0004e73c 森光蘭：遠距離攻撃
+0x0004e73c Koran Mori: A long-range attack
+
+; 0x0004e750 木　蓮：掛声／ひゃっひゃっ！
+0x0004e750 Ren Ki: “Hya hya!”
+
+; 0x0004e770 木　蓮：やられ２
+0x0004e770 Ren Ki: Yare 2
+
+; 0x0004e784 木　蓮：カットイン
+0x0004e784 Ren Ki: Cut-in
+
+; 0x0004e798 木　蓮：やられ１
+0x0004e798 Ren Ki: Yare 1
+
+; 0x0004e7ac 木　蓮：超必殺技
+0x0004e7ac Ren Ki: Super special move
+
+; 0x0004e7c0 木　蓮：必殺技３
+0x0004e7c0 Ren Ki: Ultimate move 3
+
+; 0x0004e7d4 木　蓮：必殺技２
+0x0004e7d4 Ren Ki: Ultimate move 2
+
+; 0x0004e7e8 木　蓮：必殺技１
+0x0004e7e8 Ren Ki: Ultimate move 1
+
+; 0x0004e7fc 木　蓮：遠距離攻撃
+0x0004e7fc Ren Ki: Long-range attack
+
+; 0x0004e810 煉　華：掛声／やらせないよ！
+0x0004e810 Renga: I won't let you call out to me!
+
+; 0x0004e830 煉　華：やられ３
+0x0004e830 Renga: Killed 3
+
+; 0x0004e844 煉　華：やられ２
+0x0004e844 Renga: Defeated 2
+
+; 0x0004e858 煉　華：カットイン
+0x0004e858 Renga: Cut-in
+
+; 0x0004e86c 煉　華：やられ１
+0x0004e86c Renga: Defeated 1
+
+; 0x0004e880 煉　華：超必殺技
+0x0004e880 Renga: A super special move
+
+; 0x0004e894 煉　華：必殺技３
+0x0004e894 Renga: Ultimate move 3
+
+; 0x0004e8a8 煉　華：必殺技２
+0x0004e8a8 Renga: Ultimate move 2
+
+; 0x0004e8bc 煉　華：必殺技１
+0x0004e8bc Renga: Ultimate move 1
+
+; 0x0004e8d0 煉　華：コンボ
+0x0004e8d0 Renga: Combo
+
+; 0x0004e8e0 煉　華：投げ攻撃
+0x0004e8e0 Renga: Throw Attack
+
+; 0x0004e8f4 煉　華：遠距離攻撃
+0x0004e8f4 Renga: A long-range attack
+
+; 0x0004e908 煉　華：近距離攻撃
+0x0004e908 Renga: close-range attack
+
+; 0x0004e91c 門　都：掛声／狩る！
+0x0004e91c Gate Miyako: Kakegoe/Hunting!
+
+; 0x0004e934 門　都：やられ３
+0x0004e934 Gate: Yare 3
+
+; 0x0004e948 門　都：やられ２
+0x0004e948 Gate: Yare 2
+
+; 0x0004e95c 門　都：カットイン
+0x0004e95c Gate City: Cut-in
+
+; 0x0004e970 門　都：やられ１
+0x0004e970 Gate: Yare 1
+
+; 0x0004e984 門　都：超必殺技
+0x0004e984 Gate Miyako: Super-Special Move
+
+; 0x0004e998 門　都：必殺技３
+0x0004e998 Gate Miyako: Ultimate move 3
+
+; 0x0004e9ac 門　都：必殺技２
+0x0004e9ac Gate Miyako: Special Move 2
+
+; 0x0004e9c0 門　都：必殺技１
+0x0004e9c0 Gate Miyako: Ultimate move 1
+
+; 0x0004e9d4 門　都：コンボ
+0x0004e9d4 Gate City: Combo
+
+; 0x0004e9e4 門　都：投げ攻撃
+0x0004e9e4 Gate Miyako: Throw Attack
+
+; 0x0004e9f8 門　都：遠距離攻撃
+0x0004e9f8 Gate City: Long-range Attack
+
+; 0x0004ea0c 門　都：近距離攻撃
+0x0004ea0c Gate Miyako: close-range attack
+
+; 0x0004ea20 蛭　湖：掛声／血塊弾
+0x0004ea20 Leech Lake: Calling/Blood Bullet
+
+; 0x0004ea38 蛭　湖：やられ３
+0x0004ea38 Hiru, Lake: Yare 3
+
+; 0x0004ea4c 蛭　湖：やられ２
+0x0004ea4c Ebisu Lake: Yare 2
+
+; 0x0004ea60 蛭　湖：カットイン
+0x0004ea60 Leech Lake: Cut-in
+
+; 0x0004ea74 蛭　湖：やられ１
+0x0004ea74 Hiru, Lake: Yare 1
+
+; 0x0004ea88 蛭　湖：超必殺技
+0x0004ea88 Leech Lake: Super-Special Move
+
+; 0x0004ea9c 蛭　湖：必殺技３
+0x0004ea9c Hiru, Lake: Ultimate move 3
+
+; 0x0004eab0 蛭　湖：必殺技２
+0x0004eab0 Hiru, Lake: Ultimate move 2
+
+; 0x0004eac4 蛭　湖：必殺技１
+0x0004eac4 Hiru, Lake: Ultimate move 1
+
+; 0x0004ead8 蛭　湖：コンボ
+0x0004ead8 Leech Lake: Combo
+
+; 0x0004eae8 蛭　湖：投げ攻撃
+0x0004eae8 Leech Lake: Throw Attack
+
+; 0x0004eafc 蛭　湖：遠距離攻撃
+0x0004eafc Leech Lake: Long-range Attack
+
+; 0x0004eb10 蛭　湖：近距離攻撃
+0x0004eb10 Leech Lake: close-range attack
+
+; 0x0004eb24 紅　麗：掛声／五月蝿い！
+0x0004eb24 Kurenai: Kakegoe/Shut up!
+
+; 0x0004eb40 紅　麗：やられ３
+0x0004eb40 Crimson Beauty: Killed 3
+
+; 0x0004eb54 紅　麗：やられ２
+0x0004eb54 Kurenai: Yarei 2
+
+; 0x0004eb68 紅　麗：カットイン
+0x0004eb68 Crimson Beauty: Cut-in
+
+; 0x0004eb7c 紅　麗：やられ１
+0x0004eb7c Crimson Beauty: Killed 1
+
+; 0x0004eb90 紅　麗：超必殺技
+0x0004eb90 Kurenai: A super special move
+
+; 0x0004eba4 紅　麗：必殺技３
+0x0004eba4 Kurenai: Ultimate move 3
+
+; 0x0004ebb8 紅　麗：必殺技２
+0x0004ebb8 Kurenai: Ultimate move 2
+
+; 0x0004ebcc 紅　麗：必殺技１
+0x0004ebcc Kurenai: Ultimate move 1
+
+; 0x0004ebe0 紅　麗：コンボ
+0x0004ebe0 Crimson Beauty: Combo
+
+; 0x0004ebf0 紅　麗：投げ攻撃
+0x0004ebf0 Crimson Rei: Throw Attack
+
+; 0x0004ec04 紅　麗：遠距離攻撃
+0x0004ec04 Crimson Beauty: Long-range Attack
+
+; 0x0004ec18 紅　麗：近距離攻撃
+0x0004ec18 Kurenai: close-range attack
+
+; 0x0004ec2c 小金井：掛声／いくよ！
+0x0004ec2c Koganei: Kakegoe!
+
+; 0x0004ec44 小金井：やられ３
+0x0004ec44 Koganei: Yare 3
+
+; 0x0004ec58 小金井：やられ２
+0x0004ec58 Koganei: Yare 2
+
+; 0x0004ec6c 小金井：カットイン
+0x0004ec6c Koganei: Cut-in
+
+; 0x0004ec80 小金井：やられ１
+0x0004ec80 Koganei: Yare 1
+
+; 0x0004ec94 小金井：超必殺技
+0x0004ec94 Koganei: a super special move
+
+; 0x0004eca8 小金井：必殺技３
+0x0004eca8 Koganei: special move 3
+
+; 0x0004ecbc 小金井：必殺技２
+0x0004ecbc Koganei: special move 2
+
+; 0x0004ecd0 小金井：必殺技１
+0x0004ecd0 Koganei: special move 1
+
+; 0x0004ece4 小金井：コンボ
+0x0004ece4 Koganei: Combo
+
+; 0x0004ecf4 小金井：投げ攻撃
+0x0004ecf4 Koganei: Throw attack
+
+; 0x0004ed08 小金井：遠距離攻撃
+0x0004ed08 Koganei: A long-range attack
+
+; 0x0004ed1c 小金井：近距離攻撃
+0x0004ed1c Koganei: close-range attack
+
+; 0x0004ed30 水　鏡：掛声／たわけ
+0x0004ed30 Water Mirror: Kakegoe
+
+; 0x0004ed48 水　鏡：やられ３
+0x0004ed48 Water Mirror: Doomed 3
+
+; 0x0004ed5c 水　鏡：やられ２
+0x0004ed5c Water Mirror: Defeated 2
+
+; 0x0004ed70 水　鏡：カットイン
+0x0004ed70 Water Mirror: Cut-in
+
+; 0x0004ed84 水　鏡：やられ１
+0x0004ed84 Water Mirror: Defeated 1
+
+; 0x0004ed98 水　鏡：超必殺技
+0x0004ed98 Water Mirror: Super-Special Move
+
+; 0x0004edac 水　鏡：必殺技３
+0x0004edac Water Mirror: special move 3
+
+; 0x0004edc0 水　鏡：必殺技２
+0x0004edc0 Water Mirror: special move 2
+
+; 0x0004edd4 水　鏡：必殺技１
+0x0004edd4 Water Mirror: special move 1
+
+; 0x0004ede8 水　鏡：コンボ
+0x0004ede8 Water Mirror: Combo
+
+; 0x0004edf8 水　鏡：遠距離攻撃
+0x0004edf8 Water Mirror: Long-range Attack
+
+; 0x0004ee0c 水　鏡：近距離攻撃
+0x0004ee0c Water Mirror: close-range attack
+
+; 0x0004ee20 風　子：掛声／エルボー！
+0x0004ee20 Kazeko: Kakegoe/Elbow!
+
+; 0x0004ee3c 風　子：やられ３
+0x0004ee3c Kaze Ko: Yare 3
+
+; 0x0004ee50 風　子：やられ２
+0x0004ee50 Kaze Ko: Yare 2
+
+; 0x0004ee64 風　子：カットイン
+0x0004ee64 Kazeko: Cut-in
+
+; 0x0004ee78 風　子：やられ１
+0x0004ee78 Kaze Ko: Yare 1
+
+; 0x0004ee8c 風　子：超必殺技
+0x0004ee8c Fuuko: A super special move
+
+; 0x0004eea0 風　子：必殺技３
+0x0004eea0 Fuuko: Ultimate move 3
+
+; 0x0004eeb4 風　子：必殺技２
+0x0004eeb4 Fuuko: Ultimate move 2
+
+; 0x0004eec8 風　子：必殺技１
+0x0004eec8 Fuuko: Ultimate move 1
+
+; 0x0004eedc 風　子：コンボ
+0x0004eedc Kazeko: Combo
+
+; 0x0004eeec 風　子：投げ攻撃
+0x0004eeec Kazeko: Throw Attack
+
+; 0x0004ef00 風　子：遠距離攻撃
+0x0004ef00 Fuuko: A long-range attack
+
+; 0x0004ef14 風　子：近距離攻撃
+0x0004ef14 Kazeko: close-range attack
+
+; 0x0004ef28 土　門：掛声／嘴
+0x0004ef28 Earth Gate: Calling/Beak
+
+; 0x0004ef3c 土　門：やられ３
+0x0004ef3c Earth Gate: Yare 3
+
+; 0x0004ef50 土　門：やられ２
+0x0004ef50 Earth Gate: Yare 2
+
+; 0x0004ef64 土　門：カットイン
+0x0004ef64 Earth Gate: Cut-in
+
+; 0x0004ef78 土　門：やられ１
+0x0004ef78 Earth Gate: Yare 1
+
+; 0x0004ef8c 土　門：超必殺技
+0x0004ef8c Earth Gate: Super-Special Move
+
+; 0x0004efa0 土　門：必殺技３
+0x0004efa0 Earth Gate: Special Move 3
+
+; 0x0004efb4 土　門：必殺技２
+0x0004efb4 Earth Gate: Special Move 2
+
+; 0x0004efc8 土　門：必殺技１
+0x0004efc8 Earth Gate: Special Move 1
+
+; 0x0004efdc 土　門：コンボ
+0x0004efdc Earth Gate: Combo
+
+; 0x0004efec 土　門：投げ攻撃
+0x0004efec Earth Gate: Throw Attack
+
+; 0x0004f000 土　門：遠距離攻撃
+0x0004f000 Earth Gate: Long-range Attack
+
+; 0x0004f014 土　門：近距離攻撃
+0x0004f014 Earth Gate: close-range attack
+
+; 0x0004f028 烈　火：掛声／姫！
+0x0004f028 Retsu Fire: Kakegoe / Hime!
+
+; 0x0004f03c 烈　火：掛声／崩
+0x0004f03c Retsu Fire: Kakegoe / Kuzure
+
+; 0x0004f050 烈　火：やられ３
+0x0004f050 Fierce Fire: Killed 3
+
+; 0x0004f064 烈　火：やられ２
+0x0004f064 Fierce Fire: Defeated 2
+
+; 0x0004f078 烈　火：カットイン
+0x0004f078 Fierce Fire: Cut-in
+
+; 0x0004f08c 烈　火：やられ１
+0x0004f08c Fierce Fire: Killed 1
+
+; 0x0004f0a0 烈　火：超必殺技
+0x0004f0a0 Fierce Fire: Super-Special Attack
+
+; 0x0004f0b4 烈　火：必殺技４
+0x0004f0b4 Fierce Fire: Ultimate Technique 4
+
+; 0x0004f0c8 烈　火：必殺技３
+0x0004f0c8 Fierce Fire: Final Strike 3
+
+; 0x0004f0dc 烈　火：必殺技２
+0x0004f0dc Fierce Fire: Special Move 2
+
+; 0x0004f0f0 烈　火：必殺技１
+0x0004f0f0 Fierce Fire: Special Move 1
+
+; 0x0004f104 烈　火：コンボ
+0x0004f104 Fierce Fire: Combo
+
+; 0x0004f114 烈　火：投げ攻撃
+0x0004f114 Fierce Fire: Throw Attack
+
+; 0x0004f128 烈　火：遠距離攻撃
+0x0004f128 Fierce Fire: Long-range Attack
+
+; 0x0004f13c 烈　火：近距離攻撃
+0x0004f13c Fierce Fire: Close-range Attack
+
+; 0x0004f150 木　蓮：水から飛び出す
+0x0004f150 Ren Ki: Jump out of the water
+
+; 0x0004f168 木　蓮：水に入る
+0x0004f168 Ren Ki: Enter the water
+
+; 0x0004f17c 門　都：遠距離攻撃Ａ
+0x0004f17c Gate Miyako: Long-range Attack A
+
+; 0x0004f194 蛭　湖：遠距離攻撃Ａ
+0x0004f194 Leech Lake: Long-range Attack A
+
+; 0x0004f1ac 紅　麗：遠距離攻撃Ａ
+0x0004f1ac Crimson Rei: Long-range Attack A
+
+; 0x0004f1c4 小金井：遠距離攻撃Ａ
+0x0004f1c4 Koganei: Long-range attack A
+
+; 0x0004f1dc 水　鏡：遠距離攻撃Ａ
+0x0004f1dc Water Mirror: Long-range Attack A
+
+; 0x0004f1f4 風　子：遠距離攻撃Ａ
+0x0004f1f4 Kazeko: Long-range Attack A
+
+; 0x0004f20c 土　門：遠距離攻撃Ａ
+0x0004f20c Earth Gate: Long-range Attack A
+
+; 0x0004f224 土　門：投げ
+0x0004f224 Earth Gate: Throw
+
+; 0x0004f234 烈　火：遠距離攻撃Ａ
+0x0004f234 Fierce Fire: Long-range Attack A
+
+; 0x0004f24c 気合溜めオフ
+0x0004f24c Spirit pooling off.
+
+; 0x0004f25c 気合溜め
+0x0004f25c Spirit buildup
+
+; 0x0004f268 ダウン軽
+0x0004f268 Down light
+
+; 0x0004f274 ダウン普通
+0x0004f274 Down, normal.
+
+; 0x0004f280 ダウン重
+0x0004f280 Down weight
+
+; 0x0004f28c 風切り音：強Ｃ
+0x0004f28c Windpipe: Strong C
+
+; 0x0004f29c 風切り音：強Ｂ
+0x0004f29c Windpipe: Strong B
+
+; 0x0004f2ac 風切り音：強Ａ
+0x0004f2ac Windpipe: Strong A
+
+; 0x0004f2bc 風切り音：中Ｃ
+0x0004f2bc Windpipe: Middle C
+
+; 0x0004f2cc 風切り音：中Ｂ
+0x0004f2cc Windpipe: Middle B
+
+; 0x0004f2dc 風切り音：中Ａ
+0x0004f2dc Windpipe: Middle A
+
+; 0x0004f2ec 風切り音：弱Ｃ
+0x0004f2ec Windpipe: Weak C
+
+; 0x0004f2fc 風切り音：弱Ｂ
+0x0004f2fc Windpipe: Weak B
+
+; 0x0004f30c 風切り音：弱Ａ
+0x0004f30c Windpipe: Weak A
+
+; 0x0004f31c ダメージ：斬／強Ｃ
+0x0004f31c Damage: Slash/Strong C
+
+; 0x0004f330 ダメージ：斬／強Ｂ
+0x0004f330 Damage: Slash/Strong B
+
+; 0x0004f344 ダメージ：斬／強Ａ
+0x0004f344 Damage: Slash/Strong A
+
+; 0x0004f358 ダメージ：斬／中Ｃ
+0x0004f358 DMG: Slash/Medium C
+
+; 0x0004f36c ダメージ：斬／中Ｂ
+0x0004f36c Damage: Slash/Middle B
+
+; 0x0004f380 ダメージ：斬／中Ａ
+0x0004f380 Damage: Slash/Medium A
+
+; 0x0004f394 ダメージ：斬／弱Ｃ
+0x0004f394 Damage: Slash/Weak C
+
+; 0x0004f3a8 ダメージ：斬／弱Ｂ
+0x0004f3a8 Damage: Slash/Weak B
+
+; 0x0004f3bc ダメージ：斬／弱Ａ
+0x0004f3bc Damage: Slash/Weak A
+
+; 0x0004f3d0 ダメージ：打／強Ｃ
+0x0004f3d0 DMG: Hit/Strong C
+
+; 0x0004f3e4 ダメージ：打／強Ｂ
+0x0004f3e4 DMG: Hit/Strong B
+
+; 0x0004f3f8 ダメージ：打／強Ａ
+0x0004f3f8 DMG: Hit/Strong A
+
+; 0x0004f40c ダメージ：打／中Ｃ
+0x0004f40c DMG: Hit/Medium C
+
+; 0x0004f420 ダメージ：打／中Ｂ
+0x0004f420 DMG: Hit/Middle B
+
+; 0x0004f434 ダメージ：打／中Ａ
+0x0004f434 DMG: Hit/Medium A
+
+; 0x0004f448 ダメージ：打／弱Ｃ
+0x0004f448 Damage: Uchi/Weak C
+
+; 0x0004f45c ダメージ：打／弱Ｂ
+0x0004f45c Damage: Uchi/Weak B
+
+; 0x0004f470 ダメージ：打／弱Ａ
+0x0004f470 Damage: Uchi/Weak A
+
+; 0x0004f484 ガード　：斬／強
+0x0004f484 Guard: Slash/Strong
+
+; 0x0004f498 ガード　：斬／中
+0x0004f498 Guard: Slash/Medium
+
+; 0x0004f4ac ガード　：斬／弱
+0x0004f4ac Guard: Slash/Weak
+
+; 0x0004f4c0 ガード　：打／強
+0x0004f4c0 Guard: batter/strong
+
+; 0x0004f4d4 ガード　：打／中
+0x0004f4d4 Guard: Uchi/Naka
+
+; 0x0004f4e8 ガード　：打／弱
+0x0004f4e8 Guard: Uchi/Weak
+
+; 0x0004f4fc 着地音
+0x0004f4fc Landing sound
+
+; 0x0004f504 ジャンプ音
+0x0004f504 Jumping sound
+
+; 0x0004f510 ゲートオープン
+0x0004f510 Gate Open
+
+; 0x0004f520 ソドム崩壊音終了
+0x0004f520 Sodom collapse sound ends.
+
+; 0x0004f534 ソドム崩壊
+0x0004f534 Sodom collapse
+
+; 0x0004f540 森光蘭倒れる
+0x0004f540 Koran Mori collapses
+
+; 0x0004f550 ポーズ音
+0x0004f550 Pause sound
+
+; 0x0004f55c メッセージ送り音
+0x0004f55c Message sent
+
+; 0x0004f570 はい／いいえ
+0x0004f570 Yes/no.
+
+; 0x0004f580 切り替え音
+0x0004f580 Switching sound
+
+; 0x0004f58c 選択不可警告
+0x0004f58c Unchosen Warning
+
+; 0x0004f59c 選択音
+0x0004f59c Selective tone
+
+; 0x0004f5a4 キャンセル音
+0x0004f5a4 Cancel sound
+
+; 0x0004f5b4 決定音
+0x0004f5b4 Decisive tone
+
+; 0x0004f5bc スタート音
+0x0004f5bc Start sound
+
+; 0x0004f5c8 ＣＯＮＴＩＮＵＥカウント音
+0x0004f5c8 CONTINUE count
+
+; 0x0004f5e4 Ｖ．Ｓ．音
+0x0004f5e4 V.S. Sounds
+
+; 0x0004f5f0 タイトル表示
+0x0004f5f0 Title display
+
+; 0x0004f600 麗のテーマ
+0x0004f600 The Theme of Re
+
+; 0x0004f60c 姫救出
+0x0004f60c Rescue the Princess
+
+; 0x0004f614 必殺技ゲット
+0x0004f614 I got my special move.
+
+; 0x0004f624 怒り爆発
+0x0004f624 Anger explosion
+
+; 0x0004f630 ＳＲ：姫のヒメゴト忍者のユウキ
+0x0004f630 SR: Princess Himegoto Ninja Yuuki
+
+; 0x0004f650 森光蘭のテーマ２
+0x0004f650 Mori Kouran Theme 2
+
+; 0x0004f664 ゲームオーバーＧＯＯＤ
+0x0004f664 Game Over GOOD
+
+; 0x0004f67c 死四天のテーマ
+0x0004f67c Shishi Shiten no Theme
+
+; 0x0004f68c オープニング
+0x0004f68c Opening
+
+; 0x0004f69c 火影のテーマ
+0x0004f69c Hokage's theme
+
+; 0x0004f6ac ＢＧＭ：不吉
+0x0004f6ac BGM: Ominous
+
+; 0x0004f6bc 張り合い
+0x0004f6bc Competing
+
+; 0x0004f6c8 敗北デモ２
+0x0004f6c8 Defeat Demo 2
+
+; 0x0004f6d4 敗北デモ１
+0x0004f6d4 Defeat Demo 1
+
+; 0x0004f6e0 勝利デモ４
+0x0004f6e0 Victory Demo 4
+
+; 0x0004f6ec 勝利デモ３
+0x0004f6ec Victory Demo 3
+
+; 0x0004f6f8 勝利デモ２
+0x0004f6f8 Victory Demo 2
+
+; 0x0004f704 勝利デモ１
+0x0004f704 Victory Demo 1
+
+; 0x0004f710 森光蘭のテーマ１
+0x0004f710 Mori Kouran Theme 1
+
+; 0x0004f724 モード
+0x0004f724 Mord
+
+; 0x0004f72c ゲームオーバーＢＡＤ
+0x0004f72c Game Over Bad
+
+; 0x0004f744 ＢＧＭ：悲しみ
+0x0004f744 BGM: Sadness
+
+; 0x0004f754 小金井のテーマ
+0x0004f754 Koganei theme
+
+; 0x0004f764 死愚魔のテーマ
+0x0004f764 The theme of Death Fools
+
+; 0x0004f774 蛭湖のテーマ
+0x0004f774 Theme of Lake Hiru
+
+; 0x0004f784 煉華のテーマ
+0x0004f784 Renga theme
+
+; 0x0004f794 紅麗のテーマ
+0x0004f794 Crimson Beauty theme
+
+; 0x0004f7a4 門都のテーマ
+0x0004f7a4 Theme of Monto
+
+; 0x0004f7b4 木蓮のテーマ
+0x0004f7b4 Mokuren's theme
+
+; 0x0004f7c4 土門のテーマ
+0x0004f7c4 Tsuchimon's theme
+
+; 0x0004f7d4 最澄のテーマ
+0x0004f7d4 Saichou's theme
+
+; 0x0004f7e4 家族団欒
+0x0004f7e4 Family gathering
+
+; 0x0004f7f0 水鏡のテーマ
+0x0004f7f0 Water Mirror Theme
+
+; 0x0004f800 風子のテーマ
+0x0004f800 Fuko's theme
+
+; 0x0004f810 烈火のテーマ
+0x0004f810 Flame theme
+
+; 0x0004f820 ＢＧＭオフ
+0x0004f820 BGM Off
+
+; 0x0004f89c データの保存に失敗しました
+0x0004f89c I failed to save the data.
+
+; 0x0004f8b8 セーブデータが異常です
+0x0004f8b8 Save data is abnormal.
+
+; 0x0004f8cf 初期化します・・・
+0x0004f8cf Initialize...
+
+; 0x0077a35c なんだろう…
+0x0077a35c I wonder what it is...
+
+; 0x0077a375 烈火…%T7く…ん…
+0x0077a375 A raging fire... %T7K... Mm...
+
+; 0x0077a387 ごめんね。
+0x0077a387 I'm sorry.
+
+; 0x0077a3a2 姫が連れ去られちまった！
+0x0077a3a2 The princess has been taken away!
+
+; 0x0077a3e9 まぁ、待て！！
+0x0077a3e9 Well, wait!!
+
+; 0x0077a426 邪魔するな！　ジジィ！
+0x0077a426 Get out of my way, geezer!
+
+; 0x0077a44f 落ち着くのじゃ！　烈火！
+0x0077a44f Calm down, fire!
+
+; 0x0077a494 三日間、時間があります。
+0x0077a494 I have three days.
+
+; 0x0077a4db おう！
+0x0077a4db Oh, yeah!
+
+; 0x0077a69e ここがＳＯＤＯＭよ！
+0x0077a69e This is SODOM!
+
+; 0x0077a6e3 結局、全員来ちまうなんて
+0x0077a6e3 In the end, we all ended up here.
+
+; 0x0077a710 バカでケッコーだよ、
+0x0077a710 I'm an idiot and an idiot,
+
+; 0x0077a731 さっ！
+0x0077a731 Come on!
+
+; 0x0077a756 あそこに姫が…！
+0x0077a756 The princess is over there...!
+
+; 0x0077a767 簡単には
+0x0077a767 It's not easy.
+
+; 0x0077a78a あのタワーへ行くには
+0x0077a78a To get to that tower.
+
+; 0x0077a7c3 必要なＣＤは全部で５枚。
+0x0077a7c3 There were five CDs I needed in total.
+
+; 0x0077a80c ひとり１枚ずつ
+0x0077a80c One for each person.
+
+; 0x0077a847 よし！
+0x0077a847 All right!
+
+; 0x0077a862 おうっ！！
+0x0077a862 Ooh!!
+
+; 0x0077a94e 随分、修行したようね。
+0x0077a94e It seems you've trained quite a bit.
+
+; 0x0077a97f 約束の日まで、
+0x0077a97f Until the promised day,
+
+; 0x0077a9b2 ただ…、この三日間、
+0x0077a9b2 It's just... these past three days...
+
+; 0x0077a9f9 心の整理は
+0x0077a9f9 I don't know what to think.
+
+; 0x0077aa1a 約束の三日が経ちました。
+0x0077aa1a The promised three days have passed.
+
+; 0x0077aa53 それでは、
+0x0077aa53 Well then,
+
+; 0x0077aa7a 柳ちゃんを助けに…！
+0x0077aa7a To save Yanagi...!
+
+; 0x0077b4ba ちっ。ＣＤなんか
+0x0077b4ba Tch. A CD?
+
+; 0x0077b4e3 このままじゃ
+0x0077b4e3 At this rate...
+
+; 0x0077b50a ここにいたのね、烈火。
+0x0077b50a So this is where you were, Flame.
+
+; 0x0077b541 ウッス！　母ちゃん！
+0x0077b541 Hey, Mom!
+
+; 0x0077b56e ＣＤはまだ揃っていないわ。
+0x0077b56e I don't have all the CDs yet.
+
+; 0x0077b59d オレの戦った奴らは
+0x0077b59d The guys I fought...
+
+; 0x0077b5da 必ず、敵の誰かが
+0x0077b5da Without fail, one of the enemies
+
+; 0x0077b603 柳ちゃんのためにも、
+0x0077b603 For Yanagi's sake,
+
+; 0x0077b632 ああ！
+0x0077b632 Ahhh!
+
+; 0x0077b64f ＣＤも見っけたし！
+0x0077b64f I found the CD, too!
+
+; 0x0077b68e ここにいたのね、烈火。
+0x0077b68e So this is where you were, Flame.
+
+; 0x0077b6c1 おう！　母ちゃん！
+0x0077b6c1 Oh! Mom!
+
+; 0x0077b6e6 やったじゃん！
+0x0077b6e6 You did it!
+
+; 0x0077b707 小金井！　無事だったか！
+0x0077b707 Koganei! You're safe!
+
+; 0x0077b730 おつかれさま。
+0x0077b730 Good work.
+
+; 0x0077b75f あいよ、母ちゃん。
+0x0077b75f Okay, Mom.
+
+; 0x0077b780 まいったな。
+0x0077b780 This is bad.
+
+; 0x0077b7ad ここにいたのね、土門くん。
+0x0077b7ad So this is where you were, Tsuchikado-kun.
+
+; 0x0077b7e4 お。陽炎ママじゃん！
+0x0077b7e4 Oh, it's Kagero Mama!
+
+; 0x0077b81b ＣＤはまだ揃っていないわ。
+0x0077b81b I don't have all the CDs yet.
+
+; 0x0077b850 それが見つからなくってよ。
+0x0077b850 I can't find it.
+
+; 0x0077b88b 必ず、敵の誰かが
+0x0077b88b Without fail, one of the enemies
+
+; 0x0077b8c8 あいよ！
+0x0077b8c8 Yes, sir!
+
+; 0x0077b8d1 さすがオレ様。
+0x0077b8d1 That's me for you.
+
+; 0x0077b8f6 ここにいたのね、土門くん！
+0x0077b8f6 You're here, Tsuchikado-kun!
+
+; 0x0077b931 よぉ！　陽炎ママ！
+0x0077b931 Yo! Kageaki Mama!
+
+; 0x0077b95a おつかれさま、土門くん。
+0x0077b95a Good work, Tsuchikado-kun.
+
+; 0x0077b997 あいよ。
+0x0077b997 It's okay.
+
+; 0x0077b9a0 どうしよう。ＣＤは
+0x0077b9a0 What should I do? The CD
+
+; 0x0077b9cb ここにいたのね、
+0x0077b9cb So this is where you were,
+
+; 0x0077b9e8 あ！　陽炎！
+0x0077b9e8 Ah! A heat haze!
+
+; 0x0077b9f5 元気そうね。
+0x0077b9f5 You look well.
+
+; 0x0077ba16 まあね！
+0x0077ba16 Well, yeah!
+
+; 0x0077ba41 いいえ、
+0x0077ba41 No,
+
+; 0x0077ba7a うーん。
+0x0077ba7a Hmm.
+
+; 0x0077babb 必ず、敵の誰かが
+0x0077babb Without fail, one of the enemies
+
+; 0x0077baf8 まかせて！
+0x0077baf8 Leave it to me!
+
+; 0x0077bb03 よーし！
+0x0077bb03 All right!
+
+; 0x0077bb36 風子さん
+0x0077bb36 Fuko
+
+; 0x0077bb51 あ！　陽炎！！
+0x0077bb51 Ah! A heat haze!!
+
+; 0x0077bb60 風子サマ！！
+0x0077bb60 Fuko-sama!!
+
+; 0x0077bb6d 元気か、土門！！
+0x0077bb6d How are you, Tsuchikado?!
+
+; 0x0077bbb0 おつかれさま。
+0x0077bbb0 Good work.
+
+; 0x0077bbdf はい、陽炎。
+0x0077bbdf Yes, heat haze.
+
+; 0x0077bbfc ＣＤか…。
+0x0077bbfc CD, huh...
+
+; 0x0077bc2f ここにいたのね、
+0x0077bc2f So this is where you were,
+
+; 0x0077bc66 僕は大丈夫ですよ。
+0x0077bc66 I'll be fine.
+
+; 0x0077bc91 それが…、まだなの。
+0x0077bc91 That's... not yet.
+
+; 0x0077bcc2 いえ…。敵は倒したのですが
+0x0077bcc2 No... We defeated the enemy.
+
+; 0x0077bd13 必ず、敵の誰かが
+0x0077bd13 Without fail, one of the enemies
+
+; 0x0077bd50 わかりました。
+0x0077bd50 Understood.
+
+; 0x0077bd5f ＣＤは手に入った。
+0x0077bd5f I got the CD.
+
+; 0x0077bd96 ここにいたのね、
+0x0077bd96 So this is where you were,
+
+; 0x0077bdcd ええ。
+0x0077bdcd Yes.
+
+; 0x0077bde6 さっすが、みーちゃん！
+0x0077bde6 That's Mii-chan for you!
+
+; 0x0077be0f ああ。これだ。
+0x0077be0f Yeah. This is it.
+
+; 0x0077be1e やるな！　水鏡！
+0x0077be1e Not bad! Water mirror!
+
+; 0x0077be3f お前とは違うからな。
+0x0077be3f I'm not like you, after all.
+
+; 0x0077be54 なぁにィーっ！？
+0x0077be54 Whaaaat?!
+
+; 0x0077be65 まあまあ土門くん。
+0x0077be65 Now, now, domonkun.
+
+; 0x0077be86 おつかれさま、水鏡くん。
+0x0077be86 Good work, Mizukagami-kun.
+
+; 0x0077bebf はい、どうぞ。
+0x0077bebf Here you go.
+
+; 0x0077bee6 困ったなあ…。
+0x0077bee6 This is a problem...
+
+; 0x0077bf19 薫くん！
+0x0077bf19 Kaoru-kun!
+
+; 0x0077bf34 あ！　陽炎ママだ！
+0x0077bf34 Ah! It's Kagero Mama!
+
+; 0x0077bf73 まだ全部揃っていないわ。
+0x0077bf73 We don't have everything yet.
+
+; 0x0077bfa6 それが、誰も
+0x0077bfa6 That's what nobody said.
+
+; 0x0077bfe5 必ず、敵の誰かが
+0x0077bfe5 Without fail, one of the enemies
+
+; 0x0077c022 オッケーッ！
+0x0077c022 Okay!
+
+; 0x0077c02f ＣＤもあるし！
+0x0077c02f There's a CD too!
+
+; 0x0077c060 薫くん！
+0x0077c060 Kaoru-kun!
+
+; 0x0077c085 うん！　平気！
+0x0077c085 Yeah! I'm fine!
+
+; 0x0077c0a8 おつかれさま。
+0x0077c0a8 Good work.
+
+; 0x0077c0cf はい。
+0x0077c0cf Yes.
+
+; 0x0077c0ec ありがとう。
+0x0077c0ec Thank you.
+
+; 0x0077c0f9 これで、ＣＤが
+0x0077c0f9 That's the CD.
+
+; 0x0077c11a みんなも…、
+0x0077c11a Everyone else too...
+
+; 0x0077c135 いよいよゲートが
+0x0077c135 The gate is finally open.
+
+; 0x0077c15a 助け出すよ！
+0x0077c15a I'll get you out!
+
+; 0x0077c16f 今行くからね！
+0x0077c16f I'll be right there!
+
+; 0x0077c18a 無事でいて下さい。
+0x0077c18a Please be safe.
+
+; 0x0077c1a7 みんな
+0x0077c1a7 Everyone.
+
+; 0x0077c1ce 私は…
+0x0077c1ce I'm...
+
+; 0x0077c1f7 そして願わくば…
+0x0077c1f7 And hopefully...
+
+; 0x0077c222 ラストステージへの
+0x0077c222 To the last stage.
+
+; 0x0077c245 火影のゴミどもが
+0x0077c245 Hokage's trash
+
+; 0x0077c268 あの小娘のおかげで
+0x0077c268 Thanks to that little girl.
+
+; 0x0077c291 ぐわっはっはっは！！
+0x0077c291 Gwahahahaha!!
+
+; 0x0077c2a6 これでＣＤはΣ枚ね。
+0x0077c2a6 Now the CD is Σ.
+
+; 0x0077c2d7 ＣＤをまだ
+0x0077c2d7 I still have the CD.
+
+; 0x0077c2f8 σ１２３４５６７８９０１
+0x0077c2f8 σ12345678901
+
+; 0x0077c31d ＣＤをまだ
+0x0077c31d I still have the CD.
+
+; 0x0077c33e σ１２３４５６７８９０１
+0x0077c33e σ12345678901
+
+; 0x0077cb72 オレの力が無いばっかりに、
+0x0077cb72 Without my power,
+
+; 0x0077cbad オレは…火影のリーダーだ。
+0x0077cbad I'm... the leader of the Hokage.
+
+; 0x0077cc00 …ん？　誰か来る…！
+0x0077cc00 ...Hm? Someone's coming...!
+
+; 0x0077cc39 おい花菱！
+0x0077cc39 Hey, hanabishi!
+
+; 0x0077cc70 おい固羅！
+0x0077cc70 Hey, Kora!
+
+; 0x0077cc97 いくぞ！　花菱！
+0x0077cc97 Let's go! Hanabishi!
+
+; 0x0077cca8 どーだ！　見たか！
+0x0077cca8 What do you think!? Did you see it!?
+
+; 0x0077cccb 今日から火影最強を
+0x0077cccb Starting today, the strongest of the hokage
+
+; 0x0077cd04 おいおい、
+0x0077cd04 Hey, hey,
+
+; 0x0077cd39 くそぉ〜〜っ！
+0x0077cd39 Dammit~~~!
+
+; 0x0077cd58 ウーッス！　烈火。
+0x0077cd58 Whoosh! A raging fire.
+
+; 0x0077cd85 お主の中で、
+0x0077cd85 Inside you,
+
+; 0x0077cdc2 奴の力も借りて
+0x0077cdc2 With his help, too.
+
+; 0x0077cde9 烈火は
+0x0077cde9 The raging fire
+
+; 0x0077ce2a 勝つには勝ったが、烈火よ。
+0x0077ce2a I won to win, but it's a raging fire.
+
+; 0x0077ce61 次に土門と勝負する時は
+0x0077ce61 The next time we have a match with Tsuchikado...
+
+; 0x0077ce9e 姫…。
+0x0077ce9e Princess...
+
+; 0x0077ceb7 きっと…
+0x0077ceb7 I'm sure...
+
+; 0x0077ced4 オレが、必ず
+0x0077ced4 I'll definitely...
+
+; 0x0077cef5 はーい！　烈火！
+0x0077cef5 Yes! Flames!
+
+; 0x0077cf14 おう！　風子じゃねぇか！
+0x0077cf14 Hey! If it isn't Fuko!
+
+; 0x0077cf3b 一発！　気合入れて
+0x0077cf3b One shot! Give it your all.
+
+; 0x0077cf7c 望むところだ！
+0x0077cf7c That's exactly what I want!
+
+; 0x0077cf9d やっぱり、烈火…。
+0x0077cf9d It really is a raging fire...
+
+; 0x0077cfda うっせーっ！
+0x0077cfda Shut up!
+
+; 0x0077cff9 そんなんじゃ、
+0x0077cff9 It's not like that,
+
+; 0x0077d020 私も死ぬほど頑張るからさ！
+0x0077d020 I'll do my best to die too!
+
+; 0x0077d049 …おう！
+0x0077d049 ...Yeah!
+
+; 0x0077d068 本気出してんのか？　風子。
+0x0077d068 Are you serious, Fuko?
+
+; 0x0077d0a7 イヨーォ！　烈火。
+0x0077d0a7 Iyoo! A raging fire.
+
+; 0x0077d0dc こいつの力も借りて、
+0x0077d0dc With her help, too,
+
+; 0x0077d11d 烈火は
+0x0077d11d The raging fire
+
+; 0x0077d15c ヨォ！　烈火。
+0x0077d15c Yo! A raging fire.
+
+; 0x0077d197 次に風子と勝負する時は
+0x0077d197 The next time we have a match with Fuko...
+
+; 0x0077d1d2 特に「焔群」の奴が
+0x0077d1d2 Especially the ones from the Flame Cluster.
+
+; 0x0077d209 ヨォ！　烈火。
+0x0077d209 Yo! A raging fire.
+
+; 0x0077d24a お主にはまだ
+0x0077d24a You still haven't.
+
+; 0x0077d281 奴らはお主の力を
+0x0077d281 They have your power.
+
+; 0x0077d2ac 何度でも仲間に勝負を挑み、
+0x0077d2ac He’d challenged his comrades as many times as he needed to
+
+; 0x0077d2f3 そういえば、紅麗の奴…。
+0x0077d2f3 Come to think of it, the crimson one...
+
+; 0x0077d334 力をつけて、もっと強く
+0x0077d334 Get stronger, get stronger.
+
+; 0x0077d363 烈火兄ちゃん！
+0x0077d363 Rekka-niichan!
+
+; 0x0077d398 オッス！
+0x0077d398 Hey, pal!
+
+; 0x0077d3c1 ははーん！　さては、お前、
+0x0077d3c1 Haha! Well then, you,
+
+; 0x0077d408 え？
+0x0077d408 Huh?
+
+; 0x0077d42b 当たり前ぢゃ！
+0x0077d42b Of course it is!
+
+; 0x0077d442 オメーが紅麗と
+0x0077d442 You're crimson.
+
+; 0x0077d47d 烈火兄ちゃん！
+0x0077d47d Rekka-niichan!
+
+; 0x0077d4a6 そんなんじゃ聞いて
+0x0077d4a6 That's not it. Listen to me.
+
+; 0x0077d4d1 くっ…！
+0x0077d4d1 Ugh...!
+
+; 0x0077d4da くよくよ考えてても
+0x0077d4da No matter how much you think about it...
+
+; 0x0077d4fd 戦うときは集中しねぇと
+0x0077d4fd When you fight, you have to concentrate.
+
+; 0x0077d548 そうだね。
+0x0077d548 That's right.
+
+; 0x0077d583 ホッホッホ。元気か烈火？
+0x0077d583 Ho ho ho. How are you, raging fire?
+
+; 0x0077d5c0 奴がお主に力を貸すと
+0x0077d5c0 He said he'd help you.
+
+; 0x0077d5e7 お主と居ると楽しいらしい。
+0x0077d5e7 It seems she enjoys being with you.
+
+; 0x0077d628 烈火は
+0x0077d628 The raging fire
+
+; 0x0077d669 ヨォ！　烈火！
+0x0077d669 Yo! A raging fire!
+
+; 0x0077d690 じゃが、八竜の使い方が
+0x0077d690 But how to use the Eight Dragons
+
+; 0x0077d6bb 次に小金井と勝負する時は
+0x0077d6bb The next time I play against Koganei...
+
+; 0x0077d702 よっしゃ！
+0x0077d702 All right!
+
+; 0x0077d727 これなら、絶対
+0x0077d727 With this, there's no doubt.
+
+; 0x0077d760 お！　また誰か来たな！
+0x0077d760 Oh! Someone's here again!
+
+; 0x0077d777 居るか？　リーダー。
+0x0077d777 Are you there, Leader?
+
+; 0x0077d78c よぉーっ！
+0x0077d78c Yooooo!
+
+; 0x0077d7b5 いじけてるところを
+0x0077d7b5 I saw her fidgeting.
+
+; 0x0077d7f2 バカ言ってんじゃ
+0x0077d7f2 Don't be stupid.
+
+; 0x0077d815 お前こそどーなんだ。
+0x0077d815 What about you, too?
+
+; 0x0077d844 口だけは相変わらずだな…。
+0x0077d844 Her mouth is the same as always...
+
+; 0x0077d85f いいだろう。
+0x0077d85f Very well.
+
+; 0x0077d89a よし！　こい！
+0x0077d89a All right! Come on!
+
+; 0x0077d8a9 そんなことでは
+0x0077d8a9 That's not what I meant.
+
+; 0x0077d8da お前はＳＯＤＯＭへ
+0x0077d8da You go to SODOM.
+
+; 0x0077d901 くそーっ！
+0x0077d901 Damn it!
+
+; 0x0077d90c どうした、みーちゃん？
+0x0077d90c What's wrong, Mii-chan?
+
+; 0x0077d949 くっ！
+0x0077d949 Ugh!
+
+; 0x0077d950 お主はたいしたものじゃ。
+0x0077d950 You're quite something.
+
+; 0x0077d98f ワシもお主に
+0x0077d98f I'll do the same to you.
+
+; 0x0077d9ce 烈火は
+0x0077d9ce The raging fire
+
+; 0x0077da0f ナイスな攻撃じゃ、烈火！
+0x0077da0f Nice attack, raging fire!
+
+; 0x0077da4a 火竜の中には、お主の
+0x0077da4a Some of the fire dragons are yours.
+
+; 0x0077da85 今までに勝負した奴らと
+0x0077da85 I've played against people I've played against so far.
+
+; 0x0077dacc そうすれば、
+0x0077dacc If you do that,
+
+; 0x0077daff ずいぶん良くなったな、
+0x0077daff You've gotten a lot better,
+
+; 0x0077db20 しかし！　あえて言うなら
+0x0077db20 But! If I had to say...
+
+; 0x0077db6b 次に水鏡と勝負する時は
+0x0077db6b The next time we have a match with the water mirror
+
+; 0x0077dba6 よし…！！
+0x0077dba6 Okay...!!
+
+; 0x0077ea00 ﾜ#'$さて！　ＣＤを手に入れて
+0x0077ea00 Now, get the CD.
+
+; 0x0077ea3f おい！　待てよ！
+0x0077ea3f Hey! Wait!
+
+; 0x0077ea50 なんだ！？
+0x0077ea50 What the hell!?
+
+; 0x0077ea71 そう簡単に
+0x0077ea71 It's not that easy.
+
+; 0x0077ea92 先に行きたかったら
+0x0077ea92 If you want to go on ahead
+
+; 0x0077eac1 なるほど、上等だぜ！
+0x0077eac1 I see. Fine by me!
+
+; 0x0077ead6 オレはお前の正体を
+0x0077ead6 I want to know who you really are.
+
+; 0x0077eaf5 エンリョはしねえぞ！
+0x0077eaf5 I won't do Enryo!
+
+; 0x0077eb14 やれやれでゴザルなぁ。
+0x0077eb14 Man, what a gozaru.
+
+; 0x0077eb35 しばらく見ないうちに
+0x0077eb35 I haven't seen it in a while.
+
+; 0x0077eb6e 某に負けるようでは
+0x0077eb6e If I lose to a certain someone...
+
+; 0x0077ebab ちっくしょう！
+0x0077ebab Damn it!
+
+; 0x0077ebba あっはっは！　どうだ！
+0x0077ebba Ah-ha-ha! What do you think?!
+
+; 0x0077ebf3 そろそろ本当の姿を
+0x0077ebf3 It's about time for you to show your true colors.
+
+; 0x0077ec14 痛たたた…
+0x0077ec14 Owowowowow...
+
+; 0x0077ec41 しばらくのうちに、
+0x0077ec41 After a while,
+
+; 0x0077ec7a なーに、
+0x0077ec7a What is it,
+
+; 0x0077eca7 で、なんでお前が
+0x0077eca7 So why are you here?
+
+; 0x0077ecca 烈火殿たちの
+0x0077ecca Rekkaden's group
+
+; 0x0077ecef ここから先が
+0x0077ecef From here on out
+
+; 0x0077ed2c そうか、ありがとよ！
+0x0077ed2c I see. Thanks!
+
+; 0x0077ed5b 道がふたつに分かれてんな。
+0x0077ed5b The road splits into two.
+
+; 0x0077ed95 バイオノイドドームへ向かう
+0x0077ed95 Head to the bionoid dome
+
+; 0x0077edc4 おっし！　行くぜ！
+0x0077edc4 Alright! Let's go!
+
+; 0x0077edeb なんだ、ここは？
+0x0077edeb What's this place?
+
+; 0x0077ee10 治癒の少女を救いに来たか。
+0x0077ee10 Did you come to save the healing girl?
+
+; 0x0077ee4b 誰だ、てめえ。
+0x0077ee4b Who the hell are you?
+
+; 0x0077ee80 私は「死四天」の蛭湖。
+0x0077ee80 I am Hiruko of the Deadly Elite Four.
+
+; 0x0077eec1 お前も森光蘭の手下か！
+0x0077eec1 Are you one of Kouran Mori's underlings too?!
+
+; 0x0077ef00 断る…！！
+0x0077ef00 I refuse...!!
+
+; 0x0077ef23 この私が押されるとは、
+0x0077ef23 To think that I would be pushed,
+
+; 0x0077ef5e こいつ…っ！　強ぇ…！！
+0x0077ef5e This guy...! He's strong...!!
+
+; 0x0077ef87 行け。私の完敗だ。
+0x0077ef87 Go. It's my complete defeat.
+
+; 0x0077ef9a おめえがなんで
+0x0077ef9a Why are you here?
+
+; 0x0077efd1 そんなんじゃ、
+0x0077efd1 It's not like that,
+
+; 0x0077f004 ズイブンと変なところに
+0x0077f004 There's a strange place.
+
+; 0x0077f02d ……ん？
+0x0077f02d ...Hm?
+
+; 0x0077f050 お前　誰？
+0x0077f050 Who the hell are you?
+
+; 0x0077f06b 花菱烈火。火影だ！
+0x0077f06b Hanabishi Rekka. It's Hokage!
+
+; 0x0077f0aa ヒャヒャヒャヒャ！！
+0x0077f0aa Hyahyahyahya!!
+
+; 0x0077f0e5 話しても、
+0x0077f0e5 Even if I told her,
+
+; 0x0077f116 邪魔するなら、
+0x0077f116 If you get in my way,
+
+; 0x0077f137 倒す！　火影！
+0x0077f137 Defeat! Hokage!
+
+; 0x0077f15e ヒャヒャヒャヒャ！
+0x0077f15e Hyahyahyahya!
+
+; 0x0077f171 倒す！　倒す！
+0x0077f171 Defeat! Defeat!
+
+; 0x0077f1a2 …くっ！！
+0x0077f1a2 ...Kuh!!
+
+; 0x0077f1c7 フン！
+0x0077f1c7 Hmph!
+
+; 0x0077f1e6 オォオォオォオォ…！！！
+0x0077f1e6 Aaaaaaaaaaaaaaaaaaaaaaaaah...!!!
+
+; 0x0077f22f ＣＤは無いみたいだな。
+0x0077f22f Looks like you don't have a CD.
+
+; 0x0077f254 モタモタしてると
+0x0077f254 When you're moping around
+
+; 0x0077f275 はやく森光蘭を
+0x0077f275 Hurry up and get Koran Mori
+
+; 0x0077f292 また、分かれ道か…
+0x0077f292 Another fork in the road...
+
+; 0x0077f2ba 研究所へ向かう
+0x0077f2ba Head to the research facility
+
+; 0x0077f2d9 よし！
+0x0077f2d9 All right!
+
+; 0x0077f2ec ここか…。
+0x0077f2ec Here, huh...
+
+; 0x0077f2fd あら。もうひとり
+0x0077f2fd Oh, there's another one.
+
+; 0x0077f326 烈火か。
+0x0077f326 Flames, huh?
+
+; 0x0077f349 おー！　みーちゃん！！
+0x0077f349 Oh! Mii-chan!!
+
+; 0x0077f370 当たり前だ。
+0x0077f370 Of course it is.
+
+; 0x0077f393 なんぢゃ！
+0x0077f393 What the hell?!
+
+; 0x0077f3ba ふたりになったところで、
+0x0077f3ba Now that we're alone...
+
+; 0x0077f422 ギョェーッ！！
+0x0077f422 Gyooooo!!
+
+; 0x0077f431 あいつも敵って訳か？
+0x0077f431 So he's an enemy, too?
+
+; 0x0077f454 見れば分かるだろう。
+0x0077f454 You can tell just by looking.
+
+; 0x0077f497 邪魔とはなんぢゃ！
+0x0077f497 Don't get in my way!
+
+; 0x0077f4cc ここへ来たのは僕が先だ。
+0x0077f4cc I came here first.
+
+; 0x0077f4ff ふたりが相手してる
+0x0077f4ff They're up against each other.
+
+; 0x0077f52c 目指すは森光蘭！！
+0x0077f52c Our goal is Koran Mori!!
+
+; 0x0077f553 せっかくふたりになったのに
+0x0077f553 Now that we're alone together...
+
+; 0x0077f58c ちょうどいいですね。
+0x0077f58c It's just right.
+
+; 0x0077f5bf ギョェーーーッ！！
+0x0077f5bf Gyooooooooo!!
+
+; 0x0077f5d2 言い出したら
+0x0077f5d2 When you bring it up
+
+; 0x0077f5f3 僕は先に行く。
+0x0077f5f3 I'll go on ahead.
+
+; 0x0077f61a おう！
+0x0077f61a Oh, yeah!
+
+; 0x0077f621 あははは！
+0x0077f621 Ahahaha!
+
+; 0x0077f662 グギャギャギャー！！
+0x0077f662 Gugyagyagyagya!!
+
+; 0x0077f677 ちっくしょう……！！
+0x0077f677 Damn it...!!
+
+; 0x0077f68c ふー！
+0x0077f68c Phew!
+
+; 0x0077f6af ウソ…
+0x0077f6af No way...
+
+; 0x0077f6c8 おっしゃ！
+0x0077f6c8 Alright!
+
+; 0x0077f6e7 ここか。
+0x0077f6e7 Here, huh?
+
+; 0x0077f6f0 よく来たなァ
+0x0077f6f0 I'm glad you're here.
+
+; 0x0077f70b 木蓮！！
+0x0077f70b Mokuren!!
+
+; 0x0077f714 待ってたぜぇ、烈火。
+0x0077f714 I've been waiting for you, fire.
+
+; 0x0077f75b 分かるか？　烈火。
+0x0077f75b Do you understand, raging fire?
+
+; 0x0077f76e オレはなァ
+0x0077f76e You know, I...
+
+; 0x0077f7a9 お前ら、全員…、
+0x0077f7a9 All of you...
+
+; 0x0077f7dc オレを雑魚のように
+0x0077f7dc Like a small fry.
+
+; 0x0077f81f 相も変わらず
+0x0077f81f Same as always.
+
+; 0x0077f840 その程度の考えしか
+0x0077f840 That's all I can think about.
+
+; 0x0077f879 空海のおっさん！！
+0x0077f879 Old man Kukai!!
+
+; 0x0077f88c 久しいな、烈火。
+0x0077f88c It's been a while, raging fire.
+
+; 0x0077f8b1 そうはさせないよ！
+0x0077f8b1 I won't let you do that!
+
+; 0x0077f8f2 お前のような心がねじれた
+0x0077f8f2 My heart twisted like yours.
+
+; 0x0077f93d るせーよ！　ハゲオヤジ！
+0x0077f93d Shut up, you bald old man!
+
+; 0x0077f976 …木蓮。
+0x0077f976 ...Mokuren.
+
+; 0x0077f97f 別に、お前を見下してた
+0x0077f97f Not really. I was looking down on you.
+
+; 0x0077f9a8 てめえが
+0x0077f9a8 You bastard.
+
+; 0x0077f9c9 烈火！
+0x0077f9c9 Flames!
+
+; 0x0077f9f0 ＯＫ！
+0x0077f9f0 Okay!
+
+; 0x0077fa09 烈火ァ…！！
+0x0077fa09 Blazing fire...!!
+
+; 0x0077fa3c お前が先に進むのか？
+0x0077fa3c Are you going to move on?
+
+; 0x0077fa6b 火竜対木竜！
+0x0077fa6b Fire dragon versus wood dragon!
+
+; 0x0077fa94 ひゃはははは！
+0x0077fa94 Hyahahahaha!
+
+; 0x0077fac1 本当に最期まで
+0x0077fac1 Until the very end.
+
+; 0x0077fafc ま…、まちや…がれ
+0x0077fafc W-Wait a minute...
+
+; 0x0077fb19 自分を…
+0x0077fb19 I'm...
+
+; 0x0077fb4c じゃあな！
+0x0077fb4c See ya!
+
+; 0x0077fb6f …花菱……烈火！！
+0x0077fb6f ...Hanabishi... A raging fire!!
+
+; 0x0077fb8c 今度戦うときは………
+0x0077fb8c Next time we fight...
+
+; 0x0077fbb9 ひゃはははははは……！！
+0x0077fbb9 Hyahahahahahaha...!!
+
+; 0x0077fbd2 あ！　来た来たァ！
+0x0077fbd2 Ah! Here it comes!
+
+; 0x0077fc13 花菱烈火だ！
+0x0077fc13 Hanabishi Rekka!
+
+; 0x0077fc3c パパと融合しちゃう
+0x0077fc3c I'm going to fuse with my dad.
+
+; 0x0077fc5f なにィ！？
+0x0077fc5f What?!
+
+; 0x0077fc6a だったら、この先に
+0x0077fc6a In that case, up ahead...
+
+; 0x0077fc95 でも、会えないの！
+0x0077fc95 But I can't see him!
+
+; 0x0077fcd4 この先だな。オイ、てめぇ！
+0x0077fcd4 It's just up ahead. Hey, you!
+
+; 0x0077fd13 パパーっ！
+0x0077fd13 Papa!
+
+; 0x0077fd44 そしたらまた、煉華のこと
+0x0077fd44 Then again, about Renga.
+
+; 0x0077fd83 キャハハハーッ！
+0x0077fd83 Kyahahahaha!
+
+; 0x0077fdb8 でも、全然強くないね！
+0x0077fdb8 But you're not strong at all!
+
+; 0x0077fdfd くそっ……
+0x0077fdfd Damn it...
+
+; 0x0077fe08 おめーが女だから、
+0x0077fe08 Because you're a woman,
+
+; 0x0077fe41 時間くっちまった！
+0x0077fe41 Time's up!
+
+; 0x0077fe6a ふええ……
+0x0077fe6a Fweeh...
+
+; 0x0077fe81 強くなったな。烈火よ。
+0x0077fe81 You've gotten stronger. Blazing fire.
+
+; 0x0077febe 桜花殿もお主に力を
+0x0077febe Ouka-dono, you also have power.
+
+; 0x0077fee9 進むがよい。そして、
+0x0077fee9 Proceed. And...
+
+; 0x0077ff2e 烈火は
+0x0077ff2e The raging fire
+
+; 0x0077ff6f ウッス！　烈火！
+0x0077ff6f Hey! Flames!
+
+; 0x0077ffb8 煉華相手に迷いは禁物！
+0x0077ffb8 You mustn't hesitate against Renga!
+
+; 0x00780003 桜花殿もきっと、
+0x00780003 I'm sure Ouka-dono will, too
+
+; 0x007808e6 森光蘭だな！
+0x007808e6 It's Koran Mori!
+
+; 0x0078090b 誰だ？
+0x0078090b Who's that?
+
+; 0x00780928 勝手な事ばかり
+0x00780928 It's all selfish.
+
+; 0x00780965 小ざかしいゴミがぁ。
+0x00780965 A petty piece of trash.
+
+; 0x007809a0 そして私は最強の力を得た…
+0x007809a0 And I gained the strongest power...
+
+; 0x007809d7 なんだと！　てめぇ！！
+0x007809d7 What did you say!? You bastard!!
+
+; 0x007809ee 落ち着きなさい！　烈火！
+0x007809ee Calm down! Flames!
+
+; 0x00780a27 森光蘭に捕らわれ、
+0x00780a27 Koran Mori caught me,
+
+; 0x00780a58 今、森光蘭を倒せば
+0x00780a58 If we defeat Koran Mori now,
+
+; 0x00780a81 わかったぜ！
+0x00780a81 Got it!
+
+; 0x00780ac0 おう！
+0x00780ac0 Oh, yeah!
+
+; 0x00780ad7 なかなかやるではないか。
+0x00780ad7 Not bad, huh?
+
+; 0x00780b12 お前も炎が
+0x00780b12 You, too, have flames.
+
+; 0x00780b2f いいぞ！　いいぞ！！
+0x00780b2f Very good! Very good!!
+
+; 0x00780b6c そして私は、
+0x00780b6c And I...
+
+; 0x00780b9f 世界をわが手中に
+0x00780b9f The world is in my hands.
+
+; 0x00780bde ウォォォ！！
+0x00780bde Wow!!
+
+; 0x00780c17 ギャアアア！！　痛い！！
+0x00780c17 Gyaaaah!! Ow!!
+
+; 0x00780c48 煉華！　煉華は何処だ！？
+0x00780c48 Renga! Where is Renga?!
+
+; 0x00780c7b お前を助ける仲間は
+0x00780c7b The people who will help you
+
+; 0x00780cb4 過去の悪夢からの呪縛を
+0x00780cb4 The curse from the nightmares of the past.
+
+; 0x00780cf7 森光蘭を
+0x00780cf7 Koran Mori
+
+; 0x00780d10 くそおおおおぉっ！！
+0x00780d10 Damn iiiiiiiiiit!!
+
+; 0x00780d49 いや…！
+0x00780d49 No...!
+
+; 0x00780d8a お前らを倒せないのは
+0x00780d8a The reason I can't defeat you guys
+
+; 0x00780dd1 ふはははははは！！
+0x00780dd1 Bwahahahahahaha!!
+
+; 0x00780de4 逃がすか！！
+0x00780de4 I won't let you get away!!
+
+; 0x00780e11 逃がしませんよ…、
+0x00780e11 I won't let you get away...
+
+; 0x00780e32 紅麗！？
+0x00780e32 Crimson?!
+
+; 0x00780e3b 何！？　貴様…！！
+0x00780e3b What!? You bastard...!!
+
+; 0x00780e70 烈火…！
+0x00780e70 A raging fire!
+
+; 0x00780e93 何をモタついている。
+0x00780e93 What are you moping about?
+
+; 0x00780ed0 森光蘭の次は、
+0x00780ed0 After Koran Mori,
+
+; 0x00780efb なんだと！？
+0x00780efb What did you say?!
+
+; 0x00780f08 さあ、森光蘭…。
+0x00780f08 Come on, Koran Mori...
+
+; 0x00780f35 うっ。%/うっ。%/紅麗%/
+0x00780f35 Ugh. %/ugh. %/crimson %/
+
+; 0x00780f70 うぎゃああああああ！！
+0x00780f70 Ugyaaaaaaaaaaaa!!
+
+; 0x00780f87 火影…！！
+0x00780f87 Hokage...!!
+
+; 0x00780fc0 オイ、みんな。
+0x00780fc0 Hey, guys.
+
+; 0x00780fed 何、言ってんのさ！？
+0x00780fed What are you saying!?
+
+; 0x00781016 烈火兄ちゃん！
+0x00781016 Rekka-niichan!
+
+; 0x00781025 おおそうぢゃ！
+0x00781025 Oh, that's right!
+
+; 0x00781064 土門！　水鏡！
+0x00781064 Tsuchikado! Water mirror!
+
+; 0x0078109d …わかった。
+0x0078109d ...Okay.
+
+; 0x007810d0 柳さんに声をかけるのは
+0x007810d0 Calling out to Yanagi...
+
+; 0x0078110d 当たり前ぢゃ！！
+0x0078110d Of course it is!!
+
+; 0x0078111e 必ず、帰ってきなさい。
+0x0078111e Be sure to come back.
+
+; 0x0078113f おう！！
+0x0078113f Ooh!!
+
+; 0x00781148 さあて、
+0x00781148 Now then,
+
+; 0x00781173 貴様程度がよくここまで
+0x00781173 You're as good as I am.
+
+; 0x007811a0 また貴様の顔を見ることに
+0x007811a0 I'll see your face again.
+
+; 0x007811d7 そりゃ、
+0x007811d7 Well,
+
+; 0x007811f6 火影の名を汚す無能共。
+0x007811f6 Incompetents who disgrace the name of the Hokage.
+
+; 0x00781231 ふざけるなよ！
+0x00781231 Don't be ridiculous!
+
+; 0x00781264 しょってるモンのでかさは
+0x00781264 What's the size of the thing you're wearing?
+
+; 0x0078128f いつまでもいじけてると
+0x0078128f If you keep fiddling with it
+
+; 0x007812c0 フ……
+0x007812c0 Heh...
+
+; 0x007812df 貴様とは、
+0x007812df With you,
+
+; 0x0078131a だが、それは
+0x0078131a But that’s
+
+; 0x0078133b 紅麗。お前…。
+0x0078133b Crimson beauty. You...
+
+; 0x0078134a さらばだ！　烈火！！
+0x0078134a Farewell! Flame!!
+
+; 0x0078136d 紅麗！！
+0x0078136d Crimson beauty!!
+
+; 0x007813a4 しかたがねえ！
+0x007813a4 It can't be helped!
+
+; 0x007813c1 所詮貴様はゴミだ！
+0x007813c1 You're trash, after all!
+
+; 0x007813f2 くそ……
+0x007813f2 Damn it...
+
+; 0x0078140d よっしゃ！　いくぜ！
+0x0078140d Alright! Let's go!
+
+; 0x00781422 裂神！　頼むぜっ！！
+0x00781422 Slash! I'm counting on you!!
+
+; 0x00781447 うぎゃあああぁぁぁ！！
+0x00781447 Ugyaaaaaaaaaaa!!
+
+; 0x0078145e 烈火！　柳ちゃんを！！
+0x0078145e Flames! Yanagi!
+
+; 0x00781475 判ってる！！
+0x00781475 I know!!
+
+; 0x0078148a 崩れ始めてるっ！！
+0x0078148a It's starting to crumble!!
+
+; 0x007814bd よし！
+0x007814bd All right!
+
+; 0x007814ea 姫！　大丈夫か！？
+0x007814ea Princess! Are you all right?!
+
+; 0x007814fd ………。
+0x007814fd .........
+
+; 0x00781506 姫…！　姫ェッ！！
+0x00781506 Princess...! Princess!!
+
+; 0x00781519 烈火…くん…！！
+0x00781519 Flame... kun...!!
+
+; 0x0078152a すまなかったな。姫。
+0x0078152a I'm sorry, princess.
+
+; 0x0078154f ううん。烈火くんが
+0x0078154f No. It's Rekka.
+
+; 0x00781592 お、おう！　そうか！
+0x00781592 Y-Yeah! I see!
+
+; 0x007815b5 おーおー。
+0x007815b5 Whoa, whoa.
+
+; 0x007815d8 オレも風子サマが
+0x007815d8 Me too, Fuko-sama.
+
+; 0x00781611 風子が連れ去られる訳
+0x00781611 Fuko will be taken away.
+
+; 0x00781634 あーっ！
+0x00781634 Ahhh!
+
+; 0x0078165f なんでみんな
+0x0078165f Why is everyone here?
+
+; 0x0078168a 紅麗とは
+0x0078168a What is crimson?
+
+; 0x007816ad 最後にアイツ、また
+0x007816ad Last but not least, he's here again.
+
+; 0x007816f2 あいつのことだから
+0x007816f2 Knowing him,
+
+; 0x0078172b 姫も無事、助け出せたし！
+0x0078172b And we were able to rescue the princess!
+
+; 0x00781762 烈火くん…。
+0x00781762 Rekka-kun...
+
+; 0x0078176f なんじゃ？　姫。
+0x0078176f What is it, Princess?
+
+; 0x00781780 いつまでも
+0x00781780 Forever and ever.
+
+; 0x00781f9a オレも三日間で
+0x00781f9a In three days, too.
+
+; 0x00781fc1 しかしオレも、
+0x00781fc1 However, I also...
+
+; 0x00781ff4 あれっ！？
+0x00781ff4 Huh?!
+
+; 0x0078202b オレの訓練は実践派だ！
+0x0078202b My training is practical!
+
+; 0x0078205c おーい！　水鏡ィ！
+0x0078205c Hey! Water mirror!
+
+; 0x0078206f なんだ、土門か。
+0x0078206f Oh, it's just Tsuchikado.
+
+; 0x00782080 調子はどうだ！？
+0x00782080 How are you doing?!
+
+; 0x007820ab お前の閻水、
+0x007820ab Your Ensui,
+
+; 0x007820d2 本能バカの腐乱犬が…。
+0x007820d2 Instincts, stupid rotten dogs...
+
+; 0x007820e9 なんやと！　固羅！
+0x007820e9 What the hell! Kora!
+
+; 0x0078210c お前から、
+0x0078210c From you,
+
+; 0x00782139 で…。
+0x00782139 So...
+
+; 0x00782168 くそおおお！
+0x00782168 Damn iiiiiiit!
+
+; 0x00782175 みーちゃん！　どうしたぁ！
+0x00782175 Mii-chan! What's wrong?!
+
+; 0x007821a2 うぃー！　土門よ！
+0x007821a2 Ugh! It's Tsuchikado!
+
+; 0x007821e3 それを生かして
+0x007821e3 Let's make use of that.
+
+; 0x0078221c 土門は
+0x0078221c Tsuchikado
+
+; 0x0078225d ウッス！　土門。勝つには
+0x0078225d Hey, Tsuchikado. To win...
+
+; 0x007822a2 次に水鏡と勝負する時は
+0x007822a2 The next time we have a match with the water mirror
+
+; 0x007822df お主のとりえは
+0x007822df What about yours?
+
+; 0x0078231c よっしゃ！
+0x0078231c All right!
+
+; 0x0078233b 奴の鋼金暗器なんざ、
+0x0078233b His steel, gold, and secret weapon...
+
+; 0x00782374 あれっ、土門兄ちゃん！？
+0x00782374 Huh? Brother Tsuchikado?!
+
+; 0x0078239b お前の鋼金暗器とオレの
+0x0078239b Your steel, gold, and my secret weapon.
+
+; 0x007823d8 オレが勝つけどなあ
+0x007823d8 I'll win, though.
+
+; 0x007823fb やるだけ、無駄だと
+0x007823fb It's pointless to try.
+
+; 0x0078241a なんだと、さあ来やがれ！
+0x0078241a What did you say? Come on!
+
+; 0x00782433 しょうがないなあ。
+0x00782433 Guess there's no helping it.
+
+; 0x00782446 だから、いったじゃんかぁ。
+0x00782446 That's why I told you.
+
+; 0x00782477 ぬぉおおお！
+0x00782477 Nuoooohhh!
+
+; 0x007824a0 やっぱ嘴王の方が
+0x007824a0 After all, the Beaked King was the one
+
+; 0x007824d1 えええ〜〜っ！！
+0x007824d1 Whaaaaaaaat?!
+
+; 0x007824e2 土門よ！　なかなかどうして
+0x007824e2 It's Tsuchikado! Why are you doing this?
+
+; 0x0078252d たくみに動けるように
+0x0078252d So that I can move Takumi.
+
+; 0x00782570 土門は
+0x00782570 Tsuchikado
+
+; 0x007825b9 勝利はしたが
+0x007825b9 We won, but...
+
+; 0x007825e2 次に小金井と勝負する時は
+0x007825e2 The next time I play against Koganei...
+
+; 0x00782627 せっかくの魔導具が
+0x00782627 The magic tool I went through so much trouble to make
+
+; 0x0078264a むぅぅぅぅぅ、
+0x0078264a Muuuuu,
+
+; 0x00782677 ＳＯＤＯＭに行ったら
+0x00782677 I went to SODOM.
+
+; 0x007826b0 ふふふ…
+0x007826b0 Hehehe...
+
+; 0x007826d3 よっしゃ！　風子サマー！
+0x007826d3 All right! Fuko Summer!
+
+; 0x007826fe おーい、風子…
+0x007826fe Hey, Fuko...
+
+; 0x0078270d 先手必勝！
+0x0078270d First move wins!
+
+; 0x0078272a うわっ、なんだ！？
+0x0078272a Whoa, what?!
+
+; 0x00782761 なあーんだ。すごい形相で
+0x00782761 Whaaat? You look like you're about to die.
+
+; 0x007827a6 土門じゃないの！
+0x007827a6 It's not Tsuchikado!
+
+; 0x007827c9 ヒドいじゃないのぉ…
+0x007827c9 Isn't that terrible?
+
+; 0x007827ec まあ、そう怒るなって。
+0x007827ec Well, don't get so angry.
+
+; 0x00782817 ・・・・・・・ガックシ。
+0x00782817 Gakshi.
+
+; 0x00782830 あっはっはっは！
+0x00782830 Ah ha ha ha!
+
+; 0x00782867 土門に負けるなんて
+0x00782867 Losing to Tsuchikado...
+
+; 0x007828a2 ああっ！　風子サマ〜！%W1
+0x007828a2 Aaah! Fuko-sama~! %W1
+
+; 0x007828ed オッス！　土門！
+0x007828ed Hey, Tsuchikado!
+
+; 0x00782916 お主のパワーを
+0x00782916 Your power.
+
+; 0x0078294d 頑張って技を
+0x0078294d Good luck with the technique.
+
+; 0x0078296e 土門は
+0x0078296e Tsuchikado
+
+; 0x007829b1 まあまあの
+0x007829b1 Well, well, well.
+
+; 0x007829ec 次に風子と勝負する時は
+0x007829ec The next time we have a match with Fuko...
+
+; 0x00782a37 お主のパワーを
+0x00782a37 Your power.
+
+; 0x00782a60 まあまあの
+0x00782a60 Well, well, well.
+
+; 0x00782a9b お主にはまだ、
+0x00782a9b You're still...
+
+; 0x00782ace 今まで戦った奴らと
+0x00782ace With all the people I've fought so far
+
+; 0x00782b01 オレの実力も
+0x00782b01 And my skills, too.
+
+; 0x00782b26 やっぱ
+0x00782b26 I knew it.
+
+; 0x00782b49 これで勝てば火影のリーダー
+0x00782b49 If we win with this, we'll be the leader of the hokage.
+
+; 0x00782b90 さあ、いくぜー！
+0x00782b90 Come on, let's go!
+
+; 0x00782ba1 おい花菱！
+0x00782ba1 Hey, hanabishi!
+
+; 0x00782bd8 おい固羅！
+0x00782bd8 Hey, Kora!
+
+; 0x00782bff いくぞ！　花菱！
+0x00782bff Let's go! Hanabishi!
+
+; 0x00782c10 おいおい、
+0x00782c10 Hey, hey,
+
+; 0x00782c45 くそぉ〜〜っ！
+0x00782c45 Dammit~~~!
+
+; 0x00782c64 どーだ！　見たか！
+0x00782c64 What do you think!? Did you see it!?
+
+; 0x00782c87 今日から火影最強を
+0x00782c87 Starting today, the strongest of the hokage
+
+; 0x00782cc0 よっしゃ、集合場所に
+0x00782cc0 Alright, let's meet up at the meeting place.
+
+; 0x00783e12 オレ様が一番に
+0x00783e12 I'm the first one.
+
+; 0x00783e43 しかし、
+0x00783e43 However,
+
+; 0x00783e70 おーい！　土門！
+0x00783e70 Hey, Tsuchikado!
+
+; 0x00783e81 ありゃ！
+0x00783e81 Oh, my!
+
+; 0x00783ea0 土門が心配でさぁ。
+0x00783ea0 I'm worried about Tsuchikado.
+
+; 0x00783ecf そんな嬉しいこと言うなよ
+0x00783ecf Don't say such happy things.
+
+; 0x00783f0a モタモタしてると
+0x00783f0a When you're moping around
+
+; 0x00783f47 待ってくれよ〜！！
+0x00783f47 Wait a minute!!
+
+; 0x00783f5a キャーッ！！
+0x00783f5a Kyaaa!!
+
+; 0x00783f67 どうした！？　風子！%/
+0x00783f67 What's wrong!? Fuko! %/
+
+; 0x00783faa ……
+0x00783faa  ⁇ ... ⁇ "
+
+; 0x00783faf あれ？
+0x00783faf Huh?
+
+; 0x00783fe6 ……
+0x00783fe6  ⁇ ... ⁇ "
+
+; 0x00783feb どういうことだ！？
+0x00783feb What's the meaning of this?!
+
+; 0x00783ffe こういうことだ！
+0x00783ffe It's like this!
+
+; 0x0078401d やれやれ、土門殿。
+0x0078401d Good grief, Mr. Tsuchikado.
+
+; 0x00784056 やっぱり火影の足手まといで
+0x00784056 I really am a burden to the Hokage
+
+; 0x00784081 うおおおお！！
+0x00784081 Whoaaaaa!!
+
+; 0x0078409e 手こずらせやがって！
+0x0078409e You're giving me a hard time!
+
+; 0x007840db 固羅てめー、一体誰だ！？
+0x007840db Who the hell are you?!
+
+; 0x007840f4 土門……。
+0x007840f4 Tsuchikado...
+
+; 0x007840ff って、あらら風子じゃん？？
+0x007840ff Wait, isn't that Fuko?
+
+; 0x0078412e 助けてくれたの？
+0x0078412e You saved me?
+
+; 0x00784151 おーい土門！
+0x00784151 Hey, Tsuchikado!
+
+; 0x0078415e ん？　えええーっ！？
+0x0078415e Hm? Whaaaat?!
+
+; 0x00784191 何やってんの、土門。
+0x00784191 What are you doing, Tsuchikado?
+
+; 0x007841a6 早くいこうよ、土門。
+0x007841a6 Let's go, Tsuchikado.
+
+; 0x007841bb オイオイ、どっちが本物だ？
+0x007841bb Hey, hey, who's the real deal?
+
+; 0x007841ed 右が本物だ！
+0x007841ed The right one is real!
+
+; 0x0078421e 正体を見せろ、
+0x0078421e Show me who you really are,
+
+; 0x00784243 バカ！
+0x00784243 Idiot!
+
+; 0x0078424a 偽者はアッチ！
+0x0078424a The impostor is hot!
+
+; 0x00784259 あんた誰？
+0x00784259 Who are you?
+
+; 0x00784284 ストップ！　ストップ！
+0x00784284 Stop! Stop!
+
+; 0x007842c9 お前、何やってんだココで？
+0x007842c9 What are you doing here?
+
+; 0x007842e4 森光蘭を倒しに行くのを
+0x007842e4 To go defeat koran mori.
+
+; 0x00784313 この先からが本番でゴザル。
+0x00784313 From here on out, it's the real gozaru.
+
+; 0x00784340 おう！　じゃあまたな。
+0x00784340 Yeah! See you later.
+
+; 0x00784357 はてさて。
+0x00784357 Now, now.
+
+; 0x00784394 土門は、どっちに行くの？
+0x00784394 Which way are you going, Tsuchikado?
+
+; 0x007843b0 バイオノイドドームへ向かう
+0x007843b0 Head to the bionoid dome
+
+; 0x007843df オレは
+0x007843df I...
+
+; 0x00784406 何いってんの、土門！
+0x00784406 What are you saying, Tsuchikado?!
+
+; 0x0078443f だから土門はパルテノンね！
+0x0078443f That's why Tsuchikado is a Parthenon!
+
+; 0x0078445a オレは
+0x0078445a I...
+
+; 0x00784477 何いってんの、土門！
+0x00784477 What are you saying, Tsuchikado?!
+
+; 0x007844a6 だから土門は
+0x007844a6 That's why domon
+
+; 0x007844cb じゃぁ先に行くわ！
+0x007844cb Then I'll go on ahead!
+
+; 0x007844f2 風子サマー！
+0x007844f2 Fuko Summer!
+
+; 0x007844ff また一人になっちまったな。
+0x007844ff Looks like I'm alone again.
+
+; 0x00784542 ん？
+0x00784542 Hm?
+
+; 0x00784547 ようこそ、ＳＯＤＯＭへ。
+0x00784547 Welcome to SODOM.
+
+; 0x00784560 あんた誰？
+0x00784560 Who are you?
+
+; 0x0078456b 私は「死四天」の蛭湖。
+0x0078456b I am Hiruko of the Deadly Elite Four.
+
+; 0x007845a4 あんた、礼儀正しいな。
+0x007845a4 You're so polite.
+
+; 0x007845bb そんなことはないさ。
+0x007845bb That's not true.
+
+; 0x00784606 私の能力は己の血を武器と
+0x00784606 My ability is to use my own blood as a weapon
+
+; 0x00784639 私は戦いのエリートだ。
+0x00784639 I'm an elite in battle.
+
+; 0x00784664 君と戦えたことに感謝する。
+0x00784664 Thank you for fighting with you.
+
+; 0x0078467f うっ。
+0x0078467f Ugh.
+
+; 0x007846bc 行け。私の完敗だ。
+0x007846bc Go. It's my complete defeat.
+
+; 0x007846cf 輸血しな。吸血鬼。
+0x007846cf Transfusion of blood, vampire.
+
+; 0x00784706 少女を助けるために戦う。
+0x00784706 I will fight to save the girl.
+
+; 0x00784733 ああ。
+0x00784733 Yeah.
+
+; 0x0078474a 待て。
+0x0078474a Wait.
+
+; 0x00784777 あんがとよ。
+0x00784777 Thanks.
+
+; 0x00784790 やれやれ一人かぁ
+0x00784790 Oh man, she's alone.
+
+; 0x007847b9 ん？　なんだこの感じ。
+0x007847b9 Hm? What's this feeling?
+
+; 0x007847fc くんくん
+0x007847fc *sniff sniff*
+
+; 0x00784805 鈍いオレでも
+0x00784805 Even if I'm slow.
+
+; 0x00784836 エモノのニオイする！%/
+0x00784836 It smells like prey! %/
+
+; 0x00784871 やべぇ！！
+0x00784871 Crap!!
+
+; 0x00784892 オマエ%/　エモノ%/　狩る！
+0x00784892 You %/Evil %/ Hunt!
+
+; 0x007848ad オレはエモノじゃねぇ！
+0x007848ad I'm not your prey!
+
+; 0x007848e4 お前%/　弱い%/
+0x007848e4 You %/ Weak %/
+
+; 0x00784907 ぐああああ！
+0x00784907 Guaaaaaaah!
+
+; 0x00784914 ふーっ。
+0x00784914 Phew.
+
+; 0x0078493d 一時は、どうなることかと
+0x0078493d For a while, I wondered what would happen.
+
+; 0x00784974 土門さんじゃないですか！
+0x00784974 Isn't that Mr. Tsuchikado?
+
+; 0x0078498d おーっ！　最澄じゃねえか！
+0x0078498d Oh! If it isn't Saisumi!
+
+; 0x007849be ええ。
+0x007849be Yes.
+
+; 0x007849e7 おう！
+0x007849e7 Oh, yeah!
+
+; 0x007849ee 久しぶりですね。
+0x007849ee It's been a while, hasn't it?
+
+; 0x007849ff 嬉しいじゃねぇか。
+0x007849ff Aren't you happy?
+
+; 0x00784a12 土門さん。
+0x00784a12 Tsuchikadosan.
+
+; 0x00784a33 森光蘭とは、これが最後の
+0x00784a33 With Koran Mori, this is the last
+
+; 0x00784a76 うーっ！　うーっ！
+0x00784a76 Uu-! Uu-!
+
+; 0x00784a89 うわ！　まだやる気かあ！？
+0x00784a89 Whoa! You're still going for it?!
+
+; 0x00784aa4 後は私達に任せて
+0x00784aa4 Leave the rest to us.
+
+; 0x00784ac9 大丈夫か？
+0x00784ac9 Are you all right?
+
+; 0x00784ad4 オレ達に任せていけ！
+0x00784ad4 Leave it to us!
+
+; 0x00784ae9 お、おう！
+0x00784ae9 Y-Yeah!
+
+; 0x00784b0c 何のつもり？%/
+0x00784b0c What are you trying to do? %/
+
+; 0x00784b2b なんかやばそうだね
+0x00784b2b Sounds kinda bad.
+
+; 0x00784b3e 某が知る限り、裏麗最強で
+0x00784b3e As far as I know, he’s the strongest in the underworld
+
+; 0x00784b61 最澄！　気合入れていくぞ！
+0x00784b61 Saichou! Let's get fired up!
+
+; 0x00784b7c 僕に力を下さい。%/
+0x00784b7c Give me strength. %/
+
+; 0x00784ba7 まかせてきたが
+0x00784ba7 I'll take care of it.
+
+; 0x00784bc8 いや、あいつらなら
+0x00784bc8 No, they could do it.
+
+; 0x00784c05 またもや
+0x00784c05 Once again
+
+; 0x00784c35 研究所へ向かう
+0x00784c35 Head to the research facility
+
+; 0x00784c54 よっしゃー！
+0x00784c54 All right!
+
+; 0x00784c75 よっしゃー！
+0x00784c75 All right!
+
+; 0x00784c96 ここが研究所か。
+0x00784c96 So this is the laboratory.
+
+; 0x00784cb1 おろ？
+0x00784cb1 Oro?
+
+; 0x00784cde 裏麗死四天のキリトと
+0x00784cde Kirito of the Urarei Shiten
+
+; 0x00784cff ここに近づく者を
+0x00784cff Anyone who comes near here.
+
+; 0x00784d30 （おおっ、こんな
+0x00784d30 (Ooh, this is...)
+
+; 0x00784d5b （しかし、火車丸に
+0x00784d5b (However, to Kashamaru
+
+; 0x00784d8a あなたは
+0x00784d8a You're...
+
+; 0x00784dbb はい、そーです！　へへっ
+0x00784dbb Yes, that's right! Heheh.
+
+; 0x00784dee では、倒します。
+0x00784dee Then, I will defeat you.
+
+; 0x00784dff おいおい。あんたみたいな
+0x00784dff Hey, hey. Someone like you.
+
+; 0x00784e38 ご安心下さい。
+0x00784e38 Don't worry.
+
+; 0x00784e71 ギョエーッ！！
+0x00784e71 Guyoeh!!
+
+; 0x00784e80 うげーっ！？
+0x00784e80 Ugeeeh!?
+
+; 0x00784e8d さあ、死愚魔。
+0x00784e8d Come on, you fools of death.
+
+; 0x00784eb4 出力少し下げろって
+0x00784eb4 I told you to lower the output a little.
+
+; 0x00784ed9 管理局の人に
+0x00784ed9 Someone from the administration bureau.
+
+; 0x00784f04 ギョェーッ！！
+0x00784f04 Gyooooo!!
+
+; 0x00784f13 くっ！　うごけねぇ！%/
+0x00784f13 Ugh! I can't move! %/
+
+; 0x00784f58 ただのバケモノじゃねーか。
+0x00784f58 You're just a monster.
+
+; 0x00784f81 ああっ！　死愚魔がぁ…
+0x00784f81 Aaah! You're such a fool...
+
+; 0x00784f98 わりィな。オレはまだ先に
+0x00784f98 Sorry. I'm still ahead of you.
+
+; 0x00784fd7 次はここか。
+0x00784fd7 Here's the next one.
+
+; 0x00784fee 来た来た。
+0x00784fee It's here, it's here.
+
+; 0x00785015 どっかで聞いたことある
+0x00785015 I've heard that somewhere before.
+
+; 0x0078504e 貴様、まだ生きていたのか？
+0x0078504e You're still alive?
+
+; 0x00785071 お前達を倒すまでは、
+0x00785071 Until I defeat you,
+
+; 0x007850aa その減らず口を
+0x007850aa That unrelenting mouth.
+
+; 0x007850d5 ギャハハ！
+0x007850d5 Gyahaha!
+
+; 0x007850fc こんなスッキリしたのは
+0x007850fc I've never felt this refreshed.
+
+; 0x00785135 くそーっ！
+0x00785135 Damn it!
+
+; 0x00785164 てめえなんか
+0x00785164 You bastard.
+
+; 0x00785193 ぐぅぅ…
+0x00785193 Ugh...
+
+; 0x0078519c なんじゃこの
+0x0078519c What's with this guy?
+
+; 0x007851c3 あーっ！　来た来た！
+0x007851c3 Ahh! It's here, it's here!
+
+; 0x00785204 オレは石島土門だ！
+0x00785204 I'm ishijima domon!
+
+; 0x0078522b そんなこと
+0x0078522b That's not true.
+
+; 0x0078524a それにあなたは
+0x0078524a Besides, you...
+
+; 0x0078527d だからパパには会えないの！
+0x0078527d That's why I can't see my dad!
+
+; 0x00785298 本当にそうか、
+0x00785298 Is that really it,
+
+; 0x007852b7 やだ！
+0x007852b7 No!
+
+; 0x007852f0 ううっ……
+0x007852f0 Ugh...
+
+; 0x007852fb もう
+0x007852fb I've had enough.
+
+; 0x0078531a キャア…！！
+0x0078531a Kyaaa...!!
+
+; 0x0078534d ここまで強くなるとは
+0x0078534d I didn't expect you to be this strong.
+
+; 0x00785388 攻めも守りも
+0x00785388 Attack and defense.
+
+; 0x007853c5 土門は
+0x007853c5 Tsuchikado
+
+; 0x00785406 イヨーォ！　土門
+0x00785406 Iyoo! Tsuchikado!
+
+; 0x0078544d まず、会得できる必殺技は
+0x0078544d First, there’s the special move you’ll be able to learn
+
+; 0x00785486 しかし！　煉華相手には
+0x00785486 But! Against Renga...
+
+; 0x007854d1 そうすれば、お主の力が
+0x007854d1 If you do, your power will...
+
+; 0x00785d68 おうおう。
+0x00785d68 Whoa, whoa.
+
+; 0x00785d8f ダチを
+0x00785d8f A friend.
+
+; 0x00785dae 誰だ？
+0x00785dae Who's that?
+
+; 0x00785dcb とっとと起きやがれ！
+0x00785dcb Get up already!
+
+; 0x00785df6 小ざかしいゴミがぁ。
+0x00785df6 A petty piece of trash.
+
+; 0x00785e25 そして私は最強の力を得た…
+0x00785e25 And I gained the strongest power...
+
+; 0x00785e5c なっ！？
+0x00785e5c Wha!?
+
+; 0x00785e79 土門くん落ち着いて！
+0x00785e79 Tsuchikadokun, calm down!
+
+; 0x00785eae 森光蘭に捕らわれ、
+0x00785eae Koran Mori caught me,
+
+; 0x00785edf 今、森光蘭を倒せば
+0x00785edf If we defeat Koran Mori now,
+
+; 0x00785f08 わかったぜ！　陽炎ママ！
+0x00785f08 All right! Kageaki Mama!
+
+; 0x00785f39 よっしゃ！
+0x00785f39 All right!
+
+; 0x00785f54 なかなかやるではないか。
+0x00785f54 Not bad, huh?
+
+; 0x00785f8f だが所詮は下等生物。
+0x00785f8f But in the end, he was just a lowly creature.
+
+; 0x00785fc2 フハハハハ！！
+0x00785fc2 Mwahahahaha!!
+
+; 0x00785ff7 そして私はより、最強に
+0x00785ff7 And I'll be the strongest.
+
+; 0x0078601e ガハハハ！
+0x0078601e Gahahaha!
+
+; 0x00786057 ハハハハハハ！！
+0x00786057 Hahahahahaha!!
+
+; 0x00786068 ウォォォ！！
+0x00786068 Wow!!
+
+; 0x007860a1 ギャアアア！！　痛い！！
+0x007860a1 Gyaaaah!! Ow!!
+
+; 0x007860d2 煉華！　煉華は何処だ！？
+0x007860d2 Renga! Where is Renga?!
+
+; 0x00786105 お前を助ける奴は
+0x00786105 Someone to help you.
+
+; 0x00786142 過去の悪夢からの呪縛を
+0x00786142 The curse from the nightmares of the past.
+
+; 0x00786185 森光蘭を
+0x00786185 Koran Mori
+
+; 0x0078619e くそおおおおぉっ！！
+0x0078619e Damn iiiiiiiiiit!!
+
+; 0x007861d7 いや…！
+0x007861d7 No...!
+
+; 0x00786218 お前らを倒せないのは
+0x00786218 The reason I can't defeat you guys
+
+; 0x0078625f ふはははははは！！
+0x0078625f Bwahahahahahaha!!
+
+; 0x00786272 まっ！？
+0x00786272 Wha!?
+
+; 0x0078629b 逃がしませんよ…、
+0x0078629b I won't let you get away...
+
+; 0x007862bc 紅麗！？
+0x007862bc Crimson?!
+
+; 0x007862c5 何！？　貴様…！！
+0x007862c5 What!? You bastard...!!
+
+; 0x007862fa 烈火…！
+0x007862fa A raging fire!
+
+; 0x0078631d 何をモタついている。
+0x0078631d What are you moping about?
+
+; 0x0078635a 森光蘭の次は、
+0x0078635a After Koran Mori,
+
+; 0x00786385 なんだと！？
+0x00786385 What did you say?!
+
+; 0x00786392 さあ、森光蘭…。
+0x00786392 Come on, Koran Mori...
+
+; 0x007863bf うっ。%/うっ。%/紅麗%/
+0x007863bf Ugh. %/ugh. %/crimson %/
+
+; 0x007863fa うぎゃああああああ！！
+0x007863fa Ugyaaaaaaaaaaaa!!
+
+; 0x00786411 火影…！！
+0x00786411 Hokage...!!
+
+; 0x0078644a ここはオレが出る！
+0x0078644a I'm going out here!
+
+; 0x00786477 いや、ここはオレが…！
+0x00786477 No, I'll take care of this...!
+
+; 0x0078648e 土門くんの言うことを
+0x0078648e Do what do you say, Tsuchikado?
+
+; 0x007864b9 おお！
+0x007864b9 Oh!
+
+; 0x007864d8 あとで会おうぜ！
+0x007864d8 I'll see you later!
+
+; 0x007864e9 さぁて、まいったな。
+0x007864e9 Now then, this is bad.
+
+; 0x00786526 素直に敬意を表しておこう。
+0x00786526 I'll show her my honest respect.
+
+; 0x00786541 君は強くなった。
+0x00786541 You've gotten stronger.
+
+; 0x0078657c どこからでもかかって
+0x0078657c Call me from anywhere.
+
+; 0x0078659f オレ、生きてるのか！？
+0x0078659f Am I still alive!?
+
+; 0x007865d0 お！　やべえ！
+0x007865d0 Oh, crap!
+
+; 0x007865eb ん、紅麗は？？　いない……
+0x007865eb Hm? Where's Kurenai? She's not here...
+
+; 0x00786620 クッ。所詮は無能どもの
+0x00786620 Kuh. In the end, they're just incompetents.
+
+; 0x00786661 よっしゃ！　いくぜ！
+0x00786661 Alright! Let's go!
+
+; 0x00786676 裂神！　頼むぜっ！！
+0x00786676 Slash! I'm counting on you!!
+
+; 0x0078669b うぎゃあああぁぁぁ！！
+0x0078669b Ugyaaaaaaaaaaa!!
+
+; 0x007866b2 烈火！　柳ちゃんを！！
+0x007866b2 Flames! Yanagi!
+
+; 0x007866c9 判ってる！！
+0x007866c9 I know!!
+
+; 0x007866de 崩れ始めてるっ！！
+0x007866de It's starting to crumble!!
+
+; 0x00786711 よし！
+0x00786711 All right!
+
+; 0x0078673e 姫！　大丈夫か！？
+0x0078673e Princess! Are you all right?!
+
+; 0x00786751 ………。
+0x00786751 .........
+
+; 0x0078675a 姫…！　姫ェッ！！
+0x0078675a Princess...! Princess!!
+
+; 0x0078676d 烈火…くん…！！
+0x0078676d Flame... kun...!!
+
+; 0x0078677e おーっ！
+0x0078677e Ohhh!
+
+; 0x007867ad 紅麗はどうした！？
+0x007867ad What happened to Crimson?!
+
+; 0x007867c0 ケリをつけた後
+0x007867c0 After we settled the matter,
+
+; 0x00786805 そうか…。
+0x00786805 I see...
+
+; 0x00786810 あいつのことだから
+0x00786810 Knowing him,
+
+; 0x00786849 土門くん、頑張ったわね。
+0x00786849 You did your best, Tsuchikado-kun.
+
+; 0x00786862 あなたがいなければ、
+0x00786862 Without you,
+
+; 0x00786893 へへっ、そうか！？
+0x00786893 Hehe, really?!
+
+; 0x007868ca やるじゃん！
+0x007868ca Not bad!
+
+; 0x007868fb 腐乱犬も
+0x007868fb Rotten dogs too.
+
+; 0x00786920 オイオイ、みーちゃん！
+0x00786920 Hey hey, Mii-chan!
+
+; 0x00786969 土門くん。
+0x00786969 Tsuchikado-kun.
+
+; 0x00786986 へへへ！
+0x00786986 Heh heh heh!
+
+; 0x007869a5 土門！
+0x007869a5 Tsuchikado!
+
+; 0x007869c0 なあに！
+0x007869c0 What?!
+
+; 0x007869ef 土門！
+0x007869ef Tsuchikado!
+
+; 0x00786a0a 風子サマ〜♪
+0x00786a0a Fuko-sama~♪
+
+; 0x00786a2d ああ。知ってるよ、土門。
+0x00786a2d Yeah. I know, Tsuchikado.
+
+; 0x00786a46 じゃあ、ご褒美に
+0x00786a46 Well, as a reward.
+
+; 0x00786a71 ドカッ！！　バキッ！！
+0x00786a71 *thud*!! *thud*!!
+
+; 0x00786a88 調子に乗ってんじゃないよ！
+0x00786a88 Don't get cocky!
+
+; 0x00786aa3 さあ、みんな！
+0x00786aa3 Come on, guys!
+
+; 0x00786ac0 風子サマ〜…ッ！！
+0x00786ac0 Fuko-sama~...!!
+
+; 0x00787298 三日間か…。
+0x00787298 Three days, huh...
+
+; 0x007872c9 私はもっと強く
+0x007872c9 I want to be stronger.
+
+; 0x00787306 誰か手合わせしてくれると
+0x00787306 That someone would spar with me.
+
+; 0x00787339 あっ！
+0x00787339 Ah!
+
+; 0x00787370 たぁーっ！！
+0x00787370 Taaaa!!
+
+; 0x0078737d うわっ！　何！？　何！？
+0x0078737d Whoa! What?! What?!
+
+; 0x00787396 あれっ、おかしいなあ…。
+0x00787396 Huh? That's weird...
+
+; 0x007873db どーだ！
+0x007873db What do you think?!
+
+; 0x007873f8 カオリンも
+0x007873f8 And Kaorin.
+
+; 0x00787427 風子姉ちゃん…？？
+0x00787427 Fuko-neechan...??
+
+; 0x00787456 元気そうじゃの！　風子！
+0x00787456 You look well, Fuko!
+
+; 0x00787491 魔導具を使いこなして
+0x00787491 She’d mastered using magic tools
+
+; 0x007874c4 風子は
+0x007874c4 Fuko...
+
+; 0x00787503 みごとな勝利じゃったな。
+0x00787503 That was a splendid victory.
+
+; 0x00787526 じゃが、少し時間が
+0x00787526 But there's a little time.
+
+; 0x00787551 次に小金井と勝負する時は
+0x00787551 The next time I play against Koganei...
+
+; 0x0078758e よしよし。
+0x0078758e All right, all right.
+
+; 0x007875c5 あ！　みーちゃん発見！
+0x007875c5 Ah! I found Mii-chan!
+
+; 0x0078760a とおりゃーっ！！
+0x0078760a Passing through!!
+
+; 0x0078761b むっ！？
+0x0078761b Mm?!
+
+; 0x00787624 あーれぇ…。
+0x00787624 Oh, huh...
+
+; 0x00787653 風子！！
+0x00787653 Fuko!!
+
+; 0x0078767a ええーっ……。
+0x0078767a Whaaat...?
+
+; 0x0078769f 元気づけてあげようと
+0x0078769f Trying to cheer her up.
+
+; 0x007876c4 心配いらない。
+0x007876c4 There's no need to worry.
+
+; 0x007876e3 …ん。わかった。
+0x007876e3 ...Okay. Got it.
+
+; 0x00787712 なーにィ、みーちゃん…。
+0x00787712 What is it, Mii-chan...?
+
+; 0x00787751 いきなりじゃ、
+0x00787751 It's not sudden,
+
+; 0x00787782 負けたくせに〜〜！
+0x00787782 Even though you lost~!
+
+; 0x007877bf そのぶんだと、まだ
+0x007877bf For that, I'm not done yet.
+
+; 0x007877f2 くっ……。
+0x007877f2 Ugh...
+
+; 0x007877fd ウィーッス！　風子！
+0x007877fd We're here! Fuko!
+
+; 0x0078782a 魔導具の使い方も
+0x0078782a And how to use magic tools.
+
+; 0x0078784f これなら、ふたつ使っても
+0x0078784f With this, even if I use two,
+
+; 0x00787892 風子は
+0x00787892 Fuko...
+
+; 0x007878d7 ウッス！　風子よ！
+0x007878d7 Hey, Fuko!
+
+; 0x00787902 次に水鏡と勝負する時は
+0x00787902 The next time we have a match with the water mirror
+
+; 0x0078792f そして、
+0x0078792f And then...
+
+; 0x00787960 次は、と……。
+0x00787960 “Next,” I said...
+
+; 0x0078796f うわっ！　何！？
+0x0078796f Whoa! What?!
+
+; 0x00787990 きっと森の手先に
+0x00787990 I'm sure he's a pawn of the forest.
+
+; 0x007879c9 先手必勝！
+0x007879c9 First move wins!
+
+; 0x007879e6 うわっ、なんだ！？
+0x007879e6 Whoa, what?!
+
+; 0x00787a1d くそっ！
+0x00787a1d Damn it!
+
+; 0x00787a50 えっ？　なにか言いました？
+0x00787a50 Huh? Did you say something?
+
+; 0x00787a89 鍛え方が足りないわ！！
+0x00787a89 I don't have enough training!!
+
+; 0x00787ab4 そんなぁー……
+0x00787ab4 No waaay...
+
+; 0x00787ac3 なあーんだ。すごい形相で
+0x00787ac3 Whaaat? You look like you're about to die.
+
+; 0x00787b08 土門じゃないの！
+0x00787b08 It's not Tsuchikado!
+
+; 0x00787b2b ヒドいじゃないのぉ…
+0x00787b2b Isn't that terrible?
+
+; 0x00787b4e まあ、そう怒るなって。
+0x00787b4e Well, don't get so angry.
+
+; 0x00787b79 ・・・・・・・ガックシ。
+0x00787b79 Gakshi.
+
+; 0x00787b92 頑張っとるのォ！　風子！
+0x00787b92 I'm doing my best! Fuko!
+
+; 0x00787bcd お主のパワーを
+0x00787bcd Your power.
+
+; 0x00787c0c 風子は
+0x00787c0c Fuko...
+
+; 0x00787c4d あっぱれじゃ。風子。
+0x00787c4d That's a shame, Fuko.
+
+; 0x00787c84 せっかく必殺技を
+0x00787c84 I went to all the trouble of using my special move
+
+; 0x00787cc3 魔導具も使いこなせなければ
+0x00787cc3 If you can’t even use a magic tool, you’ll never be able to do it again
+
+; 0x00787d00 次に土門と勝負する時は
+0x00787d00 The next time we have a match with Tsuchikado...
+
+; 0x00787d41 あっぱれじゃ。風子。
+0x00787d41 That's a shame, Fuko.
+
+; 0x00787d78 お主は、まだ
+0x00787d78 You're still...
+
+; 0x00787da9 今までに勝負した奴らと
+0x00787da9 I've played against people I've played against so far.
+
+; 0x00787dee やっぱり烈火と
+0x00787dee As I thought, there's a raging fire
+
+; 0x00787e23 柳のことで
+0x00787e23 It's about Yanagi.
+
+; 0x00787e58 はーい！　烈火！
+0x00787e58 Yes! Flames!
+
+; 0x00787e77 おう！　風子じゃねぇか！
+0x00787e77 Hey! If it isn't Fuko!
+
+; 0x00787e9e 一発！　気合入れて
+0x00787e9e One shot! Give it your all.
+
+; 0x00787edf 望むところだ！
+0x00787edf That's exactly what I want!
+
+; 0x00787f00 本気出してんのか？　風子。
+0x00787f00 Are you serious, Fuko?
+
+; 0x00787f3f やっぱり、烈火…。
+0x00787f3f It really is a raging fire...
+
+; 0x00787f7c うっせーっ！
+0x00787f7c Shut up!
+
+; 0x00787f9b そんなんじゃ、
+0x00787f9b It's not like that,
+
+; 0x00787fc2 私も死ぬほど頑張るからさ！
+0x00787fc2 I'll do my best to die too!
+
+; 0x00787feb …おう！
+0x00787feb ...Yeah!
+
+; 0x0078800a さってと。
+0x0078800a Now then.
+
+; 0x00788fca うっし！
+0x00788fca All right!
+
+; 0x00788ffd 待ちな！
+0x00788ffd Wait!
+
+; 0x00789006 あり？
+0x00789006 Huh?
+
+; 0x0078901b なーんて言ってる
+0x0078901b Just kidding.
+
+; 0x0078904c この先に行きたかったら
+0x0078904c If you want to go on ahead
+
+; 0x00789077 へへーん！　上等！
+0x00789077 Heheh! Fine!
+
+; 0x0078908a 何処の誰だか知らないけど、
+0x0078908a I don't know who it is, but...
+
+; 0x007890cb どうしたでゴザル、風子殿。
+0x007890cb What's wrong, Gozaru, Fuko-dono?
+
+; 0x00789114 某に負けるようでは
+0x00789114 If I lose to a certain someone...
+
+; 0x00789159 んんんっ…！！
+0x00789159 Nnnngh...!!
+
+; 0x00789168 イエーイ！
+0x00789168 Yay!
+
+; 0x007891a3 あいたたた…
+0x007891a3 Owowowowow...
+
+; 0x007891c4 さすが、
+0x007891c4 As expected,
+
+; 0x007891e1 アンタ火車丸じゃないの。
+0x007891e1 Aren't you Kashamaru?
+
+; 0x00789216 風子殿たちの
+0x00789216 Fuko-dono's group
+
+; 0x0078923b じゃ、なんで、
+0x0078923b Then, why...
+
+; 0x0078926e ちょっとした挨拶でゴザル。
+0x0078926e Just a little greeting, Gozaru.
+
+; 0x00789299 ここから先は本当の敵が
+0x00789299 From here on out, the real enemy
+
+; 0x007892e2 うん！　ありがと！
+0x007892e2 Yeah! Thanks!
+
+; 0x00789301 んー、分かれ道だ。
+0x00789301 Hmm, it's a fork in the road.
+
+; 0x00789329 バイオノイドドームへ向かう
+0x00789329 Head to the bionoid dome
+
+; 0x00789358 んじゃ！
+0x00789358 See ya!
+
+; 0x0078937b なんだろ？
+0x0078937b I wonder what it is?
+
+; 0x0078939a ようこそ、ＳＯＤＯＭへ。
+0x0078939a Welcome to SODOM.
+
+; 0x007893b3 はじめまして。
+0x007893b3 Nice to meet you.
+
+; 0x007893ec 礼儀正しいね、アンタ。
+0x007893ec You're so polite.
+
+; 0x00789427 そうか。
+0x00789427 I see.
+
+; 0x00789458 知ってるンなら話は早いね。
+0x00789458 If you know, that makes things easier.
+
+; 0x007894a1 断る。
+0x007894a1 I refuse.
+
+; 0x007894d2 そんじゃあ、力ずくだ！
+0x007894d2 All right, let's do this by force!
+
+; 0x007894fd 手加減など無用！
+0x007894fd There's no need to hold back!
+
+; 0x00789526 さすが風神の使い手だ。
+0x00789526 That's the Anemo Archon for you.
+
+; 0x00789559 こいつ…っ！
+0x00789559 This guy...!
+
+; 0x0078957e 行け、火影の者…。
+0x0078957e Go, Hokage...
+
+; 0x0078959f ふむ。なかなかいい腕だけど
+0x0078959f Hmm. He's pretty good, though.
+
+; 0x007895e0 風子サマーッ！！
+0x007895e0 Fuko Summer!!
+
+; 0x007895f1 うわっ！
+0x007895f1 Whoa!
+
+; 0x00789616 風子サマが心配で
+0x00789616 I was worried about Fuko-sama.
+
+; 0x0078963d …って、なんでぇ。
+0x0078963d ...Wait, why?
+
+; 0x00789666 遊んでるヒマはないの！
+0x00789666 I don't have time to play!
+
+; 0x00789693 アイ！　風子サマ！
+0x00789693 Ai! Fuko-sama!
+
+; 0x007896a6 なーんか
+0x007896a6 I don't know.
+
+; 0x007896d1 ……？
+0x007896d1 ......?
+
+; 0x007896f0 フーッ！！　お前！
+0x007896f0 Phew!! You!
+
+; 0x0078971b 何、コイツ…！？
+0x0078971b What's with this guy...!?
+
+; 0x00789756 ヒャヒャヒャヒャ！！
+0x00789756 Hyahyahyahya!!
+
+; 0x0078979d やっばー……
+0x0078979d This is bad...
+
+; 0x007897c6 倒す！　火影！
+0x007897c6 Defeat! Hokage!
+
+; 0x00789809 だめじゃん……。
+0x00789809 It's no good...
+
+; 0x0078984c ヒャッヒャッヒャ！！
+0x0078984c Hyah hyah hyah!!
+
+; 0x00789861 ヒャヒャヒャヒャ！
+0x00789861 Hyahyahyahya!
+
+; 0x007898a8 なんな…ん…
+0x007898a8 What the... Hmm...
+
+; 0x007898cb ふう…
+0x007898cb *sigh*...
+
+; 0x007898e6 風子サマーッ！！
+0x007898e6 Fuko Summer!!
+
+; 0x007898f7 うわっ！
+0x007898f7 Whoa!
+
+; 0x0078991a 風子サマが心配で
+0x0078991a I was worried about Fuko-sama.
+
+; 0x00789941 …って、なんでぇ。
+0x00789941 ...Wait, why?
+
+; 0x0078996a 遊んでるヒマはないの！
+0x0078996a I don't have time to play!
+
+; 0x00789997 アイ！　風子サマ！
+0x00789997 Ai! Fuko-sama!
+
+; 0x007899aa おっとっと！
+0x007899aa Whoops!
+
+; 0x007899eb オォオォオォ…！！！
+0x007899eb Ohhhhhhhhhhhh...!!!
+
+; 0x00789a24 また、分かれ道だな。
+0x00789a24 Another fork in the road.
+
+; 0x00789a45 時間が無いから、
+0x00789a45 We don't have much time,
+
+; 0x00789a84 研究所へ向かう
+0x00789a84 Head to the research facility
+
+; 0x00789aa3 よし！　私は研究所へ行く！
+0x00789aa3 All right! I'm going to the lab!
+
+; 0x00789ae8 ウッス！
+0x00789ae8 Hey, pal!
+
+; 0x00789b07 よし！　私は貯水池へ行く！
+0x00789b07 All right! I'm going to the reservoir!
+
+; 0x00789b4c ウッス！
+0x00789b4c Hey, pal!
+
+; 0x00789b6b ……って。
+0x00789b6b ...Wait.
+
+; 0x00789b8a こっちかな…
+0x00789b8a This way, maybe...
+
+; 0x00789bb7 グギャーッ！！
+0x00789bb7 Gugyaaaa!!
+
+; 0x00789bc6 ようこそ、風子さん。
+0x00789bc6 Welcome, Fuko-san.
+
+; 0x00789c03 あ、アンタ……
+0x00789c03 Y-You...
+
+; 0x00789c3c グギャギャギャーッ！！！
+0x00789c3c Gyaaaaaaaaaa!!!
+
+; 0x00789c55 うわーっ！！
+0x00789c55 Wow!!
+
+; 0x00789c8a ドドドドドドド…！！！
+0x00789c8a Thud, thud, thud, thud...!!!
+
+; 0x00789caf 大丈夫ですか？
+0x00789caf Are you all right?
+
+; 0x00789cca あてててて…。
+0x00789cca I'm counting on you...
+
+; 0x00789ced 助けにまいりました。
+0x00789ced I'm here to help.
+
+; 0x00789d10 雷覇くん！？
+0x00789d10 Raiha-kun?!
+
+; 0x00789d1d あなたは……！
+0x00789d1d You're...!
+
+; 0x00789d36 まぁ…いいです。
+0x00789d36 Well... that's fine.
+
+; 0x00789d73 聞いて下さい、風子さん。
+0x00789d73 Please listen, Fuko-san.
+
+; 0x00789dbc 雷覇……くん……？
+0x00789dbc Raiha...kun...?
+
+; 0x00789dcf 私の助けが要りますか…？
+0x00789dcf Do you need my help...?
+
+; 0x00789df6 ……！！
+0x00789df6 ...!!
+
+; 0x00789dff ううん、いらないよ！
+0x00789dff No, I don't need it!
+
+; 0x00789e34 ……ハイ。
+0x00789e34 ......yes.
+
+; 0x00789e55 …………ちょっと…。
+0x00789e55 .........Hey...
+
+; 0x00789e6a 無視されるのって
+0x00789e6a Being ignored...
+
+; 0x00789e95 風子さん。あなたは
+0x00789e95 Fuko. You're...
+
+; 0x00789ed0 死愚魔！！
+0x00789ed0 Death Fool!!
+
+; 0x00789efd ギョェーッ！！！
+0x00789efd Gyaaaaa!!!
+
+; 0x00789f0e アンタの相手は私！
+0x00789f0e I'm your opponent!
+
+; 0x00789f41 南無阿弥陀仏…。
+0x00789f41 Namu Amida Buddha...
+
+; 0x00789f52 グギャギャギャ
+0x00789f52 Gugyagyagya
+
+; 0x00789f75 くっ……そぉ……
+0x00789f75 Damn...it...
+
+; 0x00789f86 やったね！
+0x00789f86 You did it!
+
+; 0x00789f9b 死愚魔が…
+0x00789f9b The Death Fool...
+
+; 0x00789fc4 見てくれたァ！？
+0x00789fc4 Did you see that?!
+
+; 0x0078a001 ま、いっか。
+0x0078a001 Well, whatever.
+
+; 0x0078a022 風子さん……。
+0x0078a022 Fuko-san...
+
+; 0x0078a031 戦いはこれからもっと
+0x0078a031 The battle will be more from now on.
+
+; 0x0078a076 ここの部屋かな？
+0x0078a076 Is this the room?
+
+; 0x0078a0af …なんだ。
+0x0078a0af ...What?
+
+; 0x0078a0d2 ざーんねんでした。
+0x0078a0d2 It was a shame.
+
+; 0x0078a107 …まあ、いいか…
+0x0078a107 ...Well, whatever...
+
+; 0x0078a142 ひとりずつなら
+0x0078a142 One at a time.
+
+; 0x0078a169 オイ、固羅！！
+0x0078a169 Hey, Kora!!
+
+; 0x0078a19a 甘く見てると
+0x0078a19a I underestimated you.
+
+; 0x0078a1bb ふざけるなよ…てめぇ。
+0x0078a1bb Don't screw with me... you bastard.
+
+; 0x0078a1fa でもなぁ…
+0x0078a1fa But you know...
+
+; 0x0078a23b アンタと話してると
+0x0078a23b When I was talking to you
+
+; 0x0078a26a そろそろいいでしょ？
+0x0078a26a Isn't it about time?
+
+; 0x0078a28f いうじゃねぇか……
+0x0078a28f That's what I'm saying...
+
+; 0x0078a2ce それはこっちの
+0x0078a2ce That's my...
+
+; 0x0078a2f5 ぎゃはははは！
+0x0078a2f5 Gyahahahahaha!
+
+; 0x0078a320 やっぱりおめぇらは
+0x0078a320 As I thought, you guys...
+
+; 0x0078a357 な…にぉ……！
+0x0078a357 Wha... wha...!
+
+; 0x0078a366 うっし！　終了！
+0x0078a366 Alright! It's over!
+
+; 0x0078a377 うおおぉぉ…っ！！
+0x0078a377 Whoaaaaaaaa...!!
+
+; 0x0078a3a2 アンタ、そんなんじゃ
+0x0078a3a2 You're not like that.
+
+; 0x0078a3dd あ！　来た来たァ！
+0x0078a3dd Ah! Here it comes!
+
+; 0x0078a41e 風神使い、霧沢風子！
+0x0078a41e The Wind God User, Fuko Kirisawa!
+
+; 0x0078a44f パパと融合しちゃう
+0x0078a44f I'm going to fuse with my dad.
+
+; 0x0078a48e でも、会えないの！
+0x0078a48e But I can't see him!
+
+; 0x0078a4cd 言いたいことは言った？
+0x0078a4cd Did you say what you wanted to say?
+
+; 0x0078a508 パパーっ！　火影の人
+0x0078a508 Papa! Hokage!
+
+; 0x0078a535 そしたらまた、煉華のこと
+0x0078a535 Then again, about Renga.
+
+; 0x0078a574 キャハハハーッ！
+0x0078a574 Kyahahahaha!
+
+; 0x0078a5a9 火影の人倒したよーッ！！
+0x0078a5a9 I defeated the Hokage!!
+
+; 0x0078a5d2 ううっ……
+0x0078a5d2 Ugh...
+
+; 0x0078a5dd うっし！
+0x0078a5dd All right!
+
+; 0x0078a5fc キャア…！
+0x0078a5fc Kyaa...!
+
+; 0x0078a62d たいしたものじゃ！
+0x0078a62d Not bad at all!
+
+; 0x0078a674 お主の風神も
+0x0078a674 And your Anemo Archon.
+
+; 0x0078a6a9 心して進むがよい。
+0x0078a6a9 You may proceed with caution.
+
+; 0x0078a6c4 風子は
+0x0078a6c4 Fuko...
+
+; 0x0078a705 見事強くなったな。
+0x0078a705 You've gotten pretty strong.
+
+; 0x0078a750 煉華相手に情けは無用！
+0x0078a750 There's no need to show mercy against Renga!
+
+; 0x0078a79f 魔導具は必ず
+0x0078a79f Magical tools must be used
+
+; 0x0078b002 森光蘭だね。
+0x0078b002 It's Koran Mori.
+
+; 0x0078b02b 誰だ？
+0x0078b02b Who's that?
+
+; 0x0078b048 柳は何処！？
+0x0078b048 Where's Yanagi?!
+
+; 0x0078b071 小ざかしいゴミがぁ。
+0x0078b071 A petty piece of trash.
+
+; 0x0078b0ac そして私は最強の力を得た…
+0x0078b0ac And I gained the strongest power...
+
+; 0x0078b0e3 なんだと！？
+0x0078b0e3 What did you say?!
+
+; 0x0078b100 落ち着いて！　風子！
+0x0078b100 Calm down, Fuko!
+
+; 0x0078b135 森光蘭に捕らわれ、
+0x0078b135 Koran Mori caught me,
+
+; 0x0078b166 今、森光蘭を倒せば
+0x0078b166 If we defeat Koran Mori now,
+
+; 0x0078b18f わかった！
+0x0078b18f All right!
+
+; 0x0078b1a2 あたしがこいつを
+0x0078b1a2 I'll take this one.
+
+; 0x0078b1dd よっしゃ！
+0x0078b1dd All right!
+
+; 0x0078b1f8 なかなかやるではないか。
+0x0078b1f8 Not bad, huh?
+
+; 0x0078b233 だが所詮は下等生物。
+0x0078b233 But in the end, he was just a lowly creature.
+
+; 0x0078b266 フハハハハ！！
+0x0078b266 Mwahahahaha!!
+
+; 0x0078b29d そして私は、
+0x0078b29d And I...
+
+; 0x0078b2d0 世界をわが手中に
+0x0078b2d0 The world is in my hands.
+
+; 0x0078b30f ウォォォ！！
+0x0078b30f Wow!!
+
+; 0x0078b348 ギャアアア！！　痛い！！
+0x0078b348 Gyaaaah!! Ow!!
+
+; 0x0078b379 煉華！　煉華は何処だ！？
+0x0078b379 Renga! Where is Renga?!
+
+; 0x0078b3ac あんたを助ける仲間は
+0x0078b3ac My friends who will help you
+
+; 0x0078b3ef 過去の悪夢からの呪縛を
+0x0078b3ef The curse from the nightmares of the past.
+
+; 0x0078b432 森光蘭を
+0x0078b432 Koran Mori
+
+; 0x0078b44b くそおおおおぉっ！！
+0x0078b44b Damn iiiiiiiiiit!!
+
+; 0x0078b484 いや…！
+0x0078b484 No...!
+
+; 0x0078b4c5 お前らを倒せないのは
+0x0078b4c5 The reason I can't defeat you guys
+
+; 0x0078b50c ふはははははは！！
+0x0078b50c Bwahahahahahaha!!
+
+; 0x0078b51f まっ！？
+0x0078b51f Wha!?
+
+; 0x0078b548 逃がしませんよ…、
+0x0078b548 I won't let you get away...
+
+; 0x0078b569 紅麗！？
+0x0078b569 Crimson?!
+
+; 0x0078b572 何！？　貴様…！！
+0x0078b572 What!? You bastard...!!
+
+; 0x0078b5a7 烈火…！
+0x0078b5a7 A raging fire!
+
+; 0x0078b5ca 何をモタついている。
+0x0078b5ca What are you moping about?
+
+; 0x0078b607 森光蘭の次は、
+0x0078b607 After Koran Mori,
+
+; 0x0078b632 なんだと！？
+0x0078b632 What did you say?!
+
+; 0x0078b63f さあ、森光蘭…。
+0x0078b63f Come on, Koran Mori...
+
+; 0x0078b66c うっ。%/うっ。%/紅麗%/
+0x0078b66c Ugh. %/ugh. %/crimson %/
+
+; 0x0078b6a7 うぎゃああああああ！！
+0x0078b6a7 Ugyaaaaaaaaaaaa!!
+
+; 0x0078b6be 火影…！！
+0x0078b6be Hokage...!!
+
+; 0x0078b6f7 ここは私がやるわ！
+0x0078b6f7 I'll take care of this!
+
+; 0x0078b728 いや、ここはオレが…！
+0x0078b728 No, I'll take care of this...!
+
+; 0x0078b73f 風子の言うことを
+0x0078b73f Do what Fuko says.
+
+; 0x0078b766 おお！
+0x0078b766 Oh!
+
+; 0x0078b785 風子ちゃんに
+0x0078b785 To Fuko-chan.
+
+; 0x0078b7ba 貴様がひとりで、
+0x0078b7ba You're alone,
+
+; 0x0078b7eb 今、私はひとりじゃない！
+0x0078b7eb I'm not alone right now!
+
+; 0x0078b824 後ろで声援をとばし、
+0x0078b824 I cheered behind me.
+
+; 0x0078b861 アンタが強いのは判ってる。
+0x0078b861 I know you're strong.
+
+; 0x0078b89a 雷覇の持つ雷神と
+0x0078b89a The thunder god wielded by the thunder lord
+
+; 0x0078b8bb それを何処まで
+0x0078b8bb How far did you go with that?
+
+; 0x0078b8dc 見せてもらおう…。
+0x0078b8dc Let's see it...
+
+; 0x0078b90d いざ、勝負！！
+0x0078b90d Come on, let's fight!!
+
+; 0x0078b91c ん！
+0x0078b91c Mm!
+
+; 0x0078b933 ひょっとして
+0x0078b933 Could it be...
+
+; 0x0078b964 うわっとっと。
+0x0078b964 Whoops.
+
+; 0x0078b995 紅麗は…いないや。
+0x0078b995 There's... no crimson beauty.
+
+; 0x0078b9c6 クッ。所詮は無能どもの
+0x0078b9c6 Kuh. In the end, they're just incompetents.
+
+; 0x0078ba07 よっしゃ！　いくぜ！
+0x0078ba07 Alright! Let's go!
+
+; 0x0078ba1c 裂神！　頼むぜっ！！
+0x0078ba1c Slash! I'm counting on you!!
+
+; 0x0078ba41 うぎゃあああぁぁぁ！！
+0x0078ba41 Ugyaaaaaaaaaaa!!
+
+; 0x0078ba58 烈火！　柳をお願い！！
+0x0078ba58 Flames! Willows, please!!
+
+; 0x0078ba6f 判ってる！！
+0x0078ba6f I know!!
+
+; 0x0078ba84 崩れ始めてるっ！！
+0x0078ba84 It's starting to crumble!!
+
+; 0x0078bab7 よし！
+0x0078bab7 All right!
+
+; 0x0078bae4 姫！　大丈夫か！？
+0x0078bae4 Princess! Are you all right?!
+
+; 0x0078baf7 ………。
+0x0078baf7 .........
+
+; 0x0078bb00 姫…！　姫ェッ！！
+0x0078bb00 Princess...! Princess!!
+
+; 0x0078bb13 烈火…くん…！！
+0x0078bb13 Flame... kun...!!
+
+; 0x0078bb24 ごめんね、柳。
+0x0078bb24 Sorry, Yanagi.
+
+; 0x0078bb63 ううん。
+0x0078bb63 Nope.
+
+; 0x0078bb82 助けにきてくれるって
+0x0078bb82 He said he'd come to save you.
+
+; 0x0078bbb5 風子、
+0x0078bbb5 Fuko,
+
+; 0x0078bbd0 なんとか勝ったんだけど、
+0x0078bbd0 I managed to win, but...
+
+; 0x0078bc13 そうか…。
+0x0078bc13 I see...
+
+; 0x0078bc1e あいつのことだから
+0x0078bc1e Knowing him,
+
+; 0x0078bc57 風子さん、頑張ったわね。
+0x0078bc57 You did your best, Fuko.
+
+; 0x0078bc70 あなたがいなければ、
+0x0078bc70 Without you,
+
+; 0x0078bca1 そんなことないよ。
+0x0078bca1 That's not true.
+
+; 0x0078bcbe 風子サマ！
+0x0078bcbe Fuko-sama!
+
+; 0x0078bce5 ハイハイ。
+0x0078bce5 Yes, yes, yes.
+
+; 0x0078bd14 風子も只の乱暴者では
+0x0078bd14 Fuko is no ordinary ruffian.
+
+; 0x0078bd3d ちょっと、みーちゃん！
+0x0078bd3d Hey, Mii-chan!
+
+; 0x0078bd74 風子姉ちゃん、強いなぁ！
+0x0078bd74 Fuko's so strong!
+
+; 0x0078bda9 いいわよ。
+0x0078bda9 It's okay.
+
+; 0x0078bdd0 風子ちゃん。
+0x0078bdd0 Fuko-chan.
+
+; 0x0078bdf7 いーんだよ！　柳！
+0x0078bdf7 It's okay, Yanagi!
+
+; 0x0078be0a ほら、烈火！
+0x0078be0a Come on, raging fire!
+
+; 0x0078be47 おう、そーだな！
+0x0078be47 Yeah, you're right!
+
+; 0x0078c5fe 三日間か…。
+0x0078c5fe Three days, huh...
+
+; 0x0078c62f もう、二度と、
+0x0078c62f I'll never, ever...
+
+; 0x0078c66a とおりゃーっ！！
+0x0078c66a Passing through!!
+
+; 0x0078c67b むっ！？
+0x0078c67b Mm?!
+
+; 0x0078c684 なーにィ、みーちゃん…。
+0x0078c684 What is it, Mii-chan...?
+
+; 0x0078c6c3 いきなりじゃ、
+0x0078c6c3 It's not sudden,
+
+; 0x0078c6f4 負けたくせに〜〜！
+0x0078c6f4 Even though you lost~!
+
+; 0x0078c731 そのぶんだと、まだ
+0x0078c731 For that, I'm not done yet.
+
+; 0x0078c764 くっ……。
+0x0078c764 Ugh...
+
+; 0x0078c76f あーれぇ…。
+0x0078c76f Oh, huh...
+
+; 0x0078c79e 風子！！
+0x0078c79e Fuko!!
+
+; 0x0078c7c5 ええーっ……。
+0x0078c7c5 Whaaat...?
+
+; 0x0078c7ea 元気づけてあげようと
+0x0078c7ea Trying to cheer her up.
+
+; 0x0078c80f 心配いらない。
+0x0078c80f There's no need to worry.
+
+; 0x0078c82e …ん。わかった。
+0x0078c82e ...Okay. Got it.
+
+; 0x0078c85d フッフッフ。水鏡よ。
+0x0078c85d Heh heh heh. Water mirror.
+
+; 0x0078c88a お主の閻水に力が
+0x0078c88a Your Ensui has power.
+
+; 0x0078c8cd 水鏡は
+0x0078c8cd The water mirror
+
+; 0x0078c912 みごとな戦いっぷりじゃな！
+0x0078c912 You fought splendidly!
+
+; 0x0078c937 しかし、焦りすぎじゃぞ！
+0x0078c937 But you're getting too impatient!
+
+; 0x0078c97a 次に風子と勝負する時は
+0x0078c97a The next time we have a match with Fuko...
+
+; 0x0078c9bb 柳さんをさらった者達…。
+0x0078c9bb The people who kidnapped Yanagi...
+
+; 0x0078c9d4 融合に時間がいるならば、
+0x0078c9d4 If there's time for fusion,
+
+; 0x0078ca17 少し、みんなの様子を
+0x0078ca17 Let's see how everyone's doing.
+
+; 0x0078ca3c あれ？
+0x0078ca3c Huh?
+
+; 0x0078ca5f 小金井のところに
+0x0078ca5f Koganei's place.
+
+; 0x0078ca8e ううん。
+0x0078ca8e Nope.
+
+; 0x0078caa9 それならいい。
+0x0078caa9 That's fine, then.
+
+; 0x0078cac6 待ってよ！
+0x0078cac6 Wait a minute!
+
+; 0x0078caf7 相手がいないと
+0x0078caf7 If you don't have a partner
+
+; 0x0078cb30 やるからには
+0x0078cb30 If you're going to do it,
+
+; 0x0078cb4f そうこなくっちゃ！
+0x0078cb4f That's how it has to be!
+
+; 0x0078cb76 いつもと違うなぁ、
+0x0078cb76 This is different from usual,
+
+; 0x0078cb9b 具合悪いの？
+0x0078cb9b Are you sick?
+
+; 0x0078cbcc 常に気を引き締めていないと
+0x0078cbcc We need to be on guard at all times.
+
+; 0x0078cc0b わかった！　頑張るよ！
+0x0078cc0b All right! I'll do my best!
+
+; 0x0078cc22 ヨォ！　水鏡
+0x0078cc22 Yo! Water mirror!
+
+; 0x0078cc61 技にもさらに磨きが掛かると
+0x0078cc61 When the technique gets even more polished
+
+; 0x0078cc8e 新たな技をしっかりと
+0x0078cc8e Make sure you have a new technique.
+
+; 0x0078ccb9 水鏡は
+0x0078ccb9 The water mirror
+
+; 0x0078ccfe ホッホッホ。
+0x0078ccfe Ho ho ho.
+
+; 0x0078cd37 次に小金井と勝負する時は
+0x0078cd37 The next time I play against Koganei...
+
+; 0x0078cd76 実戦の相手はえんりょなど
+0x0078cd76 Enryo and the like are my real opponents.
+
+; 0x0078cdbd 墓参りに行くのが
+0x0078cdbd Going to visit a grave
+
+; 0x0078cde0 おーい！　水鏡ィ！
+0x0078cde0 Hey! Water mirror!
+
+; 0x0078cdf3 なんだ、土門か。
+0x0078cdf3 Oh, it's just Tsuchikado.
+
+; 0x0078ce04 調子はどうだ！？
+0x0078ce04 How are you doing?!
+
+; 0x0078ce2f お前の閻水、
+0x0078ce2f Your Ensui,
+
+; 0x0078ce56 本能バカの腐乱犬が…。
+0x0078ce56 Instincts, stupid rotten dogs...
+
+; 0x0078ce6d なんやと！　固羅！
+0x0078ce6d What the hell! Kora!
+
+; 0x0078ce90 お前から、
+0x0078ce90 From you,
+
+; 0x0078cebd みーちゃん！　どうしたぁ！
+0x0078cebd Mii-chan! What's wrong?!
+
+; 0x0078ceea で…。
+0x0078ceea So...
+
+; 0x0078cf19 くそおおお！
+0x0078cf19 Damn iiiiiiit!
+
+; 0x0078cf26 水鏡ィ！
+0x0078cf26 Mizukagamiii!
+
+; 0x0078cf53 お主の技は美しくて
+0x0078cf53 Your technique is beautiful.
+
+; 0x0078cf92 水鏡は
+0x0078cf92 The water mirror
+
+; 0x0078cfd7 たいしたものじゃ。水鏡よ。
+0x0078cfd7 That's impressive. Water mirror.
+
+; 0x0078d01c そこで
+0x0078d01c And there,
+
+; 0x0078d03d 次に土門と勝負する時は
+0x0078d03d The next time we have a match with Tsuchikado...
+
+; 0x0078d088 お主の戦い方は
+0x0078d088 Your fighting style
+
+; 0x0078d0bb ついでだ。
+0x0078d0bb While I'm at it.
+
+; 0x0078d0e0 さすがに奴は
+0x0078d0e0 As expected of him.
+
+; 0x0078d101 居るか？　リーダー。
+0x0078d101 Are you there, Leader?
+
+; 0x0078d116 よぉーっ！
+0x0078d116 Yooooo!
+
+; 0x0078d13f いじけてるところを
+0x0078d13f I saw her fidgeting.
+
+; 0x0078d17c バカ言ってんじゃねーぞ！
+0x0078d17c Don't be stupid!
+
+; 0x0078d19d お前こそどーなんだ。
+0x0078d19d What about you, too?
+
+; 0x0078d1cc 口だけは相変わらずだな…。
+0x0078d1cc Her mouth is the same as always...
+
+; 0x0078d1e7 いいだろう。
+0x0078d1e7 Very well.
+
+; 0x0078d222 よし！　こい！
+0x0078d222 All right! Come on!
+
+; 0x0078d231 どうした、みーちゃん？
+0x0078d231 What's wrong, Mii-chan?
+
+; 0x0078d26e くっ！
+0x0078d26e Ugh!
+
+; 0x0078d275 どうした、烈火。
+0x0078d275 What's wrong, raging fire?
+
+; 0x0078d2aa なんだと……
+0x0078d2aa What did you say...?
+
+; 0x0078d2d3 時間はまだ有る。
+0x0078d2d3 We still have time.
+
+; 0x0078d2f8 仮にも…、
+0x0078d2f8 Even if...
+
+; 0x0078d329 時間が経つのは早いな。
+0x0078d329 Time sure flies.
+
+; 0x0078d378 さあ。
+0x0078d378 I don't know.
+
+; 0x0078e0e2 ｮ ＣＤを集める…か。
+0x0078e0e2 Collecting CDs, huh?
+
+; 0x0078e11f エリアをそれぞれ
+0x0078e11f Each area.
+
+; 0x0078e14c ん……？
+0x0078e14c Hm...?
+
+; 0x0078e179 隠れていないで
+0x0078e179 Don't hide.
+
+; 0x0078e19e さすがだ。
+0x0078e19e That's what I expected.
+
+; 0x0078e1c3 …その姿。
+0x0078e1c3 ...That figure.
+
+; 0x0078e1e8 ハハハ。
+0x0078e1e8 Hahaha.
+
+; 0x0078e221 君が誰なのかは
+0x0078e221 As for who you are...
+
+; 0x0078e246 まあいい。
+0x0078e246 Well, whatever.
+
+; 0x0078e269 どうしたでゴザル、水鏡殿。
+0x0078e269 What's wrong, Gozaru? Mr. Mizukagami?
+
+; 0x0078e2b4 某に負けるのではここから先
+0x0078e2b4 If you lose to a certain someone, from here on out
+
+; 0x0078e2fb くっ…！！
+0x0078e2fb Ugh...!!
+
+; 0x0078e306 もういいだろう。
+0x0078e306 That should be enough.
+
+; 0x0078e32f あいたたた…
+0x0078e32f Owowowowow...
+
+; 0x0078e362 腕を上げられたようで
+0x0078e362 It looked like he’d improved his skills
+
+; 0x0078e38b ここで何をしている？
+0x0078e38b What are you doing here?
+
+; 0x0078e3a0 水鏡殿たちの
+0x0078e3a0 Mizukagami-dono's group
+
+; 0x0078e3c5 ここから先は本当の敵が
+0x0078e3c5 From here on out, the real enemy
+
+; 0x0078e40e ありがとう…。
+0x0078e40e Thank you...
+
+; 0x0078e41d 分かれ道か…
+0x0078e41d A fork in the road...
+
+; 0x0078e441 バイオノイドドームへ向かう
+0x0078e441 Head to the bionoid dome
+
+; 0x0078e470 こっちだな…
+0x0078e470 It's this way...
+
+; 0x0078e47d ここは…
+0x0078e47d This is...
+
+; 0x0078e49a 歓迎しよう。
+0x0078e49a Let's welcome her.
+
+; 0x0078e4cd 時間がないんだ。
+0x0078e4cd We don't have much time.
+
+; 0x0078e4de ほう。
+0x0078e4de Oh?
+
+; 0x0078e513 君も液体を武器にする。
+0x0078e513 You use liquid as a weapon, too.
+
+; 0x0078e556 君の剣が魔導具なのに対し、
+0x0078e556 While your sword is a magic tool,
+
+; 0x0078e58f …身を削った曲芸だな。
+0x0078e58f ...It's an acrobatic trick.
+
+; 0x0078e5b6 心配無用。それまでに
+0x0078e5b6 Don't worry. Until then.
+
+; 0x0078e5e7 そんなことでは、
+0x0078e5e7 It's not like that...
+
+; 0x0078e614 …くっ！
+0x0078e614 ...Ugh!
+
+; 0x0078e61d 水鏡凍季也。
+0x0078e61d Sueya Mizukagami Frozen.
+
+; 0x0078e646 あるさ。
+0x0078e646 Yeah, I do.
+
+; 0x0078e663 死ぬ事だって
+0x0078e663 You're going to die.
+
+; 0x0078e696 正直だな……。
+0x0078e696 She's so honest...
+
+; 0x0078e6bb 姉を倒された復讐心が
+0x0078e6bb My desire for revenge for my sister's defeat
+
+; 0x0078e6e6 少し前まではそうだった。
+0x0078e6e6 It was like that not long ago.
+
+; 0x0078e71f 今は違う。
+0x0078e71f It's different now.
+
+; 0x0078e746 ……行け、水鏡…。
+0x0078e746 ...Go, Water Mirror...
+
+; 0x0078e775 次はここか。
+0x0078e775 Here's the next one.
+
+; 0x0078e782 な……！？
+0x0078e782 Wha...!?
+
+; 0x0078e7a9 フーッフーッ！！
+0x0078e7a9 Hoo-hoo!!
+
+; 0x0078e7dc 何だ、コイツは…！？
+0x0078e7dc What's with this guy...!?
+
+; 0x0078e817 ヒャヒャヒャヒャ！！
+0x0078e817 Hyahyahyahya!!
+
+; 0x0078e85e 森光蘭…。
+0x0078e85e Mori koran...
+
+; 0x0078e88b 倒す！　火影！
+0x0078e88b Defeat! Hokage!
+
+; 0x0078e8ce お前に、
+0x0078e8ce To you,
+
+; 0x0078e8e7 ヒャッヒャッヒャ！！
+0x0078e8e7 Hyah hyah hyah!!
+
+; 0x0078e8fc ヒャヒャヒャヒャ！
+0x0078e8fc Hyahyahyahya!
+
+; 0x0078e943 クッ…
+0x0078e943 Ugh...
+
+; 0x0078e960 パワーとスピード…
+0x0078e960 Power and speed...
+
+; 0x0078e97d オォオォオォ…！！！
+0x0078e97d Ohhhhhhhhhhhh...!!!
+
+; 0x0078e9bc だが、それだけでは
+0x0078e9bc But that’s not all
+
+; 0x0078e9df また、分かれ道か……。
+0x0078e9df Another fork in the road...
+
+; 0x0078e9f9 研究所へ向かう
+0x0078e9f9 Head to the research facility
+
+; 0x0078ea18 研究所へ行こう。
+0x0078ea18 Let's go to the lab.
+
+; 0x0078ea29 貯水池へ行こう。
+0x0078ea29 Let's go to the reservoir.
+
+; 0x0078ea3a ここが研究所か。
+0x0078ea3a So this is the laboratory.
+
+; 0x0078ea4b あら？　もう１人、
+0x0078ea4b Oh? The other one,
+
+; 0x0078ea84 おーっ！
+0x0078ea84 Ohhh!
+
+; 0x0078eaaf 烈火。
+0x0078eaaf A raging fire.
+
+; 0x0078eada なんぢゃ！
+0x0078eada What the hell?!
+
+; 0x0078eb01 ２人になったところで
+0x0078eb01 Now that we're alone...
+
+; 0x0078eb2e あなたも、私の死愚魔に
+0x0078eb2e You too, to my death idiot.
+
+; 0x0078eb5d ギョェーッ！！
+0x0078eb5d Gyooooo!!
+
+; 0x0078eb6c あの、でかいのが敵だぜ！
+0x0078eb6c That big one's the enemy!
+
+; 0x0078eba3 見れば分かる。
+0x0078eba3 I can tell just by looking.
+
+; 0x0078ebe8 邪魔とはなんぢゃ！
+0x0078ebe8 Don't get in my way!
+
+; 0x0078ec1d 仲間割れですか？
+0x0078ec1d Is it a quarrel?
+
+; 0x0078ec60 ギョェーーーッ！！
+0x0078ec60 Gyooooooooo!!
+
+; 0x0078ec73 柳さんを救うことが目的だ。
+0x0078ec73 My goal was to save Yanagi.
+
+; 0x0078ecbc ……。
+0x0078ecbc ......
+
+; 0x0078ecd1 ここは任せた！
+0x0078ecd1 I'll leave this to you!
+
+; 0x0078ed00 来い、バケモノ。
+0x0078ed00 Come on, monster.
+
+; 0x0078ed1f あはははは！
+0x0078ed1f Ahahahaha!
+
+; 0x0078ed46 さっきのひとも、
+0x0078ed46 The person from earlier, too,
+
+; 0x0078ed81 グギャギャギャー！！
+0x0078ed81 Gugyagyagyagya!!
+
+; 0x0078ed96 ガハッ……！
+0x0078ed96 Gaha...!
+
+; 0x0078eda3 結構かかったな。
+0x0078eda3 It took quite a while.
+
+; 0x0078edd4 ああ…
+0x0078edd4 Yeah...
+
+; 0x0078eded 失礼するよ。
+0x0078eded Excuse me.
+
+; 0x0078ee0c ここだな…次は。
+0x0078ee0c This is it... Next.
+
+; 0x0078ee1d キヒ…　キヒヒヒヒヒ…
+0x0078ee1d Kihi... Kihihihihihi...
+
+; 0x0078ee62 お前か……、木蓮。
+0x0078ee62 It’s you... Mokuren.
+
+; 0x0078ee75 スカしてんじゃねーんだよ。
+0x0078ee75 Don't be so empty.
+
+; 0x0078ee9e てめえは
+0x0078ee9e You're...
+
+; 0x0078eed1 分際をわきまえろ。
+0x0078eed1 Know your place.
+
+; 0x0078eef8 るせーよ！！
+0x0078eef8 Shut up!!
+
+; 0x0078ef1d ぎゃはははは！
+0x0078ef1d Gyahahahahaha!
+
+; 0x0078ef4c キヒヒヒヒヒ！！
+0x0078ef4c Kihihihihihi!!
+
+; 0x0078ef75 ……つっ……！
+0x0078ef75 ...Ugh...!
+
+; 0x0078ef84 君はなにも、
+0x0078ef84 You didn't do anything,
+
+; 0x0078efa1 うあああああ…っ！
+0x0078efa1 Uwaaaaaaaaaaa...!
+
+; 0x0078efce ……
+0x0078efce  ⁇ ... ⁇ "
+
+; 0x0078efeb 来た！　来たァーッ！
+0x0078efeb It's here! It's here!
+
+; 0x0078f02c お前が
+0x0078f02c You're the one.
+
+; 0x0078f059 天堂地獄、いや、森光蘭。
+0x0078f059 Tendo hell, no, Koran Mori.
+
+; 0x0078f098 パパと融合しちゃう女の子を
+0x0078f098 A girl who fuses with her dad.
+
+; 0x0078f0e1 だけど、
+0x0078f0e1 But...
+
+; 0x0078f116 でもコレ、いらないよね！？
+0x0078f116 But you don't need this, do you!?
+
+; 0x0078f161 そのＣＤを渡してもらう
+0x0078f161 Give me that CD.
+
+; 0x0078f1a8 お前は炎も使えるそうだな。
+0x0078f1a8 I hear you can use fire, too.
+
+; 0x0078f1c3 比べてやる。
+0x0078f1c3 I'll compare them.
+
+; 0x0078f200 何よ、サルって。
+0x0078f200 What's a monkey?
+
+; 0x0078f243 キャハハハ！！
+0x0078f243 Kyahahaha!!
+
+; 0x0078f26a パパーっ！！
+0x0078f26a Papa!!
+
+; 0x0078f2a3 くっ……
+0x0078f2a3 Ugh...
+
+; 0x0078f2ac 所詮、クローンか。
+0x0078f2ac In the end, she's just a clone.
+
+; 0x0078f2e3 これがＣＤだな。
+0x0078f2e3 This is the CD.
+
+; 0x0078f306 ふええ……
+0x0078f306 Fweeh...
+
+; 0x0078f31d いよいよ本物の強さを
+0x0078f31d It's finally time for real strength.
+
+; 0x0078f34a 気を引き締めて
+0x0078f34a Keep your guard up.
+
+; 0x0078f36b 水鏡は
+0x0078f36b The water mirror
+
+; 0x0078f3b2 たいしたものじゃ。ここまで
+0x0078f3b2 That's impressive. That's it.
+
+; 0x0078f401 煉華相手には、お主が
+0x0078f401 You're up against Renga.
+
+; 0x0078f44a 閻水は、さらなる力を
+0x0078f44a Ensui has even more power.
+
+; 0x0078fd4e 森光蘭。
+0x0078fd4e Koran MORI.
+
+; 0x0078fd71 誰だ？
+0x0078fd71 Who's that?
+
+; 0x0078fd8e 醜い姿だな。
+0x0078fd8e What an ugly sight.
+
+; 0x0078fda9 小ざかしいゴミがぁ。
+0x0078fda9 A petty piece of trash.
+
+; 0x0078fde4 そして私は最強の力を得た…
+0x0078fde4 And I gained the strongest power...
+
+; 0x0078fe1b 戯言を言うな。
+0x0078fe1b Don't spout nonsense.
+
+; 0x0078fe44 水鏡くんの言う通りよ。
+0x0078fe44 Mizukagami-kun's right.
+
+; 0x0078fe65 水鏡くん、烈火！
+0x0078fe65 Water Mirror-kun, a raging fire!
+
+; 0x0078fea0 森光蘭に捕らわれ、
+0x0078fea0 Koran Mori caught me,
+
+; 0x0078fed1 今、森光蘭を倒せば
+0x0078fed1 If we defeat Koran Mori now,
+
+; 0x0078fefa 森光蘭は
+0x0078fefa Koran Mori
+
+; 0x0078ff0f リーダー！
+0x0078ff0f Leader!
+
+; 0x0078ff2c わかった！
+0x0078ff2c All right!
+
+; 0x0078ff47 なかなかやるではないか。
+0x0078ff47 Not bad, huh?
+
+; 0x0078ff82 だが所詮は下等生物。
+0x0078ff82 But in the end, he was just a lowly creature.
+
+; 0x0078ffb5 フハハハハ！！
+0x0078ffb5 Mwahahahaha!!
+
+; 0x0078ffec そして私は、
+0x0078ffec And I...
+
+; 0x0079001f 世界をわが手中に
+0x0079001f The world is in my hands.
+
+; 0x0079005e ウォォォ！！
+0x0079005e Wow!!
+
+; 0x00790097 ギャアアア！！　痛い！！
+0x00790097 Gyaaaah!! Ow!!
+
+; 0x007900c8 煉華！　煉華は何処だ！？
+0x007900c8 Renga! Where is Renga?!
+
+; 0x007900fb お前を助ける仲間など
+0x007900fb I don't have any friends to help you.
+

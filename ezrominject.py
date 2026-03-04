@@ -32,7 +32,8 @@ INJECT_ASCII_END_VALUE=0x00
 
 #TODO: keep ascii chars in the middle
 
-ABBREVIATE=True
+ABBREVIATE=False
+OVERFLOW=False
 
 TBL_FILE=None
 
@@ -331,8 +332,24 @@ def run_injection(jap_path, eng_path, rom_path):
         if len(eng_text) >= (target_char_len) and ABBREVIATE:
             eng_text = abbreviate(eng_text, target_char_len)
             print("abbreviated: " + eng_text)
-        if len(eng_text) >= (target_char_len):
-            eng_text = eng_text[:target_char_len ]
+        
+        if len(eng_text) >= (target_char_len) and OVERFLOW:
+                # check if there is space in the ROM
+                f_rom.seek(addr_int + target_char_len*2)
+                following_bytes = f_rom.read(len(eng_text)*2)
+                available_extra = 0
+                for b in following_bytes:
+                    if b == 0x00:
+                        available_extra += 1
+                    else:
+                        break
+                # endfor
+                if available_extra:
+                    target_char_len += ((available_extra - 1) // 2)
+                    print("try overflowing bytes: " + str(available_extra))
+                
+        if len(eng_text) >= (target_char_len):        
+            eng_text = eng_text[:target_char_len]
             print("truncated: " + str(eng_text))
             
         # convert to uppercase if requsted
@@ -421,7 +438,8 @@ if __name__ == "__main__":
 
     # Optional Flags
     
-    parser.add_argument("--no-abbreviate", action="store_true", help="Disable replacement text abbreviation if it does not fit")
+    parser.add_argument("--abbreviate", action="store_true", help="Enable replacement text abbreviation if it does not fit")
+    parser.add_argument("--overflow", action="store_true", help="Try overflowing if text does not fit")
     parser.add_argument("--tbl-file", help="Table file to use to generate the replacement bytes")
     parser.add_argument("--kana-1-byte", action="store_true", help="Count kanas as 1-byte for string truncation")
     parser.add_argument("--uppercase", action="store_true", help="Convert replacement text into uppecase")
@@ -441,8 +459,11 @@ if __name__ == "__main__":
         
     INJECT_ASCII_NEWLINE_VALUE=args.ascii_newline
     
-    if args.no_abbreviate:
-        ABBREVIATE=False
+    if args.abbreviate:
+        ABBREVIATE=True
+        
+    if args.overflow:
+        OVERFLOW=True
         
     if args.uppercase:
         UPPERCASE=True

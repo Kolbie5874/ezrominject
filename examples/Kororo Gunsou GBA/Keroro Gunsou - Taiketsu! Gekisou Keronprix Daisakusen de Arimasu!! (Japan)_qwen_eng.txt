@@ -1,0 +1,3059 @@
+0x000bd7d0 Comms err!
+0x000bd7eb Turn off
+0x000bd7f8 & check conn.
+0x000bd80f w/ wireless adptr.
+0x000bd828 Avoid obs. dur. comms,
+0x000bd83f get closer.
+0x000bd88c Power rising!
+0x000bd899 More pow'r!
+0x000bd8b4 Keroro, go!!
+0x000bd8cc Time 2 fire
+0x000bd8d7 a resonator!!
+0x000bd8f0 It's mind game!
+0x000bd90c U chased me
+0x000bd91b this far…
+0x000bd92c Gonna shoot!
+0x000bd939 Shoot! Shoot!
+0x000bd94c Shut UP!!
+0x000bd95f DARN YOU!!
+0x000bd970 Singing!
+0x000bd97b NUSSHA~!!
+0x000bd990 Eat this!
+0x000bd9a5 Tamama Impact!!
+0x000bd9bc In race, u must
+0x000bd9d5 attack while runnin!
+0x000bd9f4 Tamama's secret
+0x000bda05 Jealousy~~…!!
+0x000bda1c I see!
+0x000bda25 I see foes too!
+0x000bda3c FOOL!!
+0x000bda49 U made me use this!!
+0x000bda64 In race, read
+0x000bda7f 2-3 moves ahead!
+0x000bda98 Ur strength—
+0x000bdaa1 let me test it.
+0x000bdac0 Max use chances—
+0x000bdad9 that's my way!!
+0x000bdaf0 My role: mech inf.
+0x000bdb03 Can't beat me CQC!
+0x000bdb1c Can't let u roam free!
+0x000bdb3c Runnin' ahead
+0x000bdb4d takes guts!!
+0x000bdb60 K~k~k~k…
+0x000bdb73 My machine's too strong!
+0x000bdb90 K~k~k~k…
+0x000bdba1 Hear this!
+0x000bdbbc Don't rely on
+0x000bdbd9 machine perf—
+0x000bdbf4 K~k~k~k…
+0x000bdc05 Don't run ahead!!
+0x000bdc1c K~k~k~k…
+0x000bdc2f Not yet—
+0x000bdc48 Not over!
+0x000bdc4f We're buds,
+0x000bdc5c right?
+0x000bdc5c Can't forgive u!
+0x000bdc73 Time 2 end this!
+0x000bdc8c Gonna hit u!
+0x000bdca5 Prepare!!
+0x000bdcb0 If this misses,
+0x000bdcc5 congrats!
+0x000bdcdc Close distance—
+0x000bdce5 in 1 go!
+0x000bdcfc Rookie!
+0x000bdd0b Distance too loose!
+0x000bdd24 Sumomo—
+0x000bdd2b goin'!
+0x000bdd38 Faster than thought!
+0x000bdd50 Mgr'll
+0x000bdd63 scold me…
+0x000bdd74 My autograph's
+0x000bdd81 great, right?
+0x000bdd90 Everyone hears
+0x000bdd99 my song!
+0x000bddac Music changes folks—
+0x000bddc9 like us…
+0x000bdddc FIX! FIX!
+0x000bddf0 Man'll master
+0x000bde03 time itself!
+0x000bde1c This missile
+0x000bde35 tracks forever!!
+0x000bde50 I see—
+0x000bde5b I see all!
+0x000bde70 Attacks like that
+0x000bde85 won't work!!
+0x000bde94 In times like this,
+0x000bdea1 be timid!
+0x000bdeb8 Gero gero…
+0x000bdec7 This is my power!
+0x000bdee4 Too soft…
+0x000bdeed Can't win w/ that drive!
+0x000bdf0c I control Flyboard
+0x000bdf27 best!!
+0x000bdf40 Then—
+0x000bdf4b I won't stop!
+0x000bdf64 Heh~ Saw that?
+0x000bdf77 Felt my speed?!
+0x000bdf94 Hey!
+0x000bdf9d Move it!
+0x000bdfb4 IDIOT!!
+0x000bdfc1 Don't dawdle there!
+0x000bdfe0 Not yet!
+0x000bdfe9 Not lost yet!!
+0x000be008 Won't let
+0x000be017 u solo win!!
+0x000be028 In way—
+0x000be02f move…!
+0x000be03c Any real
+0x000be04f fighters here?
+0x000be060 K~k~k~k…
+0x000be071 Too slow!
+0x000be07c It's fate!
+0x000be08f Fight!!
+0x000be0a0 This is my—
+0x000be0ad training result!!
+0x000be0c4 For my goal,
+0x000be0d5 I must pass!
+0x000be0f0 Thx 4 lettin' me lead!
+0x000be10d I'll give autograph!
+0x000be124 Huh—
+0x000be12b u're soft too…
+0x000be140 Don't get down
+0x000be155 if I pass u!
+0x000be168 FIX! FIX!
+0x000be17c I'll say it:
+0x000be189 u're trash!
+0x000be1a4 With this machine,
+0x000be1b3 I beat all!
+0x000be1cc Uncle—
+0x000be1d7 good luck!
+0x000be1e8 Gero!
+0x000be1f1 Do my best!
+0x000be208 Sgt.—does she
+0x000be21d like u better?
+0x000be23c Sgt.—
+0x000be241 go!
+0x000be24c At this rate,
+0x000be263 invade Pekopon!!
+0x000be280 Won't let
+0x000be289 u win!
+0x000be2a4 Uncle—
+0x000be2af go!
+0x000be2c0 Gero!
+0x000be2c9 Do my best!
+0x000be2e0 Tama-chan—
+0x000be2eb there! Go!
+0x000be300 Yes!
+0x000be30b Thx, Momocchi!
+0x000be324 Stop replyin'—
+0x000be33f go now!
+0x000be354 Tamama-dono—
+0x000be35f stay alert!
+0x000be378 (Gasp! His eyes—
+0x000be38b hunter's eyes!!)
+0x000be3a4 Phew!
+0x000be3b4 Tama-chan—
+0x000be3bf there! Go!
+0x000be3d4 Yes!
+0x000be3df Thx, Momocchi!
+0x000be3f8 S…Saburo-senpai—
+0x000be409 here 2 cheer?
+0x000be424 Well—
+0x000be42b came 4 Kururu.
+0x000be444 Natsumi!!
+0x000be44d Stop foolin' 'round!
+0x000be468 Giroro—go!
+0x000be481 I'm rootin' 4 u!
+0x000be49c (For Natsumi—
+0x000be4ad can't lose!)
+0x000be4c0 K~k~k~k~k…
+0x000be4d7 So fired up…
+0x000be4f0 Giroro—go!
+0x000be509 I'm rootin' 4 u!
+0x000be524 (For Natsumi—
+0x000be535 can't lose!)
+0x000be548 Kur-chan—
+0x000be553 go!
+0x000be560 K~k~k~k~k…
+0x000be578 Creepy grin…
+0x000be590 Kururu—
+0x000be597 keep it up!
+0x000be5a4 K~k~k~k~k…
+0x000be5bb Watch me—
+0x000be5cc I can't
+0x000be5d3 lose either!
+0x000be5ec Kururu—
+0x000be5f3 keep it up!
+0x000be600 K~k~k~k~k…
+0x000be617 Watch me—
+0x000be628 Dororo—no brakes~
+0x000be643 (Smirk)
+0x000be650 Huh? AAAAAH—wall!
+0x000be66d (Trauma switch on)
+0x000be688 Dororo—stay sharp!
+0x000be697 Don't lose 2 past!
+0x000be6ac Dororo—go!
+0x000be6bf Don't forget ninja code…
+0x000be6d8 Right—
+0x000be6e7 ninja: calm & quiet…
+0x000be700 Don't rush—
+0x000be70f u'll win…
+0x000be720 Dororo—go!
+0x000be733 Don't forget ninja code…
+0x000be74c Right—
+0x000be75b ninja: calm & quiet…
+0x000be774 Tamama go!
+0x000be789 1—2—
+0x000be790 Sumomo-chan—
+0x000be7a0 thx 4 cheer!
+0x000be7af Cheer me on!
+0x000be7c8 Schedule had no
+0x000be7e3 Pekopon trip!
+0x000be800 …Came 'cause
+0x000be815 race looked fun…
+0x000be834 Hmph…Idol on
+0x000be84f battlefield?
+0x000be864 Sumomo-chan—
+0x000be873 go!
+0x000be880 Thx 4 cheer!
+0x000be88f Cheer me on!
+0x000be8a8 FIX! FIX!
+0x000be8bc FIX! FIX!
+0x000be8d0 Must I say it…?
+0x000be8eb FIX! FIX!
+0x000be900 FIX! FIX!
+0x000be914 FIX! FIX!
+0x000be928 Fix! Fix!
+0x000be943 …Embarrassin'…
+0x000be95c At this rate,
+0x000be973 invade Pekopon!!
+0x000be990 Won't let
+0x000be999 u win!
+0x000be9b4 AHHHHH—
+0x000be9c8 What're u doin'
+0x000be9d3 crazy!!?
+0x000be9e8 Gero!!?
+0x000be9f7 Banana peel!!
+0x000bea08 Gero!!?
+0x000bea17 Grenade?!
+0x000bea2c What're u doin'!?
+0x000bea44 How dare u—
+0x000bea53 made me mad…
+0x000bea64 Don't toss
+0x000bea71 banana peels!
+0x000bea88 Who did that?
+0x000bea93 I'll remember u!
+0x000beaac HYAAAA~TS!!?
+0x000beac8 Fight!
+0x000beacf But not done yet!
+0x000beae8 Banana peel!?
+0x000beafb Even I messed up!
+0x000beb0c Ugh—grenade!?
+0x000beb23 No big deal!
+0x000beb34 K~k~k~k~…
+0x000beb50 …K~k~k~k
+0x000beb61 K~k~k~k…
+0x000beb74 K~k~k…
+0x000beb81 Banana peel—good!
+0x000beb98 …K~k~k~k…
+0x000bebac Fools me…
+0x000bebc0 Attacks like that
+0x000bebd5 won't—gah!
+0x000bebe8 Huh? What?
+0x000bebf1 Banana peel?
+0x000bec00 …Darn! Grenade!?
+0x000bec1c KYAAAA~!
+0x000bec2c As cosmic idol,
+0x000bec3f why me?!
+0x000bec58 Cosmic idol
+0x000bec67 won't slip!
+0x000bec84 Don't throw
+0x000bec93 grenades! Mean!
+0x000becac HYAAAA—!
+0x000becbc Hit me! Even
+0x000beccf Dad nev'r did!
+0x000bece8 Stepped on it!
+0x000becf9 BANANA!
+0x000bed08 Stepped on it!
+0x000bed19 BOOM!!
+0x000bed28 Gero gero…
+0x000bed37 Too strong…
+0x000bed4a Now squad lead
+0x000bed5b is mine!!
+0x000bed70 Not yet—
+0x000bed79 not this easy…
+0x000bed86 Gonna pass u—
+0x000bed95 for sure!
+0x000beda8 I'm—
+0x000bedb1 Keron soldier!
+0x000bedc2 Won't stay
+0x000bedcd here!
+0x000bede0 Gero—I must
+0x000bedef win!
+0x000bee00 Or squad lead—
+0x000bee11 gone…
+0x000bee20 I'm too good
+0x000bee31 to waste here!
+0x000bee44 Not my style—
+0x000bee51 at all!
+0x000bee60 Gonna win
+0x000bee69 by miles!
+0x000bee76 For sure!
+0x000bee8c Hate it!!
+0x000bee95 Turn this rage
+0x000beea8 to power—win!
+0x000beeb7 For sure!
+0x000beecc If not me,
+0x000beedd who?!
+0x000beef0 Who wants win,
+0x000bef01 wins!
+0x000bef10 Not me—
+0x000bef15 here—
+0x000bef20 impossible—
+0x000bef2b no way!
+0x000bef3c Don't mock me!
+0x000bef4d I won't
+0x000bef5a end like this—
+0x000bef67 no way!
+0x000bef7c Survived many
+0x000bef8d battlefields—
+0x000bef9e not for nothin'!!
+0x000befb0 Don't get
+0x000befbd cocky!
+0x000befca Or u'll regret
+0x000befd9 it!
+0x000befec Tch—
+0x000beff1 messed up,
+0x000bf002 but now—
+0x000bf00b I win!
+0x000bf01c I'll win—
+0x000bf021 even cornered!
+0x000bf030 From any
+0x000bf03d spot—win!!
+0x000bf050 Hate admit—
+0x000bf05f my own—
+0x000bf06c youthful mistake…
+0x000bf07f Gotta bounce back!!
+0x000bf090 K~k~k~k…
+0x000bf0a3 My modded ride—
+0x000bf0b6 no one passes!
+0x000bf0c5 Got it!
+0x000bf0d8 K~k~k~k…
+0x000bf0eb This gap—
+0x000bf0f8 I'll close
+0x000bf107 easy!
+0x000bf114 K~k~k~k…
+0x000bf127 Not enough
+0x000bf12e mods yet—
+0x000bf135 seems.
+0x000bf148 Time 2 use
+0x000bf151 that thing.
+0x000bf15e K~k~k~k…
+0x000bf174 Genius me—
+0x000bf185 in this spot…
+0x000bf196 Watch genius
+0x000bf1a1 power!
+0x000bf1b0 Daily training—
+0x000bf1bd pays off!
+0x000bf1d0 Win—save Pekopon
+0x000bf1e1 peace!
+0x000bf1f4 Now—
+0x000bf1ff my true power!
+0x000bf20e Won't let u
+0x000bf221 win easy!
+0x000bf234 My trial—
+0x000bf245 this test—
+0x000bf24c must overcome
+0x000bf25d to win!
+0x000bf270 Fine…
+0x000bf27b I'm ok…
+0x000bf282 Next time—win—
+0x000bf28d promise…
+0x000bf29c Me—stuck here…
+0x000bf2af But—
+0x000bf2b4 can't quit—
+0x000bf2c7 must go on!
+0x000bf2dc Ah—
+0x000bf2e3 With my charm,
+0x000bf2f4 1st is easy!
+0x000bf305 Simple!
+0x000bf314 Chance exists—
+0x000bf325 this gap—
+0x000bf330 I'll catch up—
+0x000bf341 fast!
+0x000bf34c Oops—
+0x000bf355 got cocky.
+0x000bf364 Won't let
+0x000bf371 it happen!
+0x000bf380 How's this—
+0x000bf38f me—
+0x000bf394 in this spot—
+0x000bf3a1 what…?
+0x000bf3b0 Cosmic idol—
+0x000bf3c3 cosmic #1—
+0x000bf3d0 chart-topper—
+0x000bf3e3 why 5th?!
+0x000bf3f8 FIX FIX!
+0x000bf409 FIX FIX!
+0x000bf41a FIX FIX!
+0x000bf42b FIX FIX!
+0x000bf43c FIX FIX!
+0x000bf44d FIX FIX!
+0x000bf45e FIX FIX!
+0x000bf470 FIX FIX!
+0x000bf481 FIX FIX!
+0x000bf494 FIX FIX!
+0x000bf4a8 ………
+0x000bf4b8 Not yet—
+0x000bf4bf not done!
+0x000bf4d0 Gonna pass u—
+0x000bf4dd for sure!
+0x000bf4f0 That spirit—
+0x000bf4ff good!!
+0x000bf50a But won't let
+0x000bf519 u win easy!
+0x000bf52c Gero gero—
+0x000bf539 Stop jokes—
+0x000bf548 please—
+0x000bf54f now!
+0x000bf560 Gero gero…
+0x000bf56f Time 2 end
+0x000bf57c it—
+0x000bf585 now…
+0x000bf594 Gero! As usual—
+0x000bf5a7 yep…
+0x000bf5b8 Gotta get 1st—
+0x000bf5c9 for sure!
+0x000bf5d8 Can't end
+0x000bf5e5 like this!
+0x000bf5f6 Gonna pass u—
+0x000bf603 for sure!
+0x000bf610 Giving me
+0x000bf623 pressure…?
+0x000bf632 Impossible—
+0x000bf645 no way!
+0x000bf658 I won't lose!
+0x000bf66b Full throttle—
+0x000bf672 steal 1st—
+0x000bf67f for sure!
+0x000bf68c With true power—
+0x000bf69b 1st is
+0x000bf6a2 mine—
+0x000bf6ad easy!
+0x000bf6c0 No more—
+0x000bf6c5 mercy!
+0x000bf6ce Get ready!
+0x000bf6db Prepare!
+0x000bf6ec U're
+0x000bf6f5 tougher than
+0x000bf706 thought—
+0x000bf715 won't end yet!!
+0x000bf728 Ur drive—
+0x000bf737 I respect!
+0x000bf746 But race ain't
+0x000bf755 easy!
+0x000bf768 One chance—
+0x000bf773 to win—
+0x000bf77e is enough!!
+0x000bf789 Plenty!
+0x000bf794 Tough—
+0x000bf79d huh…
+0x000bf7aa But won't let
+0x000bf7bb u win!
+0x000bf7d0 U're in that
+0x000bf7d7 rank 'cause—
+0x000bf7e2 u're just
+0x000bf7f1 a kid!
+0x000bf800 K~k~k~k…
+0x000bf813 Tough—
+0x000bf81c huh…
+0x000bf82c K~k~k~k…
+0x000bf83f Don't think
+0x000bf84a spirit alone
+0x000bf85b beats me!
+0x000bf868 K~k~k~k…
+0x000bf87b Life ain't
+0x000bf88a that simple—
+0x000bf89b got it?
+0x000bf8b0 K~k~k~k…
+0x000bf8c3 Enjoy
+0x000bf8d0 this race—
+0x000bf8d9 more!
+0x000bf8ec K~k~k~k…
+0x000bf8ff Winning
+0x000bf908 from there—
+0x000bf917 hard, huh?
+0x000bf924 Not yet!
+0x000bf937 Just lost 1st—
+0x000bf944 no big deal—
+0x000bf94d really!
+0x000bf95c Won't hand 1st
+0x000bf969 so easy!
+0x000bf978 Got it!
+0x000bf98c Must match
+0x000bf99b ur spirit—
+0x000bf9aa or lose—
+0x000bf9b3 gotta try!
+0x000bf9c8 Understood!
+0x000bf9d5 Same stakes—
+0x000bf9e8 no mercy!
+0x000bf9f5 Got it!
+0x000bfa00 Right—
+0x000bfa0f I can't
+0x000bfa16 lose either—
+0x000bfa29 got it!!
+0x000bfa34 More fired
+0x000bfa3f up now—
+0x000bfa48 win next!
+0x000bfa55 Heh—
+0x000bfa64 got spirit—
+0x000bfa6b I won't lose!
+0x000bfa72 I must win—
+0x000bfa83 for fans!
+0x000bfa94 I won't lose—
+0x000bfaa7 must try!
+0x000bfab6 For fans—
+0x000bfac7 can't lose!
+0x000bfad8 I won't lose—
+0x000bfae9 period!
+0x000bfaf4 So—
+0x000bfafb cheer me!
+0x000bfb0c Aww—disappt'd—
+0x000bfb1b u're only
+0x000bfb24 this strong?
+0x000bfb2f Really?
+0x000bfb44 FIX FIX!
+0x000bfb55 FIX FIX!
+0x000bfb66 FIX FIX!
+0x000bfb77 FIX FIX!
+0x000bfb88 FIX FIX!
+0x000bfb99 FIX FIX!
+0x000bfbaa FIX FIX!
+0x000bfbbc FIX FIX!
+0x000bfbcd FIX FIX!
+0x000bfbe0 FIX FIX!
+0x000bfbf4 ………
+0x000bfc04 Beating me—
+0x000bfc15 still—
+0x000bfc20 too soon!
+0x000bfc2f Gero gero…
+0x000bfc40 I win!
+0x000bfc4f No one passes
+0x000bfc5c me!
+0x000bfc70 Mech inf.
+0x000bfc7b can't lose
+0x000bfc88 race—
+0x000bfc93 too soon!
+0x000bfca4 K~k~k…
+0x000bfcb3 Thought
+0x000bfcbc u could
+0x000bfcc9 beat me?
+0x000bfcd4 This—
+0x000bfcdb my training—
+0x000bfce8 result!
+0x000bfcf8 Chart-topper—
+0x000bfd07 #1 streak—
+0x000bfd16 no fluke!
+0x000bfd28 Felt my power—
+0x000bfd35 real me—
+0x000bfd3e get it—
+0x000bfd4b yet?
+0x000bfd58 Losing—
+0x000bfd6b rematch—
+0x000bfd74 let me—
+0x000bfd85 please!
+0x000bfd90 Losing—
+0x000bfda1 sad!
+0x000bfdae Next time—
+0x000bfdbb win for sure!
+0x000bfdcc Losing—
+0x000bfddb impossible!
+0x000bfdea Next—
+0x000bfdef win for sure!
+0x000bfe04 K~k~k~k…
+0x000bfe17 Made me—
+0x000bfe1c serious—
+0x000bfe2b next—go hard!
+0x000bfe40 Losing—
+0x000bfe53 redo—
+0x000bfe5c training—
+0x000bfe63 again!
+0x000bfe78 Cosmic idol—
+0x000bfe87 losing—
+0x000bfe98 unacceptable!
+0x000bfeab Rematch!
+0x000bfec0 After all that—
+0x000bfed3 losing—
+0x000bfee2 rematch—
+0x000bfeeb now!
+0x000bfefc Too harsh~
+0x000bff0f Next—
+0x000bff1e I win!
+0x000bff34 Gero gero—
+0x000bff41 Eyes open—
+0x000bff4e finally!
+0x000bff64 I won't stay
+0x000bff75 loser—
+0x000bff86 not my—
+0x000bff93 style!!
+0x000bffa0 Is this—
+0x000bffb1 it…?
+0x000bffbe My plan—
+0x000bffcf Despair…?!
+0x000bffe0 U~u~u…
+0x000bffef Lost…
+0x000bfffc Sniff…
+0x000c0008 Not yet—
+0x000c0015 Now—
+0x000c001e show true
+0x000c0029 power…
+0x000c0038 Can't—forgive…
+0x000c004b Next—
+0x000c0058 win for sure!
+0x000c006c Uuu…
+0x000c0075 Feel so small—
+0x000c0088 pathetic—
+0x000c0099 really…
+0x000c00ac Darn!!
+0x000c00b7 Not trained—
+0x000c00c6 enough…?
+0x000c00d8 Huh!!?
+0x000c00e3 What!?
+0x000c00f6 Losing—
+0x000c0107 impossible!!
+0x000c011c Can't lose—
+0x000c0129 anymore—
+0x000c0138 period!!
+0x000c014c H…Huh!?
+0x000c015b Me—
+0x000c0162 losing—?
+0x000c0174 K~k~k~k…
+0x000c0187 Saw my—
+0x000c0196 true power—?
+0x000c01a8 Losing—
+0x000c01b9 next—perfect
+0x000c01c8 setup—
+0x000c01d7 win!
+0x000c01e8 Huh!?
+0x000c01f5 Chased me—
+0x000c0202 this far—
+0x000c0211 gutsy!!
+0x000c0224 K~k~k~k…
+0x000c0237 Need more—
+0x000c0246 mods…
+0x000c0255 K~k~k~k…
+0x000c0268 For Pekopon—
+0x000c0273 peace—
+0x000c027e can't lose—
+0x000c028d period!
+0x000c02a0 For my goal—
+0x000c02b1 Pekopon peace—
+0x000c02c4 can't lose—
+0x000c02d3 period!
+0x000c02e4 Bad—
+0x000c02eb news…!
+0x000c02fe Pekopon peace—
+0x000c030b doomed…
+0x000c0320 Need more—
+0x000c0331 training…
+0x000c033a Still rookie—
+0x000c0341 me…
+0x000c0354 Can't lose—
+0x000c0365 anymore!
+0x000c0372 Sumomo—
+0x000c0379 go!
+0x000c0384 Cosmic idol—
+0x000c0397 losing again—
+0x000c03a8 Watch me—
+0x000c03b7 next—
+0x000c03c4 Came all—
+0x000c03cd this way—
+0x000c03de secret—
+0x000c03e7 Can't lose—
+0x000c03f8 Play as Sumomo—
+0x000c0407 again!
+0x000c041a Sumomo's wish—
+0x000c0429 Thx—ciao!
+
+0x000c09ac Keroball
+0x000c09b8 All but user
+0x000c09c9 Get shocked
+0x000c09e0 Bucket
+0x000c09e8 Drops on chr
+0x000c09ff running ahead
+0x000c0a18 Grenade
+0x000c0a20 Explodes if hit
+0x000c0a33 by grenade
+0x000c0a48 Banana peel
+0x000c0a54 Slip & spin
+0x000c0a63 if stepped on
+0x000c0a78 Microbe Ray
+0x000c0a88 Shrinks if hit
+0x000c0a97 by ray
+0x000c0ab0 Space Nyo
+0x000c0abc Slows if tangled
+0x000c0ad1 with Space Nyo
+0x000c0ae4 First Aid
+0x000c0aec Restores HP
+0x000c0af7 greatly
+0x000c0b08 Senbei
+0x000c0b14 Restores HP
+0x000c0b1f
+0x000c0b30 Restores HP
+0x000c0b3b slightly
+0x000c0b4c Sq.Ldr.Horn
+0x000c0b58 Accel, spd ↑
+0x000c0b6d Corner ↓
+0x000c0b84 Occult Badge
+0x000c0b9c Speed ↑
+0x000c0bab Accel ↓
+0x000c0bc0 Afro Wig
+0x000c0bd0 Corner ↑
+0x000c0be3 Accel ↓
+0x000c0bf8 SUPER Shimeme
+0x000c0c0c Speed ↑
+0x000c0c1b Corner ↓
+0x000c0c34 Moa's Band
+0x000c0c48 Accel ↑
+0x000c0c57 Speed ↓
+0x000c0c6c Philo Book
+0x000c0c78 Corner ↑
+0x000c0c8b Speed ↓
+0x000c0ca0 Gunpla
+0x000c0cac Accel,spd,crn ↑
+0x000c0cc3 Max HP 80%
+0x000c0cdc Moa's DVD
+0x000c0ce8 Natsumi Photo
+0x000c0cf4 Kururu Pouch
+0x000c0d04 Zero-Lo Musicbox
+0x000c0d18 Keroro Flag
+0x000c0d28 Accel,spd,crn
+0x000c0d3f ↑ slightly
+0x000c0d50 Space Leech ♂
+0x000c0d60 Lives in Keron
+0x000c0d71 swamps
+0x000c0d80 Space Plant α
+0x000c0d98 Keron native
+0x000c0dab plant
+0x000c0db4 Nyororo
+0x000c0dc0 Absorbs dampness
+0x000c0dd7 from Keronians
+0x000c0df0 Space Octo
+0x000c0dfc Great suction
+0x000c0e0d resuscitates
+0x000c0e24 Space Okonomiyaki FX
+0x000c0e38 Keron delicacy
+0x000c0e45 Runs if careless
+0x000c0e58 Vacuum Sui
+0x000c0e70 Eco-energy vac
+0x000c0e88 Earth Suit (HS)
+0x000c0ea0 To mimic Pekopon
+0x000c0eb5 HS girl
+0x000c0ed0 Earth Suit (M)
+0x000c0ee4 To mimic Pekopon
+0x000c0ef9 adult male
+0x000c0f14 Earth Suit (Elem)
+0x000c0f28 To mimic Pekopon
+0x000c0f3b elem. student
+0x000c0f54 Earth Suit 100
+0x000c0f6c For mil. training
+0x000c0f83 suit
+0x000c0f90 Dive Suit
+0x000c0fa4 For underwater
+0x000c0fb9 survey suit
+0x000c0fc4 2nd Life Gun
+0x000c0fd8 Turns target child
+0x000c0ff4 Adult Ladder Gun
+0x000c1008 Turns target adult
+0x000c1024 Bye-Bye Game Gun
+0x000c1038 Replicates hit
+0x000c104b obj over time
+0x000c1064 Fear Counter
+0x000c1074 Measures fear
+0x000c108b level
+0x000c1094 Keroro B
+0x000c10a0 Moves as you will
+0x000c10b5 via Keroro's EEG
+0x000c10c8 Lucifer Spear
+0x000c10dc Planet-destroying rod
+0x000c10f4 Sumomo Sign
+0x000c1104 Signed by space
+0x000c1119 idol Sumomo
+0x000c1128 Dangar
+0x000c1134 Bootleg Gunpla
+0x000c1149 High value
+0x000c115c Yurei-chan
+0x000c1168 Ghost living in
+0x000c117b Keroro's room
+0x000c1184 Madam Keroro
+0x000c1194 Keroro in drag
+0x000c11ac Mama Fuyuki
+0x000c11b8 Mama as a teen
+0x000c11d1
+0x000c11d8 Nurse Moa
+0x000c11e4 Moa in nurse
+0x000c11fb outfit
+0x000c1204 Space Cop Poyon
+0x000c1218 Poyon, peace
+0x000c1229 officer
+0x000c123c Kitten
+0x000c1244 Visits Giroro's
+0x000c1255 tent
+0x000c1268 Asami
+0x000c1270 Karate girl
+0x000c1288 Adult Natsumi
+0x000c1294 Natsumi grown up
+0x000c12ab
+0x000c12b4 Blue Sky Keroco
+0x000c12c0 Leader? of cosmic
+0x000c12d7 comedy duo
+0x000c12e8 Moa Umi
+0x000c12f4 Partner in cosmic
+0x000c130b comedy duo
+0x000c1314 M. Honey
+0x000c1320 U.S.
+0x000c132b gravure idol
+0x000c1340 Keroro Heavy Clean
+0x000c1354 Keroro Ch'p Prize
+0x000c1365 ※No trade
+0x000c1378 Jealous Tamama
+0x000c1388 Tamama Ch'p Prize
+0x000c1399 ※No trade
+0x000c13ac Baby Giroro
+0x000c13bc Giroro Ch'p Prize
+0x000c13cd ※No trade
+0x000c13e0 Chonmage Kururu
+0x000c13f4 Kururu Ch'p Prize
+0x000c1405 ※No trade
+0x000c1418 Zero-Lo
+0x000c1420 Dororo Ch'p Prize
+0x000c1431 ※No trade
+0x000c1444 Sumomo (Pekopon)
+0x000c145c Sumomo Ch'p Prize
+0x000c146d ※No trade
+0x000c1480 Power Bucket Horse
+0x000c1494 Power abnormally ↑
+0x000c14a7 + other effects
+0x000c14b8 Wisdom Bucket Horse
+0x000c14cc Corner abnormally ↑
+0x000c14e1 + other effects
+0x000c14f0 Courage Bucket Horse
+0x000c1504 Speed abnormally ↑
+0x000c1517 + other effects
+0x000c1528 Golden Bucket Horse
+0x000c153c Accel abnormally ↑
+0x000c154f + other effects
+0x000c1ae4 Keroro
+0x000c1aec Tamama
+0x000c1af4 Giroro
+0x000c1afc Kururu
+0x000c1b04 Dororo
+0x000c1b0c Sumomo
+0x000c1b14 Keroro D
+0x000c1c38 Young Keroro
+0x000c1c48 Resonate
+0x000c1c50 Behold, Kerons!
+0x000c1c70 Rage
+0x000c1c78 Tamama Impact
+0x000c1c8c Hyper Jealousy
+0x000c1ca4 Awaken
+0x000c1cac Rifle Barrage
+0x000c1cbc Storm Missile
+0x000c1cdc Sneaky Power
+0x000c1ce8 Lullaby
+0x000c1cf0 Energy Ball
+0x000c1d10 Trauma
+0x000c1d1c Kunai Toss
+0x000c1d28 Secret Dororo Cut!
+0x000c1d48 Light Up
+0x000c1d58 Autograph
+0x000c1d60 Sing
+0x000c1d74 Missile
+0x000c1d80 Missile Pod
+0x000c1dcd First run.
+0x000c1ddc Clearing SRAM.
+0x000c1de9
+0x000c1e1c Save failed.
+0x000c1e31
+0x000c1e40 Press Start.
+0x000c1e5c Save data corrupt.
+0x000c1e79 All data lost.
+0x000c1e8a
+0x000c1ea1 Press Start.
+0x000c1ec0 Kururu: "Ku~kuku...
+0x000c1edb 1st place... nice...
+0x000c1ef6 Ku~kuku..."
+0x000c1f10 Keroro: "Bad vibes...
+0x000c1f2d Awww!
+0x000c1f3c Worst rival ever...?"
+0x000c1f54
+0x000c1f6c Tamama: "Sneaky,
+0x000c1f87 underhanded, gloomy
+0x000c1f90 tactics loom..."
+0x000c1fac Giroro: "Your tech
+0x000c1fc1 helps, but
+0x000c1fd4 you as CO?
+0x000c1fe4 Unacceptable!"
+0x000c1ff5
+0x000c2008 Dororo: "Kururu,
+0x000c2019 please develop
+0x000c2034 eco-friendly arms."
+0x000c2050 Kururu: "Ku~kuku...
+0x000c206b Leave it to me...
+0x000c207e I'll build something
+0x000c209c outrageously wild."
+0x000c20b4 Keroro: "Gero~...
+0x000c20c5 Kururu CO
+0x000c20d4 locked in lab
+0x000c20e8 for
+0x000c20ef a week now..."
+0x000c210c Moa: "What's he
+0x000c2129 doing...?"
+0x000c213c Giroro: "Keroro,
+0x000c2151 check on him."
+0x000c2168
+0x000c2184 Tamama: "Bad vibes..."
+0x000c219f
+0x000c21b4 Dororo: "Will Kururu
+0x000c21cf make wholesome,
+0x000c21e4 cheerful tech...?"
+0x000c2204 Keroro: "But Kururu
+0x000c221f is sneaky...
+0x000c2232 even if we
+0x000c2248 persuade him...
+0x000c2255 Hey Moa,
+0x000c226c one favor?"
+0x000c227d
+0x000c2298
+0x000c22ac Moa: "Yes, Uncle!"
+0x000c22c8 Kururu: "Doing
+0x000c22e1 whatever I want
+0x000c22f8 feels great...
+0x000c2308 Pekopon conquest
+0x000c231b needs no ex-CO,
+0x000c2336 old men, or kids—
+0x000c2354 I'll do it alone!
+0x000c2354 Ku~kuku...
+0x000c2369 ...huh?"
+0x000c2374 Moa: "Um...
+0x000c2383 Uncle asked me
+0x000c2398 to check
+0x000c23a1 on you..."
+0x000c23bc Kururu: (It's her...
+0x000c23d6 I'll brush her off...)
+0x000c23e9
+0x000c2400 Kururu: (...?)
+0x000c2410 Staaaaare...
+0x000c2420 Moa: (What's he building...?)
+0x000c243c Keroro: "Kururu CO!
+0x000c2457 Long time!
+0x000c2472 Wh-what's wrong?!"
+0x000c2490
+0x000c24a4 Kururu: "I can't...
+0x000c24b5 take it anymore..."
+0x000c24d0 Gah!
+0x000c24d8 Moa's pure curiosity
+0x000c24eb overwhelmed Kururu,
+0x000c2506 who handed CO
+0x000c251c to Keroro.
+0x000c2e6c Dororo: "Now I'm
+0x000c2e81 CO. Let's start
+0x000c2e94 strategy meeting."
+0x000c2ea5
+0x000c2eb2
+0x000c2ec8 Tamama: "So eager~!"
+0x000c2ee4 Giroro: "Acting fast.
+0x000c2f01 Keep it up, Dororo."
+0x000c2f16
+0x000c2f24 Kururu: "Serious CO
+0x000c2f41 might be cool...
+0x000c2f52 Ku~kuku..."
+0x000c2f6c Keroro: "I'm not
+0x000c2f7b CO...?
+0x000c2f8e No...☆×□○..."
+0x000c2fa8 (Speechless)
+0x000c2fbc Dororo: "Ex-CO,
+0x000c2fd5 don't worry.
+0x000c2fe6 When time comes,
+0x000c2ff8 I'll pass CO
+0x000c3005 to you."
+0x000c301c Keroro: "Dororo...!"
+0x000c3038 Moa: "Good news!
+0x000c304f Uncle!"
+0x000c3060 Dororo: "Now,
+0x000c3073 Pekopon Protect
+0x000c308c Meeting starts!"
+0x000c30a4 All: "Huh?"
+0x000c30b4 Dororo: "How to protect
+0x000c30c7 beautiful Pekopon.
+0x000c30de Wholesome, useful,
+0x000c30f8 beneficial plans..."
+0x000c310d
+0x000c3124 (Blah blah...)
+0x000c3140 All: "......"
+0x000c3150 Keroro: "Conquering
+0x000c316d Hinata house is
+0x000c3180 key!"
+0x000c31a0 Giroro: "Right,
+0x000c31b3 Natsumi's strong.
+0x000c31cc Secure Fuyuki
+0x000c31df first."
+0x000c31ee
+0x000c320c Tamama: "But if
+0x000c3223 we touch Fuyuki,
+0x000c323a Momoka's power
+0x000c3248 awakens...
+0x000c3261 Too strong to
+0x000c3272 handle..."
+0x000c3290 Kururu: "How 'bout
+0x000c32ab I invent
+0x000c32c4 something wild
+0x000c32dc to catch all? Ku~kuku..."
+0x000c32f4 Keroro: "Yes!
+0x000c3303 Start by building
+0x000c331c strong weapons!
+0x000c3334 Thorough prep
+0x000c3349 is shortcut
+0x000c335c to conquest!
+0x000c3370 Now, let's..."
+0x000c3384 ???: "Wait! Halt!"
+0x000c33a4 Dororo: "Harming
+0x000c33b7 Pekoponians
+0x000c33cc is unacceptable!
+0x000c33e8 I won't approve
+0x000c3403 as CO!
+0x000c3410 I won't reject
+0x000c3425 all ideas, but
+0x000c3440 please...
+0x000c344b more wholesome..."
+0x000c3464
+0x000c3480 Keroro: "Then!
+0x000c3493 Kururu Sgt:
+0x000c34a2 New weapons!
+0x000c34b8 Giroro Pvt:
+0x000c34c7 Check armory!
+0x000c34e0 Tamama PFC:
+0x000c34f7 With me!
+0x000c3510 Operation start!"
+0x000c3530 All: "Roger!"
+0x000c3540 Dororo: "Hey?!
+0x000c3551 Everyone?!"
+0x000c356c Keroro: "Great
+0x000c357d meetup!"
+0x000c3592
+0x000c35b0 Giroro: "Took you
+0x000c35bf long enough..."
+0x000c35dc Tamama: "My fists
+0x000c35ed itch~!"
+0x000c3604 Kururu: "Ku~kuku...
+0x000c361f Weapons dev
+0x000c362c is mine..."
+0x000c3648 Dororo: "Um, guys...
+0x000c365f my opinion...?"
+0x000c3674 Slam!
+0x000c3680 Dororo: "...Again...
+0x000c369b Left out...
+0x000c36ae Fine... used to it..."
+0x000c36c0
+0x000c36d3
+0x000c36f0 Moa: "Poor guy...
+0x000c3701 Wait, Uncle!"
+0x000c3701
+0x000c3729
+0x000c373c Dororo became CO
+0x000c3757 but was again
+0x000c3760 forgotten(?)—
+0x000c3778 gained new trauma.
+0x000c4340 Giroro: "Hmph..."
+0x000c4354 Keroro: "No...
+0x000c436d I... I..."
+0x000c4380 Moa: "Uncle..."
+0x000c4394 Giroro: "As CO,
+0x000c43a7 no tricks!
+0x000c43b8 Full force assault!"
+0x000c43d0
+0x000c43db Deploy all troops!
+0x000c43ee
+0x000c4408 Tamama: "Total war?
+0x000c4423 My fists
+0x000c442e itch~!"
+0x000c4448 Dororo: "No!
+0x000c445b Don't!"
+0x000c446c Crack!!
+0x000c4478 Dororo: "Kururu?!
+0x000c448f Gugamoga..."
+0x000c44a0 Dororo: "Zzz..."
+0x000c44b4 Kururu: "Getting fun!
+0x000c44d1 Ku~kuku..."
+0x000c44ec Kururu: "Huh...?"
+0x000c4500 Giroro: "What?
+0x000c4513 Kururu Sgt?"
+0x000c4524 Kururu: "Ku~kuku...
+0x000c453f Giroro CO...
+0x000c454e check this."
+0x000c4564
+0x000c4580 Natsumi: "Saburo?!
+0x000c4597 Why here...?"
+0x000c45b0 Saburo: "Just passing—
+0x000c45c3 thought I'd check
+0x000c45d6 on you, Natsumi."
+0x000c45f0
+0x000c460c Natsumi: "Not fair!
+0x000c461f Saburo-sempai!"
+0x000c4638 Kururu: "Ku~kuku...
+0x000c4653 They're having fun...
+0x000c466c Right, CO?"
+0x000c467c Ku~kuku..."
+0x000c4698 Giroro: "Grrr... (Furious)
+0x000c46ab He's 'Saburo'?
+0x000c46c2 (Darn him—
+0x000c46d4 trying to
+0x000c46e6 flirt with Natsumi!
+0x000c46fb Never forgive!
+0x000c470c Never!!)"
+0x000c4724 Keroro: "Gero!
+0x000c4735 Giroro CO's
+0x000c4744 acting weird!"
+0x000c475c Moa: "More like raging!"
+0x000c4778 Tamama: "CO's being
+0x000c4795 swallowed by
+0x000c47a4 dark feelings..."
+0x000c47b8 Giroro: "No more!"
+0x000c47cb
+0x000c47dc Saburo: "Haha,
+0x000c47f1 How're Kururu etc?"
+0x000c4810 Natsumi: "Yeah! But I
+0x000c4829 worry they're
+0x000c4840 plotting mischief."
+0x000c485c
+0x000c4878 Saburo: "I hope
+0x000c488f they do something
+0x000c489c fun again."
+0x000c48a7
+0x000c48c0
+0x000c48dc Giroro: "Hey, you!"
+0x000c48f4 Saburo: "Giroro?
+0x000c490b You're lively."
+0x000c4922
+0x000c4938 Giroro: "Shut up!
+0x000c4949 I'll fix your
+0x000c4958 flippant ways!
+0x000c4970 Fall!"
+0x000c4981
+0x000c4994
+0x000c49ac Natsumi: "Giroro!
+0x000c49c1 Behave!"
+0x000c49d8
+0x000c49f0 Giroro: "Guh!!"
+0x000c4a08 Saburo: "Phew... (Sweat)"
+0x000c4a24 Giroro: "N-Nat...
+0x000c4a3b (Shudder)
+0x000c4a48 Tamama: "Oh dear..."
+0x000c4a5c Kururu: "Ku~kuku...
+0x000c4a77 Too emotional
+0x000c4a8e to be CO..."
+0x000c4aac Afterward,
+0x000c4ab5 Keroro briefly
+0x000c4acc resumed CO,
+0x000c4ae0 but Giroro's deep
+0x000c4af9 heartbreak left
+0x000c4b12 Keroro as CO.
+0x000c57d0 Keroro: "FIX FIX!"
+0x000c57ec Keroro: "No secret
+0x000c5801 char ending!
+0x000c5818 But how to escape?"
+0x000c5829
+0x000c583c
+0x000c584f
+0x000c5866
+0x000c587c Afterward,
+0x000c5885 no one knows
+0x000c589c what happened
+0x000c58b0 to Keroro... The end.
+0x000c59b4 Keroro: "I did it!
+0x000c59cd I'm the perfect
+0x000c59e0 Keroro Platoon CO!
+0x000c59f8 Gero-gero-gero!"
+0x000c5a18
+0x000c5a2f
+0x000c5a48 Moa: "Congrats!
+0x000c5a65 Uncle!"
+0x000c5a74 Tamama: "Sgt rocks~!"
+0x000c5a9c Giroro: "Hmph!
+0x000c5aab Not bad, Keroro!"
+0x000c5ac8 Kururu: "Ku~kuku...
+0x000c5ae3 Good, CO."
+0x000c5afc Dororo: "Keroro!
+0x000c5b13 I knew you could!"
+0x000c5b28
+0x000c5b3c Keroro: "Thanks!
+0x000c5b57 But! I was lazy!
+0x000c5b6c This fight taught
+0x000c5b75 me that!"
+0x000c5b92
+0x000c5ba8
+0x000c5bc4 Moa: "Outta blue?"
+0x000c5be4 Giroro: "Keroro!
+0x000c5bf7 Finally awake...
+0x000c5c14 Huh..."
+0x000c5c20 Tamama: "Reminds me
+0x000c5c3b of old Sgt~!"
+0x000c5c54 Kururu: "Want my
+0x000c5c69 wild invention?
+0x000c5c80 Ku~kuku..."
+0x000c5c9c
+0x000c5cb4 Dororo: "Keroro CO,
+0x000c5ccb once we conquer,
+0x000c5ce2 please help me
+0x000c5cf8 protect Pekopon!"
+0x000c5d0b
+0x000c5d24 Keroro: "Sorry!
+0x000c5d35 Stay with me!
+0x000c5d5b Earth conquest
+0x000c5d6e starts now!"
+0x000c5d80
+0x000c5d91
+0x000c5d9a
+0x000c5db4 All: "Roger!"
+0x000c5dc8 Keroro: "Gero-gero...
+0x000c5ddf My awakened power
+0x000c5df4 will shock you!
+0x000c5e10 Like a tiny ant
+0x000c5e19 hole collapsing
+0x000c5e34 a huge dam (?)"
+0x000c5e44
+0x000c5e60 All: "Uh..."
+0x000c5e70 Natsumi: "......... (Furious)"
+0x000c5e8c Keroro: "Natsumi?!
+0x000c5e9d When'd you...?"
+0x000c5eb8 Natsumi: "Frog-brain!
+0x000c5ecb I said no tricks!
+0x000c5ee6 Or else! Always!"
+0x000c5f00
+0x000c5f09
+0x000c5f24 Keroro: "Eeek!
+0x000c5f3f Forgive me!"
+0x000c5f58 Natsumi: "Wait,
+0x000c5f6b frog-brain!"
+0x000c5f80 Moa: "Uncle!"
+0x000c5f98 Giroro: "Again...?"
+0x000c5fa7
+0x000c5fbc Tamama: "No progress...~"
+0x000c5fec Kururu: "Ku~kuku..."
+0x000c600c Dororo: "Keroro...
+0x000c6023 kinda pitiful..."
+0x000c603c Keroro kept CO
+0x000c604b but lost to Natsumi,
+0x000c6060 living same life.
+0x000c6b9c Keroro: "Puffi~ Finally
+0x000c6bb9 finished all Gunpla!
+0x000c6bd4 Feels great!"
+0x000c6bf4
+0x000c6c07
+0x000c6c1e
+0x000c6c38 Moa: "Uncle! Tea's ready~."
+0x000c6c64 Keroro: "Gero! Kind, Moa!
+0x000c6c7f Zzz... Ahh!
+0x000c6c9a So relaxing!
+0x000c6cb8
+0x000c6cc1
+0x000c6cda Gero-gero...
+0x000c6cf0 Now Gunpla's done,
+0x000c6d0b one thing left!
+0x000c6d18
+0x000c6d30 Time for flying
+0x000c6d45 board stroll!
+0x000c6d58 Sun's good!
+0x000c6d73 Conquest later!"
+0x000c6d90
+0x000c6dac
+0x000c6dc9
+0x000c6de6
+0x000c6e00 Moa: "Be careful!
+0x000c6e11 Safe flight?"
+0x000c6e2a
+0x000c6e44 Keroro: "Moa!
+0x000c6e55 Be back soon!"
+0x000c6e74 Giroro: "......... (Furious)"
+0x000c6e90 Keroro: "Gero?!
+0x000c6ea3 Giroro Pvt?
+0x000c6eb6 Need something?"
+0x000c6ed0 Giroro: "Keroro...
+0x000c6ee7 Slacking daily!
+0x000c6efc Do you even want
+0x000c6f1c to conquer Pekopon?!"
+0x000c6f2f
+0x000c6f46
+0x000c6f64 Keroro: "Ow! Stop!
+0x000c6f7d Hear me out!"
+0x000c6f94
+0x000c6fa7
+0x000c6fc4 Giroro: "No!
+0x000c6fd5 Your laziness
+0x000c6fec is why conquest
+0x000c6ff9 stalls!"
+0x000c7010
+0x000c7024
+0x000c7038 Keroro: "Giroro...
+0x000c704b If you hate me as CO,
+0x000c7062 let's settle this
+0x000c707c with
+0x000c7085 flying board race!
+0x000c709c If I lose, I quit!"
+0x000c70b8 Giroro: "Huh...?"
+0x000c70cc Keroro: "Race me!
+0x000c70db If I lose,
+0x000c70f8 I'll step down!"
+0x000c710c
+0x000c7127
+0x000c7134
+0x000c714c Giroro: "Really?"
+0x000c7164 Keroro: "Man's honor!
+0x000c7181 I won't lie!"
+0x000c7196
+0x000c71b4 Giroro: "Heh! Fun!
+0x000c71cf I'll crush you
+0x000c71ec and conquer
+0x000c7208 Pekopon!"
+0x000c7225
+0x000c7234
+0x000c724c
+0x000c7268 Tamama: "Race?
+0x000c7283 Sounds fun~!
+0x000c7298 Sgt, can I join?"
+0x000c72b4 Kururu: "Trouble's
+0x000c72f7 my thing...
+0x000c7312 I'm in... Ku~kuku..."
+0x000c7328
+0x000c7340 Keroro: "Gero! You guys...
+0x000c7359 Gero-gero!
+0x000c7374 Time to announce
+0x000c7383 Keropri!"
+0x000c7396
+0x000c73b0 Natsumi: "Frog-brain!"
+0x000c73c1
+0x000c73d4 Keroro: "Gero!!
+0x000c73e7 Natsumi?!"
+0x000c73f8 Natsumi: "Plotting
+0x000c740b again! Won't allow!"
+0x000c741c
+0x000c7434
+0x000c744c Fuyuki: "Sis, calm.
+0x000c7468 Sgt's not scheming
+0x000c7485 this time."
+0x000c7494
+0x000c74ac Aki: "Yeah, Natsumi.
+0x000c74bf Keroro cleans hard—
+0x000c74d8 needs a break (?)."
+0x000c74f8
+0x000c750d
+0x000c7524 Natsumi: "Fine...
+0x000c7537 but we'll watch
+0x000c7550 closely!"
+0x000c755c
+0x000c757c Momoka: "As Tamama's
+0x000c7593 guardian, I'll watch."
+0x000c75a4
+0x000c75b8 (Winter's here—
+0x000c75c4 gotta watch!)
+0x000c75d7
+0x000c75f4 Paul: "Miss, I'll join.
+0x000c7605 Tamama's my friend."
+0x000c761a
+0x000c7634
+0x000c7648 Saburo: "Race? Cool.
+0x000c7663 I'll watch."
+0x000c7676
+0x000c7694 Yukiko: "Um...
+0x000c76a3 I want to watch...
+0x000c76b6
+0x000c76d0 (Natsumi's watching...)"
+0x000c76de
+0x000c76f8 Yukiko: "Everyone forgot
+0x000c7711 Dororo!"
+0x000c7728 All: "Ah..."
+0x000c7738 Dororo: "Keroro...
+0x000c7755 Fine... used to it..."
+0x000c7770
+0x000c7788 Keroro: "Gero!
+0x000c7799 Dororo?!
+0x000c77ac I didn't forget!
+0x000c77bf I was gonna call
+0x000c77d2 you later!"
+0x000c77e4
+0x000c77f9
+0x000c7814 Dororo: "Keroro...
+0x000c7829 Same as always...
+0x000c7840 Even though
+0x000c7849 I'm on Pekopon's side..."
+0x000c7862
+0x000c7878 Keroro: "So...
+0x000c7885 Let's restart."
+0x000c789c Fuyuki: "Wait, Sgt.
+0x000c78b7 Race rules?"
+0x000c78ca
+0x000c78dc Keroro: "Uh..."
+0x000c78f8 Fuyuki: "Not set?
+0x000c7905 I'll decide.
+0x000c791a Simple champ points.
+0x000c7934 HP at finish
+0x000c7943 adds to points.
+0x000c7958 So 1st can lose!"
+0x000c7974
+0x000c797f
+0x000c799c
+0x000c79ac
+0x000c79c1
+0x000c79da
+0x000c79ec
+0x000c7a09
+0x000c7a1a
+0x000c7a2c
+0x000c7a47 More fun, right?"
+0x000c7a52
+0x000c7a68 Keroro: "Then...
+0x000c7a83 Keropri starts!
+0x000c7a96 Winner gets CO!
+0x000c7aa8
+0x000c7abf All, bring it on!"
+0x000c7ad6
+0x000c7af4
+0x000c7b03
+0x000c7b14
+0x000c7b29 Resonate×5
+0x000c7b3c Keroro: (This is bad!
+0x000c7b56 I must keep CO!
+0x000c7b65 Any means!
+0x000c7b80
+0x000c7b8d
+0x000c7ba4 Gero-gero-gero...)
+0x000c7bbf
+0x000c7bdc Sumomo: "Hmm?
+0x000c7bed Back on Pekopon—
+0x000c7c08 Sgt's having fun!
+0x000c7c23 I'll sneak in!"
+0x000c7c38
+0x000c7c49
+0x000c7c66 Hehe
+0x000c9334 Sumomo: "Phew!
+0x000c9347 Fun!"
+0x000c935c Keroro: "Gero~ Lost
+0x000c9373 to Sumomo...?"
+0x000c9384
+0x000c9398 Giroro: "We're trained soldiers...?!"
+0x000c93b3
+0x000c93c8 Tamama: "So Sumomo's
+0x000c93d9 new CO...?"
+0x000c93f6
+0x000c940c Kururu: "Ku~kuku...
+0x000c9427 This got fun..."
+0x000c943a
+0x000c9454 Dororo: "Ugh...
+0x000c9465 Shameful."
+0x000c9478 Keroro: "Um... Sumomo?
+0x000c9489 You're our
+0x000c94a9 new CO...?"
+0x000c94ba
+0x000c94cc Sumomo: "Me? CO?
+0x000c94e7 No way!
+0x000c94fc I'm just on break—
+0x000c950c came to relax.
+0x000c951c Saw you playing."
+0x000c9531
+0x000c9548
+0x000c9557
+0x000c956c
+0x000c957f
+0x000c9598
+0x000c95a5
+0x000c95be
+0x000c95d4 Keroro: "Whaaat?!"
+0x000c95e1
+0x000c95fc Sumomo: "Oops!
+0x000c960b Gotta return!
+0x000c9624 Live show soon!
+0x000c9638 Watch if you can!
+0x000c9655
+0x000c9662
+0x000c967c Bye!
+0x000c968f Hehe
+0x000c969c Keroro: "Lost even
+0x000c96af to idol Sumomo.
+0x000c96c4 What've we done?!"
+0x000c96e0
+0x000c96eb
+0x000c9708
+0x000c9711
+0x000c972c Moa: "Sumomo
+0x000c9741 was awesome!
+0x000c9756 Undefeated?"
+0x000c9770 Tamama: "Met Sumomo—
+0x000c9787 happy but
+0x000c9794 feel pathetic..."
+0x000c97b4
+0x000c97d4 Giroro: "All of us
+0x000c97e5 losing is serious."
+0x000c97f8
+0x000c9808
+0x000c9820 Kururu: "Ku~kuku...
+0x000c983b Just bad luck?"
+0x000c9842
+0x000c9860 Dororo: "Never thought
+0x000c9879 I'd lose...
+0x000c9892 Life's shame!"
+0x000c98b0 Keroro: "Team!
+0x000c98c1 Let's unite!
+0x000c98d8 Reform Keroro Platoon
+0x000c98f8 under me!"
+0x000c990b
+0x000c991a
+0x000c9938 Tamama: "Wow!
+0x000c9949 So touching~!"
+0x000c9968 Giroro: "Hmph. Fine."
+0x000c9981
+0x000c9994 Kururu: "As long
+0x000c99af as I invent...
+0x000c99c0 Ku~kuku..."
+0x000c99d8 Dororo: "Keroro...
+0x000c99eb Don't forget me."
+0x000c9a08 Moa: "Uncle,
+0x000c9a19 so cool!"
+0x000c9a30 Keroro: "Thanks!
+0x000c9a41 With you,
+0x000c9a54 I'm moved!"
+0x000c9a5d
+0x000c9a7a
+0x000c9a90 Now!
+0x000c9a9d Pekopon conquest
+0x000c9ab4 strategy meeting..."
+0x000c9ad0 Fuyuki: "Sgt?
+0x000c9adf CO?!"
+0x000c9af4 Keroro: "Gero?!
+0x000c9b07 Fuyuki? What?"
+0x000c9b12
+0x000c9b2c Fuyuki: "You're on
+0x000c9b41 cleaning duty.
+0x000c9b50 Sis is mad:
+0x000c9b67 'Frog-brain!'
+0x000c9b84 Hurry up."
+0x000c9b90
+0x000c9b9d
+0x000c9bb4 Keroro: "Gero?!
+0x000c9bc7 Right away!
+0x000c9be0 I'll clean!"
+0x000c9beb
+0x000c9c08 Giroro: "Keroro!
+0x000c9c1f What about meeting?!"
+0x000c9c38 Keroro: "Later!"
+0x000c9c58 Giroro: "Wha...?"
+0x000c9c68 Tamama: "Felt moved
+0x000c9c81 for nothing..."
+0x000c9c9c Dororo: "Keroro CO
+0x000c9cb3 is Keroro CO..."
+0x000c9cc2
+0x000c9ce0 Kururu: "Ku~kuku..."
+0x000c9d00 Losing to idol
+0x000c9d19 Sumomo shocked
+0x000c9d2c the platoon,
+0x000c9d44 but nothing changed.
+0x000caba8 Tamama: "I won!
+0x000cabc1 I'm CO now~!"
+0x000cabe0 Keroro: "No...
+0x000cabf7 I... I...
+0x000cac08 Life's strange..."
+0x000cac20
+0x000cac3c Giroro: "Hmph...
+0x000cac4b Lazy life's
+0x000cac62 comeuppance."
+0x000cac74 (Tamama as CO?
+0x000cac8c Doubtful, but
+0x000caca1 good for Keroro.)
+0x000cacb4 Kururu: "Ku~kuku...
+0x000caccf Good luck, CO Tamama..."
+0x000cacec Dororo: "Keroro,
+0x000cad01 karma."
+0x000cad18 Tamama: "Ahem!
+0x000cad33 Tamama Platoon!
+0x000cad4c ...Huh?"
+0x000cad5c Moa: "Uncle?
+0x000cad6d I don't mind
+0x000cad80 you not being CO.
+0x000cad98 You're you!"
+0x000cadab
+0x000cadc0
+0x000cadd8 Keroro: "Moa...!
+0x000cadef I'm touched!"
+0x000cae0c Tamama: (Still
+0x000cae28 meddling! Sgt
+0x000cae3f won't be yours!)
+0x000cae58
+0x000cae70 Tamama: "Kururu!
+0x000cae85 Arrest her!"
+0x000caea0 Kururu: "Roger..."
+0x000caeb4 Moa: "Eek! Why?!
+0x000caec5
+0x000caee0 Unconscious?"
+0x000caef8 Keroro: "Moa!
+0x000caf09 Tamama CO, why?!
+0x000caf1a She helps us!"
+0x000caf38
+0x000caf4d
+0x000caf62
+0x000caf70 Tamama: "Sgt sides
+0x000caf81 with her?!
+0x000caf9a Treason! Jail!"
+0x000cafb4
+0x000cafc7
+0x000cafe0 Keroro: "Gero!
+0x000caff1 Tamama CO!"
+0x000cb008 Tamama: "Fine!
+0x000cb01b Full Pekopon conquest!
+0x000cb036 Take Hinata house!
+0x000cb054 Avoid tough Natsumi!
+0x000cb069 Secure Fuyuki first!"
+0x000cb07e
+0x000cb098
+0x000cb0b3
+0x000cb0c6
+0x000cb0e0 All: "Roger!...?!"
+0x000cb0f8 Momoka: "Tamama?
+0x000cb114
+0x000cb129 Why're you here?!"
+0x000cb13e
+0x000cb150 Dark Momoka: "Tamago!
+0x000cb167 Don't touch Fuyuki!
+0x000cb17e Or else!"
+0x000cb19c
+0x000cb1b4 Tamama: "Eek!
+0x000cb1c9 Sorry, Momoka!"
+0x000cb1d6
+0x000cb1f4 Dark Momoka: "Take that!"
+0x000cb210 Tamama, consumed
+0x000cb22b by dark rage,
+0x000cb242 got punished
+0x000cb25c and quit as CO.
+0x000cbbe0 Your ID:
+
+0x000cbd1c Items
+0x000cbd28 Characters
+
+0x000cbe51 Saving.
+0x000cbe68 Give
+0x000cbe70 Get
+0x000cbf38 None
+0x000cc004 Item Rate
+0x000cc330 Nishizawa
+0x000cc338 Sub Factory
+0x000cc344 Keroro Isl
+0x000cc350 Command Rm
+0x000cc358 Nishizawa
+0x000cc360 Sub Factory
+0x000cc36c Keroro Isl
+0x000cc378 Command Rm
+0x000cc380 Nishizawa Mirror
+0x000cc390 Sub Factory Mirror
+0x000cc3a4 Keroro Is. Mirror
+0x000cc3b8 Command Rm Mirror
+0x000cc3c8 Nishizawa Reverse
+0x000cc3dc Sub Factory Reverse
+0x000cc3f0 Keroro Is. Reverse
+0x000cc404 Command Rm Reverse
+0x000cc448 Yes
+0x000cc450 No
+0x000cc458 Story
+0x000cc464 VS Battle
+0x000cc470 Item Trade
+0x000cc480 Dictionary
+0x000cc488 Retry
+0x000cc494 Quit
+0x000cc4a0 Rank Total
+0x000cc4ac Load
+0x000cc4bb save?
+0x000cc4c8 Delete
+0x000cc4db save?
+0x000cc4e6 OK?
+0x000cc4f8 Retry
+0x000cc504 Char Select
+0x000cc518 Course Select
+0x000cc524 Title
+0x000cc540 Deputy CO
+0x000cc54c Member
+0x000cc554 Pick Deputy
+0x000cc55f or Member
+0x000cc56c
+0x000cc57c Deputy CO...
+0x000cc587 Acts as CO,
+0x000cc598 commands unit
+0x000cc5b0 Member...
+0x000cc5b7 Picks Deputy,
+0x000cc5c6 joins unit
+0x000cc5e0 Pick Deputy
+0x000cc5eb
+0x000cc5fc Awaiting
+0x000cc60b Deputy msg
+0x000cc620 Recruiting
+0x000cc627 members
+0x000cc638 OK with
+0x000cc647 these mems?
+0x000cc658 Wireless Adptr
+0x000cc66d not connctd
+0x000cc680 Wireless Adptr
+0x000cc695 not detected.
+0x000cc6ac Power off &
+0x000cc6bb check wireless
+0x000cc6d0 adapter conn.
+0x000cc6ec Failed to
+0x000cc6fb connect mem
+0x000cc708 Failed to
+0x000cc71b connect Deputy
+0x000cc728 Pick item to
+0x000cc73b trade from
+0x000cc74e list
+0x000cc760 Trade this
+0x000cc76f item? OK?
+0x000cc77a
+0x000cc78c OK with this
+0x000cc79d trade?
+0x000cc7a4
+0x000cc7b8 Trade done
+0x000cc7c7
+0x000cc7d4 Trade failed
+0x000cc7f0 End trade?
+0x000cc7ff OK?
+0x000cc80a
+0x000cc81c 's
+0x000cc823 awaiting conf
+0x000cc838
+0x000cc83f wants to end
+0x000cc85c Awaiting
+0x000cc867 opponent
+0x000cc874 Effect:
+0x000cc87d Shocks & spins
+0x000cc88a all but user
+0x000cc899 and last place
+0x000cc8aa
+0x000cc8bf
+0x000cc8d4 Lightning fast?
+0x000cc8e7 Keroball is
+0x000cc8f6 gen-issue gear
+0x000cc90b from Keron Mil
+0x000cc918 for CO use.
+0x000cc92b
+0x000cc93c Mil supply?
+0x000cc94f Press Keroball
+0x000cc964 btn for comms,
+0x000cc973 hover, warp,
+0x000cc988 goop ray, etc.
+0x000cc99b
+0x000cc9ae But btn-fnctn
+0x000cc9c3 mapping's so
+0x000cc9d4 complex only
+0x000cc9e7 Keronians can
+0x000cc9fc use it.
+0x000cca10 Undecipherable?
+0x000cca20 Effect:
+0x000cca29 Drops bucket
+0x000cca38 on 2nd-place
+0x000cca47 runner
+0x000cca55 Bucket hit =
+0x000cca6a KO
+0x000cca7b Gravity?
+0x000cca8e Bucket drops
+0x000cca99 from sky when
+0x000ccaae Keroball btn
+0x000ccabd pressed.
+0x000ccad0 Old skit gag:
+0x000ccae1 buckets fall
+0x000ccae8 from sky—
+0x000ccafd Uncle says
+0x000ccb06 it's classic.
+0x000ccb19
+0x000ccb24
+0x000ccb3c Effect:
+0x000ccb45 Throw at
+0x000ccb58 front runner
+0x000ccb67 Hit = grenade
+0x000ccb76 explodes
+0x000ccb7f
+0x000ccb90 Sure hit?
+0x000ccba3 Mil-issue to
+0x000ccbb8 Keron troops.
+0x000ccbcb Giroro uses
+0x000ccbda lots—maybe
+0x000ccbed wasteful
+0x000ccbfa conquest
+0x000ccc0d budget drain?
+0x000ccc20 Effect:
+0x000ccc29 Drops peel
+0x000ccc3c behind to
+0x000ccc45 block foes
+0x000ccc56
+0x000ccc65 Touch = spin
+0x000ccc78
+0x000ccc87 Uncle feels
+0x000ccc94 urge to
+0x000ccca7 step on peels.
+0x000cccb8
+0x000cccbf
+0x000cccd2 Self-joy?
+0x000ccce8 Effect:
+0x000cccf1 Shoots ray
+0x000ccd04 at front
+0x000ccd19 runner. Hit =
+0x000ccd2a shrink for
+0x000ccd33 time—stats
+0x000ccd48 down.
+0x000ccd57
+0x000ccd66 Stat drop?
+0x000ccd79 Shrunk, fight
+0x000ccd84 aliens in
+0x000ccd91 tooth base.
+0x000ccda6 Keronians call
+0x000ccdbb it Cavity War.
+0x000ccdd0
+0x000ccde3
+0x000ccdf0 Space war?
+0x000cce04 Effect:
+0x000cce0d Throws at
+0x000cce1c 2nd-place
+0x000cce2b runner. Hit =
+0x000cce3a Space Nyo
+0x000cce45 wraps—spd
+0x000cce5a down for
+0x000cce63 time.
+0x000cce6e
+0x000cce7d Arrested?
+0x000cce90 Semi-plant
+0x000ccea1 creature
+0x000cceaa from Keron
+0x000ccebb water. Used
+0x000ccecc to bind foes.
+0x000cced5
+0x000ccee6 Binding feels
+0x000ccef5 comfy. Also
+0x000ccf02 stretches
+0x000ccf15 far.
+0x000ccf1c
+0x000ccf31
+0x000ccf40 Elastic?
+0x000ccf54 Effect:
+0x000ccf5d Heals HP
+0x000ccf70 greatly
+0x000ccf83
+0x000ccf96 Med kit has
+0x000ccfa5 bandages,
+0x000ccfac plasters,
+0x000ccfbf etc.
+0x000ccfd4 Med care?
+0x000ccfe8 Effect:
+0x000ccff1 Restores HP
+0x000ccffe
+0x000cd011 Food heal?
+0x000cd024 Keroro Pltn
+0x000cd035 needs tea,
+0x000cd03e senbei, low
+0x000cd051 table for
+0x000cd05c meetings.
+0x000cd06b Gather round
+0x000cd07c table to
+0x000cd08d plan conquest.
+0x000cd098
+0x000cd0a7 Conq mtg?
+0x000cd0bc Effect:
+0x000cd0c5 Power ↑
+0x000cd0d6
+0x000cd0e3 Strength ↑?
+0x000cd0f6 Keronians
+0x000cd103 need water
+0x000cd116 badly. No
+0x000cd125 water = dry
+0x000cd132 out, maybe
+0x000cd143 die.
+0x000cd152
+0x000cd161 Vital?
+0x000cd174 Effect:
+0x000cd17d Accel, spd ↑
+0x000cd18e slightly,
+0x000cd19f corner ↓
+0x000cd1ae slightly.
+0x000cd1c1 Straight win?
+0x000cd1d4 Mark of CO.
+0x000cd1dd Said to
+0x000cd1e8 boost stats
+0x000cd1f7 1.3x.
+0x000cd202
+0x000cd211
+0x000cd222
+0x000cd229
+0x000cd23a Red x3?
+0x000cd250 Effect:
+0x000cd259 Spd ↑
+0x000cd266 slightly,
+0x000cd273 accel ↓
+0x000cd280 slightly.
+0x000cd293 All out?
+0x000cd2a6 Occult Club
+0x000cd2b5 badge from
+0x000cd2be Kichijo Jr
+0x000cd2cf HS. Only
+0x000cd2e0 members:
+0x000cd2e9 Fuyuki &
+0x000cd2fc Momoka.
+0x000cd30d Short staff?
+0x000cd320 Effect:
+0x000cd329 Corner ↑
+0x000cd338 slightly,
+0x000cd345 accel ↓
+0x000cd352 slightly.
+0x000cd365 Big hair?
+0x000cd378 Afro = famous
+0x000cd387 space celeb
+0x000cd396 with wild
+0x000cd3a9 hair talk.
+0x000cd3bc Kururu's
+0x000cd3c9 old pal.
+0x000cd3d4
+0x000cd3e3 Childhood?
+0x000cd3f8 Effect:
+0x000cd401 Spd ↑
+0x000cd40e slightly,
+0x000cd41b corner ↓
+0x000cd42a slightly.
+0x000cd43d Humidity ↑?
+0x000cd450 High humidity
+0x000cd461 makes Uncle
+0x000cd472 act like drunk
+0x000cd483 Pekoponian.
+0x000cd496
+0x000cd4a9 Drunk fly?
+0x000cd4bc Effect:
+0x000cd4c5 Accel ↑
+0x000cd4d2 slightly,
+0x000cd4df spd ↓
+0x000cd4ec slightly.
+0x000cd4ff Safe fly?
+0x000cd512 Without this,
+0x000cd51f people mix
+0x000cd528 me & Asami.
+0x000cd537
+0x000cd540
+0x000cd54f Same person?
+0x000cd564 Effect:
+0x000cd56d Corner ↑
+0x000cd57c slightly,
+0x000cd589 spd ↓
+0x000cd596 slightly.
+0x000cd5a9 Safe fly?
+0x000cd5bc Uncle used
+0x000cd5c9 to read
+0x000cd5d4 hard books.
+0x000cd5e9 Now only
+0x000cd5f8 reads manga.
+0x000cd605
+0x000cd612 Inner world?
+0x000cd628 Uncle's
+0x000cd631 equip item.
+0x000cd640 Effect:
+0x000cd653 Accel, spd,
+0x000cd65c corner ↑
+0x000cd66d
+0x000cd678
+0x000cd687 Max HP ↓
+0x000cd698 to 80%.
+0x000cd6a1
+0x000cd6b6 Custom gear?
+0x000cd6c9 Uncle saves
+0x000cd6de daily for
+0x000cd6e9 Gunpla.
+0x000cd6f8
+0x000cd707 Greed save?
+0x000cd71c Tamama's
+0x000cd725 equip item.
+0x000cd736 Effect:
+0x000cd749 Accel, spd,
+0x000cd752 corner ↑
+0x000cd763
+0x000cd76e
+0x000cd77d Max HP ↓
+0x000cd78e to 80%.
+0x000cd797
+0x000cd7ac Jealousy ↑?
+0x000cd7bf DVD for
+0x000cd7d2 my dad.
+0x000cd7e3 Tamama
+0x000cd7f0 doesn't get
+0x000cd7ff why this
+0x000cd814 boosts stats.
+0x000cd829
+0x000cd838 Perma-?
+0x000cd84c Giroro's
+0x000cd855 equip item.
+0x000cd866 Effect:
+0x000cd879 Accel, spd,
+0x000cd882 corner ↑
+0x000cd893
+0x000cd89e
+0x000cd8ad Max HP ↓
+0x000cd8be to 80%.
+0x000cd8c7
+0x000cd8dc Blush ↑?
+0x000cd8ef Giroro likes
+0x000cd8fe Natsumi.
+0x000cd90d Thinks it's
+0x000cd922 secret, but
+0x000cd937 everyone
+0x000cd942 knows.
+0x000cd94f
+0x000cd95a
+0x000cd96d Pure love?
+0x000cd980 Kururu's
+0x000cd989 equip item.
+0x000cd99a Effect:
+0x000cd9ad Accel, spd,
+0x000cd9b6 corner ↑
+0x000cd9c7
+0x000cd9d2
+0x000cd9e1 Max HP ↓
+0x000cd9f2 to 80%.
+0x000cd9fb
+0x000cda10 Handy stow?
+0x000cda23 Kururu hid
+0x000cda32 Giroro's belt
+0x000cda45 here—got
+0x000cda54 in big
+0x000cda63 trouble.
+0x000cda6e
+0x000cda81 Scary exp?
+0x000cda94 Dororo's
+0x000cda9d equip item.
+0x000cdaae Effect:
+0x000cdac1 Accel, spd,
+0x000cdaca corner ↑
+0x000cdadb
+0x000cdae6
+0x000cdaf5 Max HP ↓
+0x000cdb06 to 80%.
+0x000cdb0f
+0x000cdb24 Past issue?
+0x000cdb37 Dororo's
+0x000cdb46 mom scolded
+0x000cdb51 him 'cause
+0x000cdb5c Uncle broke
+0x000cdb69 his musicbox.
+0x000cdb7c Uncle was
+0x000cdb87 at fault.
+0x000cdb94
+0x000cdba7 Past due?
+0x000cdbdc Keroro Pltn
+0x000cdbe5 flag. Effect:
+0x000cdbfa Accel, spd,
+0x000cdc03 corner ↑
+0x000cdc14 slightly—
+0x000cdc29 really slight.
+0x000cdc3a
+0x000cdc47
+0x000cdc56 Deco item?
+0x000cdc6c Leech from
+0x000cdc7d Keron swamps.
+0x000cdc90 Hot breath
+0x000cdc9b so nasty,
+0x000cdcac used for
+0x000cdcbd interrog.
+0x000cdcce Why male?
+0x000cdcdf Males are...
+0x000cdcec I can't
+0x000cdcfb say more.
+0x000cdd08 Silent?
+0x000cdd1c Plant from
+0x000cdd27 Keron. Stabs
+0x000cdd3a tentacles
+0x000cdd47 to show
+0x000cdd5a hidden things,
+0x000cdd6d drains life.
+0x000cdd80
+0x000cdd87
+0x000cdd98 Drained =
+0x000cddad burn out,
+0x000cddbe white out.
+0x000cddc7
+0x000cdddc Full burn?
+0x000cddf0 Origin
+0x000cddff unknown.
+0x000cde08 I dunno.
+0x000cde11
+0x000cde22 Secret bio?
+0x000cde35 Nyororo likes
+0x000cde42 damp Keron
+0x000cde4f ians. Shows
+0x000cde5a up, sucks
+0x000cde6d moisture
+0x000cde82 from them.
+0x000cde8f
+0x000cde96
+`0x000cdea9 Moisture
+0x000cdeb0 sucked = dry
+0x000cdec1 as bone,
+0x000cded4 immobile
+0x000cdee5 2-3 days.
+0x000cdefa Forced dry?
+0x000cdf10 Famous for
+0x000cdf21 super suction.
+0x000cdf32
+0x000cdf3d Space Octo revives
+0x000cdf52 with CPR.
+0x000cdf63
+0x000cdf72 Life save?
+0x000cdf85 But CPR
+0x000cdf8c scene might
+0x000cdf97 gross you
+0x000cdfa4 out.
+0x000cdfb3
+0x000cdfd5 Hell view?
+0x000cdfe8 Keron snack—
+0x000cdff7 Tamama's fave.
+0x000ce008 Cooks stinky;
+0x000ce015 keep lid on
+0x000ce026 or it flees.
+0x000ce031
+0x000ce044
+0x000ce057 Thrill: eat
+0x000ce068 or get eaten!
+0x000ce07d Space dish?
+0x000ce092
+0x000ce0a5
+0x000ce0b2
+0x000ce0bf Space food?
+0x000ce0d4 Name of
+0x000ce0e9 vacuum. Uncle
+0x000ce0fa used it.
+0x000ce103
+0x000ce112 Clean 1st?
+0x000ce125 But Uncle
+0x000ce136 riding vac
+0x000ce145 to clean
+0x000ce158 is wrong.
+0x000ce167
+0x000ce172 Ride-clean?
+0x000ce188 Suit for
+0x000ce197 Keronians
+0x000ce1a2 to disguise
+0x000ce1af as Pekoponians.
+0x000ce1be
+0x000ce1c9 Uncle wore
+0x000ce1d6 this first.
+0x000ce1e3 I wanted
+0x000ce1f2 to walk
+0x000ce1ff town with
+0x000ce20e him...
+0x000ce219
+0x000ce224
+0x000ce239 BFF vibes?
+0x000ce24c Suit for
+0x000ce25b Keronians
+0x000ce266 to disguise
+0x000ce273 as Pekoponians.
+0x000ce282
+0x000ce28d Wearing it,
+0x000ce29a Uncle looks
+0x000ce2a7 like hubby
+0x000ce2b4 off to work.
+0x000ce2c9
+0x000ce2d4
+0x000ce2e3 Honeymoon?
+0x000ce2f8 Suit for
+0x000ce307 Keronians
+0x000ce312 to disguise
+0x000ce31f as Pekoponians.
+0x000ce32e
+0x000ce339 Uncle buys
+0x000ce346 Gunpla in
+0x000ce359 this. Comes
+0x000ce36e home, locks
+0x000ce37b self in,
+0x000ce384 builds Gunpla.
+0x000ce397
+0x000ce3a2
+0x000ce3ad
+0x000ce3bc Modeling?
+0x000ce3d0 Oh, this
+0x000ce3e1 person trained
+0x000ce3ec me. Thanks
+0x000ce3ff for that!
+0x000ce40a
+0x000ce415
+0x000ce424 Wait...
+0x000ce42d this was
+0x000ce436 Pekopon suit?
+0x000ce447 Didn't know!
+0x000ce458
+0x000ce46d Who trained
+0x000ce474 me? Mystery.
+0x000ce47d
+0x000ce488
+0x000ce49b
+0x000ce4a8 Covert op?
+0x000ce4bc Suit looks
+0x000ce4cb familiar...
+0x000ce4da or not?
+0x000ce4e5
+0x000ce4f4 Deep-sea
+0x000ce4fd work suit.
+0x000ce512 Claws = key
+0x000ce523 feature. Comes
+0x000ce530 in red/black.
+0x000ce545 Red better?
+0x000ce554
+0x000ce567
+0x000ce570
+0x000ce581 Underwater?
+0x000ce594 Gun reverts
+0x000ce5a8 adults to
+0x000ce5bd kids. Must
+0x000ce5ca re-shoot in
+0x000ce5df 3 hrs or
+0x000ce5ec life gets
+0x000ce5fb harsh. Past
+0x000ce602 3 hrs...?
+0x000ce613
+0x000ce626 Unknown?
+0x000ce637
+0x000ce63e
+0x000ce64f
+0x000ce664 New world?
+0x000ce678 Upgraded
+0x000ce68d "2nd Life"
+0x000ce69e gun. Shoots
+0x000ce6b1 kid → adult.
+0x000ce6be Side effect:
+0x000ce6cd dad jokes.
+0x000ce6dc
+0x000ce6eb
+0x000ce6fe Dad slang?
+0x000ce714 Old inventr's
+0x000ce721 gadget. Shoot
+0x000ce732 obj → it
+0x000ce745 multiplies
+0x000ce74e over time.
+0x000ce761
+0x000ce774
+0x000ce790 Scary!
+0x000ce79d Trauma?
+0x000ce7b0 Measures
+0x000ce7bd scariest
+0x000ce7ce ghost story.
+0x000ce7e3 Giroro's fear
+0x000ce7f8 meter rises—
+0x000ce803 highest wins.
+0x000ce816
+0x000ce829
+0x000ce83e Human sac?
+0x000ce86d Uncle bot.
+0x000ce880 Send his
+0x000ce895 brainwaves →
+0x000ce8a4 it obeys.
+0x000ce8b3 Feels pain.
+0x000ce8c4
+0x000ce8cb
+0x000ce8ed
+0x000ce8fc
+0x000ce90b
+0x000ce91e Final wpn?
+0x000ce934 Angol heirloom.
+0x000ce93d Normally
+0x000ce94a phone. Enter
+0x000ce955 code → staff.
+0x000ce964 Code: 19997.
+0x000ce96d
+0x000ce978
+0x000ce987
+0x000ce99c
+0x000ce9ab Top secret!
+0x000ce9bc
+0x000ce9dc
+0x000ce9ef Classified?
+0x000cea04 Sumomo's
+0x000cea0d autograph.
+0x000cea1a Cosmic idol—
+0x000cea29 #1 chart
+0x000cea36 streak holder.
+0x000cea47
+0x000cea50
+0x000cea5f
+0x000cea6a
+0x000cea77
+0x000cea86 Wow!
+0x000cea95 Pop star?
+0x000ceaa8 Uncle's
+0x000ceabb grail Gunpla—
+0x000ceaca old bootleg.
+0x000cead9 Dangar =
+0x000ceae6 "Super Mobile
+0x000ceaf1 Warship Dangar".
+0x000ceb00 Rare → hot
+0x000ceb15 collectible.
+0x000ceb28
+0x000ceb31
+0x000ceb42
+0x000ceb4f
+0x000ceb66 Rare value?
+0x000ceb7c Ghost in
+0x000ceb87 Uncle's room.
+0x000ceb98 Girl falsely
+0x000ceba7 accused, now
+0x000cebba haunts.
+0x000cebcb
+0x000cebda
+0x000cebed
+0x000cebfa
+0x000cec09
+0x000cec14 Tragic girl?
+0x000cec28 Uncle wore
+0x000cec33 Nyororo suit
+0x000cec3e to trick it.
+0x000cec4f His fault for
+0x000cec60 forgetting
+0x000cec6b cam though...
+0x000cec76
+0x000cec83
+0x000cec96
+0x000ceca7 Karma?
+0x000cecbc Kururu's
+0x000ceccf "2nd Life"
+0x000cece4 gun turned
+0x000cecf3 Fuyuki's mom
+0x000ced06 teen. Looks
+0x000ced0f like Fuyuki—
+0x000ced1a Momoka mixes
+0x000ced29 them up.
+0x000ced36
+0x000ced41
+0x000ced4e
+0x000ced61 Look-alikes?
+0x000ced74 Did "Cavity
+0x000ced85 War", nursed
+0x000ced8e with Kururu.
+0x000ceda3 Wore this.
+0x000cedb8 Brush well!
+0x000cedcd
+0x000ceddc
+0x000cede3
+0x000cedf4 Cavities?
+0x000cee08 Poyon, Space
+0x000cee13 Police. Solves
+0x000cee1e "cases" by
+0x000cee2f arresting all
+0x000cee3e suspects.
+0x000cee4d
+0x000cee62
+0x000cee75 Abuse powr?
+0x000cee88 What's its
+0x000cee93 name? Ask
+0x000ceea4 Giroro. If
+0x000ceeb7 none, I'll
+0x000ceec4 name it
+0x000ceed3 "Mack".
+0x000ceee6
+0x000ceef1 Cat name?
+0x000cef04 Girl based
+0x000cef11 on my soul.
+0x000cef1e Asami stood
+0x000cef2b up to thugs
+0x000cef38 for friends.
+0x000cef4b Hope to be
+0x000cef5a friends.
+0x000cef65
+0x000cef72
+0x000cef81
+0x000cef96 BFF goal?
+0x000cefac Natsumi as
+0x000cefb7 adult. I
+0x000cefca wanna grow
+0x000cefdf up, be Uncle's
+0x000ceff4 sweetie...
+0x000cf005
+0x000cf01a Big talk?
+0x000cf030 Uncle wore
+0x000cf03d Pekopon suit
+0x000cf04e for Dangar,
+0x000cf061 did manzai
+0x000cf070 with me. Won
+0x000cf079 10 weeks
+0x000cf086 straight on
+0x000cf08b "Cosmic
+0x000cf09e Comedy Star".
+0x000cf0b3 Uncle rocks!
+0x000cf0be
+0x000cf0d3
+0x000cf0e0 Comedian?
+0x000cf0f4 Me. Stage
+0x000cf0fd name for
+0x000cf108 manzai with
+0x000cf115 Uncle. Duo:
+0x000cf126 "Cosmic
+0x000cf133 Manzai
+0x000cf148 Armageddon".
+0x000cf155 Won contest.
+0x000cf164 Wanna do
+0x000cf171 again!
+0x000cf184
+0x000cf197 Coupla act?
+0x000cf1ac Melody Honey—
+0x000cf1b7 gravure idol.
+0x000cf1ca Gravure models
+0x000cf1dd are pretty!
+0x000cf1e4
+0x000cf1ef
+0x000cf1fe
+0x000cf209
+0x000cf218 Scenic view?
+0x000cf22b Wanna be
+0x000cf23c that pretty
+0x000cf24d someday...
+0x000cf258 Dream big?
+0x000cf26c Uncle's
+0x000cf277 cleaning gear
+0x000cf28a → ultimate
+0x000cf291 clean mode.
+0x000cf2a4 Makes him
+0x000cf2b1 cosmic #1
+0x000cf2c2 cleaner!
+0x000cf2d7
+0x000cf2ec Top cleanr?
+0x000cf300 Why's Tamama
+0x000cf313 jealous? Dunno.
+0x000cf320 Jealousy's
+0x000cf32b bad for health.
+0x000cf332
+0x000cf343
+0x000cf358
+0x000cf369 Stay well?
+0x000cf37c Uncle shot
+0x000cf387 Giroro with
+0x000cf394 "2nd Life"
+0x000cf3a9 gun → baby.
+0x000cf3be Kinda cute.
+0x000cf3c7 All babies
+0x000cf3d8 are cute!
+0x000cf3df
+0x000cf403 Mom sense?
+0x000cf418 Inventor from
+0x000cf429 Uncle's story.
+0x000cf432 Story scared
+0x000cf445 me!
+0x000cf456
+0x000cf465 Trauma?
+0x000cf478 Dororo as
+0x000cf485 assassin.
+0x000cf494 Uncle banned
+0x000cf49f his fun as
+0x000cf4b4 kid → sad.
+0x000cf4bd
+0x000cf4cc
+0x000cf4df Training?
+0x000cf4f4 Sumomo as
+0x000cf505 Pekoponian.
+0x000cf516 Ahotronians
+0x000cf527 control thyroid
+0x000cf53a to shift form.
+0x000cf54b
+0x000cf55a
+0x000cf567
+0x000cf57a Morphing?
+0x000cf688 Sgt Keroro
+0x000cf694 Pvt Tamama
+0x000cf6a4 Cpl Giroro
+0x000cf6b0 Sgt Kururu
+0x000cf6bc Sgt Dororo
+0x000cf6c8 Sumomo
+0x000cf6d0 Keroro D
+0x000cf6dc Fuyuki Hinata
+0x000cf6e8 Natsumi Hinata
+0x000cf6f4 Aki Hinata
+0x000cf700 Momoka Nishizawa
+0x000cf70c Paul Moriyama
+0x000cf718 Angol Moa
+0x000cf728 Saburo
+0x000cf734 Yukiko Higaya
+0x000cf77c Leader of
+0x000cf791 Galaxy Gama
+0x000cf7a2 #58 Advance
+0x000cf7ad Team. Got
+0x000cf7c0 caught by
+0x000cf7d5 Hinatas →
+0x000cf7e6 prisoner.
+0x000cf7f5 Built base
+0x000cf80a under house.
+0x000cf81d Uncle builds
+0x000cf830 Gunpla, lazes.
+0x000cf845
+0x000cf852
+0x000cf865
+0x000cf87a Quit conquest?
+0x000cf890 Tamama snaps—
+0x000cf89f unpredictable!
+0x000cf8a8
+0x000cf8b3
+0x000cf8c6 Split pers?
+0x000cf8d9 Tamama's care
+0x000cf8e6 for Uncle
+0x000cf8f3 inspires me.
+0x000cf8fe
+0x000cf90f
+0x000cf91e Wholeheart?
+0x000cf934 Giroro set
+0x000cf943 tent in
+0x000cf950 yard. Kitten
+0x000cf965 visits. Gun
+0x000cf978 skills: 100%
+0x000cf985 accuracy!
+0x000cf998
+0x000cf9a3
+0x000cf9b8 Dead eye?
+0x000cf9cb
+0x000cf9da
+0x000cf9e3
+0x000cf9ec
+0x000cf9ff Wow!
+0x000cfa12 Bullseye?
+0x000cfa25 No belt =
+0x000cfa3a zero aim!
+0x000cfa4d
+0x000cfa62 Zero hit?
+0x000cfa78 Kururu invents
+0x000cfa87 daily. Made
+0x000cfa9a "2nd Life"
+0x000cfaa7 gun, "Adult
+0x000cfabc Ladder" gun—
+0x000cfacd amazing!
+0x000cfade
+0x000cfaf1
+0x000cfb02
+0x000cfb17
+0x000cfb24
+0x000cfb31 Genius?
+0x000cfb44 Dororo renamed
+0x000cfb53 on Pekopon.
+0x000cfb68 Was Zero-Lo.
+0x000cfb77
+0x000cfb84
+0x000cfb8f Uncle, Giroro,
+0x000cfb9e Dororo =
+0x000cfba9 academy
+0x000cfbb6 classmates.
+0x000cfbc5
+0x000cfbd4
+0x000cfbe1
+0x000cfbec Childhood?
+0x000cfc00 Sumomo =
+0x000cfc11 space idol.
+0x000cfc24 #1 chart
+0x000cfc2d streak. Huge
+0x000cfc3c fan of Uncle
+0x000cfc51 → cool!
+0x000cfc5c
+0x000cfc71
+0x000cfc86
+0x000cfc93
+0x000cfc9e Sensation?
+0x000cfcb4 Uncle's serious!
+0x000cfcc5 140m (?),
+0x000cfcda 226.4t (?)—
+0x000cfcdf huge! Looks
+0x000cfcee familiar...
+0x000cfcf3
+0x000cfd06
+0x000cfd0f
+0x000cfd1e
+0x000cfd33
+0x000cfd42 Big gun?
+0x000cfd55 Giroro had
+0x000cfd60 similar ride...
+0x000cfd6d
+0x000cfd80
+0x000cfd91 Sis units?
+0x000cfd9e
+0x000cfdb4 Fuyuki loves
+0x000cfdc1 occult. Builds
+0x000cfdd4 theories →
+0x000cfde1 impressive!
+0x000cfdee His ghost
+0x000cfe03 story scared
+0x000cfe10 me stiff.
+0x000cfe1d
+0x000cfe26
+0x000cfe39
+0x000cfe4e Ghosts?
+0x000cfe64 Natsumi's
+0x000cfe71 athletic—
+0x000cfe82 clubs beg
+0x000cfe8f her to join!
+0x000cfea0
+0x000cfea9
+0x000cfeb8
+0x000cfec7 Recruited?
+0x000cfeda Wanna be
+0x000cfeef as charming
+0x000cff00 as Natsumi!
+0x000cff0f
+0x000cff1a Scenic view?
+0x000cff30 Fuyuki's
+0x000cff3b mom. Manga
+0x000cff48 editor.
+0x000cff5d
+0x000cff6e Right job?
+0x000cff81 Also super
+0x000cff8a into Keronians.
+0x000cff9b Found out
+0x000cffb0 something?
+0x000cffbd
+0x000cffd0
+0x000cffdd
+0x000cfff2 Curious?
+0x000d0008 Momoka =
+0x000d0015 rich heiress.
+0x000d0020 Bought whole
+0x000d0033 island easy!
+0x000d0048 Has dark side—
+0x000d005b Dark Momoka
+0x000d006a lashes out,
+0x000d007d but loves
+0x000d0092 Fuyuki either
+0x000d00a1 way.
+0x000d00ae
+0x000d00d2 One soul?
+0x000d013c Paul = Momoka's
+0x000d014b butler. Giroro
+0x000d0160 says Paul's
+0x000d0173 eyes show
+0x000d017e war vet.
+0x000d018b
+0x000d0194
+0x000d01a1
+0x000d01b4
+0x000d01c1
+0x000d01d4
+0x000d01f2 Solid guy?
+0x000d0208 Me. Called
+0x000d0211 "Terror King".
+0x000d0220 Meant to invade
+0x000d0231 Pekopon in
+0x000d0242 '99, but
+0x000d0251 napped →
+0x000d0260 missed it!
+0x000d0271 Now live
+0x000d0286 with Uncle,
+0x000d0293 Fuyuki, Natsumi—
+0x000d02a6 fun!
+0x000d02b7
+0x000d02ca
+0x000d02df
+0x000d02ee
+0x000d02ff New days?
+0x000d0314 Saburo was
+0x000d0325 mistaken for
+0x000d0330 Black Men.
+0x000d033f Actually helped
+0x000d0354 find us!
+0x000d035b
+0x000d0368
+0x000d0375
+0x000d0382
+0x000d038f Find pals?
+0x000d03a2 What's
+0x000d03ab Saburo's
+0x000d03ba surname?
+0x000d03c3
+0x000d03d4 Yukiko =
+0x000d03e1 ninja. Wanna
+0x000d03f4 vanish like
+0x000d0401 her!
+0x000d040e
+0x000d041f
+0x000d042e
+0x000d043f Ninja art?
+0x000d0452 Yukiko's as
+0x000d045f athletic as
+0x000d046a Natsumi. Lives
+0x000d047b with Dororo.
+0x000d0486
+0x000d0499
+0x000d04ac
+0x000d04b9 Roomies?
+0x000d0514 Uncle Lv1:
+0x000d051f Recall past
+0x000d0532 power.
+0x000d0541
+0x000d054c
+0x000d0557
+0x000d0562
+0x000d056f
+0x000d0580 Legend?
+0x000d0593 Invincible
+0x000d05a0 + stats ↑.
+0x000d05b5
+0x000d05c6
+0x000d05d5 Stats up?
+0x000d05e8 Uncle Lv2:
+0x000d05f3 Gang "Gero".
+0x000d0606
+0x000d0615
+0x000d0620
+0x000d062b
+0x000d063e
+0x000d064b Chorus?
+0x000d065e Lv2 effect:
+0x000d066b Lowers mental
+0x000d067e gauge of
+0x000d068b runner ahead.
+0x000d0698
+0x000d06a7 Mind hack?
+0x000d06bc Uncle Lv3:
+0x000d06c7 Ultimate?
+0x000d06da Roof-buster
+0x000d06e9 power!
+0x000d06f4
+0x000d06ff
+0x000d0714
+0x000d071f
+0x000d0734
+0x000d0747
+0x000d0756 Vandalism?
+0x000d0769 Shoots energy
+0x000d0776 balls at
+0x000d0785 all but
+0x000d078c self. HP ↓,
+0x000d07a1 spd ↓.
+0x000d07b6
+0x000d07c7
+0x000d07d4 One hit KO?
+0x000d07e8 Tamama Lv1:
+0x000d07f5 Snap mode.
+0x000d0808
+0x000d0817
+0x000d0822
+0x000d082d
+0x000d083a
+0x000d084f Split pers?
+0x000d0862 Invincible
+0x000d086f + stats ↑.
+0x000d0884
+0x000d0897
+0x000d08a6 Stats up?
+0x000d08bc Tamama Lv2:
+0x000d08c9 Shoot energy
+0x000d08dc from mouth.
+0x000d08eb
+0x000d08f6
+0x000d0901
+0x000d090e
+0x000d091b
+0x000d092e
+0x000d093b Final hit?
+0x000d094e Shoots front
+0x000d095b runner →
+0x000d0970 spin + HP ↓.
+0x000d097f
+0x000d0986
+0x000d0997
+0x000d09aa
+0x000d09b9
+0x000d09c8 Stop now?
+0x000d09dc Tamama Lv3:
+0x000d09e9 Makes jealousy
+0x000d09fc ball huge,
+0x000d0a0b hurls it.
+0x000d0a16
+0x000d0a21
+0x000d0a36
+0x000d0a45
+0x000d0a4c
+0x000d0a5d Cheat?
+0x000d0a70 Drops balls
+0x000d0a7d on all but
+0x000d0a8e self. HP ↓,
+0x000d0a95 spd ↓.
+0x000d0aa8
+0x000d0abd
+0x000d0ace
+0x000d0adb Sky bomb?
+0x000d0af0 Giroro Lv1:
+0x000d0afd Battle focus—
+0x000d0b10 sees all.
+0x000d0b1f
+0x000d0b2a
+0x000d0b35
+0x000d0b48
+0x000d0b5d
+0x000d0b6a
+0x000d0b79 ESP?
+0x000d0b8c Invincible
+0x000d0b99 + stats ↑.
+0x000d0bae
+0x000d0bc1
+0x000d0bd0 Stats up?
+0x000d0be4 Giroro Lv2:
+0x000d0bf1 Rifle rage
+0x000d0c04 barrages.
+0x000d0c13
+0x000d0c1e
+0x000d0c29
+0x000d0c3c
+0x000d0c4f
+0x000d0c60 Rage quit?
+0x000d0c73 Shoots front
+0x000d0c80 runner nonstop
+0x000d0c89 → HP ↓,
+0x000d0c9a explode.
+0x000d0cad
+0x000d0cc0
+0x000d0ccf
+0x000d0cdc
+0x000d0ce3
+0x000d0cf6 Flash shot?
+0x000d0d0c Giroro Lv3:
+0x000d0d19 Fires big
+0x000d0d2c bazooka.
+0x000d0d3b
+0x000d0d46
+0x000d0d51
+0x000d0d5e
+0x000d0d69
+0x000d0d7a
+0x000d0d87 Big boom?
+0x000d0d9a Bazooka hits
+0x000d0da7 all but
+0x000d0db8 self. HP ↓,
+0x000d0dbf spd ↓.
+0x000d0dca
+0x000d0ddb
+0x000d0df0
+0x000d0e01
+0x000d0e0e Bullseye?
+0x000d0e24 Kururu Lv1:
+0x000d0e31 Dark power
+0x000d0e44 = strength.
+0x000d0e53
+0x000d0e5e
+0x000d0e75
+0x000d0e88
+0x000d0e91
+0x000d0ea4 Gloomy?
+0x000d0eb7 Invincible
+0x000d0ec4 + stats ↑.
+0x000d0ed9
+0x000d0eec
+0x000d0efb Stats up?
+0x000d0f10 Kururu Lv2:
+0x000d0f1d Sends bad
+0x000d0f30 sound waves
+0x000d0f3f to brain.
+0x000d0f4a
+0x000d0f51
+0x000d0f64
+0x000d0f75 Brain zap?
+0x000d0f88 Lowers mental
+0x000d0f95 gauge of
+0x000d0faa front runner.
+0x000d0fb9
+0x000d0fc6
+0x000d0fd5 Mind hack?
+0x000d0fe8 Kururu Lv3:
+0x000d0ff5 Energy ball
+0x000d1008 launcher.
+0x000d1017
+0x000d1022
+0x000d1031
+0x000d1046
+0x000d1055
+0x000d1066 Dodge ball?
+0x000d1079 Hits all
+0x000d1086 but self
+0x000d1097 with energy
+0x000d109e balls. HP ↓,
+0x000d10b3 spd ↓.
+0x000d10c2
+0x000d10d7
+0x000d10e8
+0x000d10f5 Ball boom?
+0x000d1108 Dororo Lv1:
+0x000d1115 Trauma dive—
+0x000d1128 hides in
+0x000d1137 mind.
+0x000d1142
+0x000d1151
+0x000d115e
+0x000d1169
+0x000d1176
+0x000d1183
+0x000d1192 Inner world?
+0x000d11a5 Invincible
+0x000d11b2 + stats ↑.
+0x000d11c7
+0x000d11da
+0x000d11e9 Stats up?
+0x000d11fc Dororo Lv2:
+0x000d1209 Throws kunai
+0x000d121c for peace.
+0x000d122b
+0x000d1236
+0x000d1245
+0x000d1258
+0x000d1267
+0x000d1278
+0x000d128b Peace act?
+0x000d129e Throws kunai
+0x000d12ab forward →
+0x000d12b8 HP ↓, spin.
+0x000d12c7
+0x000d12da
+0x000d12e3
+0x000d12f8
+0x000d1303
+0x000d1310 Ninja art?
+0x000d1324 Dororo Lv3:
+0x000d1331 Secret slash—
+0x000d1344 cuts foe
+0x000d1353 instantly.
+0x000d135e
+0x000d136b
+0x000d1374
+0x000d137f
+0x000d1392
+0x000d139f Assassin?
+0x000d13b2 Clones slash
+0x000d13bf all but
+0x000d13d2 self. HP ↓,
+0x000d13e3 spd ↓.
+0x000d13f4
+0x000d1401
+0x000d1410
+0x000d141b
+0x000d142e One hit KO?
+0x000d1444 Sumomo Lv1:
+0x000d1453 Stage lights!
+0x000d1466
+0x000d1475
+0x000d1480
+0x000d148f
+0x000d14a4
+0x000d14b7
+0x000d14c6 Stagecraft?
+0x000d14d9 Invincible
+0x000d14e6 + stats ↑.
+0x000d14fb
+0x000d1510
+0x000d151f Stats up?
+0x000d1534 Sumomo Lv2:
+0x000d1543 Autograph →
+0x000d1556 fan freakout.
+0x000d1565
+0x000d1570
+0x000d157f
+0x000d158e
+0x000d159d
+0x000d15ac Star life?
+0x000d15bf Lowers mental
+0x000d15cc gauge of
+0x000d15db front runner.
+0x000d15e4
+0x000d15f3
+0x000d1600
+0x000d160f Mind hack?
+0x000d1624 Sumomo Lv3:
+0x000d1633 Sings → all
+0x000d1646 listen, spd ↓,
+0x000d1655 HP ↓.
+0x000d1660
+0x000d166f
+0x000d167e
+0x000d1689
+0x000d1698 Space diva?
+0x000d16ab Song hits
+0x000d16b8 all → spd ↓,
+0x000d16c7 HP ↓.
+0x000d16d8
+0x000d16ed
+0x000d16f6
+0x000d1703
+0x000d1710 All hit?
+0x000d1724 Keroro D Lv1:
+0x000d1731 Awakens power.
+0x000d1744
+0x000d1753
+0x000d175e
+0x000d1771
+0x000d1782 ESP?
+0x000d1795 Invincible
+0x000d17a2 + stats ↑.
+0x000d17b7
+0x000d17ca
+0x000d17d9 Stats up?
+0x000d17ec Keroro D Lv2:
+0x000d17f9 Missile shoot.
+0x000d180c
+0x000d181b
+0x000d1826
+0x000d1833
+0x000d1844
+0x000d184b
+0x000d185c Air raid?
+0x000d186f Shoots front
+0x000d187c runner →
+0x000d1891 HP ↓, explode.
+0x000d18a6
+0x000d18b1
+0x000d18be
+0x000d18d1
+0x000d18de
+0x000d18e5
+0x000d18f8 Crash?
+0x000d190c Keroro D Lv3:
+0x000d1919 Missile pod
+0x000d192c from container.
+0x000d193b
+0x000d1946
+0x000d1953
+0x000d1964
+0x000d1973
+0x000d197a
+0x000d198b Ammo dump?
+0x000d199e Missiles hit
+0x000d19ab all but
+0x000d19bc self. HP ↓,
+0x000d19cd spd ↓.
+0x000d19da
+0x000d19e5
+0x000d19fa
+0x000d1a0b
+0x000d1a18 Crash?
+0x000d208c Comm error.
+0x000d20a7 Match void.
+0x000d20e8 Concept
+0x000d20f4 Sunrise Int.
+0x000d2110 Exec Dir
+0x000d211c Fukusima Y.
+0x000d2130 Exec Prod
+0x000d2150 Yoshii T.
+0x000d2164 Chief Prod
+0x000d217c Tsukada T.
+0x000d2190 Producer
+0x000d21a0 Shimizu Y.
+0x000d21b4 Sales
+0x000d21bc Suzuki Y.
+0x000d21cc PR
+0x000d21d8 Koido T.
+0x000d21e8 Support
+0x000d21f4 Sunrise Inc.
+0x000d220c Xenon Ltd.
+0x000d2220 SynaTech Inc.
+0x000d2238 Special Thx
+0x000d224c Mochizuki K.
+0x000d2260 Shibuya M.
+0x000d2270 Cooperation
+0x000d2278 Fontworks Japan
+0x000d2d01 Sumomo added.
+0x000d2d1e Saving data.
+0x000d4fc1 Using suspend.
+0x000d4fe9 Clearing &
+0x000d5000 saving suspend.
+0x000d501d Saving suspend.

@@ -1,0 +1,473 @@
+
+0x0a39a2c6 Wait up! Miss.
+0x0a39a316 If ya value yer life, leave ev’rythin’ behind!
+0x0a39a352 Let’s play, bros!
+0x0a39a3ae …Seems talkin’ won’t work with ya.
+0x0a39a3ea Geez, just grunts.
+0x0a39a410 No way!
+0x0a39a472 Sorry ‘bout this!
+0x0a39a4ba Huh!? Wha—what!
+0x0a39a4cd Ketsu Eiman
+0x0a39a608 What? Who’re you!?
+0x0a39a62c Hand over the cargo!
+0x0a39a662 Hired hand
+0x0a39a6a6 Look toward sound
+0x0a39a6bc Ignore it
+0x0a39a73a Boat needs sail, sail needs boat….
+0x0a39a766 Clench: fist. Open: palm….
+0x0a39a790 No second chances….
+0x0a39a7b8 Huh…?
+0x0a39a832 Aaah! Wait, wait!
+0x0a39a8a0 Kukuku! Miss!
+0x0a39a8cc Sorry, but hand ov’r that cargo!
+0x0a39a912 Sorry, but no!
+0x0a39a942 Hired hand
+0x0a39a96a No wayyy!!
+0x0a39a9a6 Bandit chief
+0x0a39a9e2 Geh geh geh.
+0x0a39a9f8 Feisty lass, ain’tcha?
+0x0a39aa1e Hand ov’r goods, we’ll spare ya?
+0x0a39aa56 Not happenin’!
+0x0a39aa70 Move ‘fore ya get hurt.
+0x0a39aa90 You never meant to help….
+0x0a39aae8 Not happenin’!
+0x0a39ab1a Then no choice.
+0x0a39ab38 We’ll take it by force!
+0x0a39ab68 Better move ‘fore ya get hurt.
+0x0a39abb0 Ya really tick me off!
+0x0a39abdc I’ll flat-out kill ya!
+0x0a39ac0e You never meant to help….
+0x0a39ac3c Gufufu….
+0x0a39ac54 Get it?
+0x0a39ad04 Yes. Karen.
+0x0a39ad58 Pres. Karen! Ambushed!
+0x0a39adac Huh? What!?
+0x0a39adce Barely escaped—don’t get the situation.
+0x0a39af32 Shook pursuers on mountain road—headin’ to rail.
+0x0a39af88 G-got it! Be careful!
+0x0a39afba I’ll contact ya if I learn more.
+0x0a39afe4 Yes!!
+0x0a39b00a Pres. Karen! Ambushed!
+0x0a39b05e Huh? What!?
+0x0a39b080 Barely escaped—don’t get the situation.
+0x0a39b0b4 Shook pursuers on mountain road—headin’ to rail.
+0x0a39b10a Got it! Be careful!
+0x0a39b132 I’ll contact ya if I learn more!
+0x0a39b15c Yes.
+0x0a39b180 Pres. Karen! Ambushed!
+0x0a39b1d4 Huh? What!?
+0x0a39b212 Barely escaped—don’t get the situation.
+0x0a39b246 Shook pursuers on mountain road—headin’ to rail.
+0x0a39b2a4 Right. Got it! Be careful.
+0x0a39b2d2 I’ll contact ya if I learn more!
+0x0a39b2fc Yes.
+0x0a39b35a Hired hand
+0x0a39b3b6 Kukuku! Won’t escape this time!
+0x0a39b3ea Whoa—so persistent!
+0x0a39b412 Wha!? “Persistent,” huh…
+0x0a39b43c Kinda bittersweet, like young love…
+0x0a39b47e Oops! First time I liked someone! Teehee.
+0x0a39b4c6 That’s just a crush, dummy!!
+0x0a39b5bc Lucky! Saved!
+0x0a39b5fa Made it. But who were those guys…?
+0x0a39b646 Ugh! Ayane never late!
+0x0a39b676 Knew somethin’ was up!
+0x0a39b6b6 Magic Knight
+0x0a39b6e2 Kill
+0x0a39b860 …Can’t climb.
+0x0a39b8e0 Nope. Hole’s too deep—Frayer waves won’t reach.
+0x0a39b94a Eh, fine. Other exits deeper in.
+0x0a39b98e Gotta push on.
+0x0a39b9c6 Ughhh! Worst day!
+0x0a39ba06 Dr. Yamada
+0x0a39ba16 Dr. Hirayama
+0x0a39ba26 Dr. Kita
+0x0a39ba60 Haha! Behold my perfect body!
+0x0a39ba94 Like legendary Demon Soldiers’ strength!
+0x0a39bae2 Well, mostly thanks to me.
+0x0a39bb2e Oh? 97% of control parts’re my tech.
+0x0a39bbce Well, you’re our client.
+0x0a39bc00 True. But this was predictable.
+0x0a39bc4c Emergency platform removal.
+0x0a39bc72 Activation mode: Full Auto Slaughter.
+0x0a39bcbe Burn it all! Uhahahaha!
+0x0a39bd6a C’mon! Gotta hurry!
+0x0a39bda6 Phew. Made it outside…
+0x0a39bde2 Yay! We’re out!
+0x0a39be80 Natsumi! It’s me. Got the docs.
+0x0a39bec6 What is it?
+0x0a39befc Hazuki Rail’s secret Frayer Engine blueprints!
+0x0a39bf38 …So all that sabotage was….
+0x0a39bf64 Yep. Current Frayer market monopolist….
+0x0a39bfbe Kongou Heavy!?
+0x0a39bfde Makes sense.
+0x0a39c016 Enemy’s in the wrong!
+0x0a39c188 Move.
+0x0a39c1be But Pres.—almost there!
+0x0a39c1e8 Let me go!
+0x0a39c208 …
+0x0a39c218 Fine. If Natsumi insists.
+0x0a39c24a But don’t overdo it.
+0x0a39c270 Yes!!
+0x0a39c2da Hired hand
+0x0a39c31e Hehe. Playtime’s over!
+0x0a39c34e We know ya work for Kongou Heavy!
+0x0a39c390 Just give up already!
+0x0a39c3c2 Can’t abandon a job mid-way!
+0x0a39c404 Gotta keep Kongou (future) ties too….
+0x0a39c452 Geez….
+0x0a39c47a Hired hand
+0x0a39c4a2 Again, Kongou (next time)~.
+0x0a39c4de Edna
+0x0a39c516 Wait!
+0x0a39c53e We’ll let ya go—
+0x0a39c55a Just drop cargo ‘n scram!
+0x0a39c5b6 No way!
+0x0a39c5de Then die!
+0x0a39c618 Oops. Sorry.
+0x0a39c636 Got no small pkg for ya today.
+0x0a39c67a Funny… Mockin’ me?
+0x0a39c6be Goin’ swimmin’?
+0x0a39c6ec Nah—*you’re* givin’ it a try.
+0x0a39c714 In River Sanzu, though!!
+0x0a39c75a Edna
+0x0a39c77a Don’t think you’ve won!
+0x0a39c7e4 Almost there—just a bit more!
+0x0a39c82e Hobby
+0x0a39c866 That’s far enough!
+0x0a39c882 Lycra again!?
+0x0a39c8aa Hobby
+0x0a39c8ca Remember this!
+0x0a39c912 Hired hand
+0x0a39c94a Hehe. Playtime’s over!
+0x0a39c97a Again….
+0x0a39c9d6 Nyaan!?
+0x0a39cabe Heard that line already….
+0x0a39caf2 Shut it! I’m serious now!
+0x0a39cb20 Ooh! Ooh ooh!
+0x0a39cb48 That’s “monkey,” dummy!!
+0x0a39cb7c Tsk….
+0x0a39cbc2 Vendor
+0x0a39cc1e Phew… Mentally drained.
+0x0a39cc52 Hungry too.
+0x0a39cc76 Want an apple?
+0x0a39ccae Perfect!
+0x0a39ccca Vendor, one apple please.
+0x0a39cd12 Sure, one apple.
+0x0a39cd84 Ah!
+0x0a39cdd6 Kek kek kek!
+0x0a39ce2c Ha!
+0x0a39ce56 Stolen!
+0x0a39cea0 My fault!
+0x0a39cebc Gotta get it back!
+0x0a39cf36 Who? Oh—
+0x0a39cf56 That dumb girl again.
+0x0a39cf88 That’s the apple seller!
+0x0a39cfb4 Return the blueprints!
+0x0a39cfde Idiot! I’ll take ‘em first!
+0x0a39d074 Wait! I was just hired!
+0x0a39d0ae Where’re the blueprints!?
+0x0a39d0ce Kongou’s got ‘em already!
+0x0a39d106 My sick mom’s waitin’ at home!
+0x0a39d13c Please! Don’t kill me!
+0x0a39d16a Hate sin, not sinner
+0x0a39d184 Hate man, not sin
+0x0a39d19e Hate both sin ‘n man
+0x0a39d1ec …Get lost now!
+0x0a39d222 Huh—then…!
+0x0a39d240 Don’t do bad stuff again….
+0x0a39d272 Ah—Thanks!
+0x0a39d3e8 Kaba ka! Fooled us!
+0x0a39d414 Hehe—still dumb!
+0x0a39d442 Remember this, fool!!
+0x0a39d480 Grr! Shoulda stayed mad!
+0x0a39d4b6 Well, done’s done.
+0x0a39d4f4 So….
+0x0a39d51a But tryin’ to flee with such a lame lie!
+0x0a39d552 That guts me!
+0x0a39d5de Remember this!!
+0x0a39d60c Tell hell’s gatekeeper yer excuses!
+0x0a39d6a0 Monster!!
+0x0a39d6d2 Tank Cmdr
+0x0a39d70e Tanks now!?
+0x0a39d74a Haha! Beat my Fire Beetle!?
+0x0a39d7ae kinuyo
+0x0a39d7bc Sister
+0x0a39d7f2 Like I said—husband’s swamped….
+0x0a39d836 No! That’s bad!
+0x0a39d858 Huh?
+0x0a39d86e When busy,
+0x0a39d896 Feel God’s presence!
+0x0a39d8c4 *Sigh*….
+0x0a39d8dc So, donate to our church….
+0x0a39d932 Tch! Maids won’t cut it.
+0x0a39d96c Gotta see Kongou myself!
+0x0a39da00 Where’s Pres. Kongou!?
+0x0a39da28 Who’re you!? He’s busy!
+0x0a39da62 Can’t take donations or requests!
+0x0a39da9c Stop. You’ll get hurt!
+0x0a39dafa Sister
+0x0a39db20 Stop! Such sin!
+0x0a39db64 E? Kongou bribed the church too!?
+0x0a39dba0 Violence solves nothing….
+0x0a39dd18 Don’t rob folks.
+0x0a39dd3a Repent now.
+0x0a39dd5c God watches you always!
+0x0a39dd90 …Huh? Wait?
+0x0a39dda8 Robbery? Who!?
+0x0a39ddc6 Playin’ dumb, huh….
+0x0a39ddf4 Fine.
+0x0a39de0c Words’re useless with you.
+0x0a39de40 No choice!
+0x0a39de66 Huh? Wha? What?
+0x0a39de9a Edna
+0x0a39dea8 Hobby
+0x0a39dee0 Wait! Where’re ya goin’!?
+0x0a39df20 I’ll repay ya!
+0x0a39df6e Two-on-one? Bring it!
+0x0a39dfac No holdin’ back!
+0x0a39dfd6 Can’t lose here!
+0x0a39e02a mizuhо
+0x0a39e072 Waxin’ floors soon!
+0x0a39e0a6 Can’t ya read “No Entry”!?
+0x0a39e0e8 Outta my way!
+0x0a39e12e Old Mage
+0x0a39e168 Master—it’s her! That woman!
+0x0a39e19c Foh foh—apologize now!
+0x0a39e1f6 Don’t push me further!
+0x0a39e226 Clear out now!
+0x0a39e25a I’ll get through—no matter what!
+0x0a39e29a Kongou
+0x0a39e2aa Dr. Yamada
+0x0a39e2ba Dr. Hirayama
+0x0a39e2ca Dr. Kita
+0x0a39e2d8 Combatant
+0x0a39e314 These blueprints’re our Frayer Engine copy.
+0x0a39e35c And misread the operating principle—
+0x0a39e38a Won’t work as-is!
+0x0a39e3bc We got scammed, boss!
+0x0a39e3e4 No way!
+0x0a39e410 Damn you, Hazuki!!
+0x0a39e464 Boss! MilPol’s here!
+0x0a39e48c Facility’s surrounded!
+0x0a39e4f0 Kongou Pres.! Return blueprints!
+0x0a39e65a You bastard! Set us up!?
+0x0a39e696 Hey! Bring that out!
+0x0a39e6c0 Huh? Just ditch her ‘n run!
+0x0a39e6f8 Wait—if we get her overseas,
+0x0a39e724 Third party’ll pay big!
+0x0a39e750 Good! Do it!
+0x0a39e7a8 Wait!
+0x0a39e7e2 Kongou
+0x0a39e7f2 Tank
+0x0a39e836 Want it? Take it!
+0x0a39e862 Here! Blueprints!
+0x0a39e8ac Hahahaha!
+0x0a39e91e You’ll regret this!
+0x0a39e96c Get ready, Kongou!
+0x0a39e9c0 Waaaaah!
+0x0a39ea12 Dolce
+0x0a39ea22 Kongou
+0x0a39ea32 Tank
+0x0a39ea80 Want it? Take it!
+0x0a39eaac Here! Blueprints!
+0x0a39eb06 Thanks! Coolie!
+0x0a39eb42 Who the hell!?
+0x0a39eb68 Kongou Pres.!
+0x0a39eb82 To monopolize Frayer market,
+0x0a39ebb0 You stole rival blueprints
+0x0a39ebe2 And attacked innocent courier!
+0x0a39ec1a Even Labor Board won’t allow it—
+0x0a39ec4a Speed Thief “Dolce Mûre” won’t allow it!
+0x0a39ec8c Speed Thief!?
+0x0a39ecb8 W-wait! Dolce Mûre!
+0x0a39ece6 Let me finish this!
+0x0a39ed02 …N-nothin’.
+0x0a39ed4a This fight’s mine—let me end it!
+0x0a39ed8e …Fine. I get it.
+0x0a39edb2 Do as you like.
+0x0a39ee3a C’mon—let’s go! )Y0
+0x0a39ef8a You bastard!
+0x0a39efd6 …N-nothin’.
+0x0a39effc I’ll face away—take yer time.
+0x0a39f03e Let’s go!
+0x0a39f0da Kongou
+0x0a39f120 This can’t be!
+0x0a39f166 Dolce
+0x0a39f176 Kongou
+0x0a39f1da This can’t be!
+0x0a39f208 This can’t be!
+0x0a39f270 Yes. Natsumi.
+0x0a39f2a2 Ah—thanks so much!
+0x0a39f2c8 !? How’d ya know my name?
+0x0a39f30c Huh? Ah—well…
+0x0a39f32e Someone asked me to find you….
+0x0a39f362 Someone?
+0x0a39f37c Ah, well….
+0x0a39f3ae More importantly, Natsumi—
+0x0a39f3d0 This case ain’t over yet!
+0x0a39f432 Dolce
+0x0a39f44e Hazuki
+0x0a39f498 Excuse me!
+0x0a39f4d6 Who’re you!?
+0x0a39f4f4 Delivery for you.
+0x0a39f52a From who…? Wait—where’s the butler?
+0x0a39f576 I must give this
+0x0a39f598 Directly to you….
+0x0a39f5dc What’s that bundle?
+0x0a39f5fe Inv. to jail from Kongou Pres.…
+0x0a39f638 Fake new Frayer Engine blueprints!
+0x0a39f670 …Ha! Ahahahaha!
+0x0a39f69e Barged in—what’s this about!?
+0x0a39f6ce You’re mistaken.
+0x0a39f702 Those blueprints were probably
+0x0a39f722 Swapped by Kongou already.
+0x0a39f8d2 You’re stubborn, Chairman Hazuki!
+0x0a39f906 You leaked info so Kongou’d steal it,
+0x0a39f93e And Hazuki’s Engine was incomplete—
+0x0a39f97c All confessed by
+0x0a39f9c4 Your own sweet engineers!
+0x0a39f9ee Everything’s out!
+0x0a39fa20 …Grr!
+0x0a39fa76 Private army….
+0x0a39fa96 So “Kongou” ‘n “Hazuki”
+0x0a39fad0 Are two peas in a pod!
+0x0a39fb76 What’s this guy!?
+0x0a39fba8 Whoa! WHOA!!
+0x0a39fbf2 Hehe! Hidin’ here, huh!
+0x0a39fc24 Now that my seal’s broken—
+0x0a39fc5c Behold my full power, Marian!
+0x0a39fc9c Wha—what is this!?
+0x0a39fcc4 What kinda gag was that!?
+0x0a39fcfc She’s gone berserk….
+0x0a39fd28 And I sense pure evil power!
+0x0a39fd6a Ah! Could it be!?
+0x0a39fda2 Ah!! Dolce!?
+0x0a39fe1a Can’t let this monster roam free!
+0x0a39fe4c Plus…
+0x0a39fe60 If I don’t beat her now, who knows her power….
+0x0a39fea8 Bring it, monster!
+0x0a39fecc I’ll take you!
+0x0a39ff48 Dear Mom, Dad—Hope you’re well. Sorry no contact….
+0x0a39ffae Time flies—two years since I left home, lone & free.
+0x0a3a0016 Had hard times, but don’t regret leavin’.
+0x0a3a0068 Cuz….
+0x0a3a0080 Met the amazing Pres. Karen!
+0x0a3a01d8 stuff!
+0x0a3a01ee I live & work at Pres. Karen’s.
+0x0a3a0242 Karen’s a genius in sci & magic—good
+0x0a3a0272 cook, gorgeous, strong, creative—just
+0x0a3a02a4 perfect!
+0x0a3a02d8 Her Chinese crepes? Absolutely divine!
+0x0a3a031e Working for Karen, I’ve learned how the world works.
+0x0a3a0358 Slowly, anyway.
+0x0a3a0396 Karen’s just….
+0x0a3a03e4 Hmm—am I overpraisin’ her…?
+0x0a3a0430 Eh, whatever!
+0x0a3a0448 She’s just that awesome!
+0x0a3a04ba …Natsumi? Awake?
+0x0a3a04e8 …Mmm. Yeah….
+0x0a3a051c I’m on early shift—leavin’ now!
+0x0a3a055c …Okay….
+0x0a3a0572 …Bye….
+0x0a3a05e8 …Crap….
+0x0a3a05fc …Overslept….
+0x0a3a06a4 Oh? You’re late today—ho ho!
+0x0a3a06fe You beat me in!…
+0x0a3a0738 S-snow today….
+0x0a3a074e Ah—just a dream….
+0x0a3a0768 …Wow….
+0x0a3a07b4 S-snow today….
+0x0a3a07da Ho ho ho!
+0x0a3a0800 Work time!
+0x0a3a0842 Ah—just a dream….
+0x0a3a0862 Ayane never on time alone.
+0x0a3a08a6 But vivid dream….
+0x0a3a08f0 Still a dream!?
+0x0a3a0916 Still a dream!!!
+0x0a3a0940 Ow! What’re ya doin’, boss!?
+0x0a3a0986 Ugh… Not a dream….
+0x0a3a09be Then get it!!
+
+0x0a3a0b3e …Wow….
+0x0a3a0b56 First time!
+0x0a3a0b6a First time I’m not late alone!
+0x0a3a0b9c You did it, Ayane!!
+0x0a3a0bce …That much?
+0x0a3a0c24 Ah—
+0x0a3a0c38 Oops—forgot!!
+0x0a3a0c7e Slept in—so
+0x0a3a0c9c Forgot Karen’s Chinese crepe lunch!
+0x0a3a0d14 Aw man….
+0x0a3a0d34 Cheer up! Let’s deliver today!
+0x0a3a0d98 …Huh!?
+0x0a3a0dae Wow—awesome!
+0x0a3a0dcc First-ever pkg at max insurance—120M yen!!
+0x0a3a0e2e Really? 120M!?
+0x0a3a0e60 Let’s see!?
+0x0a3a0ea2 At last—we got a big job!
+0x0a3a0ede Huh—direct from parent co.?
+0x0a3a0f0c Rare.
+0x0a3a0f46 Ooh—extra pay too.
+0x0a3a0f7a …So?
+0x0a3a0fba Huh?
+0x0a3a0fd6 Who’ll deliver it?
+0x0a3a1024 Duh.
+0x0a3a1044 Delivery Chief—m-e ★
+0x0a3a108e Ayane+Haruna
+
+0x0a3a110a Delivery!
+0x0a3a1124 Engineer
+0x0a3a1134 You’re…!?
+0x0a3a114c Will it be okay…?
+0x0a3a117c Yes!
+0x0a3a119a Leave it to me!
+0x0a3a11ba 100% safe!
+0x0a3a11d4 Engineer
+0x0a3a11ea O-okay….
+0x0a3a1210 Here—please take care.
+0x0a3a1286 Later, MilPol exposed Kongou Heavy & Hazuki Rail
+0x0a3a12c4 —sabotage, arms smuggling, illegal labs, private armies, govt collusion,
+0x0a3a1438
+0x0a3a1452 Buyouts, takeovers, rigged bids—all uncovered.
+0x0a3a14a6 Kongou & Hazuki dissolved; assets seized by govt.
+0x0a3a14ea
+0x0a3a151c Meanwhile, Hazuki Parcel Co….
+0x0a3a154c Hazuki Parcel, unprofitable, had funding cut
+0x0a3a158a —effectively bankrupt.
+0x0a3a15be
+0x0a3a15de Pres. Karen took personal loans from parent co.
+0x0a3a161a
+0x0a3a1678 And….
+0x0a3a16ac More right!
+0x0a3a16c4 Yes! OK!
+0x0a3a16f0 Secure it so it won’t fall!
+0x0a3a1730 Pres. Karen—!
+0x0a3a1748 No—Manager! Ready!
+0x0a3a177a Cheese!!!
+0x0a3a17ba Debt’s no stopper. Karen opened Chinese crepe shop
+0x0a3a17f8 —now happily repaying loans!
+0x0a3a185a P.S. Fall 7x, rise 8! Mom, Dad!
+0x0a3a1886 Karen never quits—so cool!!
+0x0a3a1900 Sister
+0x0a3a190e That’s her! Arsonist burglar!
+0x0a3a1956 N-no! False charge!
+0x0a3a197e Innocent!
+0x0a3a1994 Help, Pres. Karen!!
+0x0a3a19ea Later, MilPol exposed Kongou Heavy’s
+0x0a3a1a26 Sabotage, arms smuggling, illegal labs, private armies.
+0x0a3a1a64 Buyouts, collusion, takeovers, rigged bids—all uncovered.
+0x0a3a1ab4 Kongou dissolved; assets absorbed by
+0x0a3a1af0 Hazuki Rail & Kirishima Chem, etc.
+0x0a3a1b3a Meanwhile, Hazuki Parcel Co….
+0x0a3a1b6a Avoided charges, but parent co. blamed them for loss,
+0x0a3a1ba6 Company dissolved.
+0x0a3a1bda Pres. Karen took personal loans from parent co.
+0x0a3a1d68
+0x0a3a1da4 And….
+0x0a3a1de2 Work hard now!
+0x0a3a1e2c No! Karen, stop!
+0x0a3a1e6a Don’t slack! Debts’re huge!
+0x0a3a1eb0 Stupid Kongou Heavy!!!
+0x0a3a1ef4 Now work mines with Karen to repay debt.
+

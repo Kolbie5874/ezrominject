@@ -1,0 +1,10340 @@
+
+; 0x000B4B80 ロード
+0x000B4B80 Load
+
+; 0x000B4B88 セーブ
+0x000B4B88 Save
+
+; 0x000B4DBC 開始しますか？
+0x000B4DBC Start?
+
+; 0x000b4dcc 開始
+0x000b4dcc Yes
+
+; 0x000B4DD4 キャンセル
+0x000B4DD4 Back
+
+
+; 0x000b5bf0 ロボットのカスタマイズをおこなって、
+0x000b5bf0 I customized the robot.
+
+; 0x000b5c15 たいせんあいてとアツくなれ！
+0x000b5c15 It's so hot!
+
+; 0x000b5c34 なかまとのきょうりょくプレイで、
+0x000b5c34 In the nakamato kyoryoku play,
+
+; 0x000b5c55 かこくなミッションをクリアーせよ！
+0x000b5c55 Clear the covert mission!
+
+; 0x000b8753 の長距離砲搭載列車周辺に集結した
+0x000b8753 Gathered around the long-range cannons.
+
+; 0x000b8774 ＭＡを倒し、制圧する事が目的。
+0x000b8774 Her goal was to defeat and subdue the MA.
+
+; 0x000b87b4 重工業の盛んなラジウハ国で軍部主導
+0x000b87b4 Military leadership in the heavy industry-rich country of Rajuha
+
+; 0x000b87d7 のもと、破壊活動が行われている。
+0x000b87d7 Underneath, destructive activities are being conducted.
+
+; 0x000b87f8 街の治安回復の為に、活動中のＭＡを
+0x000b87f8 In order to restore order in the city, we'll need an active MA
+
+; 0x000b881b 沈黙させる事が目的。
+0x000b881b My goal is to silence her.
+
+; 0x000b8850 熱帯雨林のジャングルに、兵器工場を
+0x000b8850 A weapons factory in the jungle of the rainforest.
+
+; 0x000b8873 発見。大型機動兵器を建造していると
+0x000b8873 Found him. He's building a large mobile weapon.
+
+; 0x000b8896 の連絡を受けた。工場の機能を停止さ
+0x000b8896 I got a call. The factory's shut down.
+
+; 0x000b88b9 せ、制圧する事が目的。
+0x000b88b9 S-Suppression is my goal.
+
+; 0x000b89fb 協力プレイ
+0x000b89fb Co-op
+
+; 0x000b8a06 ル−ル設定
+0x000b8a06 Lulu setting
+
+; 0x000b8a11 ステージ設定
+0x000b8a11 Stage setting
+
+; 0x000b8a29 イージー
+0x000b8a29 Easy
+
+; 0x000b8a32 ノーマル
+0x000b8a32 Normal
+
+; 0x000b8a3b ハード
+0x000b8a3b Hard
+
+; 0x000b8a42 味方攻撃
+0x000b8a42 Ally attack
+
+; 0x000b8a4b 不可能
+0x000b8a4b Impossible
+
+; 0x000b8a57 ミッション
+0x000b8a57 Mission
+
+; 0x000b8a62 キャンセル
+0x000b8a62 Cancel
+
+; 0x000b8a6d 設定完了
+0x000b8a6d Set up complete.
+
+; 0x000b8a7b しばらくお待ちください。
+0x000b8a7b Please wait a bit.
+
+; 0x000b8a94 この設定でゲームを行います。
+0x000b8a94 We will play a game with this setting.
+
+; 0x000b8ab1 参加者のセットアップ完了まで、
+0x000b8ab1 Until the participants are set up,
+
+; 0x000b8ad0 セットアップ完了
+0x000b8ad0 Set-up complete
+
+; 0x000b8ae1 セットアップ中
+0x000b8ae1 Set up.
+
+; 0x000b8af0 セットアップ
+0x000b8af0 Set up.
+
+; 0x000b8afd ゲームスタート
+0x000b8afd Game Start
+
+; 0x000b8b4a デスマッチ
+0x000b8b4a Deathmatch
+
+; 0x000b8b55 ポイントデスマッチ
+0x000b8b55 Point deathmatch
+
+; 0x000b8b68 タイムデスマッチ
+0x000b8b68 Time Deathmatch
+
+; 0x000b8b79 生き残った者の勝利
+0x000b8b79 Victory to the survivors.
+
+; 0x000b8b8c 倒した数が一定数に達した者が勝利
+0x000b8b8c Whoever reaches a certain number wins.
+
+; 0x000b8bad 制限時間内に倒した数が多い者が勝利
+0x000b8bad Whoever defeats more within the time limit wins
+
+; 0x000b8be4 リトライ
+0x000b8be4 Retry
+
+; 0x000b8bed ゲームを続けますか？
+0x000b8bed Continue the game?
+
+; 0x000b8c02 ステージ
+0x000b8c02 Stage
+
+; 0x000b8c0b トラップ
+0x000b8c0b Trap
+
+; 0x000b8c29 制限時間
+0x000b8c29 Time limit
+
+; 0x000c7937 リペアパーツＭ
+0x000c7937 RepairPart M
+
+; 0x000c7946 リペアパーツＬ
+0x000c7946 RepairPart L
+
+; 0x000c7955 レストアパーツＳ
+0x000c7955 Restorative Part S
+
+; 0x000c7966 レストアパーツＭ
+0x000c7966 Restore Parts M
+
+; 0x000c7977 レストアパーツＬ
+0x000c7977 Restore Parts L
+
+; 0x000c7988 ショットガン弾倉
+0x000c7988 Shotgun magazine
+
+; 0x000c7999 レイルガン弾倉
+0x000c7999 Railgun magazine
+
+; 0x000c79a8 レーザー弾倉
+0x000c79a8 Laser magazine
+
+; 0x000c79c4 ガトリング弾倉
+0x000c79c4 Gatling magazine
+
+; 0x000c79d3 Ｇランチャ弾倉
+0x000c79d3 G-Rancha magazine
+
+; 0x000c79e2 ミサイル弾倉
+0x000c79e2 Missile magazine
+
+; 0x000c79ef グレネード弾倉
+0x000c79ef Grenade magazine
+
+; 0x000c79fe Ｐブレイカー弾倉
+0x000c79fe P-Braker magazine
+
+; 0x000c8450 ハルパス
+0x000c8450 Halpas
+
+; 0x000c845f レライエ
+0x000c845f Lelaie
+
+; 0x000c846e マルコシアス
+0x000c846e Marcosias
+
+; 0x000c8481 ストラス
+0x000c8481 Stras
+
+; 0x000c8490 バルバトス
+0x000c8490 Barbatos
+
+; 0x000c84a1 イポス
+0x000c84a1 Ipos
+
+; 0x000c84ae エリゴル
+0x000c84ae Erigol
+
+; 0x000c84bd キメリエス
+0x000c84bd Kimeries
+
+; 0x000c84ce ゼパル
+0x000c84ce Zepar
+
+; 0x000c84db サレオス
+0x000c84db Saleos
+
+; 0x000c84ea モラクス
+0x000c84ea Morax
+
+; 0x000c84f9 アガシオン
+0x000c84f9 Agasion
+
+; 0x000c850a Ａマリウス
+0x000c850a Amarius
+
+; 0x000c851b アイニ
+0x000c851b Aini
+
+; 0x000ca845 コブラ
+0x000ca845 Cobra
+
+; 0x000ca84c マグナム
+0x000ca84c Magnum
+
+; 0x000ca855 リクスリーク
+0x000ca855 Rixrik
+
+; 0x000ca862 スライルフィード
+0x000ca862 Slayfeed
+
+; 0x000ca873 イーズンバクアー
+0x000ca873 Isonbaquar
+
+; 0x000ca884 ブッハジイリ
+0x000ca884 Buchzili
+
+; 0x000ca891 イジフィエール
+0x000ca891 Izifier
+
+; 0x000ca8a0 ジェネシス
+0x000ca8a0 Genesis
+
+; 0x000ca8ab クルガーバック
+0x000ca8ab Krugback
+
+; 0x000ca8ba ライタスカービン
+0x000ca8ba Raitascarbin
+
+; 0x000ca8cb フィルグードＣ
+0x000ca8cb Filgud C
+
+; 0x000ca8da ネクスジェネレン
+0x000ca8da Nexgenerin
+
+; 0x000ca8eb ブルショットガン
+0x000ca8eb Bullshotgun
+
+; 0x000ca8fc エイトショット
+0x000ca8fc Eightshot
+
+; 0x000ca90b コアショットガン
+0x000ca90b Core shotgun
+
+; 0x000ca91c ツヴァイレイル
+0x000ca91c Zweirel
+
+; 0x000ca92b デルタレイル
+0x000ca92b Deltarail
+
+; 0x000ca938 アルファレーザー
+0x000ca938 Alpha laser
+
+; 0x000ca949 ベータレーザー
+0x000ca949 Beta laser
+
+; 0x000ca958 ガンマレーザー
+0x000ca958 Gamma Laser
+
+; 0x000ca967 フレイマー
+0x000ca967 Flamer
+
+; 0x000ca972 ファイアドラゴン
+0x000ca972 Firedragon
+
+; 0x000ca983 ボルケーノ
+0x000ca983 Volcano
+
+; 0x000ca98e ライトガトリング
+0x000ca98e Laitgatling
+
+; 0x000ca99f ゼクスガトリング
+0x000ca99f Zexgatling
+
+; 0x000ca9b0 ヘビーガトリング
+0x000ca9b0 Heavygatling
+
+; 0x000ca9c1 グレネード
+0x000ca9c1 Grenade
+
+; 0x000ca9cc ライトグレネード
+0x000ca9cc Light grenade
+
+; 0x000ca9dd リンクグレネード
+0x000ca9dd Link grenade
+
+; 0x000ca9ee ティエイガー
+0x000ca9ee Tieger
+
+; 0x000ca9fb スワイッド
+0x000ca9fb Swid
+
+; 0x000caa06 ペリイット
+0x000caa06 Periit
+
+; 0x000caa11 ハンドグレネード
+0x000caa11 Hand grenade
+
+; 0x000caa22 ナパーム
+0x000caa22 Napalm
+
+; 0x000caa2b ランドマイン
+0x000caa2b Landmine
+
+; 0x000caa38 ブラスナックル
+0x000caa38 Blascal
+
+; 0x000caa47 スタンナックル
+0x000caa47 Stankuckle
+
+; 0x000caa56 バスターナックル
+0x000caa56 Buster knuckle
+
+; 0x000caa67 スラッガー
+0x000caa67 Slugger
+
+; 0x000caa72 ヘビーグラブ
+0x000caa72 Heavy Grab
+
+; 0x000caa7f ハンマー
+0x000caa7f Hammer
+
+; 0x000caa88 カッターネイル
+0x000caa88 Cutternail
+
+; 0x000caa97 リッパーナイフ
+0x000caa97 Ripperknife
+
+; 0x000caaa6 ファング
+0x000caaa6 Fang
+
+; 0x000caaaf メタルガード
+0x000caaaf Metalguard
+
+; 0x000caabc ハイメタルガード
+0x000caabc High-metal guard
+
+; 0x000caacd メタルシールド
+0x000caacd Metal Shield
+
+; 0x000caadc コートシールド
+0x000caadc Coat Shield
+
+; 0x000caaeb ルナメタルカバー
+0x000caaeb Lunametal cover
+
+; 0x000caafc シールドピック
+0x000caafc Shieldpick
+
+; 0x000cab0b パイルブレイカー
+0x000cab0b Pilebreaker
+
+; 0x000cab1c Ｐブレイカー２
+0x000cab1c Pbreaker 2
+
+; 0x000cab2b レイブレイカー
+0x000cab2b Raker
+
+; 0x000cab3a バスターランチャー
+0x000cab3a Buster launcher
+
+; 0x000cab4d ボス９機銃
+0x000cab4d Boss 9 machine gun
+
+; 0x000cab58 ボス９誘導ミサイル
+0x000cab58 Boss 9 missile
+
+; 0x000cab6b ボス９落下ミサイル
+0x000cab6b Boss 9 Fall Missile
+
+; 0x000cab7e ボス９主砲
+0x000cab7e Boss 9 main gun
+
+; 0x000cab89 ボス１４格闘
+0x000cab89 Boss 14
+
+; 0x000cab96 ボス１４火炎放射
+0x000cab96 Boss 14 Blazing
+
+; 0x000caba7 ボス１４誘導ミサイル
+0x000caba7 Boss 14 guided missile
+
+; 0x000cabbc ボス１９機銃
+0x000cabbc Boss 19 Machine Gun
+
+; 0x000cabc9 ボス１９グレネード
+0x000cabc9 Boss 19 grenade
+
+; 0x000cabdc ボス１９グレネードガン
+0x000cabdc Boss 19 grenade gun
+
+; 0x000cabf3 ボス１９レールガン
+0x000cabf3 Boss 19 Railgun
+
+; 0x000cac06 ボス２２クロー
+0x000cac06 Boss 22 Claw
+
+; 0x000cac15 ボス２２機銃
+0x000cac15 Boss 22 machine gun
+
+; 0x000cac22 ボス２２ミサイル
+0x000cac22 Boss 22 Missile
+
+; 0x000cac33 未使用
+0x000cac33 Unused
+
+; 0x000cac3a ボス２５−１パンチ
+0x000cac3a Boss, 25-1.
+
+; 0x000cac4d ボス２５−１ビーム
+0x000cac4d Boss 25-1 beam
+
+; 0x000cac60 ボス２５−１レーザー
+0x000cac60 Boss 25-1 Laser
+
+; 0x000cac75 ガーディアン槍１
+0x000cac75 Guardian Spear 1
+
+; 0x000cac86 ガーディアン槍２
+0x000cac86 Guardian Spear 2
+
+; 0x000cac97 ガーディアン槍３
+0x000cac97 Guardian 3
+
+; 0x000caca8 ガーディアンビーム
+0x000caca8 Guardian beam
+
+; 0x000cacbb ガーディアンミサイル
+0x000cacbb Guardian
+
+; 0x000cacd0 ラスボス　レーザー
+0x000cacd0 Last boss, laser.
+
+; 0x000cace3 ラスボス　オーブ
+0x000cace3 Last boss orb
+
+; 0x000cacf4 輸送ヘリ　機銃
+0x000cacf4 Transport chopper, machine gun.
+
+; 0x000cad03 飛行攻撃機　機銃
+0x000cad03 Flight attack craft, machine gun.
+
+; 0x000cad14 飛行爆撃機　爆弾
+0x000cad14 Flight bomber, bomb.
+
+; 0x000cad25 戦車　機銃
+0x000cad25 Tank, machine gun.
+
+; 0x000cad30 戦車　主砲
+0x000cad30 Tank, main gun.
+
+; 0x000cad3b ワタナベ　銃
+0x000cad3b Watanabe, gun.
+
+; 0x000cad48 爆風Ｓ
+0x000cad48 Blast S
+
+; 0x000cad4f 爆風Ｍ
+0x000cad4f Blast M
+
+; 0x000cad56 爆風Ｌ
+0x000cad56 Blast L
+
+; 0x000cad5d 爆風Ｘ
+0x000cad5d Blast X
+
+; 0x000cad64 爆風炎
+0x000cad64 Blast flame
+
+; 0x000cad6b ミニゲーム爆風
+0x000cad6b Minigame Blast
+
+; 0x000cad7b ミニゲーム爆風
+0x000cad7b Minigame Blast
+
+; 0x000cad8b ミニゲーム爆風
+0x000cad8b Minigame Blast
+
+; 0x000cad9b ミニゲーム爆風
+0x000cad9b Minigame Blast
+
+; 0x000cadab ミニゲーム爆風
+0x000cadab Minigame Blast
+
+; 0x000cadbb 素手用盾データ
+0x000cadbb Unarmed Shield Data
+
+; 0x000b8c3f カラー設定
+0x000b8c3f Coloring
+
+; 0x0057e753 対戦プレイ
+0x0057e753 War play
+
+; 0x0057e75e 協力プレイ
+0x0057e75e Co-op
+
+; 0x0057e769 （対戦）
+0x0057e769 (Play)
+
+; 0x0057e77b 対戦プレイ　　　　　プレイ人数　４人
+0x0057e77b Four Battle Plays
+
+; 0x0057e7a0 鍛えたテクニックで、ライバルを倒そう
+0x0057e7a0 Let's use our trained techniques to defeat our rivals.
+
+; 0x0057e7c5 協力プレイ　　　　　プレイ人数　２人
+0x0057e7c5 Co-Op Play 2
+
+; 0x0057e7ea 仲間と協力して、ミッションを達成しろ
+0x0057e7ea Work with your people to complete the mission.
+
+; 0x0057e80f 相手を探す（対戦）　プレイ人数　４人
+0x0057e80f Look for opponents (battle) 4 people
+
+; 0x0057e834 対戦プレイの親機を探します。
+0x0057e834 I'll look for the parents of the game.
+
+; 0x0057e851 相手を探す（協力）　プレイ人数　２人
+0x0057e851 Look for opponents (cooperate) 2 players
+
+; 0x0057e876 協力プレイの親機を探します。
+0x0057e876 I'll look for a co-op parent.
+
+; 0x0057e893 参加者が決定したら、『しめきる』を
+0x0057e893 Once the participants have decided, let's “shim” them
+
+; 0x0057e8b6 おしてください。
+0x0057e8b6 Please.
+
+; 0x0057e8c7 エントリー受付
+0x0057e8c7 Entry reception
+
+; 0x0057e8ea キャンセル
+0x0057e8ea Cancel
+
+; 0x0057e8f5 しめきる
+0x0057e8f5 Shimeru
+
+; 0x0057e913 ＤＳワイヤレス通信を
+0x0057e913 The DS wireless comms
+
+; 0x0057e928 行うことができません。
+0x0057e928 Can't do it.
+
+; 0x0057e93f 接続できませんでした。
+0x0057e93f I can't connect.
+
+; 0x0057e956 データが受信できませんでした。
+0x0057e956 I couldn't get the data.
+
+; 0x0057e975 相手をさがす
+0x0057e975 Find a partner
+
+; 0x0057e982 下画面に募集中ゲームが表示されます。
+0x0057e982 The game you're looking for will appear on the bottom screen.
+
+; 0x0057e9a7 遊ぶゲームを選択してください。
+0x0057e9a7 Select a game.
+
+; 0x0057e9cb エントリーしますか？
+0x0057e9cb Want to enter?
+
+; 0x0057e9e0 しばらくお待ちください。
+0x0057e9e0 Please wait a bit.
+
+; 0x00588476 ＢＧＭ
+0x00588476 BGM
+
+; 0x00588482 メッセージ速度
+0x00588482 Message rate
+
+; 0x00588491 キーコンフィグ
+0x00588491 Controls
+
+; 0x005884a0 　普通
+0x005884a0 Normal
+
+; 0x005884a9 　早い
+0x005884a9 Slow
+
+; 0x005884b2 瞬間表示
+0x005884b2 Fast
+
+; 0x005884c5 初期化
+0x005884c5 Reset
+
+; 0x005884bb 決定
+0x005884bb Ok
+
+; 0x005884c0 戻る
+0x005884c0 Back
+
+; 0x005884cc Ａボタン
+0x005884cc A
+
+; 0x005884d5 Ｂボタン
+0x005884d5 B
+
+; 0x005884de Ｘボタン
+0x005884de X
+
+; 0x005884e7 Ｙボタン
+0x005884e7 Y
+
+; 0x005884f0 Ｌボタン
+0x005884f0 L
+
+; 0x005884f9 Ｒボタン
+0x005884f9 R
+
+; 0x00588502 格闘
+0x00588502 Melee
+
+; 0x00588507 ジャンプ
+0x00588507 Jump
+
+; 0x00588519 射撃
+0x00588519 Fire
+
+; 0x00588527 防御
+0x00588527 Defend
+
+; 0x00588510 武器変更
+0x00588510 Change weapon
+
+; 0x0058851e 射角固定
+0x0058851e Fix Aim
+
+; 0x0058cf5d 敵撃破
+0x0058cf5d Enemy defeated.
+
+; 0x0058cf64 ターゲット撃破
+0x0058cf64 Target down.
+
+; 0x0058cf73 ボス撃破
+0x0058cf73 Boss down.
+
+; 0x0058cf7c クリアーボーナス
+0x0058cf7c Clear bonus
+
+; 0x0058cf8d 機体損傷
+0x0058cf8d Damage
+
+; 0x0058cfa1 被害損失
+0x0058cfa1 Damage loss
+
+; 0x0058cfaa 合計
+0x0058cfaa Total
+
+; 0x0058cfaf 所持金
+0x0058cfaf Money on hand
+
+; 0x0058cfbb パーツ
+0x0058cfbb Part
+
+; 0x0058cfc2 ダメージ
+0x0058cfc2 DMG
+
+; 0x0058cfcb コスト
+0x0058cfcb Cost
+
+; 0x0058cfd2 ヘッド
+0x0058cfd2 Head
+
+; 0x0058cfd9 ボディ
+0x0058cfd9 Body
+
+; 0x0058cfe0 アーム
+0x0058cfe0 Arm
+
+; 0x0058cfe7 レッグ
+0x0058cfe7 Leg
+
+; 0x0058d003 いいえ
+0x0058d003 No. No.
+
+; 0x0058d00a クリアデータを
+0x0058d00a Clear data
+
+; 0x0058d019 セーブしますか？
+0x0058d019 Save?
+
+; 0x00641af8 カイト：
+0x00641af8 Kite:
+
+; 0x00641b01 どこへ行こうか？
+0x00641b01 Where do we go?
+
+; 0x00641b38 カイト：
+0x00641b38 Kite:
+
+; 0x00641b41 記録をとっておいたほうが
+0x00641b41 It's better to record it.
+
+; 0x00641b5a よさそうだ。
+0x00641b5a Looks good.
+
+; 0x00641b98 カイト：
+0x00641b98 Kite:
+
+; 0x00641ba1 作戦内容を確認するか。
+0x00641ba1 Should I check the details of the plan?
+
+; 0x00641bd8 メカニック：
+0x00641bd8 MECANIC:
+
+; 0x00641be5 ・・・おぅ
+0x00641be5 - Oh.
+
+; 0x00641c18 メカニック：
+0x00641c18 MECANIC:
+
+; 0x00641c25 ・・・
+0x00641c25 ...
+
+; 0x00641c2c バランスを確認しておけ。
+0x00641c2c Check the balance.
+
+; 0x00641c78 メカニック：
+0x00641c78 MECANIC:
+
+; 0x00641c85 ・・・
+0x00641c85 ...
+
+; 0x00641c8c カラーリングしてやろうか？
+0x00641c8c Shall I color you?
+
+; 0x00641cd8 メカニック：
+0x00641cd8 MECANIC:
+
+; 0x00641ce5 ・・・いらっしゃい。
+0x00641ce5 ...Come.
+
+; 0x00641d18 メカニック：
+0x00641d18 MECANIC:
+
+; 0x00641d25 ・・・またこいよ。
+0x00641d25 Come again.
+
+; 0x00641d58 ミルン：
+0x00641d58 Miln:
+
+; 0x00641d61 どんなカラーリングが
+0x00641d61 What color is it?
+
+; 0x00641d76 いいかな？
+0x00641d76 Okay?
+
+; 0x00641db8 ミルン：
+0x00641db8 Miln:
+
+; 0x00641dc1 どこのアイテムを変更する？
+0x00641dc1 Which item should I change?
+
+; 0x00641df8 ミルン：
+0x00641df8 Miln:
+
+; 0x00641e01 今日はどうするの？
+0x00641e01 What are you doing today?
+
+; 0x00641e38 ミルン：
+0x00641e38 Miln:
+
+; 0x00641e41 またよろしくネッ
+0x00641e41 Nice to meet you again, ne.
+
+; 0x00641e78 ミルン：
+0x00641e78 Miln:
+
+; 0x00641e81 何を買うの？
+0x00641e81 What do you buy?
+
+; 0x00641eb8 ミルン：
+0x00641eb8 Miln:
+
+; 0x00641ec1 何を売る？
+0x00641ec1 Sell what?
+
+; 0x00641ef8 ミルン：
+0x00641ef8 Miln:
+
+; 0x00641f01 何を売る？
+0x00641f01 Sell what?
+
+; 0x00641f38 ミルン：
+0x00641f38 Miln:
+
+; 0x00641f41 何を売る？
+0x00641f41 Sell what?
+
+; 0x00641f78 ミルン：
+0x00641f78 Miln:
+
+; 0x00641f81 何を売る？
+0x00641f81 Sell what?
+
+; 0x00641fb8 ミルン：
+0x00641fb8 Miln:
+
+; 0x00641fc1 何を売る？
+0x00641fc1 Sell what?
+
+; 0x00641ff8 ミルン：
+0x00641ff8 Miln:
+
+; 0x00642001 何を売る？
+0x00642001 Sell what?
+
+; 0x00642038 ミルン：
+0x00642038 Miln:
+
+; 0x00642041 何を売る？
+0x00642041 Sell what?
+
+; 0x00642078 リオン：
+0x00642078 Rion:
+
+; 0x00642090 作戦内容を確認して。
+0x00642090 Check the plan.
+
+; 0x006420d8 リオン：
+0x006420d8 Rion:
+
+; 0x006420e1 準備が出来たら、
+0x006420e1 When I'm ready,
+
+; 0x006420f2 またブリッジに来て。
+0x006420f2 Come to the bridge.
+
+; 0x00642138 ミルン：
+0x00642138 Miln:
+
+; 0x00642141 メンテナンスはバッチりよ！
+0x00642141 Maintenance's done!
+
+; 0x0064215c 今日はどうする？
+0x0064215c What should we do today?
+
+; 0x00642198 ミルン：
+0x00642198 Miln:
+
+; 0x006421a1 どお？　なかなかの
+0x006421a1 How's that? Pretty good.
+
+; 0x006421b4 仕上がりでしょ！
+0x006421b4 It's done!
+
+; 0x006421f8 ミルン：
+0x006421f8 Miln:
+
+; 0x00642201 どんなカラーリングにする？
+0x00642201 What color would you like?
+
+; 0x00642238 ミルン：
+0x00642238 Miln:
+
+; 0x00642241 装備を忘れた武器はない？
+0x00642241 Any weapons you forgot to equip?
+
+; 0x0064225a じゃっ、またねっ！
+0x0064225a See ya later!
+
+; 0x00642298 ミルン：
+0x00642298 Miln:
+
+; 0x006422a1 いらっしゃい！
+0x006422a1 Welcome!
+
+; 0x006422b0 ＭＡはバランスが大事よ。
+0x006422b0 Balance is important in MA.
+
+; 0x006422f8 ミルン：
+0x006422f8 Miln:
+
+; 0x00642301 またどうぞ〜
+0x00642301 Come again~
+
+; 0x00642338 メカニック：
+0x00642338 MECANIC:
+
+; 0x00642345 ・・・またな。
+0x00642345 See ya.
+
+; 0x00642378 あやしげな男：
+0x00642378 Suspicious Man:
+
+; 0x00642387 ・・・おいっ
+0x00642387 ...Hey.
+
+; 0x0064239b カイト：
+0x0064239b Kite:
+
+; 0x006423a7 あなたは一体？
+0x006423a7 Who are you?
+
+; 0x006423bc あやしげな男：
+0x006423bc Suspicious Man:
+
+; 0x006423cb ・・・
+0x006423cb ...
+
+; 0x006423d9 カイト：
+0x006423d9 Kite:
+
+; 0x006423e2 ・・・
+0x006423e2 ...
+
+; 0x006423f0 あやしげな男：
+0x006423f0 Suspicious Man:
+
+; 0x006423ff あっちから・・・
+0x006423ff Over there...
+
+; 0x00642417 カイト：
+0x00642417 Kite:
+
+; 0x00642420 聞いてま・・・
+0x00642420 I've heard...
+
+; 0x00642436 カイト：
+0x00642436 Kite:
+
+; 0x0064243f あっ　どうぞ、どうぞ
+0x0064243f Oh, come on, come on.
+
+; 0x0064245b あやしげな男：
+0x0064245b Suspicious Man:
+
+; 0x0064246a いえいえ
+0x0064246a No, no, no.
+
+; 0x00642473 あなたからどうぞ
+0x00642473 You start.
+
+; 0x0064248a あやしげな男：
+0x0064248a Suspicious Man:
+
+; 0x00642499 あっち・・・
+0x00642499 It's...
+
+; 0x006424ad カイト：
+0x006424ad Kite:
+
+; 0x006424b6 どなたで・・・
+0x006424b6 Who are you?
+
+; 0x006424cc あやしげな男：
+0x006424cc Suspicious Man:
+
+; 0x006424db ・・・
+0x006424db ...
+
+; 0x006424e2 では、そちらから
+0x006424e2 Well, let's start with that.
+
+; 0x006424f9 カイト：
+0x006424f9 Kite:
+
+; 0x00642502 はははっ　それでは
+0x00642502 Hahaha. Well then.
+
+; 0x00642515 どなたですか？
+0x00642515 Who is it?
+
+; 0x0064252a あやしげな男：
+0x0064252a Suspicious Man:
+
+; 0x00642539 言えません。
+0x00642539 I can't say.
+
+; 0x0064254d カイト：
+0x0064254d Kite:
+
+; 0x00642562 カイト：
+0x00642562 Kite:
+
+; 0x0064256b なんの用でしょう？
+0x0064256b What do you want?
+
+; 0x00642585 あやしげな男：
+0x00642585 Suspicious Man:
+
+; 0x00642594 ・・・
+0x00642594 ...
+
+; 0x006425a2 あやしげな男：
+0x006425a2 Suspicious Man:
+
+; 0x006425b1 あっちから、いいモノを
+0x006425b1 I'll get something good from over there.
+
+; 0x006425c8 もってきた・・・
+0x006425c8 I got it.
+
+; 0x006425df カイト：
+0x006425df Kite:
+
+; 0x006425e8 あっち？
+0x006425e8 That way?
+
+; 0x006425f1 どこですか？
+0x006425f1 Where?
+
+; 0x00642604 あやしげな男：
+0x00642604 Suspicious Man:
+
+; 0x00642613 ・・・
+0x00642613 ...
+
+; 0x0064261a あっちだ。
+0x0064261a That way.
+
+; 0x0064262b カイト：
+0x0064262b Kite:
+
+; 0x00642642 あやしげな男：
+0x00642642 Suspicious Man:
+
+; 0x0064265f カイト：
+0x0064265f Kite:
+
+; 0x00642678 あやしげな男：
+0x00642678 Suspicious Man:
+
+; 0x00642697 あやしげな男：
+0x00642697 Suspicious Man:
+
+; 0x006426a6 タァー
+0x006426a6 Taaa
+
+; 0x006426ad （ズサー）
+0x006426ad (Zssss)
+
+; 0x006426be カイト：
+0x006426be Kite:
+
+; 0x006426d3 あやしげな男：
+0x006426d3 Suspicious Man:
+
+; 0x006426e2 ムギュッゥ
+0x006426e2 Mugyuu
+
+; 0x006426f4 カイト：
+0x006426f4 Kite:
+
+; 0x006426fd えええ？
+0x006426fd Ehhh?
+
+; 0x0064270d あやしげな男：
+0x0064270d Suspicious Man:
+
+; 0x0064271c ジェラルドには、
+0x0064271c To Gerald,
+
+; 0x0064272d よろしく言ってある。
+0x0064272d I said hi.
+
+; 0x00642748 カイト：
+0x00642748 Kite:
+
+; 0x00642751 あ、ありがとう
+0x00642751 Th-Thanks.
+
+; 0x00642760 よくわからないが助かるよ
+0x00642760 I don't really get it, but it's a big help.
+
+; 0x0064277f カイト：
+0x0064277f Kite:
+
+; 0x00642788 （はやく帰らせよう）
+0x00642788 (Let's get her home.)
+
+; 0x006427a4 あやしげな男：
+0x006427a4 Suspicious Man:
+
+; 0x006427b3 ガレージに行ったら
+0x006427b3 I went to the garage
+
+; 0x006427c6 使ってみてくれ・・・
+0x006427c6 Try it...
+
+; 0x006427e7 カイト：
+0x006427e7 Kite:
+
+; 0x006427f0 なんだったんだ一体！？
+0x006427f0 What the hell was that?!
+
+; 0x00642807 ・・・ふぅ〜
+0x00642807 Whew...
+
+; 0x0064281a あやしげな男：
+0x0064281a Suspicious Man:
+
+; 0x00642829 メイドスタ〜イル
+0x00642829 Maidstayle
+
+; 0x0064283a （クルリンッ）
+0x0064283a (*twirl*)
+
+; 0x0064284f カイト：
+0x0064284f Kite:
+
+; 0x0064286a カイト：
+0x0064286a Kite:
+
+; 0x00642888 生み出しているのか！？
+0x00642888 Is she creating it?!
+
+; 0x006428b8 ？？？：
+0x006428b8 ??:
+
+; 0x006428c1 はじめましてっ
+0x006428c1 Nice to meet you!
+
+; 0x006428d0 あなたがウワサの？
+0x006428d0 You're the rumored one?
+
+; 0x006428e9 カイト：
+0x006428e9 Kite:
+
+; 0x006428fe ？？？：
+0x006428fe ??:
+
+; 0x00642907 あの子まだ子供だから
+0x00642907 She's just a kid.
+
+; 0x0064291c やさしくしてあげてね
+0x0064291c Be nice to him.
+
+; 0x00642937 カイト：
+0x00642937 Kite:
+
+; 0x00642945 えー！
+0x00642945 Ehhh!
+
+; 0x00642952 ミルン：
+0x00642952 Miln:
+
+; 0x0064295b 私のことはミルンでいいわっ
+0x0064295b Call me Milne!
+
+; 0x00642976 よろしくね　カイトッ
+0x00642976 Nice to meet you, Kite.
+
+; 0x00642997 カイト：
+0x00642997 Kite:
+
+; 0x006429a0 なんだったんだ？
+0x006429a0 What was it?
+
+; 0x006429b1 いまのは・・・
+0x006429b1 That's...
+
+; 0x006429d8 カイト：
+0x006429d8 Kite:
+
+; 0x006429e1 Ｅ．Ｐ．Ｋ．Ｆより本日付で
+0x006429e1 E.P.K.F. to date.
+
+; 0x006429fc アルマデル艦へ着任となりました
+0x006429fc We've arrived at the Almadel ship.
+
+; 0x00642a21 カイト：
+0x00642a21 Kite:
+
+; 0x00642a2a カイト・スレイター少尉
+0x00642a2a Lieutenant Kite Slater.
+
+; 0x00642a41 であります。
+0x00642a41 It is.
+
+; 0x00642a54 男性：
+0x00642a54 Man:
+
+; 0x00642a5b 艦長のオーウェンだ。
+0x00642a5b Captain Owen.
+
+; 0x00642a77 オーウェン艦長：
+0x00642a77 Captain Owen:
+
+; 0x00642a88 アルマデル着任ご苦労
+0x00642a88 Almadel, good work.
+
+; 0x00642a9d 上からの連絡は受けている。
+0x00642a9d I've been contacted from above.
+
+; 0x00642abe オーウェン艦長：
+0x00642abe Captain Owen:
+
+; 0x00642acf この艦は強襲揚陸艦として、
+0x00642acf As an assault ship, this ship
+
+; 0x00642aea 最前線で戦う事になる。
+0x00642aea We'll be fighting on the front line.
+
+; 0x00642b07 オーウェン艦長：
+0x00642b07 Captain Owen:
+
+; 0x00642b18 軍部からは一部独立した、
+0x00642b18 Partly independent of the military,
+
+; 0x00642b31 精鋭からなる部隊だ。
+0x00642b31 It's an elite unit.
+
+; 0x00642b4c オーウェン艦長：
+0x00642b4c Captain Owen:
+
+; 0x00642b5d 君の配属が変わったのも、
+0x00642b5d The reason your assignment has changed,
+
+; 0x00642b76 そういった経緯からなる。
+0x00642b76 It consists of such events.
+
+; 0x00642b95 オーウェン艦長：
+0x00642b95 Captain Owen:
+
+; 0x00642ba6 危険な事も多いが、
+0x00642ba6 There's a lot of danger, but...
+
+; 0x00642bb9 任務をまっとうして欲しい。
+0x00642bb9 I want you to do your duty properly.
+
+; 0x00642bda オーウェン艦長：
+0x00642bda Captain Owen:
+
+; 0x00642beb 後の指示は、ガーナー大尉
+0x00642beb The rest of the orders are Captain Garner.
+
+; 0x00642c04 から受けるように　以上。
+0x00642c04 Take it from me.
+
+; 0x00642c29 ガーナー大尉：
+0x00642c29 Capt. Garner:
+
+; 0x00642c38 改めて自己紹介しよう。
+0x00642c38 Let me introduce myself again.
+
+; 0x00642c4f ドノバン・ガーナー大尉だ。
+0x00642c4f Captain Donovan Garner.
+
+; 0x00642c70 ガーナー大尉：
+0x00642c70 Capt. Garner:
+
+; 0x00642c7f アルマデルＭＡ０３部隊の隊長を
+0x00642c7f Captain of the almadel ma03 unit.
+
+; 0x00642c9e まかされている。
+0x00642c9e I'm being left to her.
+
+; 0x00642cb5 ガーナー大尉：
+0x00642cb5 Capt. Garner:
+
+; 0x00642cc4 と言っても、この部隊での部下は
+0x00642cc4 That said, my men in this unit
+
+; 0x00642ce3 おまえ一人だがなっ　がはははっ
+0x00642ce3 You're the only one. Gahahaha.
+
+; 0x00642d08 ガーナー大尉：
+0x00642d08 Capt. Garner:
+
+; 0x00642d17 これから、よろしく頼むぞ
+0x00642d17 I'm counting on you.
+
+; 0x00642d37 ガーナー大尉：
+0x00642d37 Capt. Garner:
+
+; 0x00642d46 次に今、話をしていたのが、
+0x00642d46 The next thing we were talking about...
+
+; 0x00642d61 ジョシュア・Ｆ・オーウェン艦長
+0x00642d61 Captain Joshua F. Owen
+
+; 0x00642d86 ガーナー大尉：
+0x00642d86 Capt. Garner:
+
+; 0x00642d95 艦長とは前の戦争で世話になって
+0x00642d95 The captain and I were indebted to each other in the last war.
+
+; 0x00642db4 今回も艦に招いてもらった。
+0x00642db4 I was invited to the ship again.
+
+; 0x00642dd5 ガーナー大尉：
+0x00642dd5 Capt. Garner:
+
+; 0x00642de4 そして、おれたちのバックアップ
+0x00642de4 And our backup.
+
+; 0x00642e03 を担当する・・・
+0x00642e03 I'm in charge.
+
+; 0x00642e20 女性：
+0x00642e20 Lady:
+
+; 0x00642e27 あーー！！　あなた！
+0x00642e27 Ah!! You!
+
+; 0x00642e3c この前のヘリクツパイロット！
+0x00642e3c Last helicopter pilot!
+
+; 0x00642e5f カイト：
+0x00642e5f Kite:
+
+; 0x00642e7a ガーナー大尉：
+0x00642e7a Capt. Garner:
+
+; 0x00642e89 ん？　なんだ、なんだ〜
+0x00642e89 Hm? Wh-What?
+
+; 0x00642ea0 おまえら知り合いか？
+0x00642ea0 Do you know him?
+
+; 0x00642ebb 女性：
+0x00642ebb Lady:
+
+; 0x00642ec2 知りませんよ！
+0x00642ec2 I don't know!
+
+; 0x00642ed1 誰がこんなヤツ！！
+0x00642ed1 Who's this guy?!
+
+; 0x00642eea ガーナー大尉：
+0x00642eea Capt. Garner:
+
+; 0x00642ef9 がはははっ　じゃあ紹介しよう
+0x00642ef9 Gahahaha! Let me introduce you.
+
+; 0x00642f16 彼女はリオン・メンデレーエフ
+0x00642f16 She's Rion Mendeleev.
+
+; 0x00642f39 ガーナー大尉：
+0x00642f39 Capt. Garner:
+
+; 0x00642f48 ながったらしい名前なんで
+0x00642f48 It's a name that seems to have fallen off.
+
+; 0x00642f61 みんなリオンと呼んでる。
+0x00642f61 They all call me Rion.
+
+; 0x00642f80 ガーナー大尉：
+0x00642f80 Capt. Garner:
+
+; 0x00642f8f 彼女の親父さんとは戦友で、
+0x00642f8f Her father was a comrade in arms
+
+; 0x00642faa 艦長とも古い付き合いがある。
+0x00642faa I've known the captain for a long time.
+
+; 0x00642fcd ガーナー大尉：
+0x00642fcd Capt. Garner:
+
+; 0x00642fdc ガキの頃から面倒見てるから、
+0x00642fdc I've been looking after you since you were a kid,
+
+; 0x00642ff9 おれにとっちゃ娘みたいなもんさ
+0x00642ff9 I'm like a daughter to me.
+
+; 0x0064301e ガーナー大尉：
+0x0064301e Capt. Garner:
+
+; 0x0064302d 若いが頼りになるオペレータだ。
+0x0064302d He's young but reliable.
+
+; 0x00643059 カイト：
+0x00643059 Kite:
+
+; 0x00643062 ウルサイところを除けばですか？
+0x00643062 Excluding Ursai?
+
+; 0x0064308e リオン：
+0x0064308e Rion:
+
+; 0x00643097 なんですってぇ！　これだから
+0x00643097 What?! This is why
+
+; 0x006430b4 ＭＡのパイロットって人は・・・
+0x006430b4 MA pilots...
+
+; 0x006430df オーウェン艦長：
+0x006430df Captain Owen:
+
+; 0x006430f0 ウォッホン！　リオン君、彼を少
+0x006430f0 Ahem! Rion, he's not much.
+
+; 0x0064310f し休ませてやってくれたまえ。
+0x0064310f Let him rest.
+
+; 0x00643138 リオン：
+0x00643138 Rion:
+
+; 0x00643141 はーい
+0x00643141 Okay.
+
+; 0x00643148 すいません艦長
+0x00643148 Sorry, captain.
+
+; 0x0064315d レーダー：
+0x0064315d Radar:
+
+; 0x00643168 ビビービビー
+0x00643168 Bibibibibi
+
+; 0x00643175 ・・・！？
+0x00643175 !?
+
+; 0x0064318f 艦長っ！レーダーが敵、ＭＡ部隊
+0x0064318f Captain! The radar is enemy, MA unit!
+
+; 0x006431ae を補足しました！
+0x006431ae Supplemented!
+
+; 0x006431c5 オーウェン艦長：
+0x006431c5 Captain Owen:
+
+; 0x006431d6 総員戦闘配置っ
+0x006431d6 All hands, battle stations!
+
+; 0x0064320c ガーナー大尉：
+0x0064320c Capt. Garner:
+
+; 0x0064321b 行くぞっ
+0x0064321b Let's go!
+
+; 0x00643224 カイト！
+0x00643224 Kite!
+
+; 0x00643239 カイト：
+0x00643239 Kite:
+
+; 0x00643242 了解！
+0x00643242 Roger!
+
+; 0x00643278 女性：
+0x00643278 Lady:
+
+; 0x0064327f ニコッ
+0x0064327f Nico
+
+; 0x0064328d カイト：
+0x0064328d Kite:
+
+; 0x00643296 ・・・？
+0x00643296 ...?
+
+; 0x006432a6 女性：
+0x006432a6 Lady:
+
+; 0x006432ad はじめましてっ
+0x006432ad Nice to meet you!
+
+; 0x006432bc あなたがウワサの？
+0x006432bc You're the rumored one?
+
+; 0x006432d5 カイト：
+0x006432d5 Kite:
+
+; 0x006432e3 君は？
+0x006432e3 You?
+
+; 0x006432f0 女性：
+0x006432f0 Lady:
+
+; 0x006432f7 あっ、ごめんなさい
+0x006432f7 Oh, sorry.
+
+; 0x0064330a あたしはこの艦のメカニックの
+0x0064330a I'm the ship's mechanic.
+
+; 0x0064332d 女性：
+0x0064332d Lady:
+
+; 0x00643334 ミルン・マイヤーズ
+0x00643334 Miln Myers
+
+; 0x00643347 よろしくねっ
+0x00643347 Nice to meet you!
+
+; 0x0064335a マイヤーズ：
+0x0064335a Myers:
+
+; 0x00643367 ＭＡの事なら、なんでもあたしに
+0x00643367 If it’s about MA, I’ll do anything
+
+; 0x00643386 まかせてよっ
+0x00643386 Leave it to me!
+
+; 0x00643399 カイト：
+0x00643399 Kite:
+
+; 0x006433a2 カイト・スレイター
+0x006433a2 Kite Slater
+
+; 0x006433b5 ＭＡのパイロットだ。
+0x006433b5 He's a MA pilot.
+
+; 0x006433d0 カイト：
+0x006433d0 Kite:
+
+; 0x006433d9 よろしくたのむ
+0x006433d9 I'm counting on you
+
+; 0x006433ef マイヤーズ：
+0x006433ef Myers:
+
+; 0x006433fc ふふふっ　リオンから聞いたとお
+0x006433fc Heeheehee. Rion told me.
+
+; 0x0064341b りの人みたいね
+0x0064341b Looks like Rino.
+
+; 0x00643430 カイト：
+0x00643430 Kite:
+
+; 0x0064343e あのうるさいオペレータか
+0x0064343e That loud operator.
+
+; 0x0064345d マイヤーズ：
+0x0064345d Myers:
+
+; 0x0064346a あの子まだ子供だから、
+0x0064346a She's still a kid,
+
+; 0x00643481 やさしくしてあげて。
+0x00643481 Be gentle.
+
+; 0x0064349c マイヤーズ：
+0x0064349c Myers:
+
+; 0x006434a9 それと・・・
+0x006434a9 And...
+
+; 0x006434bd マイヤーズ：
+0x006434bd Myers:
+
+; 0x006434ca 私の事はミルンでいいわっ
+0x006434ca Call me Milne!
+
+; 0x006434e3 そのかわり　よろしくねカイトッ
+0x006434e3 In exchange, I'm counting on you, Kite.
+
+; 0x00643508 カイト：
+0x00643508 Kite:
+
+; 0x00643511 よろしく
+0x00643511 Thank you.
+
+; 0x0064351a ミルン
+0x0064351a Miln
+
+; 0x00643527 ミルン：
+0x00643527 Miln:
+
+; 0x00643530 じゃあねっ
+0x00643530 Bye!
+
+; 0x00643558 大尉：
+0x00643558 Capt:
+
+; 0x0064355f カイト・・・
+0x0064355f Kite.
+
+; 0x0064356c 昨日の蒼い機体なんだが
+0x0064356c It's the blue one from yesterday.
+
+; 0x00643589 カイト：
+0x00643589 Kite:
+
+; 0x00643592 大尉、ヤツの事
+0x00643592 Captain, about him.
+
+; 0x006435a1 御存知なのですか？
+0x006435a1 Do you know?
+
+; 0x006435ba 大尉：
+0x006435ba Capt:
+
+; 0x006435c1 おそらくな、マーズ戦争の事は
+0x006435c1 Probably. About the mars war.
+
+; 0x006435de 知っているか？
+0x006435de Do you know?
+
+; 0x006435f3 カイト：
+0x006435f3 Kite:
+
+; 0x006435fc Ｅ．Ｐ．Ｋ．Ｆから脱却を求め、
+0x006435fc Seeking a break from E.P.K.F.
+
+; 0x0064361b 火星で起こった独立戦争ですね。
+0x0064361b A war of independence on mars.
+
+; 0x00643640 大尉：
+0x00643640 Capt:
+
+; 0x00643647 ああ　その時マーズ連邦に蒼で塗
+0x00643647 Yeah, and then I painted the Mars Federation blue.
+
+; 0x00643666 られた凄腕のＭＡがいたそうだ。
+0x00643666 It seems there was a very skilled MA.
+
+; 0x0064368b カイト：
+0x0064368b Kite:
+
+; 0x00643694 ・・・まさか
+0x00643694 - No way.
+
+; 0x006436a8 大尉：
+0x006436a8 Capt:
+
+; 0x006436af ファウス・・・
+0x006436af Faus.
+
+; 0x006436be そう呼ばれていた。
+0x006436be That's what they call me.
+
+; 0x006436d7 大尉：
+0x006436d7 Capt:
+
+; 0x006436de 部下でヤツにやられた者もいる。
+0x006436de Some of my subordinates got hit by him.
+
+; 0x006436fd あの蒼いＭＡには十分注意しろ！
+0x006436fd Watch out for that blue MA!
+
+; 0x00643722 カイト：
+0x00643722 Kite:
+
+; 0x0064372b ・・・
+0x0064372b ...
+
+; 0x00643758 ミルン：
+0x00643758 Miln:
+
+; 0x00643761 カイトッ、大変だったみたいね
+0x00643761 Kite, looks like you had a tough time.
+
+; 0x0064377e でも無事で何よりよ。
+0x0064377e But I'm glad you're safe.
+
+; 0x00643799 カイト：
+0x00643799 Kite:
+
+; 0x006437a2 ああ・・・
+0x006437a2 Oh...
+
+; 0x006437ad あんなＭＡ見た事もない
+0x006437ad I've never seen that MA before.
+
+; 0x006437ca ミルン：
+0x006437ca Miln:
+
+; 0x006437d3 えーん　私のＭＡをこんな姿に
+0x006437d3 Ehhh, my MA is like this.
+
+; 0x006437f0 しやがってぇー
+0x006437f0 Damn it, man!
+
+; 0x00643805 カイト：
+0x00643805 Kite:
+
+; 0x0064380e （心配はそっちか・・・）
+0x0064380e (You're the one who's worried...)
+
+; 0x0064382e カイト：
+0x0064382e Kite:
+
+; 0x00643837 戦闘中、妨害電波で
+0x00643837 During the battle, it was jammed.
+
+; 0x0064384a 通信できなくなったんだ。
+0x0064384a I can't communicate.
+
+; 0x00643869 ミルン：
+0x00643869 Miln:
+
+; 0x00643872 大丈夫よっ
+0x00643872 I'm fine!
+
+; 0x0064387d もう対応しておいたわ
+0x0064387d I've already dealt with it.
+
+; 0x00643898 カイト：
+0x00643898 Kite:
+
+; 0x006438a1 ありがとう、助かるよ
+0x006438a1 Thanks, that'd be great.
+
+; 0x006438bd ミルン：
+0x006438bd Miln:
+
+; 0x006438c6 ＭＡの修理もそうだけど、リオン
+0x006438c6 It’s the same for MA repairs, Rion
+
+; 0x006438e5 の事も気にかけてやって・・・
+0x006438e5 Take care of him.
+
+; 0x00643908 ミルン：
+0x00643908 Miln:
+
+; 0x00643911 あの子、そうとう泣いてたわよ。
+0x00643911 She was crying.
+
+; 0x00643937 カイト：
+0x00643937 Kite:
+
+; 0x0064394e ミルン：
+0x0064394e Miln:
+
+; 0x00643957 あの子のお父さん、
+0x00643957 Her dad,
+
+; 0x0064396a 前の戦争で亡くなったの。
+0x0064396a He died in the last war.
+
+; 0x00643989 ミルン：
+0x00643989 Miln:
+
+; 0x00643992 たぶん、そのときの事を思い出し
+0x00643992 Probably remembering that time.
+
+; 0x006439b1 ちゃったのかもしれない。
+0x006439b1 Maybe I did.
+
+; 0x006439d0 ミルン：
+0x006439d0 Miln:
+
+; 0x006439d9 あなたの事も本心では、
+0x006439d9 I really don't want you to...
+
+; 0x006439f0 本気で心配してると思うわ・・・
+0x006439f0 I think he's really worried...
+
+; 0x00643a15 カイト：
+0x00643a15 Kite:
+
+; 0x00643a1e ・・・ああ　わかった
+0x00643a1e Yeah, okay.
+
+; 0x00643a33 ありがとう　ミルン
+0x00643a33 Thanks, Miln.
+
+; 0x00643a52 ミルン：
+0x00643a52 Miln:
+
+; 0x00643a5b （ちょっと、おせっかい
+0x00643a5b (He's a bit nosy.
+
+; 0x00643a72 だったかしら）
+0x00643a72 Was it?)
+
+; 0x00643ab8 リオン：
+0x00643ab8 Rion:
+
+; 0x00643ac1 あっ・・・
+0x00643ac1 Ah...
+
+; 0x00643ad9 カイト：
+0x00643ad9 Kite:
+
+; 0x00643b18 リオン：
+0x00643b18 Rion:
+
+; 0x00643b21 あっ・・・
+0x00643b21 Ah...
+
+; 0x00643b33 カイト：
+0x00643b33 Kite:
+
+; 0x00643b3c リオン！
+0x00643b3c Rion!
+
+; 0x00643b45 この前は・・・
+0x00643b45 Last time...
+
+; 0x00643b5a カイト：
+0x00643b5a Kite:
+
+; 0x00643b63 心配かけて・・・
+0x00643b63 I made you worry.
+
+; 0x00643b74 ・・・すまなかった。
+0x00643b74 ...Sorry.
+
+; 0x00643b8f リオン：
+0x00643b8f Rion:
+
+; 0x00643b98 プッ・・・
+0x00643b98 Pfft.
+
+; 0x00643baa リオン：
+0x00643baa Rion:
+
+; 0x00643bb3 キャハハハハッ
+0x00643bb3 Kyahahahaha
+
+; 0x00643bc2 なに　とつぜん？
+0x00643bc2 What the hell?
+
+; 0x00643bd9 リオン：
+0x00643bd9 Rion:
+
+; 0x00643be2 あらたまってなに言うと思ったら
+0x00643be2 What did you expect me to say?
+
+; 0x00643c01 あたしに心配して欲しいのね。
+0x00643c01 You want me to worry.
+
+; 0x00643c24 リオン：
+0x00643c24 Rion:
+
+; 0x00643c2d そうでしょ〜　そうでしょ〜
+0x00643c2d Isn't it? Isn't it?
+
+; 0x00643c48 リオンちゃんかわいいもんね！
+0x00643c48 Rion-chan's so cute!
+
+; 0x00643c6b リオン：
+0x00643c6b Rion:
+
+; 0x00643c74 でも残念でした！　私が心配して
+0x00643c74 But it's too bad! I was worried.
+
+; 0x00643c93 いるのはガーナー大尉だけです！
+0x00643c93 Captain garner is the only one!
+
+; 0x00643cb8 カイト：
+0x00643cb8 Kite:
+
+; 0x00643cc1 ああ・・・そうか
+0x00643cc1 Oh, I see.
+
+; 0x00643cd2 ならいいんだ・・・
+0x00643cd2 Then it's okay.
+
+; 0x00643cf1 リオン：
+0x00643cf1 Rion:
+
+; 0x00643cfa へへへっ・・・
+0x00643cfa Hehehe...
+
+; 0x00643d09 え・・・あれ？
+0x00643d09 Huh? Oh?
+
+; 0x00643d1e 大尉：
+0x00643d1e Capt:
+
+; 0x00643d25 リオンッ！
+0x00643d25 Rion!
+
+; 0x00643d37 リオン：
+0x00643d37 Rion:
+
+; 0x00643d40 あっ・・・
+0x00643d40 Ah...
+
+; 0x00643d4b ねぇ！　ごめ・・
+0x00643d4b Hey! Sorry.
+
+; 0x00643d78 リオン：
+0x00643d78 Rion:
+
+; 0x00643d81 コンコンッ
+0x00643d81 Knock knock!
+
+; 0x00643d93 カイト：
+0x00643d93 Kite:
+
+; 0x00643da1 ・・・ガチャ
+0x00643da1 Gacha.
+
+; 0x00643db4 リオン：
+0x00643db4 Rion:
+
+; 0x00643dbd ・・・あっ・・・
+0x00643dbd Oh, uh...
+
+; 0x00643dd5 カイト：
+0x00643dd5 Kite:
+
+; 0x00643dde ・・・なにか用か？
+0x00643dde What do you want?
+
+; 0x00643df8 リオン：
+0x00643df8 Rion:
+
+; 0x00643e01 あの・・さっきは・・・
+0x00643e01 Um... Just now...
+
+; 0x00643e18 ごめん・・・言い過ぎた。
+0x00643e18 Sorry... I went too far.
+
+; 0x00643e37 カイト：
+0x00643e37 Kite:
+
+; 0x00643e40 ・・・ああ・・・
+0x00643e40 Uh... Yeah.
+
+; 0x00643e51 気にしてないさ・・・
+0x00643e51 I don't care.
+
+; 0x00643e6c リオン：
+0x00643e6c Rion:
+
+; 0x00643e75 その・・・あなたを見てると
+0x00643e75 Um... When I see you
+
+; 0x00643e90 父を思い出してしまうの。
+0x00643e90 I remember my father.
+
+; 0x00643eaf リオン：
+0x00643eaf Rion:
+
+; 0x00643eb8 あたしは小さくて、無口な人
+0x00643eb8 I’m a small, quiet person
+
+; 0x00643ed3 って事くらいしか憶えてなくて
+0x00643ed3 That's all I remember.
+
+; 0x00643ef6 リオン：
+0x00643ef6 Rion:
+
+; 0x00643eff ・・・すごく立派な人だったって
+0x00643eff He said he was a great man.
+
+; 0x00643f1e 大尉からは聞いていたけど
+0x00643f1e I'd heard from the Captain
+
+; 0x00643f3d リオン：
+0x00643f3d Rion:
+
+; 0x00643f46 あたしと母さんを置いて、
+0x00643f46 Leaving Mom and me behind,
+
+; 0x00643f5f 先にいなくなってしまったわ。
+0x00643f5f She left first.
+
+; 0x00643f82 リオン：
+0x00643f82 Rion:
+
+; 0x00643f8b 文句を言うにも、いないんじゃ
+0x00643f8b Even if I complain, he's not here.
+
+; 0x00643fa8 言えなくて・・・
+0x00643fa8 I couldn't say.
+
+; 0x00643fbf リオン：
+0x00643fbf Rion:
+
+; 0x00643fc8 ・・・
+0x00643fc8 ...
+
+; 0x00643fcf あたし何言ってるんだろう。
+0x00643fcf What am I saying?
+
+; 0x00643ff0 リオン：
+0x00643ff0 Rion:
+
+; 0x00643ff9 だから・・・　う〜ん、とにかく
+0x00643ff9 So... uh, anyway.
+
+; 0x00644018 あやまりたかったのと、
+0x00644018 I wanted to apologize,
+
+; 0x00644035 リオン：
+0x00644035 Rion:
+
+; 0x0064403e ・・・あまり無理はしないで
+0x0064403e Don't overdo it.
+
+; 0x00644059 って言いたかったの！
+0x00644059 Or so I wanted to say!
+
+; 0x00644074 カイト：
+0x00644074 Kite:
+
+; 0x0064407d ・・・ああ
+0x0064407d Uh... Yeah.
+
+; 0x00644095 大尉：
+0x00644095 Capt:
+
+; 0x0064409c おーいカイト！
+0x0064409c Hey Kite!
+
+; 0x006440ab おっと・・・
+0x006440ab Oops.
+
+; 0x006440be 大尉：
+0x006440be Capt:
+
+; 0x006440c5 ブリッジに行ってるぞっ
+0x006440c5 He's on the bridge!
+
+; 0x006440e3 カイト：
+0x006440e3 Kite:
+
+; 0x006440ec はいっ
+0x006440ec Yes!
+
+; 0x006440f3 すぐ行きます。
+0x006440f3 I'll be there soon.
+
+; 0x0064410e リオン：
+0x0064410e Rion:
+
+; 0x00644134 カイトッ！
+0x00644134 Kite!
+
+; 0x0064414b カイト：
+0x0064414b Kite:
+
+; 0x00644154 リオン・・・
+0x00644154 Rion.
+
+; 0x00644161 ありがとう
+0x00644161 Thanks.
+
+; 0x00644198 ミルン：
+0x00644198 Miln:
+
+; 0x006441a1 カイト　来たわねっ
+0x006441a1 Kite, you're here!
+
+; 0x006441b4 すごいのよっ！
+0x006441b4 It's amazing!
+
+; 0x006441cf オーウェン艦長：
+0x006441cf Captain Owen:
+
+; 0x006441e0 先日回収した積荷を、上層部から
+0x006441e0 The cargo we recovered the other day, from the higher-ups
+
+; 0x006441ff 正式に受け渡された。
+0x006441ff She handed it over to me.
+
+; 0x0064421a オーウェン艦長：
+0x0064421a Captain Owen:
+
+; 0x0064422b 次期汎用タイプの試作型ＭＡ
+0x0064422b The next general-purpose prototype MA
+
+; 0x00644246 アンドロマリウスだ。
+0x00644246 Andromarius.
+
+; 0x00644261 オーウェン艦長：
+0x00644261 Captain Owen:
+
+; 0x00644272 ガーナー大尉から推薦もあり、
+0x00644272 Captain Garner recommended it, too
+
+; 0x0064428f 以降、君が運用してくれたまえ。
+0x0064428f From now on, you may operate it.
+
+; 0x006442b4 カイト：
+0x006442b4 Kite:
+
+; 0x006442bd 了解しました。
+0x006442bd Yes, sir.
+
+; 0x006442d9 ミルン：
+0x006442d9 Miln:
+
+; 0x006442e2 テスト結果では傑作機のエリゴル
+0x006442e2 According to the test results, it's a masterpiece, erigol.
+
+; 0x00644301 から、各パワーバランスが平均で
+0x00644301 So each power balance is average
+
+; 0x00644326 ミルン：
+0x00644326 Miln:
+
+; 0x0064432f ５０％以上、上昇しているわ。
+0x0064432f More than 50 percent.
+
+; 0x0064434c さすが次世代型ね！
+0x0064434c That's the next generation!
+
+; 0x00644365 ミルン：
+0x00644365 Miln:
+
+; 0x0064436e 乗るときはガレージで、
+0x0064436e When you ride in a garage
+
+; 0x00644385 ちゃんと組換えを行ってね。
+0x00644385 Make sure you rearrange it.
+
+; 0x006443b8 ミルン：
+0x006443b8 Miln:
+
+; 0x006443c1 カイト・・・
+0x006443c1 Kite.
+
+; 0x006443ce 二人だけで話しがあるの
+0x006443ce I need to talk to you alone.
+
+; 0x006443eb カイト：
+0x006443eb Kite:
+
+; 0x006443f4 なんだい？　ミルン
+0x006443f4 What's up, Milne?
+
+; 0x0064440e ミルン：
+0x0064440e Miln:
+
+; 0x00644417 ここじゃあ、
+0x00644417 Here,
+
+; 0x00644424 あれなんで・・・
+0x00644424 Huh? Why?
+
+; 0x0064443b カイト：
+0x0064443b Kite:
+
+; 0x0064444e ミルン：
+0x0064444e Miln:
+
+; 0x00644457 あとでガレージに来て。
+0x00644457 Come to the garage later.
+
+; 0x0064446e そうしたら・・・
+0x0064446e And...
+
+; 0x00644485 カイト：
+0x00644485 Kite:
+
+; 0x0064448e そうしたら？・・・
+0x0064448e What if I do?
+
+; 0x006444a8 ミルン：
+0x006444a8 Miln:
+
+; 0x006444b1 いいもの　ア・ゲ・ル
+0x006444b1 It's good, a-ge-ru.
+
+; 0x006444c6 ふふっ
+0x006444c6 Hehe.
+
+; 0x006444d3 ミルン：
+0x006444d3 Miln:
+
+; 0x006444dc じゃあ
+0x006444dc Okay then.
+
+; 0x006444e3 あとでねっ
+0x006444e3 Later!
+
+; 0x006444fa カイト：
+0x006444fa Kite:
+
+; 0x00644503 いいもの？・・・
+0x00644503 Good stuff?
+
+; 0x00644514 一体なんだろう？
+0x00644514 What could it be?
+
+; 0x0064452b カイト：
+0x0064452b Kite:
+
+; 0x00644534 うっ！
+0x00644534 Uu!
+
+; 0x0064453b （何だ？このプレッシャー！）
+0x0064453b (What? This pressure!)
+
+; 0x0064455e カイト：
+0x0064455e Kite:
+
+; 0x00644567 チラッ
+0x00644567 Glance
+
+; 0x00644575 ミルン：
+0x00644575 Miln:
+
+; 0x0064457e キィィィ・・・
+0x0064457e *squeak*
+
+; 0x00644594 カイト：
+0x00644594 Kite:
+
+; 0x0064459d （ゴクッ）
+0x0064459d *gulp*
+
+; 0x006445a8 あはっあははは・・・
+0x006445a8 Ahahahaha...
+
+; 0x006445f8 ミルン：
+0x006445f8 Miln:
+
+; 0x00644601 カイト　待ってたわよっ
+0x00644601 Kite, I've been waiting for you!
+
+; 0x00644618 もう　なかなか来ないんだから！
+0x00644618 It's hard to come here anymore!
+
+; 0x0064463d カイト：
+0x0064463d Kite:
+
+; 0x00644646 うん？　ああ
+0x00644646 Hm? Oh.
+
+; 0x00644653 待たせたね。（汗）
+0x00644653 Sorry for the wait. (sweat)
+
+; 0x0064466c カイト：
+0x0064466c Kite:
+
+; 0x00644675 おほんっ
+0x00644675 Ahem!
+
+; 0x0064467e で、一体なんだい？　話って
+0x0064467e So, what's the story?
+
+; 0x0064469f ミルン：
+0x0064469f Miln:
+
+; 0x006446a8 実は、この前の積荷の残骸から
+0x006446a8 Actually, from the wreckage of the last cargo.
+
+; 0x006446c5 私なりのＭＡ運用理論を入れて、
+0x006446c5 I put in my own MA operation theory,
+
+; 0x006446ea ミルン：
+0x006446ea Miln:
+
+; 0x006446f3 格闘用武器を開発してみたの！
+0x006446f3 I developed a fighting weapon!
+
+; 0x00644717 ミルン：
+0x00644717 Miln:
+
+; 0x00644720 高出力の短いレーザーを、
+0x00644720 A short, high-output laser,
+
+; 0x00644739 一時的に発生させて相手を貫く、
+0x00644739 It can temporarily generate and pierce an opponent.
+
+; 0x0064475e ミルン：
+0x0064475e Miln:
+
+; 0x00644767 名づけて『レイブレイカー』
+0x00644767 Named Raker.
+
+; 0x00644782 （ドオオォォ〜〜〜〜ン）
+0x00644782 (*boooom*)
+
+; 0x006447a1 ミルン：
+0x006447a1 Miln:
+
+; 0x006447aa 威力はすごいんだから！
+0x006447aa It's so powerful!
+
+; 0x006447c1 よかったら使ってみて。
+0x006447c1 Try it if you like.
+
+; 0x006447de ミルン：
+0x006447de Miln:
+
+; 0x006447e7 ただしっ、艦長には内緒よ！
+0x006447e7 But don't tell the captain!
+
+; 0x00644809 カイト：
+0x00644809 Kite:
+
+; 0x00644812 そうだったのかぁ・・・
+0x00644812 Oh, I see.
+
+; 0x00644830 ミルン：
+0x00644830 Miln:
+
+; 0x00644839 どうしたの？
+0x00644839 What's wrong?
+
+; 0x0064484d カイト：
+0x0064484d Kite:
+
+; 0x00644856 いやっ　うん　ありがとう
+0x00644856 No, yeah, thanks.
+
+; 0x0064486f 使わせてもらうよ。
+0x0064486f I'll use it.
+
+; 0x00644894 ミルン：
+0x00644894 Miln:
+
+; 0x0064489d プッハハハハッ
+0x0064489d Pwahahahahaha
+
+; 0x006448d8 リオン：
+0x006448d8 Rion:
+
+; 0x006448e1 ・・・
+0x006448e1 ...
+
+; 0x006448ef カイト：
+0x006448ef Kite:
+
+; 0x006448f8 リオン・・・
+0x006448f8 Rion.
+
+; 0x00644905 大尉の容態はどうだ？
+0x00644905 How's the Captain?
+
+; 0x00644920 リオン：
+0x00644920 Rion:
+
+; 0x00644930 今、薬で眠っているわ
+0x00644930 I'm sleeping on drugs.
+
+; 0x0064494b リオン：
+0x0064494b Rion:
+
+; 0x00644954 度重なる疲れと、被弾時の衝撃で
+0x00644954 The repeated fatigue and the shock of being hit
+
+; 0x00644973 意識を失ったみたい。
+0x00644973 It looks like she's passed out.
+
+; 0x0064498e リオン：
+0x0064498e Rion:
+
+; 0x00644997 大尉からの伝言をうけたわ。
+0x00644997 I got a message from the Captain.
+
+; 0x006449b2 心配しないで休んでおけって
+0x006449b2 Don't worry, just rest.
+
+; 0x006449d3 カイト：
+0x006449d3 Kite:
+
+; 0x006449dc そうか・・・
+0x006449dc I see..
+
+; 0x006449e9 リオンも少し休んだ方がいい
+0x006449e9 Rion should get some rest too.
+
+; 0x00644a0a リオン：
+0x00644a0a Rion:
+
+; 0x00644a18 わかった・・・
+0x00644a18 Okay...
+
+; 0x00644a58 オーウェン艦長：
+0x00644a58 Captain Owen:
+
+; 0x00644a69 ガーナー大尉には今回、
+0x00644a69 To Captain Garner, this time
+
+; 0x00644a80 休養を取ってもらう事になった。
+0x00644a80 She's taking a break.
+
+; 0x00644aa5 オーウェン艦長：
+0x00644aa5 Captain Owen:
+
+; 0x00644ab6 本作戦についてスレイター少尉は
+0x00644ab6 About this operation, Second Lieutenant Slater
+
+; 0x00644ad5 単独での任務遂行となる。
+0x00644ad5 It was a solo mission.
+
+; 0x00644af4 オーウェン艦長：
+0x00644af4 Captain Owen:
+
+; 0x00644b05 十分に注意するように
+0x00644b05 Take care.
+
+; 0x00644b1a 以上だ。
+0x00644b1a That's it.
+
+; 0x00644b58 オーウェン艦長：
+0x00644b58 Captain Owen:
+
+; 0x00644b69 そろったようだな
+0x00644b69 Looks like we're all set.
+
+; 0x00644b81 大尉：
+0x00644b81 Capt:
+
+; 0x00644b88 遅いぞっカイト
+0x00644b88 You're late, Kite.
+
+; 0x00644ba4 カイト：
+0x00644ba4 Kite:
+
+; 0x00644bad すみませんっ！
+0x00644bad Sorry!
+
+; 0x00644bc9 オーウェン艦長：
+0x00644bc9 Captain Owen:
+
+; 0x00644bda それではっ
+0x00644bda Well then!
+
+; 0x00644be5 今回の作戦を説明する。
+0x00644be5 I'll explain the plan.
+
+; 0x00644c02 オーウェン艦長：
+0x00644c02 Captain Owen:
+
+; 0x00644c13 エミコワ島最大の軍事基地、
+0x00644c13 The largest military base on Emikova Island,
+
+; 0x00644c2e それがここアムレハ防衛基地だ。
+0x00644c2e That's Amreha's base.
+
+; 0x00644c53 オーウェン艦長：
+0x00644c53 Captain Owen:
+
+; 0x00644c64 この基地の奪還によって、
+0x00644c64 By retaking this base,
+
+; 0x00644c7d この戦いを終わらせる。
+0x00644c7d I'll end this battle.
+
+; 0x00644c9a オーウェン艦長：
+0x00644c9a Captain Owen:
+
+; 0x00644cab 当然敵も承知しているだろうが、
+0x00644cab Naturally, the enemy was aware of this, but...
+
+; 0x00644cca 降伏する気はないようだ。
+0x00644cca It doesn't look like she's going to surrender.
+
+; 0x00644ce9 オーウェン艦長：
+0x00644ce9 Captain Owen:
+
+; 0x00644cfa 彼らは全戦力をもって、
+0x00644cfa They had all their strength,
+
+; 0x00644d11 抵抗してくるだろう。
+0x00644d11 She'll resist.
+
+; 0x00644d2c オーウェン艦長：
+0x00644d2c Captain Owen:
+
+; 0x00644d3d おそらく地上では激しい戦いが
+0x00644d3d There's probably a fierce battle on the ground
+
+; 0x00644d5a 予想される。
+0x00644d5a I expect it.
+
+; 0x00644d6d オーウェン艦長：
+0x00644d6d Captain Owen:
+
+; 0x00644d7e 本艦は味方部隊の先頭に立ち、
+0x00644d7e This ship stood at the head of an ally unit
+
+; 0x00644d9b 後続の進路を開くと共に
+0x00644d9b Along with opening a path to follow
+
+; 0x00644db8 オーウェン艦長：
+0x00644db8 Captain Owen:
+
+; 0x00644dc9 ＭＡ部隊を降下、その後
+0x00644dc9 Descend from the MA unit, and after that
+
+; 0x00644de0 上空での待機防衛を行う。
+0x00644de0 Stand by in the sky.
+
+; 0x00644dff オーウェン艦長：
+0x00644dff Captain Owen:
+
+; 0x00644e10 ＭＡ部隊は射出着地後、独立行動
+0x00644e10 The MA unit will act independently after landing.
+
+; 0x00644e2f にて地上から敵施設に潜入し
+0x00644e2f And infiltrate the enemy facility from the ground
+
+; 0x00644e50 オーウェン艦長：
+0x00644e50 Captain Owen:
+
+; 0x00644e61 敵を、中から攻撃する事にある。
+0x00644e61 To attack the enemy from the inside.
+
+; 0x00644e87 オーウェン艦長：
+0x00644e87 Captain Owen:
+
+; 0x00644e98 非常に危険な任務だが、
+0x00644e98 A very dangerous mission,
+
+; 0x00644eaf 諸君らの健闘に期待する。
+0x00644eaf I look forward to your hard work.
+
+; 0x00644ece オーウェン艦長：
+0x00644ece Captain Owen:
+
+; 0x00644edf 私からは以上だ。
+0x00644edf That's all for me.
+
+; 0x00644ef0 なにか質問のあるものは！？
+0x00644ef0 Any questions?!
+
+; 0x00644f11 オーウェン艦長：
+0x00644f11 Captain Owen:
+
+; 0x00644f22 なければ全員、戦闘配置に付け。
+0x00644f22 If not, we'll all be in position.
+
+; 0x00644f4e カイト：
+0x00644f4e Kite:
+
+; 0x00644f57 大尉！
+0x00644f57 Captain!
+
+; 0x00644f5e お体はもう大丈夫なんですか？
+0x00644f5e Are you all right now?
+
+; 0x00644f81 大尉：
+0x00644f81 Capt:
+
+; 0x00644f88 ああ　心配ない
+0x00644f88 Oh, don't worry.
+
+; 0x00644f97 なんせ最後の作戦だしなっ
+0x00644f97 After all, it's our last plan!
+
+; 0x00644fb6 カイト：
+0x00644fb6 Kite:
+
+; 0x00644fbf 無理なさらないで下さいよ。
+0x00644fbf Don't push yourself.
+
+; 0x00644fe1 大尉：
+0x00644fe1 Capt:
+
+; 0x00644fe8 ありがとよっ
+0x00644fe8 Thank you!
+
+; 0x00644ff5 先に行ってるぞ。
+0x00644ff5 I'll go ahead.
+
+; 0x00645012 リオン：
+0x00645012 Rion:
+
+; 0x0064501b カイトッ！！
+0x0064501b Kite!
+
+; 0x0064502f カイト：
+0x0064502f Kite:
+
+; 0x00645038 ・・・
+0x00645038 ...
+
+; 0x00645046 リオン：
+0x00645046 Rion:
+
+; 0x0064504f ・・・
+0x0064504f ...
+
+; 0x0064505d リオン：
+0x0064505d Rion:
+
+; 0x00645066 あたし・・・
+0x00645066 I...
+
+; 0x0064507a リオン：
+0x0064507a Rion:
+
+; 0x00645083 あたしねっ・・・
+0x00645083 I...
+
+; 0x0064509b カイト：
+0x0064509b Kite:
+
+; 0x006450a4 ・・・リオン・・・
+0x006450a4 Rion.
+
+; 0x006450be リオン：
+0x006450be Rion:
+
+; 0x006450c7 うんっ　決めた！
+0x006450c7 Yeah, I've decided!
+
+; 0x006450df リオン：
+0x006450df Rion:
+
+; 0x006450e8 わたし　あなたの事が好き。
+0x006450e8 I like you.
+
+; 0x0064510a カイト：
+0x0064510a Kite:
+
+; 0x00645113 ・・・リオン・・・
+0x00645113 Rion.
+
+; 0x0064512d リオン：
+0x0064512d Rion:
+
+; 0x00645136 だから、必ず・・・
+0x00645136 So I'm sure...
+
+; 0x00645150 リオン：
+0x00645150 Rion:
+
+; 0x00645159 必ず帰ってくるって約束して！
+0x00645159 Promise me you'll be back!
+
+; 0x0064517d カイト：
+0x0064517d Kite:
+
+; 0x00645186 ああ・・・
+0x00645186 Oh...
+
+; 0x00645191 ・・・約束する
+0x00645191 I promise.
+
+; 0x006451af あなたの事、信じてるから
+0x006451af I trust you.
+
+; 0x006451c8 ・・・
+0x006451c8 ...
+
+; 0x006451d5 カイト：
+0x006451d5 Kite:
+
+; 0x006451de 待っていてくれ
+0x006451de Just wait.
+
+; 0x006451ed ・・・
+0x006451ed ...
+
+; 0x006451fa リオン：
+0x006451fa Rion:
+
+; 0x00645203 うん・・・
+0x00645203 Yeah...
+
+; 0x0064521b リオン：
+0x0064521b Rion:
+
+; 0x00645224 ・・・行ってらっしゃい
+0x00645224 Go... Go.
+
+; 0x00645278 大尉：
+0x00645278 Capt:
+
+; 0x0064527f じゃあなっ、ミルン
+0x0064527f Bye, Milne.
+
+; 0x00645292 帰ったら式でもあげようか！
+0x00645292 Let's have a ceremony when we get home!
+
+; 0x006452b3 ミルン：
+0x006452b3 Miln:
+
+; 0x006452bc ふふふっ　バカ言ってないで
+0x006452bc Hehehe, don't be silly.
+
+; 0x006452d7 より道しないで帰ってらっしゃい
+0x006452d7 Don't go any further. Go home.
+
+; 0x00645302 カイト：
+0x00645302 Kite:
+
+; 0x00645315 大尉：
+0x00645315 Capt:
+
+; 0x0064531c うおっと
+0x0064531c Whoops.
+
+; 0x00645325 カイトッ！
+0x00645325 Kite!
+
+; 0x00645336 大尉：
+0x00645336 Capt:
+
+; 0x0064533d うぉっほん　ごほんっ
+0x0064533d Ahem, ahem!
+
+; 0x00645352 そろそろ出撃だぞ　急げよ
+0x00645352 It's almost time to go. Hurry.
+
+; 0x00645377 カイト：
+0x00645377 Kite:
+
+; 0x00645380 はい。
+0x00645380 Yes.
+
+; 0x00645394 ミルン：
+0x00645394 Miln:
+
+; 0x0064539d 二人ともいってらっしゃい！
+0x0064539d Go, you two!
+
+; 0x006453bf ミルン：
+0x006453bf Miln:
+
+; 0x006453c8 ・・・
+0x006453c8 ...
+
+; 0x006453d6 ミルン：
+0x006453d6 Miln:
+
+; 0x006453df さんざん整備したんだから、
+0x006453df I've done a lot of maintenance,
+
+; 0x006453fa お願い・・・
+0x006453fa Please.
+
+; 0x0064540d ミルン：
+0x0064540d Miln:
+
+; 0x00645416 彼らを守ってあげて。
+0x00645416 Protect them.
+
+; 0x00645458 メカニック：
+0x00645458 MECANIC:
+
+; 0x00645465 ・・・
+0x00645465 ...
+
+; 0x0064546c 調達とガレージが使えるぞ。
+0x0064546c We can use the supply and garage.
+
+; 0x0064548d メカニック：
+0x0064548d MECANIC:
+
+; 0x0064549a 調達では、ＭＡパーツ、武器、
+0x0064549a In terms of procuring, we'll need MA parts, weapons
+
+; 0x006454b7 アイテムを売ってやる。
+0x006454b7 I'll sell you an item.
+
+; 0x006454d4 メカニック：
+0x006454d4 MECANIC:
+
+; 0x006454e1 ガレージでは、調達した物を
+0x006454e1 In the garage, we got what we need.
+
+; 0x006454fc 装備する事ができる。
+0x006454fc I can equip it.
+
+; 0x00645517 メカニック：
+0x00645517 MECANIC:
+
+; 0x00645524 用のときは、声をかけてくれ。
+0x00645524 Let me know if you need me.
+
+; 0x00645541 ・・・。
+0x00645541 ...
+
+; 0x00645578 メカニック：
+0x00645578 MECANIC:
+
+; 0x00645585 新しいブツがはいったぞ。
+0x00645585 There's a new product.
+
+; 0x0064559e よかったら見に来い。
+0x0064559e Come take a look if you like.
+
+; 0x006455b9 メカニック：
+0x006455b9 MECANIC:
+
+; 0x006455c6 買うか買わないかは
+0x006455c6 Whether you buy or not
+
+; 0x006455d9 任せるがな・・・。
+0x006455d9 Leave it to me...
+
+; 0x00645618 ミルン：
+0x00645618 Miln:
+
+; 0x00645621 新しい武器がはいったわよ
+0x00645621 There's a new weapon.
+
+; 0x0064563a あとでよって行って！
+0x0064563a Go later!
+
+; 0x00645655 ミルン：
+0x00645655 Miln:
+
+; 0x0064565e でも、ごめんね・・・
+0x0064565e But I'm sorry.
+
+; 0x00645673 調達にはお金がかかっちゃうの
+0x00645673 It takes a lot of money to get it.
+
+; 0x006456b8 ミルン：
+0x006456b8 Miln:
+
+; 0x006456c1 あっ　いたいた
+0x006456c1 Oh, he's here.
+
+; 0x006456d0 カイトッ！
+0x006456d0 Kite!
+
+; 0x006456e1 ミルン：
+0x006456e1 Miln:
+
+; 0x006456ea 新しい武器を調達しておいたわ
+0x006456ea I got you a new weapon.
+
+; 0x00645707 いつでも来てねっ
+0x00645707 Come anytime!
+
+; 0x00645738 大尉：
+0x00645738 Capt:
+
+; 0x0064573f カイト　いるか？
+0x0064573f Kite, you here?
+
+; 0x00645757 カイト：
+0x00645757 Kite:
+
+; 0x00645765 今、行きます。
+0x00645765 I'm coming.
+
+; 0x00645780 カイト：
+0x00645780 Kite:
+
+; 0x00645789 大尉、
+0x00645789 Captain,
+
+; 0x00645790 どうしました？
+0x00645790 What's wrong?
+
+; 0x006457a5 大尉：
+0x006457a5 Capt:
+
+; 0x006457ac 戦闘続きで、おまえとゆっくり
+0x006457ac I’ll keep fighting, and I’ll take my time with you
+
+; 0x006457c9 話す暇がなかったからな。
+0x006457c9 I didn't have time to talk.
+
+; 0x006457e8 大尉：
+0x006457e8 Capt:
+
+; 0x006457ef どうだ？
+0x006457ef Well?
+
+; 0x006457fa この艦にはなれたか？
+0x006457fa Did you become a ship?
+
+; 0x00645815 カイト：
+0x00645815 Kite:
+
+; 0x0064581e ええ　だいぶ
+0x0064581e Yes, a lot.
+
+; 0x0064582b でも、すごい艦ですね。
+0x0064582b But it's an amazing ship.
+
+; 0x00645848 大尉：
+0x00645848 Capt:
+
+; 0x0064584f ああ　火星とはいまだに緊迫した
+0x0064584f Yes. Mars is still tense.
+
+; 0x0064586e 関係にあるからな。
+0x0064586e It's a relationship.
+
+; 0x00645887 カイト：
+0x00645887 Kite:
+
+; 0x00645890 そういえば大尉はなぜまた、
+0x00645890 Come to think of it, why was the Captain
+
+; 0x006458ab パイロットに戻られたのですか？
+0x006458ab You're back to being a pilot?
+
+; 0x006458d0 大尉：
+0x006458d0 Capt:
+
+; 0x006458d7 デスクワークをしていたんだが、
+0x006458d7 I was doing desk work.
+
+; 0x006458f6 どうにも性に合わない上官がいて
+0x006458f6 There's a superior officer who just doesn't fit in.
+
+; 0x0064591b 大尉：
+0x0064591b Capt:
+
+; 0x00645922 ひとさわぎ起しちまってな
+0x00645922 It's been a while.
+
+; 0x0064593b がはははっ
+0x0064593b Gahahaha
+
+; 0x0064594c 大尉：
+0x0064594c Capt:
+
+; 0x00645953 で、クビになりかけたところを、
+0x00645953 And just as I was about to get fired,
+
+; 0x00645972 艦長に拾われたってわけさ。
+0x00645972 The captain picked me up.
+
+; 0x00645993 大尉：
+0x00645993 Capt:
+
+; 0x0064599a こっちの方が、おれには向いて
+0x0064599a This is better for me.
+
+; 0x006459b7 いるのもあったしな
+0x006459b7 Some of them were here.
+
+; 0x006459d0 大尉：
+0x006459d0 Capt:
+
+; 0x006459d7 おまえはどうしていたんだ？
+0x006459d7 What did you do?
+
+; 0x006459f9 カイト：
+0x006459f9 Kite:
+
+; 0x00645a10 大尉：
+0x00645a10 Capt:
+
+; 0x00645a17 ・・・ああっ
+0x00645a17 ...Ah!
+
+; 0x00645a24 すまない　変な事聞いちまって。
+0x00645a24 I'm sorry for asking such a weird question.
+
+; 0x00645a49 カイト：
+0x00645a49 Kite:
+
+; 0x00645a52 いえ　あの事件の後、
+0x00645a52 No. After the incident,
+
+; 0x00645a67 Ｅ．Ｐ．Ｋ．Ｆとの統合により、
+0x00645a67 By merging with E.P.K.F.
+
+; 0x00645a8c カイト：
+0x00645a8c Kite:
+
+; 0x00645a95 別の部隊に配属されて、その後は
+0x00645a95 I was assigned to another unit, and after that
+
+; 0x00645ab4 各地の戦場に行きました。
+0x00645ab4 I've been to many battlefields.
+
+; 0x00645ad3 大尉：
+0x00645ad3 Capt:
+
+; 0x00645ada そうだったのか。
+0x00645ada Was that so?
+
+; 0x00645aeb ・・・
+0x00645aeb ...
+
+; 0x00645af8 大尉：
+0x00645af8 Capt:
+
+; 0x00645aff あの時も言ったと思うが、
+0x00645aff I think I told you back then,
+
+; 0x00645b18 戦場では仕方が無い事だ。
+0x00645b18 It's unavoidable on the battlefield.
+
+; 0x00645b37 大尉：
+0x00645b37 Capt:
+
+; 0x00645b3e 弾薬もつきかけたＭＡ１機で、
+0x00645b3e It was an MA1 with ammo on it, too.
+
+; 0x00645b5b あの数の部隊を防ぎようがない。
+0x00645b5b There's no way to defend against that many units.
+
+; 0x00645b80 大尉：
+0x00645b80 Capt:
+
+; 0x00645b87 おまえは最善をつくした。
+0x00645b87 You did your best.
+
+; 0x00645ba0 そう自分を責めるな。
+0x00645ba0 Don't blame yourself.
+
+; 0x00645bbb カイト：
+0x00645bbb Kite:
+
+; 0x00645bc4 ・・・大尉
+0x00645bc4 Captain.
+
+; 0x00645bcf ありがとうございます。
+0x00645bcf Thank you.
+
+; 0x00645c18 カイト：
+0x00645c18 Kite:
+
+; 0x00645c21 あれ？
+0x00645c21 Oh?
+
+; 0x00645c28 ミルンがいないぞ
+0x00645c28 Milne's gone.
+
+; 0x00645c45 リオン：
+0x00645c45 Rion:
+
+; 0x00645c4e ・・・そしたらね。
+0x00645c4e And then...
+
+; 0x00645c61 お前が戦ったらどうだ？　って
+0x00645c61 Why don't you fight?
+
+; 0x00645c84 ミルン：
+0x00645c84 Miln:
+
+; 0x00645c8d ぷっ　あはははっ
+0x00645c8d Pff! Ahahaha!
+
+; 0x00645c9e 彼もうまい事いうわねっ
+0x00645c9e He's a good guy.
+
+; 0x00645cbb リオン：
+0x00645cbb Rion:
+
+; 0x00645cc4 笑い事じゃないわよ。
+0x00645cc4 It's not funny.
+
+; 0x00645cd9 あの状況でそんな事いうなんて！
+0x00645cd9 I can't believe you said that in that situation!
+
+; 0x00645cfe リオン：
+0x00645cfe Rion:
+
+; 0x00645d07 あっ　よばれてる。
+0x00645d07 Oh, it's called.
+
+; 0x00645d1a ごめん　また後でねっ
+0x00645d1a Sorry, see you later!
+
+; 0x00645d35 ミルン：
+0x00645d35 Miln:
+
+; 0x00645d3e はーい
+0x00645d3e Okay.
+
+; 0x00645d45 人にぶつからないようにね。
+0x00645d45 Don't bump into anyone.
+
+; 0x00645d66 リオン：
+0x00645d66 Rion:
+
+; 0x00645d6f 平気　平気ー！
+0x00645d6f I'm fine, I'm fine!
+
+; 0x00645d91 カイト：
+0x00645d91 Kite:
+
+; 0x00645d9a おーい
+0x00645d9a Hey!
+
+; 0x00645da1 ミルーーン
+0x00645da1 Mirún
+
+; 0x00645db2 リオン：
+0x00645db2 Rion:
+
+; 0x00645dbb ッドン！
+0x00645dbb Bam!
+
+; 0x00645dc4 キャッ！
+0x00645dc4 Eek!
+
+; 0x00645dd3 カイト：
+0x00645dd3 Kite:
+
+; 0x00645ddc イテッ！
+0x00645ddc Ow!
+
+; 0x00645dec リオン：
+0x00645dec Rion:
+
+; 0x00645df5 イタタタァ〜・・・
+0x00645df5 Owowowowow...
+
+; 0x00645e08 あっ！
+0x00645e08 Ah!
+
+; 0x00645e15 リオン：
+0x00645e15 Rion:
+
+; 0x00645e1e なにこんなところに、
+0x00645e1e What's she doing here?
+
+; 0x00645e33 突っ立ってるの？
+0x00645e33 You just stand there?
+
+; 0x00645e4a カイト：
+0x00645e4a Kite:
+
+; 0x00645e53 ええ！？　そっちから
+0x00645e53 Huh?! From there?
+
+; 0x00645e68 ぶつかっといて何言うんだ。
+0x00645e68 What are you saying after bumping into me?
+
+; 0x00645e89 リオン：
+0x00645e89 Rion:
+
+; 0x00645e92 もぉ！
+0x00645e92 Aww!
+
+; 0x00645e99 気をつけてよね　プイッ
+0x00645e99 Careful, Pui.
+
+; 0x00645ebc カイト：
+0x00645ebc Kite:
+
+; 0x00645ec5 ・・・アイタタタ
+0x00645ec5 Ow, ow, ow, ow.
+
+; 0x00645ed6 ワケがわからん。
+0x00645ed6 I don't get it.
+
+; 0x00645eed ミルン：
+0x00645eed Miln:
+
+; 0x00645ef6 あははははっ
+0x00645ef6 Ahahahaha!
+
+; 0x00645f03 あなた達見てるとあきないわっ
+0x00645f03 I can't watch you guys.
+
+; 0x00645f26 カイト：
+0x00645f26 Kite:
+
+; 0x00645f2f ハハハハッ
+0x00645f2f Hahahaha!
+
+; 0x00645f41 カイト：
+0x00645f41 Kite:
+
+; 0x00645f4a ハァ〜・・・
+0x00645f4a *sigh*
+
+; 0x00645f78 大尉：
+0x00645f78 Capt:
+
+; 0x00645f7f 艦長　今回のこの戦い、
+0x00645f7f Captain, this battle,
+
+; 0x00645f96 何かおかしくはありませんか。
+0x00645f96 Isn't there something strange?
+
+; 0x00645fb9 大尉：
+0x00645fb9 Capt:
+
+; 0x00645fc0 クーデターにしては、すこし
+0x00645fc0 For a coup, a little.
+
+; 0x00645fdb 大がかりすぎると思うのですが？
+0x00645fdb I think it's too big.
+
+; 0x00646000 オーウェン艦長：
+0x00646000 Captain Owen:
+
+; 0x00646011 ・・・そうだな。
+0x00646011 ...Yeah.
+
+; 0x00646029 大尉：
+0x00646029 Capt:
+
+; 0x00646030 Ｅ．Ｐ．Ｋ．Ｆ中央部は、
+0x00646030 The center of E.P.K.F.
+
+; 0x00646049 なんと言っているのですか？
+0x00646049 What is he saying?
+
+; 0x0064606a オーウェン艦長：
+0x0064606a Captain Owen:
+
+; 0x0064607b うむ・・・
+0x0064607b Mm...
+
+; 0x0064608d 大尉：
+0x0064608d Capt:
+
+; 0x00646094 艦長っ！
+0x00646094 Sir!
+
+; 0x006460a4 オーウェン艦長：
+0x006460a4 Captain Owen:
+
+; 0x006460b5 ・・・
+0x006460b5 ...
+
+; 0x006460d8 カイト：
+0x006460d8 Kite:
+
+; 0x006460e1 大尉っ！？
+0x006460e1 Captain!?
+
+; 0x006460f3 大尉：
+0x006460f3 Capt:
+
+; 0x006460fa カイト、話がある。
+0x006460fa Kite, we need to talk.
+
+; 0x00646114 カイト：
+0x00646114 Kite:
+
+; 0x0064611d ・・・！
+0x0064611d ...!
+
+; 0x0064612d 大尉：
+0x0064612d Capt:
+
+; 0x00646134 この戦い、終結したと思われた
+0x00646134 I thought this fight was over.
+
+; 0x00646151 マーズ戦争に関係あるようだ。
+0x00646151 It seems to be related to the Mars War.
+
+; 0x0064617b 戦争終結後、一部は火星解放軍と
+0x0064617b After the war ended, part of it was with the martian liberation army
+
+; 0x0064619a 言う名で秘密裏に活動している。
+0x0064619a She's acting in secret under the name.
+
+; 0x006461bf 大尉：
+0x006461bf Capt:
+
+; 0x006461c6 彼らとは、マーズ連邦も直接の
+0x006461c6 With them, the mars Commonwealth is directly involved.
+
+; 0x006461e3 関与を否定はしているがな・・・
+0x006461e3 I'm denying my involvement.
+
+; 0x00646208 カイト：
+0x00646208 Kite:
+
+; 0x00646211 まさか、今回のクーデターは、
+0x00646211 No way, this coup d'etat...
+
+; 0x0064622e 彼らが起したのですか？
+0x0064622e Did they do it?
+
+; 0x0064624b 大尉：
+0x0064624b Capt:
+
+; 0x00646252 ファウスの事もあるが、
+0x00646252 There's also the matter of Faus,
+
+; 0x00646269 その可能性が高い。
+0x00646269 That's very likely.
+
+; 0x00646282 大尉：
+0x00646282 Capt:
+
+; 0x00646289 でなければ、ここまでの
+0x00646289 Otherwise, we’d be here
+
+; 0x006462a0 軍備が整うはずがない。
+0x006462a0 There was no way the army would be ready.
+
+; 0x006462bd カイト：
+0x006462bd Kite:
+
+; 0x006462c6 でもなぜ地球の、
+0x006462c6 But why Earth,
+
+; 0x006462d7 それもこのエミコワ島を！？
+0x006462d7 And this Emikowa Island?!
+
+; 0x006462f8 カイト：
+0x006462f8 Kite:
+
+; 0x00646301 確かに軍事産業島ですが、
+0x00646301 It is indeed a military industrial island,
+
+; 0x0064631a 軍事的価値は無いはずです。
+0x0064631a It shouldn't have any military value.
+
+; 0x0064633b 大尉：
+0x0064633b Capt:
+
+; 0x00646342 そこまでは、俺にもわからん。
+0x00646342 I don't know that much.
+
+; 0x0064635f ただ・・・
+0x0064635f But...
+
+; 0x00646370 カイト：
+0x00646370 Kite:
+
+; 0x00646379 ・・・ただ？
+0x00646379 Just...?
+
+; 0x0064638d 大尉：
+0x0064638d Capt:
+
+; 0x00646394 ・・・Ｅ．Ｐ．Ｋ．Ｆも
+0x00646394 And E.P.K.F.
+
+; 0x006463ab 何かを隠している。
+0x006463ab He's hiding something.
+
+; 0x006463c4 大尉：
+0x006463c4 Capt:
+
+; 0x006463cb おそらく、艦長も気が付いて
+0x006463cb Most likely, the captain noticed, too
+
+; 0x006463e6 いるはずだ。
+0x006463e6 There should be.
+
+; 0x006463f9 大尉：
+0x006463f9 Capt:
+
+; 0x00646400 カイト・・・
+0x00646400 Kite.
+
+; 0x0064640d 用心しておけ！
+0x0064640d Watch out!
+
+; 0x00646438 大尉：
+0x00646438 Capt:
+
+; 0x0064643f カイトッ！
+0x0064643f Kite!
+
+; 0x0064644a このバカや・・・
+0x0064644a You idiot.
+
+; 0x00646467 リオン：
+0x00646467 Rion:
+
+; 0x00646470 ・・・
+0x00646470 ...
+
+; 0x0064647e カイト：
+0x0064647e Kite:
+
+; 0x00646487 （パシンッ）
+0x00646487 *slap*)
+
+; 0x00646494 　うっ
+0x00646494 Ugh
+
+; 0x006464a7 大尉：
+0x006464a7 Capt:
+
+; 0x006464be ミルン：
+0x006464be Miln:
+
+; 0x006464c7 え！？
+0x006464c7 Eh!?
+
+; 0x006464db カイト：
+0x006464db Kite:
+
+; 0x006464e4 なにするんだ！
+0x006464e4 What are you doing?
+
+; 0x006464f3 いきなりっ
+0x006464f3 All of a sudden
+
+; 0x0064650a リオン：
+0x0064650a Rion:
+
+; 0x00646513 なんで・・・
+0x00646513 Why...
+
+; 0x00646527 リオン：
+0x00646527 Rion:
+
+; 0x00646530 なんで！
+0x00646530 Why!
+
+; 0x00646539 なんで、あんな無茶したの？
+0x00646539 Why did you do that?
+
+; 0x0064655a カイト：
+0x0064655a Kite:
+
+; 0x00646563 ヤツとはオレがケリを
+0x00646563 I'll finish him off.
+
+; 0x00646578 付けなきゃいけないんだ！
+0x00646578 I have to wear it!
+
+; 0x00646597 リオン：
+0x00646597 Rion:
+
+; 0x006465a0 この艦は、あなた一人が
+0x006465a0 This ship, you alone...
+
+; 0x006465b7 戦ってるんじゃないのよっ
+0x006465b7 I'm not fighting!
+
+; 0x006465d6 カイト：
+0x006465d6 Kite:
+
+; 0x006465df ・・・
+0x006465df ...
+
+; 0x006465ed リオン：
+0x006465ed Rion:
+
+; 0x006465f6 艦長も、大尉も、ミルンも、
+0x006465f6 The captain, the captain, and Milne...
+
+; 0x00646611 他のクルーも・・・
+0x00646611 The other crew...
+
+; 0x0064662a リオン：
+0x0064662a Rion:
+
+; 0x00646633 みんな、あなたと一緒に
+0x00646633 Everyone with you.
+
+; 0x0064664a 戦ってるの　忘れないで！
+0x0064664a I'm fighting. Don't forget!
+
+; 0x00646669 カイト：
+0x00646669 Kite:
+
+; 0x00646672 ・・・
+0x00646672 ...
+
+; 0x00646686 リオン：
+0x00646686 Rion:
+
+; 0x0064668f 待って！
+0x0064668f Wait!
+
+; 0x006466a5 ミルン：
+0x006466a5 Miln:
+
+; 0x006466ae ふふっ
+0x006466ae Hehe.
+
+; 0x006466c2 リオン：
+0x006466c2 Rion:
+
+; 0x006466cb カイトッ待って！
+0x006466cb Kite, wait!
+
+; 0x006466e3 カイト：
+0x006466e3 Kite:
+
+; 0x006466ec ・・・
+0x006466ec ...
+
+; 0x006466fa リオン：
+0x006466fa Rion:
+
+; 0x00646703 はぁはぁはぁ・・・
+0x00646703 *pant pant*
+
+; 0x0064671d リオン：
+0x0064671d Rion:
+
+; 0x00646726 あたし・・・カイトが艦に戻って
+0x00646726 I... Kite is back on the ship.
+
+; 0x00646745 来るのいつも待ってるの。
+0x00646745 I always wait for you.
+
+; 0x00646764 リオン：
+0x00646764 Rion:
+
+; 0x0064676d ボロボロになったＭＡを見るたび
+0x0064676d Every time I see a beat-up MA,
+
+; 0x0064678c すごく不安になるけど、
+0x0064678c I'm really worried, but...
+
+; 0x006467a9 リオン：
+0x006467a9 Rion:
+
+; 0x006467b2 カイトの顔をみて、やっと
+0x006467b2 I looked at Kite’s face and finally
+
+; 0x006467cb ほっとできる。
+0x006467cb I can relax.
+
+; 0x006467e0 リオン：
+0x006467e0 Rion:
+
+; 0x006467e9 あたしだけじゃないわ
+0x006467e9 It's not just me.
+
+; 0x006467fe 艦のみんながそう。
+0x006467fe Everyone on the ship is.
+
+; 0x00646817 リオン：
+0x00646817 Rion:
+
+; 0x00646820 だから、お願い
+0x00646820 So please.
+
+; 0x0064682f 無茶だけはしないで・・・
+0x0064682f Don't do anything reckless.
+
+; 0x0064684e カイト：
+0x0064684e Kite:
+
+; 0x00646857 ・・・すまなかった。
+0x00646857 ...Sorry.
+
+; 0x0064b765 ケープ
+0x0064b765 Cape
+
+; 0x0064b776 グルカメ
+0x0064b776 Glukame
+
+; 0x0064b77f ラによる
+0x0064b77f By La.
+
+; 0x0064b789 立体映
+0x0064b789 3D film
+
+; 0x0064b7e2 素なマニ
+0x0064b7e2 True Mani
+
+; 0x0064b7eb ュピレ
+0x0064b7eb Nupile
+
+; 0x0064b7f6 ではあ
+0x0064b7f6 Then...
+
+; 0x0064b81e 訓練用
+0x0064b81e Training.
+
+; 0x0064b827 実戦ま
+0x0064b827 Real battle.
+
+; 0x0064b895 陸上兵
+0x0064b895 Rikuhei
+
+; 0x0064b8de をつけ一
+0x0064b8de Tsukiichi
+
+; 0x0064b8e7 時的に、
+0x0064b8e7 At times,
+
+; 0x0064ba9b サイドア
+0x0064ba9b Sidea
+
+; 0x0072f94a セダケープ社製
+0x0072f94a Sedacape
+
+; 0x0072f959 シングルカメラによる
+0x0072f959 Single-camera
+
+; 0x0072f96e 立体映像を可能とし、
+0x0072f96e It makes 3D images possible
+
+; 0x0072f983 ヘルメットにより、搭
+0x0072f983 The helmet, the tower.
+
+; 0x0072f998 乗者に外部映像を、送
+0x0072f998 Send an external feed to the passenger.
+
+; 0x0072f9ad る事を可能とした。
+0x0072f9ad I made it possible.
+
+; 0x0072f9d8 セダケープ社製
+0x0072f9d8 Sedacape
+
+; 0x0072f9e7 簡素なマニュピレータ
+0x0072f9e7 Simple manipulator
+
+; 0x0072f9fc ではあるが、安価で
+0x0072f9fc But it's cheap
+
+; 0x0072fa0f 汎用性がある事から、
+0x0072fa0f Because it’s versatile,
+
+; 0x0072fa24 訓練用から実戦まで、
+0x0072fa24 From training to real combat,
+
+; 0x0072fa39 広く使用されている。
+0x0072fa39 It's widely used.
+
+; 0x0072fa66 セダケープ社製
+0x0072fa66 Sedacape
+
+; 0x0072fa75 搭乗者はかがみ込むよ
+0x0072fa75 Passengers will stoop.
+
+; 0x0072fa8a うに搭乗する。
+0x0072fa8a I get on the urchin.
+
+; 0x0072fa99 背部には、ブースター
+0x0072fa99 On the back, boosters.
+
+; 0x0072faae を取り付け、陸上兵器
+0x0072faae Land weapons.
+
+; 0x0072fac3 としての壁を越えた。
+0x0072fac3 I cross the wall.
+
+; 0x0072faf0 セダケープ社製
+0x0072faf0 Sedacape
+
+; 0x0072faff 歩行による、速度限界
+0x0072faff Speed limit by walking
+
+; 0x0072fb14 を越える為、足裏に車
+0x0072fb14 Cars underfoot to cross.
+
+; 0x0072fb29 輪をつけ一時的に、高
+0x0072fb29 Put a ring on it, temporarily.
+
+; 0x0072fb3e 速移動を可能とした。
+0x0072fb3e It allowed for rapid movement.
+
+; 0x0072fb6c マウトブック社製
+0x0072fb6c Made by the Mautbook Company.
+
+; 0x0072fb7d ＭＡの銃器メーカーが
+0x0072fb7d MA’s firearms maker
+
+; 0x0072fb92 自社製品の理想的運
+0x0072fb92 Ideal Luck of our products
+
+; 0x0072fba5 用モデルとして開発。
+0x0072fba5 Developed as a model.
+
+; 0x0072fbba このクラスでの策敵能
+0x0072fbba Plans in this class, enemy Noh
+
+; 0x0072fbcf 力の高さがウリ。
+0x0072fbcf She's so strong.
+
+; 0x0072fbf8 マウトブック社製
+0x0072fbf8 Made by the Mautbook Company.
+
+; 0x0072fc09 より重い銃火器を扱う
+0x0072fc09 Deal with heavier firearms
+
+; 0x0072fc1e 事を前提に開発された
+0x0072fc1e It was developed under the assumption that it would happen.
+
+; 0x0072fc33 パワー型の腕部。
+0x0072fc33 Power-type arm.
+
+; 0x0072fc44 それゆえ、スピードが
+0x0072fc44 That's why speed
+
+; 0x0072fc59 代償となった。
+0x0072fc59 It was a price.
+
+; 0x0072fc80 マウトブック社製
+0x0072fc80 Made by the Mautbook Company.
+
+; 0x0072fc91 胸部装甲を強化し、
+0x0072fc91 Strengthening chest armor,
+
+; 0x0072fca4 対弾性に優れている。
+0x0072fca4 It has excellent antielasticity.
+
+; 0x0072fcb9 重いのが欠点である。
+0x0072fcb9 Heavyness is a drawback.
+
+; 0x0072fce8 マウトブック社製
+0x0072fce8 Made by the Mautbook Company.
+
+; 0x0072fcf9 大腿部に追加装甲を設
+0x0072fcf9 Add additional armor to the femur
+
+; 0x0072fd0e け、実弾からの防御性
+0x0072fd0e D-Defensive from live ammo
+
+; 0x0072fd23 を高めている。
+0x0072fd23 It's increasing.
+
+; 0x0072fd4c マウトブック社製
+0x0072fd4c Made by the Mautbook Company.
+
+; 0x0072fd5d 頭部装甲を２重にする
+0x0072fd5d Double the head armor.
+
+; 0x0072fd72 事で、重装甲化してい
+0x0072fd72 It's heavily armored.
+
+; 0x0072fd87 るが、内部構造のせい
+0x0072fd87 But it's because of the structure.
+
+; 0x0072fd9c か耐久力がやや薄い。
+0x0072fd9c Its durability is a little low.
+
+; 0x0072fdca マウトブック社製
+0x0072fdca Made by the Mautbook Company.
+
+; 0x0072fddb 側面からの攻撃にも耐
+0x0072fddb It also resists flank attacks.
+
+; 0x0072fdf0 えられるよう、装甲を
+0x0072fdf0 Armor so we can do it.
+
+; 0x0072fe05 してある。そのため、
+0x0072fe05 I did. Because of that,
+
+; 0x0072fe1a 内部機構には高出力
+0x0072fe1a The internal mechanism has high output.
+
+; 0x0072fe2d のものが使用されてい
+0x0072fe2d That's what's used.
+
+; 0x0072fe5e マウトブック社製
+0x0072fe5e Made by the Mautbook Company.
+
+; 0x0072fe6f 重装甲により局地防衛
+0x0072fe6f Local defense by heavy armor
+
+; 0x0072fe84 を主眼に置かれた機体
+0x0072fe84 That's the main focus.
+
+; 0x0072fe99 背部には武器格納スペ
+0x0072fe99 Weapon storage specs on the back
+
+; 0x0072feae ースがある。
+0x0072feae There's a bass.
+
+; 0x0072fed4 マウトブック社製
+0x0072fed4 Made by the Mautbook Company.
+
+; 0x0072fee5 移動スピードを犠牲に
+0x0072fee5 Sacrificing movement speed
+
+; 0x0072fefa しているが、その安定
+0x0072fefa Yes, but it's stable.
+
+; 0x0072ff0f 性にはパイロットから
+0x0072ff0f It's from a pilot.
+
+; 0x0072ff24 の評判は高い。
+0x0072ff24 He's well-liked.
+
+; 0x0072ff4c コンペレット社製
+0x0072ff4c Competitoret Co., Ltd.
+
+; 0x0072ff5d 通信機器メーカーが、
+0x0072ff5d A communication device manufacturer
+
+; 0x0072ff72 開発したＭＡ。
+0x0072ff72 An MA I developed.
+
+; 0x0072ff81 各種センサーを内蔵し
+0x0072ff81 It has built-in sensors
+
+; 0x0072ff96 誘導兵器を無効化する
+0x0072ff96 Nullify guided weapons
+
+; 0x0072ffab 事が可能。
+0x0072ffab It's possible.
+
+; 0x0072ffce コンペレット社製
+0x0072ffce Competitoret Co., Ltd.
+
+; 0x0072ffdf コンセプトが偵察用と
+0x0072ffdf The concept is to scout.
+
+; 0x0072fff4 言う事もあり、腕部に
+0x0072fff4 There's something I need to tell you.
+
+; 0x00730009 はカメラが内蔵されて
+0x00730009 It's got a camera.
+
+; 0x0073001e いる。
+0x0073001e I'm here.
+
+; 0x0073003e コンペレット社製
+0x0073003e Competitoret Co., Ltd.
+
+; 0x0073004f 脚部同様、偵察ポイン
+0x0073004f Like the leg, reconnaissance poin.
+
+; 0x00730064 トからの緊急離脱を考
+0x00730064 Think of an emergency exit from To.
+
+; 0x00730079 慮して、ブースト性能
+0x00730079 Considerately, boost performance.
+
+; 0x0073008e を大幅にアップした。
+0x0073008e It greatly increased.
+
+; 0x007300bc コンペレット社製
+0x007300bc Competitoret Co., Ltd.
+
+; 0x007300cd 胸部同様、偵察ポイン
+0x007300cd Like the chest, reconnaissance poin
+
+; 0x007300e2 トからの緊急離脱を考
+0x007300e2 Think of an emergency exit from To.
+
+; 0x007300f7 慮して、ダッシュ性能
+0x007300f7 Think about it. Dashing ability.
+
+; 0x0073010c を大幅にアップした。
+0x0073010c It greatly increased.
+
+; 0x0073013a スワコンプト社製
+0x0073013a It's from the Swacomb.
+
+; 0x0073014b 近接戦用ＭＡとして、
+0x0073014b As close-combat MA,
+
+; 0x00730160 開発された。
+0x00730160 Developed.
+
+; 0x0073016d 衝撃に対して、強い抵
+0x0073016d It's a strong mortgage.
+
+; 0x00730182 抗力を持っている。
+0x00730182 It has resistance.
+
+; 0x007301ae スワコンプト社製
+0x007301ae It's from the Swacomb.
+
+; 0x007301d4 着を前提に設計。また
+0x007301d4 It was designed with clothes in mind. Again.
+
+; 0x007301e9 肩部アーマーは格闘戦
+0x007301e9 Shoulder armor is a martial art
+
+; 0x007301fe を意識した作りとなっ
+0x007301fe That's how I made it.
+
+; 0x00730213 ている。
+0x00730213 I am.
+
+; 0x00730234 スワコンプト社製
+0x00730234 It's from the Swacomb.
+
+; 0x00730245 この機体の為に、新た
+0x00730245 New for this plane.
+
+; 0x0073025a に新素材を開発。
+0x0073025a Develop new materials.
+
+; 0x0073026b 広範囲の衝撃には強い
+0x0073026b It's resistant to wide-range impacts.
+
+; 0x00730280 が、熱に弱い。
+0x00730280 But I'm weak to heat.
+
+; 0x007302a8 スワコンプト社製
+0x007302a8 It's from the Swacomb.
+
+; 0x007302b9 冷却構造を見直し、こ
+0x007302b9 Reconsider the cooling structure.
+
+; 0x007302ce の重量ながらダッシュ
+0x007302ce Sprint despite its weight
+
+; 0x007302e3 性能をアップさせた。
+0x007302e3 I increased its performance.
+
+; 0x00730312 マウトブック社製
+0x00730312 Made by the Mautbook Company.
+
+; 0x00730323 頭部被弾率を下げる為
+0x00730323 To reduce the head hit rate
+
+; 0x00730338 体に埋め込まれたよう
+0x00730338 It's embedded in my body.
+
+; 0x0073034d な形状のとなった。
+0x0073034d That's the shape.
+
+; 0x0073037a マウトブック社製
+0x0073037a Made by the Mautbook Company.
+
+; 0x0073038b 腕部機構の簡略化によ
+0x0073038b To simplify arm mechanisms.
+
+; 0x007303a0 り、武器の重量負荷を
+0x007303a0 A-A weapon's heavy load.
+
+; 0x007303b5 減らし、大型武器を携
+0x007303b5 Decrease, carry large weapons.
+
+; 0x007303ca 行できるようにし、
+0x007303ca So that we can go,
+
+; 0x007303dd 機体重量を下げる事に
+0x007303dd To lower your weight
+
+; 0x007303f2 成功した。
+0x007303f2 It worked.
+
+; 0x00730414 マウトブック社製
+0x00730414 Made by the Mautbook Company.
+
+; 0x00730425 特徴的な胸部は、近距
+0x00730425 The distinctive chest area is near range.
+
+; 0x0073043a 離銃撃戦を考慮に入れ
+0x0073043a Taking into account the shootout
+
+; 0x0073044f られ、考案された。
+0x0073044f It was invented.
+
+; 0x0073047c マウトブック社製
+0x0073047c Made by the Mautbook Company.
+
+; 0x0073048d 大型武器の発射時に、
+0x0073048d When the large weapon was fired,
+
+; 0x007304a2 機体バランスを崩す事
+0x007304a2 It's about losing balance.
+
+; 0x007304b7 なく次弾を発射する為
+0x007304b7 To fire the next round without.
+
+; 0x007304cc ウェイト調整された。
+0x007304cc The weight was adjusted.
+
+; 0x007304fa セダケープ社製
+0x007304fa Sedacape
+
+; 0x00730509 装甲に曲面を使用し、
+0x00730509 It used curved surfaces for armor
+
+; 0x0073051e 跳弾性と格闘時による
+0x0073051e Depends on how you jump and fight.
+
+; 0x00730533 衝撃をやわらげ、耐熱
+0x00730533 It softens the impact and heats up.
+
+; 0x00730548 性も高めた。そのため
+0x00730548 I've improved my sex. That's why
+
+; 0x0073055d コストが高く、一部の
+0x0073055d Costs a lot of money
+
+; 0x00730572 エースなどが使用して
+0x00730572 Aces and the like.
+
+; 0x00730587 いる事が多い。
+0x00730587 There's a lot of them.
+
+; 0x007305ac セダケープ社製
+0x007305ac Sedacape
+
+; 0x007305bb 腕の動きは、銃器を扱
+0x007305bb As for the arm movements, it's handling firearms.
+
+; 0x007305d0 う上で、重要な要素と
+0x007305d0 It's important to know
+
+; 0x007305e5 なる為、安定した反応
+0x007305e5 Therefore, a stable reaction.
+
+; 0x007305fa 速度を求めて、開発さ
+0x007305fa It's about speed.
+
+; 0x0073060f れた。
+0x0073060f I did.
+
+; 0x0073062e セダケープ社製
+0x0073062e Sedacape
+
+; 0x0073063d 装甲面を見直した結果
+0x0073063d As a result of reexamining the armor
+
+; 0x00730652 操縦スペースを犠牲に
+0x00730652 Sacrificing control space
+
+; 0x00730667 はしたが、どの兵器に
+0x00730667 Which weapon?
+
+; 0x0073067c 対しても十分な性能を
+0x0073067c On the other hand, it's not enough.
+
+; 0x00730691 引き出す事ができた。
+0x00730691 I was able to extract it.
+
+; 0x007306be セダケープ社製
+0x007306be Sedacape
+
+; 0x007306cd 複雑な状況下でも、安
+0x007306cd Even in complicated situations, Yasu.
+
+; 0x007306e2 定した射撃姿勢をとれ
+0x007306e2 Get ready to fire.
+
+; 0x007306f7 る事を可能する為に、
+0x007306f7 To make it possible,
+
+; 0x0073070c 基本フレームから見直
+0x0073070c From the basic frame
+
+; 0x00730721 しを行い、新たな規格
+0x00730721 New standard.
+
+; 0x00730736 ながら、互換性を伴っ
+0x00730736 But it's compatible.
+
+; 0x0073074b ている。
+0x0073074b I am.
+
+; 0x0073076a リバーライス社製
+0x0073076a Made by River Rice.
+
+; 0x0073077b 特殊部隊用として開発
+0x0073077b Developed as a special unit.
+
+; 0x00730790 され、頭部のカメラは
+0x00730790 The camera on the head
+
+; 0x007307a5 複数装備している。
+0x007307a5 She's equipped with multiple.
+
+; 0x007307d2 リバーライス社製
+0x007307d2 Made by River Rice.
+
+; 0x007307e3 エイミングスピードが
+0x007307e3 Aiming speed
+
+; 0x007307f8 軽量化によって改善
+0x007307f8 Lightening improved.
+
+; 0x0073080b されたが、兵士からは
+0x0073080b They did, but they didn't.
+
+; 0x00730820 不評である。
+0x00730820 Unpopular.
+
+; 0x00730846 リバーライス社製
+0x00730846 Made by River Rice.
+
+; 0x00730857 装甲を軽量化し、起動
+0x00730857 Lighten the armor, activate.
+
+; 0x0073086c 性を高めている。
+0x0073086c I'm improving my sex.
+
+; 0x0073087d 長時間任務や、特殊任
+0x0073087d Long-term missions, special duties.
+
+; 0x00730892 務の為の設計がなされ
+0x00730892 It's designed for work.
+
+; 0x007308a7 ている。
+0x007308a7 I am.
+
+; 0x007308c8 リバーライス社製
+0x007308c8 Made by River Rice.
+
+; 0x007308d9 強襲任務での活躍を
+0x007308d9 I want you to take part in the assault.
+
+; 0x007308ec 期待された為、各種
+0x007308ec Because it was expected, various kinds
+
+; 0x007308ff 性能はこのクラスでは
+0x007308ff In this class, performance
+
+; 0x00730914 かなり高い。
+0x00730914 It's quite high.
+
+; 0x0073093a コンペレット社製
+0x0073093a Competitoret Co., Ltd.
+
+; 0x0073094b 非人道的武装を標準装
+0x0073094b Inhumane armaments standard
+
+; 0x00730960 備している為、なにか
+0x00730960 Because I have something.
+
+; 0x00730975 といわくが付く機体。
+0x00730975 That's what they say.
+
+; 0x0073098a 頭部という概念はなく
+0x0073098a There's no concept of a head
+
+; 0x0073099f 胸部と一体化させてい
+0x0073099f It's one with the chest.
+
+; 0x007309d0 コンペレット社製
+0x007309d0 Competitoret Co., Ltd.
+
+; 0x007309e1 大きな特徴として、右
+0x007309e1 The big feature is the right.
+
+; 0x007309f6 腕部に火炎放射機が、
+0x007309f6 There was a flamethrower on my arm.
+
+; 0x00730a0b 内蔵されている。
+0x00730a0b It's built in.
+
+; 0x00730a1c これは市街地制圧用
+0x00730a1c This is for subjugation.
+
+; 0x00730a2f とし、開発された為で
+0x00730a2f Because it was developed
+
+; 0x00730a44 ある。
+0x00730a44 Yes.
+
+; 0x00730a62 コンペレット社製
+0x00730a62 Competitoret Co., Ltd.
+
+; 0x00730a73 第二次大戦から続く、
+0x00730a73 It's been around since World War II.
+
+; 0x00730a88 老舗メーカーが製作。
+0x00730a88 A long-established manufacturer made it.
+
+; 0x00730a9d すでに倒産した為、現
+0x00730a9d They've already gone bankrupt, so they're still here.
+
+; 0x00730ab2 存する機体のみしか存
+0x00730ab2 Only aircraft exist.
+
+; 0x00730ac7 在しない。
+0x00730ac7 I don't exist.
+
+; 0x00730afb 各関節には、熱に強い
+0x00730afb Each joint is heat resistant.
+
+; 0x00730b10 繊維で覆われており、
+0x00730b10 It was covered in fiber
+
+; 0x00730b25 防水機能も備えている
+0x00730b25 It's also waterproof.
+
+; 0x00730b3a その為、第四次大戦で
+0x00730b3a Because of that, in World War IV
+
+; 0x00730b4f はジャングル戦に使用
+0x00730b4f Use in jungle battles.
+
+; 0x00730b64 される事が多かった。
+0x00730b64 They did it a lot.
+
+; 0x00730b90 ウッダウトン社製
+0x00730b90 Made by Uddauton.
+
+; 0x00730ba1 視界の大半を頭部の
+0x00730ba1 Most of my vision is of the head
+
+; 0x00730bb4 パーツから得る為に、
+0x00730bb4 To get from the parts
+
+; 0x00730bc9 被弾率を抑えた小型の
+0x00730bc9 Smaller ones with less hit rates
+
+; 0x00730bde ものが採用された。
+0x00730bde It was adopted.
+
+; 0x00730c0a ウッダウトン社製
+0x00730c0a Made by Uddauton.
+
+; 0x00730c1b フレームの強化により
+0x00730c1b By reinforcing the frame
+
+; 0x00730c30 耐久性が上がり、更に
+0x00730c30 It’s more durable, and more
+
+; 0x00730c45 格闘機なみの攻撃力を
+0x00730c45 Fighting machine nami's attack power
+
+; 0x00730c5a あわせ持っている。
+0x00730c5a I'm holding it together.
+
+; 0x00730c86 ウッダウトン社製
+0x00730c86 Made by Uddauton.
+
+; 0x00730c97 戦場での兵士の生存率
+0x00730c97 The survival rate of soldiers on the battlefield
+
+; 0x00730cac の向上を目的に開発。
+0x00730cac Developed for the purpose of improving.
+
+; 0x00730cc1 操縦スペースを広く取
+0x00730cc1 It takes up a lot of space.
+
+; 0x00730cd6 り圧迫感をへらした。
+0x00730cd6 I feel pressured.
+
+; 0x00730d04 ウッダウトン社製
+0x00730d04 Made by Uddauton.
+
+; 0x00730d15 装甲を厚くする事で、
+0x00730d15 By thickening the armor,
+
+; 0x00730d2a 破損の心配は薄れたが
+0x00730d2a I'm less worried about the damage.
+
+; 0x00730d3f 内部構造にまで予算を
+0x00730d3f To the internal structure.
+
+; 0x00730d54 さけずにロールアウト
+0x00730d54 Roll out without fail
+
+; 0x00730d69 する事となった。
+0x00730d69 It was decided.
+
+; 0x00730d92 スワコンプト社製
+0x00730d92 It's from the Swacomb.
+
+; 0x00730da3 ＭＡで格闘戦を行う、
+0x00730da3 A martial arts match in MA,
+
+; 0x00730db8 コロシアムのチャンピ
+0x00730db8 Champi of the Coliseum
+
+; 0x00730dcd オンの協力で完成させ
+0x00730dcd With On’s help, we’ll finish it
+
+; 0x00730de2 たＭＡ。衝撃に非常に
+0x00730de2 It's very shocking.
+
+; 0x00730df7 優れているが、熱に弱
+0x00730df7 It's good, but it's weak to heat.
+
+; 0x00730e0c いと言う弱点がある。
+0x00730e0c I have a weakness.
+
+; 0x00730e38 スワコンプト社製
+0x00730e38 It's from the Swacomb.
+
+; 0x00730e49 コロシアムチャンピオ
+0x00730e49 Coliseum Campio
+
+; 0x00730e5e ンの要望でパイルブレ
+0x00730e5e Pilebre at your request.
+
+; 0x00730e73 イカーは標準装備とな
+0x00730e73 Iker's standard.
+
+; 0x00730e88 っている。熱に弱いと
+0x00730e88 Yes. He's weak to heat.
+
+; 0x00730e9d いう弱点ではあるが、
+0x00730e9d It's a weakness, but...
+
+; 0x00730eb2 余りある格闘防御力で
+0x00730eb2 With too much martial defense
+
+; 0x00730ec7 ある。
+0x00730ec7 Yes.
+
+; 0x00730ee4 スワコンプト社製
+0x00730ee4 It's from the Swacomb.
+
+; 0x00730ef5 コロシアムチャンピオ
+0x00730ef5 Coliseum Campio
+
+; 0x00730f0a ンの、体当たりすら武
+0x00730f0a Nno, even body blows are martial.
+
+; 0x00730f1f 器となるとの発想から
+0x00730f1f The idea of a vessel
+
+; 0x00730f34 鋭角的デザインになっ
+0x00730f34 It's a sharp design!
+
+; 0x00730f49 たが、実用性には疑問
+0x00730f49 But I don't know if it's practical.
+
+; 0x00730f5e が残る。
+0x00730f5e I'll stay.
+
+; 0x00730f7e スワコンプト社製
+0x00730f7e It's from the Swacomb.
+
+; 0x00730f8f 格闘機ならではの、相
+0x00730f8f A face unique to fighting machines.
+
+; 0x00730fa4 手に急接近し攻撃を叩
+0x00730fa4 He suddenly approached his hand and struck the attack
+
+; 0x00730fb9 きいれる事を前提とし
+0x00730fb9 Assuming you can hear it.
+
+; 0x00730fce たダッシュスピードを
+0x00730fce Tdash speed.
+
+; 0x00730fe3 実現。このウェイトな
+0x00730fe3 Realize. This weight.
+
+; 0x00730ff8 がらおどろくべき速さ
+0x00730ff8 Amazing speed
+
+; 0x0073100d を持つ事ができた。
+0x0073100d I could hold it.
+
+; 0x00731036 リバーライス社製
+0x00731036 Made by River Rice.
+
+; 0x00731047 対テロ用として開発さ
+0x00731047 It's designed for counterterrorism.
+
+; 0x0073105c れたが、実際はテロ側
+0x0073105c But in reality, the terrorist side
+
+; 0x00731071 も使用している事が多
+0x00731071 I use it a lot.
+
+; 0x00731086 い。固定武装が付いて
+0x00731086 Th-There's a fixed armament.
+
+; 0x0073109b いる。
+0x0073109b I'm here.
+
+; 0x007310ba リバーライス社製
+0x007310ba Made by River Rice.
+
+; 0x007310cb 混戦の中での運用の為
+0x007310cb It's for use in mixed combat.
+
+; 0x007310e0 エイミングスピードは
+0x007310e0 Aiming speed
+
+; 0x007310f5 早めに設定してある。
+0x007310f5 I set it up early.
+
+; 0x00731124 リバーライス社製
+0x00731124 Made by River Rice.
+
+; 0x00731135 ステルス機能が搭載
+0x00731135 It's got stealth capabilities.
+
+; 0x00731148 されているが、普及機
+0x00731148 But it's a common device.
+
+; 0x0073115d にはずされている。
+0x0073115d It's off.
+
+; 0x00731170 軽量化しブースト機能
+0x00731170 Lightening and boosting.
+
+; 0x00731185 は強化している。
+0x00731185 Is strengthening.
+
+; 0x007311ae リバーライス社製
+0x007311ae Made by River Rice.
+
+; 0x007311bf 特殊任務用に、静音性
+0x007311bf Silence for special missions.
+
+; 0x007311d4 を高めると同時に、歩
+0x007311d4 At the same time, I increase my pace.
+
+; 0x007311e9 行スピードも強化され
+0x007311e9 The speed of the line was enhanced, too
+
+; 0x007311fe ている。
+0x007311fe I am.
+
+; 0x00731220 イオランド社製
+0x00731220 Iorand
+
+; 0x0073122f 次期汎用型の試作機と
+0x0073122f The next generalpurpose prototype
+
+; 0x00731244 して開発された。新規
+0x00731244 That's how it was developed.
+
+; 0x00731259 ＭＡメーカーゆえ挑戦
+0x00731259 MA Maker Challenge
+
+; 0x0073126e 的アイデアが盛り込ま
+0x0073126e It's got target ideas
+
+; 0x00731283 れ、その１つにＡＩの
+0x00731283 One of them is an AI.
+
+; 0x00731298 導入による事前予測攻
+0x00731298 Predictive attack by introduction
+
+; 0x007312ad 撃回避である。
+0x007312ad I dodge the shot.
+
+; 0x007312d2 イオランド社製
+0x007312d2 Iorand
+
+; 0x007312e1 アタッチメントを設け
+0x007312e1 We set up attachments
+
+; 0x007312f6 武装の着脱を容易化。
+0x007312f6 It made it easier to take off your weapons.
+
+; 0x0073130b 格闘用ビーム兵器の
+0x0073130b Of a combat beam weapon.
+
+; 0x0073131e 検討もなされていたが
+0x0073131e It was considered
+
+; 0x00731333 ビームの安定化が出来
+0x00731333 It stabilizes the beam.
+
+; 0x00731348 ず、開発は中断した。
+0x00731348 The development was halted.
+
+; 0x00731374 イオランド社製
+0x00731374 Iorand
+
+; 0x00731383 エネルギー消費を見直
+0x00731383 Reexamine energy consumption
+
+; 0x00731398 し、傑作機エリゴルを
+0x00731398 M-My masterpiece, Eligol.
+
+; 0x007313ad ５０％以上、上回る性
+0x007313ad More than 50 percent sex.
+
+; 0x007313c2 能を出す事に成功。
+0x007313c2 He succeeded in producing Noh.
+
+; 0x007313ee イオランド社製
+0x007313ee Iorand
+
+; 0x007313fd 新しい磁気システムを
+0x007313fd New magnetic system
+
+; 0x00731427 安定性と性能の向上を
+0x00731427 To improve stability and performance
+
+; 0x0073143c 計った。
+0x0073143c I weighed.
+
+; 0x00731469 搭乗者へフィードバッ
+0x00731469 Rider, feedbah.
+
+; 0x0073147e ク機能が搭載されてお
+0x0073147e It's equipped with ku function.
+
+; 0x00731493 り、パイロットに障害
+0x00731493 B-Breaking pilot.
+
+; 0x007314a8 が起き、開発は一時中
+0x007314a8 But it happened, and the development was temporary.
+
+; 0x007314bd 断されていた。内部の
+0x007314bd It was cut off. Inside.
+
+; 0x007314d2 機器は優れており、誘
+0x007314d2 The equipment is excellent, invitations.
+
+; 0x007314e7 導兵器は無効化される
+0x007314e7 Guided weapons are nullified.
+
+; 0x0073151d 固定武装として、右腕
+0x0073151d As a fixed weapon, right arm.
+
+; 0x00731532 にガトリングガン、左
+0x00731532 Nigatlingan, left
+
+; 0x00731547 腕には大型のクローを
+0x00731547 I have a big claw on my arm.
+
+; 0x0073155c 装備。
+0x0073155c Armor.
+
+; 0x00731587 固定武装としてミサイ
+0x00731587 As a fixed weapon, Misai.
+
+; 0x0073159c ルランチャーを装備。
+0x0073159c Equip LeLauncher.
+
+; 0x007315b1 胸部吸気孔から、外気
+0x007315b1 Out of the ventricle, the air.
+
+; 0x007315c6 を取り入れ、驚異的な
+0x007315c6 Incorporating, astounding
+
+; 0x007315db ブースト力を持つ。
+0x007315db It has boost power.
+
+; 0x00731611 軽量化を行い、脚部用
+0x00731611 It's lightweight, for legs.
+
+; 0x00731626 シールドを装備してい
+0x00731626 Armed with shields.
+
+; 0x0073163b る。ダッシュ機構には
+0x0073163b Ru. The dash mechanism
+
+; 0x00731650 イオランド社の技術を
+0x00731650 Iorand technology
+
+; 0x00731665 盗み取り入れている。
+0x00731665 Stealing in.
+
+; 0x00731692 ジェラルドメタル社
+0x00731692 Gerald Metal
+
+; 0x007316a5 どこかで見た事がある
+0x007316a5 I've seen it before.
+
+; 0x007316ba カワイイげな頭部。
+0x007316ba A cute head.
+
+; 0x007316e8 ジェラルドメタル社
+0x007316e8 Gerald Metal
+
+; 0x007316fb イカツイ腕で、
+0x007316fb With a sharp arm,
+
+; 0x0073170a あの子にタッチ！
+0x0073170a Touch her!
+
+; 0x00731736 ジェラルドメタル社
+0x00731736 Gerald Metal
+
+; 0x00731749 むき出しのコクピット
+0x00731749 Bare cockpit
+
+; 0x0073175e は、サワヤカなのさっ
+0x0073175e I-I'm a softie!
+
+; 0x0073178e ジェラルドメタル社
+0x0073178e Gerald Metal
+
+; 0x007317a1 パイロットのコメント
+0x007317a1 Pilot comment
+
+; 0x007317b6 ドシーン！
+0x007317b6 Dosin!
+
+; 0x007317c1 ふみつけるムギュッよ
+0x007317c1 I'll find you.
+
+; 0x00731810 機体ダメージを２００
+0x00731810 200 damage.
+
+; 0x00731825 回復します。破損率が
+0x00731825 Recovers. Damage rate
+
+; 0x0073183a 高いパーツを優先。
+0x0073183a I prioritized expensive parts.
+
+; 0x00731859 機体ダメージを６００
+0x00731859 Airframe DMG: 600
+
+; 0x0073186e 回復します。破損率が
+0x0073186e Recovers. Damage rate
+
+; 0x00731883 高いパーツを優先。
+0x00731883 I prioritized expensive parts.
+
+; 0x007318a2 機体ダメージを１０００
+0x007318a2 Airframe DMG: 1000
+
+; 0x007318b9 回復します。破損率が
+0x007318b9 Recovers. Damage rate
+
+; 0x007318ce 高いパーツを優先。
+0x007318ce I prioritized expensive parts.
+
+; 0x007318eb 機体ダメージを２０％
+0x007318eb 20% damage to aircraft.
+
+; 0x00731900 回復します。
+0x00731900 It'll heal.
+
+; 0x00731917 機体ダメージを５０％
+0x00731917 Fifty percent damage.
+
+; 0x0073192c 回復します。
+0x0073192c It'll heal.
+
+; 0x00731943 機体ダメージを完全に
+0x00731943 Completely damaged.
+
+; 0x00731958 回復します。
+0x00731958 It'll heal.
+
+; 0x0073196f 使用すると予備弾倉を
+0x0073196f When used, a spare magazine
+
+; 0x00731984 ３つ回復します。
+0x00731984 Recovers three.
+
+; 0x0073199f 使用すると予備弾倉を
+0x0073199f When used, a spare magazine
+
+; 0x007319b4 ２つ回復します。
+0x007319b4 Recovers two.
+
+; 0x00731aca サイドアームとして開
+0x00731aca Open as a sidearm.
+
+; 0x00731adf 発された。
+0x00731adf It came out.
+
+; 0x00731af6 取り回しやすさから、
+0x00731af6 Because it's easy to get around,
+
+; 0x00731b0b 警察機構でも採用され
+0x00731b0b It was adopted by the police organization
+
+; 0x00731b20 ている。
+0x00731b20 I am.
+
+; 0x00731b33 特殊な弾丸を用いる事
+0x00731b33 Special bullets.
+
+; 0x00731b48 で、破壊力を高めた。
+0x00731b48 So, I boosted my destructive power.
+
+; 0x00731b69 小型ＭＡ用として開発
+0x00731b69 Developed for small MAs
+
+; 0x00731b7e された軽量で連射性の
+0x00731b7e Lightweight, rapidfire.
+
+; 0x00731b93 高い銃。
+0x00731b93 A tall gun.
+
+; 0x00731ba8 連射性に優れるが、
+0x00731ba8 It excels at rapid-fire, but...
+
+; 0x00731bbb 命中精度は落ちる。
+0x00731bbb My accuracy will drop.
+
+; 0x00731bdb 軽機関銃として、
+0x00731bdb As light machine guns,
+
+; 0x00731bec 安定した性能を誇る。
+0x00731bec It boasts stable performance.
+
+; 0x00731c0e 集弾率を見直し、性能
+0x00731c0e Reconsider the rate of bullet collection, performance
+
+; 0x00731c23 を高めた軽機関銃。
+0x00731c23 Light machine guns that had been raised.
+
+; 0x00731c43 使用している弾丸から
+0x00731c43 From the bullets we use
+
+; 0x00731c58 見直したが、反動と重
+0x00731c58 I’ve reevaluated it, but it’s recoil and heavy
+
+; 0x00731c6d 量が大きくなった。
+0x00731c6d The amount has grown.
+
+; 0x00731c8c ＭＡ開発と同時期に開
+0x00731c8c It opened at the same time as MA development.
+
+; 0x00731ca1 発された、アサルトラ
+0x00731ca1 It's coming, Assaultra.
+
+; 0x00731cb6 イルフル。
+0x00731cb6 Ilfl.
+
+; 0x00731ccd マガジン機構をＭＡの
+0x00731ccd The magazine mechanism is MA's
+
+; 0x00731ce2 動作能力に合わせ、交
+0x00731ce2 Matches movement ability, mingles.
+
+; 0x00731cf7 換スピードを上げた。
+0x00731cf7 I speed up the exchange.
+
+; 0x00731d18 パイロット達に信頼性
+0x00731d18 Reliability to pilots
+
+; 0x00731d2d の高い、傑作アサルト
+0x00731d2d High, masterful Assault
+
+; 0x00731d42 ライフル。
+0x00731d42 Rifle.
+
+; 0x00731d59 連続発射数は落ちたが
+0x00731d59 The number of consecutive shots dropped, but
+
+; 0x00731d6e 威力と命中精度を高め
+0x00731d6e Increases power and accuracy
+
+; 0x00731d94 バレル構造を見直し、
+0x00731d94 Reevaluate the barrel structure
+
+; 0x00731da9 命中性と威力を高め、
+0x00731da9 Increases accuracy and power,
+
+; 0x00731dbe 小型化した。
+0x00731dbe Miniaturized.
+
+; 0x00731dd7 一度の射撃で同時発射
+0x00731dd7 Fire at the same time in one shot.
+
+; 0x00731dec ４発の散弾を発射。
+0x00731dec Four shotguns.
+
+; 0x00731e0c 一度の射撃で同時発射
+0x00731e0c Fire at the same time in one shot.
+
+; 0x00731e21 ５発の散弾を発射。
+0x00731e21 Five shots fired.
+
+; 0x00731e41 一度の射撃で同時発射
+0x00731e41 Fire at the same time in one shot.
+
+; 0x00731e56 ４発の散弾を発射。
+0x00731e56 Four shotguns.
+
+; 0x00731e76 磁気を帯びた弾を、高
+0x00731e76 High magnetic bullets.
+
+; 0x00731e8b 速で撃ちだす。
+0x00731e8b I shoot at a speed.
+
+; 0x00731ea7 レイル機構を見直し、
+0x00731ea7 I reviewed the Rail System,
+
+; 0x00731ebc ３本のレイルで支える
+0x00731ebc Three Rails to support it
+
+; 0x00731ed1 事で威力を上げた。
+0x00731ed1 I boosted my power with this.
+
+; 0x00731ef0 直線的なレーザー。
+0x00731ef0 A straight laser.
+
+; 0x00731f26 高めたレーザー。
+0x00731f26 A high-level laser.
+
+; 0x00731f44 レーザーに反応する物
+0x00731f44 Laser-responsive objects.
+
+; 0x00731f59 質を同時に噴射し、威
+0x00731f59 It sprayed its quality at the same time, its power
+
+; 0x00731f6e 力を上げたレーザー
+0x00731f6e Razor powered up.
+
+; 0x00731f8d 燃焼剤を引火させ、噴
+0x00731f8d It ignited the combustion agent, spewed it.
+
+; 0x00731fa2 射する。
+0x00731fa2 I fire.
+
+; 0x00731fb8 噴射装置を見直し、距
+0x00731fb8 Reconsider the jetting device, range
+
+; 0x00731fcd 離を伸ばした。
+0x00731fcd I let go of her.
+
+; 0x00731fe9 新しい燃焼剤によって
+0x00731fe9 New combustion agent
+
+; 0x00731ffe 噴射量を増やした。
+0x00731ffe I increase the amount of spray.
+
+; 0x0073201e ３本のバレルを回転さ
+0x0073201e Three barrels.
+
+; 0x00732033 せて、順番に弾を発射
+0x00732033 Let's fire the bullets in turn.
+
+; 0x00732048 する。
+0x00732048 I do.
+
+; 0x0073205b バレルを６本に増やし
+0x0073205b I added six barrels
+
+; 0x00732070 たが、反動で集弾率が
+0x00732070 But the recoil caused the bullet rate to drop.
+
+; 0x00732085 落ちた。
+0x00732085 I fell.
+
+; 0x0073209a 重量を上げ、バレルを
+0x0073209a Lift the barrel.
+
+; 0x007320af ５本にする事で、反動
+0x007320af By making it five, it recoils.
+
+; 0x007320c4 を抑えた。
+0x007320c4 I suppress it.
+
+; 0x007320db 撃ち出された弾は放物
+0x007320db The bullets fired are a parabola.
+
+; 0x007320f0 線を描いて着弾する。
+0x007320f0 I draw a line and land.
+
+; 0x00732112 軽量化をおこなった。
+0x00732112 It was light.
+
+; 0x00732127 弾は放物線を描いて着
+0x00732127 The bullets arced and landed.
+
+; 0x0073213c 弾する。
+0x0073213c I play.
+
+; 0x00732151 マガジン機構を改良し
+0x00732151 We've improved the magazine mechanism
+
+; 0x00732166 弾丸の連続発射を可能
+0x00732166 Can fire multiple bullets.
+
+; 0x0073217b にした。
+0x0073217b I did.
+
+; 0x00732190 追尾するミサイル。
+0x00732190 The missiles follow.
+
+; 0x007321b1 発射間隔を短くした追
+0x007321b1 Tracking with shorter firing intervals
+
+; 0x007321c6 尾ミサイル。
+0x007321c6 Tail missile.
+
+; 0x007321e0 敵を追尾し、着弾後に
+0x007321e0 They followed the enemy, and after impact
+
+; 0x007321f5 炎上するミサイル。
+0x007321f5 The missiles go up in flames.
+
+; 0x00732215 放物線を描いて飛び、
+0x00732215 I flew in a parabola,
+
+; 0x0073222a 着弾後しばらくすると
+0x0073222a Some time after impact
+
+; 0x0073223f 爆発する。
+0x0073223f I explode.
+
+; 0x00732256 放物線を描いて飛び、
+0x00732256 I flew in a parabola,
+
+; 0x0073226b 着弾後しばらくすると
+0x0073226b Some time after impact
+
+; 0x00732280 炎上する。
+0x00732280 I burst into flames.
+
+; 0x00732297 設置する事ができ、
+0x00732297 It can be set up
+
+; 0x007322aa 敵が通過すると爆発
+0x007322aa When an enemy passes, it explodes.
+
+; 0x007322bd する。
+0x007322bd I do.
+
+; 0x007322d0 マニピュレータを守る
+0x007322d0 Protect Manipulator
+
+; 0x007322e5 ナックルで攻撃する。
+0x007322e5 I attack with a knuckle.
+
+; 0x00732307 ナックルにウェイトを
+0x00732307 Knuckle a weight.
+
+; 0x0073231c つける事で、遠心力で
+0x0073231c By putting it on, by centrifugal force
+
+; 0x00732331 攻撃性を高めた。
+0x00732331 I increased my aggression.
+
+; 0x0073234e ナックルにツメ付け、
+0x0073234e Knuckle nails,
+
+; 0x00732363 攻撃性を高めた。
+0x00732363 I increased my aggression.
+
+; 0x00732381 形状は金属バットだが
+0x00732381 It's a metal bat.
+
+; 0x00732396 中心部までつまった、
+0x00732396 It's all the way to the center,
+
+; 0x007323c4 小型化軽量する事で、
+0x007323c4 Miniaturized and lightweight
+
+; 0x007323d9 攻撃回数を増やした
+0x007323d9 Increases attack count
+
+; 0x00732405 遠心力を利用して、相
+0x00732405 Using centrifugal force, Ai
+
+; 0x0073241a 手を攻撃する、格闘用
+0x0073241a It's for hand-to-hand combat.
+
+; 0x0073242f 武器。
+0x0073242f Weapon.
+
+; 0x00732442 音の力で刃先を超振動
+0x00732442 Super-vibrating the tip of the blade with the power of sound
+
+; 0x00732457 させた格闘用ナイフ。
+0x00732457 It's a fighting knife.
+
+; 0x00732479 ナックルガードを付け
+0x00732479 Knuckle guards.
+
+; 0x0073248e 防御面を上げた、格闘
+0x0073248e It’s a fight that raises my defense.
+
+; 0x007324a3 用ナイフ。
+0x007324a3 Knife.
+
+; 0x007324ba 刃にウェイトを付ける
+0x007324ba Put weight on the blade
+
+; 0x007324cf 事で遠心力を増やした
+0x007324cf I've increased the centrifugal force with this.
+
+; 0x007324e4 超振動ナイフ
+0x007324e4 Supervibration knife
+
+; 0x007324fd 攻撃を防ぐ小型の盾。
+0x007324fd A small shield to block attacks.
+
+; 0x00732520 材質を変えた、攻撃を
+0x00732520 Change the material, attack.
+
+; 0x00732535 防ぐ盾。
+0x00732535 A shield to block.
+
+; 0x0073254b サイズを大型化した、
+0x0073254b Larger size,
+
+; 0x00732560 前面を覆う盾。
+0x00732560 Shields covered the front.
+
+; 0x0073257c コーティングとサイズ
+0x0073257c Coat and size
+
+; 0x00732591 を大型化した、前面を
+0x00732591 Larger front.
+
+; 0x007325a6 覆う盾。
+0x007325a6 A shield covered it.
+
+; 0x007325bb ルナメタルを加工する
+0x007325bb Process Lunametal
+
+; 0x007325d0 事で強化した、前面を
+0x007325d0 I've strengthened the front.
+
+; 0x007325e5 覆う盾。
+0x007325e5 A shield covered it.
+
+; 0x007325fa 圧縮されたガスによっ
+0x007325fa The compressed gas.
+
+; 0x0073260f て、盾に内蔵された槍
+0x0073260f A-A spear built into a shield.
+
+; 0x00732624 を突き出す。
+0x00732624 I thrust out.
+
+; 0x0073263d 火薬による爆発によっ
+0x0073263d Gunpowder explosion!
+
+; 0x00732652 て、盾に内蔵された槍
+0x00732652 A-A spear built into a shield.
+
+; 0x00732667 を突き出す。
+0x00732667 I thrust out.
+
+; 0x00732680 レイルガンの原理を利
+0x00732680 The principle of Railgun.
+
+; 0x00732695 用して、盾に内蔵され
+0x00732695 Use it, it's built into a shield.
+
+; 0x007326aa た槍を突き出す。
+0x007326aa I thrust out my spear.
+
+; 0x007326c7 高圧縮されたレイザー
+0x007326c7 High-compressed Razor
+
+; 0x007326dc を一時的に発生させ、
+0x007326dc It temporarily spawns
+
+; 0x007326f1 相手を貫く。
+0x007326f1 I pierce my opponent.
+
+; 0x0073270a 直線状の広範囲の敵に
+0x0073270a To a wide, linear enemy
+
+; 0x0073271f レーザーを照射する。
+0x0073271f I fire a laser.
+
+; 0x00732992 　４度目の大戦後から結成された、
+0x00732992 Formed after World War IV.
+
+; 0x007329b3 　地球平和維持連邦　Ｅ．Ｐ．Ｋ．Ｆ
+0x007329b3 Earth Peace Preservation Federation E.P.K.F
+
+; 0x007329d6 　海兵隊員である俺に下った任務は、
+0x007329d6 As a Marine, the mission she gave me was...
+
+; 0x007329f9 　エミコワ島クーデターの鎮圧。
+0x007329f9 Suppression of the Emikowa Island coup.
+
+; 0x00732a18 　島の東側に位置する、海防基地を強
+0x00732a18 The naval base on the east side of the island is strong.
+
+; 0x00732a3b 　襲、奪取するよう言い渡された。
+0x00732a3b He was ordered to attack and take it.
+
+; 0x00732a5d 作戦目標
+0x00732a5d Operational target
+
+; 0x00732a66 　クーデター軍の殲滅
+0x00732a66 Annihilate the coup d'etat army
+
+; 0x00732aa7 　　　　　　　非戦闘地域
+0x00732aa7 Noncombat Area
+
+; 0x00732b06 　先の作戦で隊から人員を失った為、
+0x00732b06 Because we lost personnel from the squad in the last operation,
+
+; 0x00732b29 　周辺の森林警備を言い渡された。
+0x00732b29 I was ordered to guard the forest.
+
+; 0x00732b4a 　基地奪取の際、森へ撤退したクーデ
+0x00732b4a A coup d'état that retreated to the forest during the capture of the base
+
+; 0x00732b92 　発見次第、戦闘許可が下される。
+0x00732b92 As soon as I find her, I'll be granted permission to fight.
+
+; 0x00732bb4 作戦目標
+0x00732bb4 Operational target
+
+; 0x00732bbd 　森林の警備
+0x00732bbd Forest security
+
+; 0x00732bfc 　残存するクーデター軍の排除。
+0x00732bfc Eliminate the remaining coup d'etat army.
+
+; 0x00732c1c 作戦目標
+0x00732c1c Operational target
+
+; 0x00732c25 　残存するクーデター軍の殲滅
+0x00732c25 Destroy the remaining coup d'etat forces
+
+; 0x00732c7c 　逃げたクーデター軍の集結地へ奇襲
+0x00732c7c A surprise attack on the escaped coup d'etat army's gathering point.
+
+; 0x00732c9f 　をかける任務が下った。
+0x00732c9f The mission is complete.
+
+; 0x00732cb8 　既に先発部隊がクーデター軍との交
+0x00732cb8 The advance force has already engaged the coup d'etat army
+
+; 0x00732cdb 　戦中との連絡を受け、我々の部隊も
+0x00732cdb We received word of the war, and our troops
+
+; 0x00732cfe 　派遣される事となった。
+0x00732cfe It was decided that he would be sent.
+
+; 0x00732d18 作戦目標
+0x00732d18 Operational target
+
+; 0x00732d21 　クーデター軍の殲滅
+0x00732d21 Annihilate the coup d'etat army
+
+; 0x00732d68 　残存するクーデター軍の排除。
+0x00732d68 Eliminate the remaining coup d'etat army.
+
+; 0x00732d88 作戦目標
+0x00732d88 Operational target
+
+; 0x00732d91 　残存するクーデター軍の殲滅
+0x00732d91 Destroy the remaining coup d'etat forces
+
+; 0x00732de8 　物資の警護が今回の任務だ。
+0x00732de8 It's our duty to guard the supplies.
+
+; 0x00732e05 　こちらの防衛ラインに、クーデター
+0x00732e05 A coup d'etat on our defense line.
+
+; 0x00732e28 　軍が集結しているとの情報が入った。
+0x00732e28 I received word that the army was gathering.
+
+; 0x00732e4d 　物資を破壊されないよう注意し、集
+0x00732e4d Careful not to destroy supplies, shu.
+
+; 0x00732e70 　まったクーデター軍を迎え撃つ。
+0x00732e70 I meet the coup d'etat army.
+
+; 0x00732e92 作戦目標
+0x00732e92 Operational target
+
+; 0x00732e9b 　物資の警護と敵の排除
+0x00732e9b Guarding goods and eliminating enemies.
+
+; 0x00732ede 　　　　　　　非戦闘地域
+0x00732ede Noncombat Area
+
+; 0x00732f24 　街へつづく道を、敵が占拠している。
+0x00732f24 The enemy is occupying the road to the city.
+
+; 0x00732f49 　敵を排除し、後続部隊の進路を作る
+0x00732f49 Eliminate the enemy and create a path for the rear unit
+
+; 0x00732f6c 　任務が下った。
+0x00732f6c The mission is complete.
+
+; 0x00732f7e 作戦目標
+0x00732f7e Operational target
+
+; 0x00732f87 　道を占拠したクーデター軍の殲滅
+0x00732f87 Annihilate the coup d'etat army that occupied the road
+
+; 0x00732fd4 　　　　　　　非戦闘地域
+0x00732fd4 Noncombat Area
+
+; 0x0073301a 　街に集結しつつあるクーデター軍を
+0x0073301a The coup d'etat army gathering in the city
+
+; 0x0073303d 　発見した。やつらを向かわせる訳に
+0x0073303d I found it. I can't let them go.
+
+; 0x00733060 　はいかない。
+0x00733060 I won't go.
+
+; 0x00733070 作戦目標
+0x00733070 Operational target
+
+; 0x00733079 　集結中のクーデター軍の殲滅
+0x00733079 Annihilating the assembled coup d'etat army
+
+; 0x007330bf 　　　　　　　非戦闘地域
+0x007330bf Noncombat Area
+
+; 0x0073310b 　軍需工業都市ダノーソ。ここでは宇
+0x0073310b Danoso, the military industrial city. Here.
+
+; 0x0073312e 　宙航行可能な新型戦艦を建造中では
+0x0073312e In the middle of building a new warship capable of air navigation
+
+; 0x00733151 　あったが、クーデター軍におさえら
+0x00733151 There was, but the coup d'etat army held them back.
+
+; 0x00733174 　れてしまった。別部隊が拘留された
+0x00733174 We've been detained.
+
+; 0x00733197 　クルーを解放し、艦を取り返す。
+0x00733197 I release the crew and take back the ship.
+
+; 0x007331b8 　今回は発艦までの警護が任務だ。
+0x007331b8 Our duty this time is to guard the ship until it departs.
+
+; 0x007331da 作戦目標
+0x007331da Operational target
+
+; 0x007331e3 　新造戦艦との合流と警護
+0x007331e3 Meet up with the new warships and guard them
+
+; 0x00733228 　　　　　　　非戦闘地域
+0x00733228 Noncombat Area
+
+; 0x00733272 　街を奪還したのもつかの間、貨物用
+0x00733272 The recapture of the city was only temporary for cargo
+
+; 0x00733295 　線路を利用して、長距離砲搭載列車
+0x00733295 Trains equipped with long-range cannons using tracks
+
+; 0x007332b8 　が向かっているとの情報を入手した。
+0x007332b8 I got information that he's on his way.
+
+; 0x007332dd 　砲撃が開始される前に、列車をくい
+0x007332dd Before the bombardment began, we passed through the train
+
+; 0x00733300 　止めなければならない。
+0x00733300 I had to stop her.
+
+; 0x0073331a 作戦目標
+0x0073331a Operational target
+
+; 0x00733323 　長距離砲搭載列車の破壊
+0x00733323 Destruction of a long-range cannon-mounted train
+
+; 0x00733368 　　　　　　　非戦闘地域
+0x00733368 Noncombat Area
+
+; 0x007333b2 　クーデター軍の大型輸送機が墜落し
+0x007333b2 The coup d'etat army’s large transport plane crashed
+
+; 0x007333d5 　たとの連絡を受け、調査部隊を派遣
+0x007333d5 We received word from Tato and sent an investigation team
+
+; 0x007333f8 　する事となった。クーデター軍が回
+0x007333f8 The coup d'etat army is on its way.
+
+; 0x0073341b 　収に来る事が予想される為、調査部
+0x0073341b Investigating Department
+
+; 0x0073343e 　隊の護衛任務が命じられた。
+0x0073343e I was ordered to guard the unit.
+
+; 0x0073345c 作戦目標
+0x0073345c Operational target
+
+; 0x00733465 　調査隊との合流と護衛
+0x00733465 Meet up with the investigation team and guard them.
+
+; 0x007334ae 　残存するクーデター軍の排除。
+0x007334ae Eliminate the remaining coup d'etat army.
+
+; 0x007334ce 作戦目標
+0x007334ce Operational target
+
+; 0x007334d7 　残存するクーデター軍の殲滅
+0x007334d7 Destroy the remaining coup d'etat forces
+
+; 0x00733530 　街へと続くエネルギー供給用のパイ
+0x00733530 An energy supply pie leading to the city.
+
+; 0x00733553 　プラインが狙われている。
+0x00733553 They're after Plein.
+
+; 0x0073356e 　クーデター軍にエネルギープラント
+0x0073356e The coup d'etat army, the energy plant.
+
+; 0x00733591 　を破壊される前に、集まったクーデ
+0x00733591 Gathered coup d'état before it was destroyed
+
+; 0x007335b4 　ター軍を排除する事が任務だ。
+0x007335b4 It's my duty to eliminate the Tar army.
+
+; 0x007335d4 作戦目標
+0x007335d4 Operational target
+
+; 0x007335dd 　エネルギープラントの保護と、
+0x007335dd Protecting the energy plant
+
+; 0x007335fc 　クーデター軍の殲滅
+0x007335fc Annihilate the coup d'etat army
+
+; 0x00733646 　残存するクーデター軍の排除。
+0x00733646 Eliminate the remaining coup d'etat army.
+
+; 0x00733666 作戦目標
+0x00733666 Operational target
+
+; 0x0073366f 　残存するクーデター軍の殲滅
+0x0073366f Destroy the remaining coup d'etat forces
+
+; 0x007336c8 　山林に設置された、高射砲を破壊す
+0x007336c8 Destroy the anti-aircraft cannons set up in the forest
+
+; 0x007336eb 　るよう連絡を受けた。この山を越え
+0x007336eb I've been contacted to do so. Over this mountain.
+
+; 0x0073370e 　なければ我々の部隊が街へたどりつ
+0x0073370e If not, our troops will reach the city.
+
+; 0x00733731 　く事が出来ない。
+0x00733731 I can't.
+
+; 0x00733744 　ふもとから一気に奇襲をかけ、砲台
+0x00733744 He launched a surprise attack from the base all at once, the cannons
+
+; 0x00733767 　を破壊する事となった。
+0x00733767 I ended up destroying it.
+
+; 0x00733781 作戦目標
+0x00733781 Operational target
+
+; 0x0073378a 　全ての高射砲の破壊
+0x0073378a Destroy all anti-aircraft guns.
+
+; 0x007337d1 　残存するクーデター軍の排除。
+0x007337d1 Eliminate the remaining coup d'etat army.
+
+; 0x007337f1 作戦目標
+0x007337f1 Operational target
+
+; 0x007337fa 　残存するクーデター軍の殲滅
+0x007337fa Destroy the remaining coup d'etat forces
+
+; 0x00733851 　街へ続く陸橋に爆弾が仕掛けられた。
+0x00733851 A bomb was planted on the overpass leading to the city.
+
+; 0x00733876 　橋を破壊されては、後続部隊にも影
+0x00733876 If the bridge is destroyed, the shadows will follow.
+
+; 0x00733899 　響が出てしまう。敵との交戦の中、
+0x00733899 It echoes. In the midst of engaging the enemy,
+
+; 0x007338bc 　設置された爆弾を全て解除するよう
+0x007338bc To disarm all the bombs set up
+
+; 0x007338df 　命令が下った。
+0x007338df An order came.
+
+; 0x007338f1 作戦目標
+0x007338f1 Operational target
+
+; 0x007338fa 　仕掛けられた、全ての爆弾の解除
+0x007338fa Disarm all the bombs.
+
+; 0x0073394f 　残存するクーデター軍の排除。
+0x0073394f Eliminate the remaining coup d'etat army.
+
+; 0x0073396f 作戦目標
+0x0073396f Operational target
+
+; 0x00733978 　残存するクーデター軍の殲滅
+0x00733978 Destroy the remaining coup d'etat forces
+
+; 0x007339cf 　以前奪還した、戦艦アルマデルが敵
+0x007339cf The battleship Almadel, the enemy we recaptured before.
+
+; 0x007339f2 　と交戦中との連絡を受け、これを援
+0x007339f2 We've received word that you're engaged, and we're here to support you.
+
+; 0x00733a15 　護するよう命令が下った。奪還した
+0x00733a15 I've been ordered to protect you. I've retaken you.
+
+; 0x00733a38 　ばかりだが、既に実戦配備について
+0x00733a38 But we've already discussed actual deployments.
+
+; 0x00733a5b 　最前線に送られたようだ。
+0x00733a5b Looks like I was sent to the front line.
+
+; 0x00733a80 　戦艦アルマデルの援護
+0x00733a80 Support the battleship Almadel.
+
+; 0x00733ac3 　　　　　　　非戦闘地域
+0x00733ac3 Noncombat Area
+
+; 0x00733b07 　上層部からの通達で、アルマデルへ
+0x00733b07 A notice from the higher-ups to Almadel
+
+; 0x00733b2a 　と転属する事となった。
+0x00733b2a That's what I decided to transfer.
+
+; 0x00733b44 作戦目標
+0x00733b44 Operational target
+
+; 0x00733b4d 　戦艦アルマデルへの着任
+0x00733b4d Appointment to the warship Almadel
+
+; 0x00733b98 　残存するクーデター軍の排除。
+0x00733b98 Eliminate the remaining coup d'etat army.
+
+; 0x00733bb8 作戦目標
+0x00733bb8 Operational target
+
+; 0x00733bc1 　残存するクーデター軍の殲滅
+0x00733bc1 Destroy the remaining coup d'etat forces
+
+; 0x00733c18 　街へ進行中の、クーデター軍の排除
+0x00733c18 The coup d'etat army has been eliminated.
+
+; 0x00733c3b 　に向かう事となった。後始末をやら
+0x00733c3b We're on our way. I'll clean up.
+
+; 0x00733c5e 　せるつもりのようだ・・・
+0x00733c5e Looks like he's gonna...
+
+; 0x00733c79 　上層部は、あまりこの艦が好きでは
+0x00733c79 The higher-ups don't like this ship much.
+
+; 0x00733c9c 　ないらしい。
+0x00733c9c Looks like she doesn't.
+
+; 0x00733cac 作戦目標
+0x00733cac Operational target
+
+; 0x00733cb5 　街へ進行中の、クーデター軍の殲滅
+0x00733cb5 Annihilation of the coup d'etat army in progress in the city.
+
+; 0x00733d0a 　残存するクーデター軍の排除。
+0x00733d0a Eliminate the remaining coup d'etat army.
+
+; 0x00733d2a 作戦目標
+0x00733d2a Operational target
+
+; 0x00733d33 　残存するクーデター軍の殲滅
+0x00733d33 Destroy the remaining coup d'etat forces
+
+; 0x00733d88 　街へと向かう化石燃料を搭載した列
+0x00733d88 A line of fossil fuels headed to the city.
+
+; 0x00733dab 　車がクーデター軍に襲われている。
+0x00733dab The car is under attack by the coup d'etat army.
+
+; 0x00733dce 　この島での戦闘を長引かせない為に
+0x00733dce To avoid prolonging the battle on this island
+
+; 0x00733df1 　も、補給物資を渡す訳にはゆかない。
+0x00733df1 I-I can't give you supplies.
+
+; 0x00733e17 作戦目標
+0x00733e17 Operational target
+
+; 0x00733e20 　襲われた列車の援護と敵の殲滅
+0x00733e20 Support the attacked train and annihilate the enemy
+
+; 0x00733e6b 　　　　　　　非戦闘地域
+0x00733e6b Noncombat Area
+
+; 0x00733eb1 　奪われた街の解放が、今回の任務だ。
+0x00733eb1 Liberation of a stolen city is our mission this time.
+
+; 0x00733ed6 　クーデター軍の必死の抵抗により、
+0x00733ed6 Because of the coup d'etat army's desperate resistance,
+
+; 0x00733ef9 　既に街は戦闘状態となっている。
+0x00733ef9 The city is already in a state of battle.
+
+; 0x00733f1b 作戦目標
+0x00733f1b Operational target
+
+; 0x00733f24 　クーデター軍の殲滅
+0x00733f24 Annihilate the coup d'etat army
+
+; 0x00733f65 　　　　　　　非戦闘地域
+0x00733f65 Noncombat Area
+
+; 0x00733fad 　一度、撤退したクーデター軍では
+0x00733fad Once withdrawn, the coup d'etat army
+
+; 0x00733fce 　あったが、再び動きを見せ始めた。
+0x00733fce There it is, but it starts moving again.
+
+; 0x00733ff1 　街の中心部へ集結し、そこから反撃
+0x00733ff1 We'll gather in the center of the city and counterattack from there
+
+; 0x00734014 　を見せようとしているようだ。
+0x00734014 It seems she's trying to show me.
+
+; 0x00734034 作戦目標
+0x00734034 Operational target
+
+; 0x0073403d 　クーデター軍の殲滅
+0x0073403d Annihilate the coup d'etat army
+
+; 0x0073407e 　　　　　　　非戦闘地域
+0x0073407e Noncombat Area
+
+; 0x007340ca 　スイラ山のふもとに、地対空ミサイ
+0x007340ca At the foot of Mount Suira, a ground-to-air massai
+
+; 0x007340ed 　ルが配備されている。これを破壊し
+0x007340ed Ru is deployed. Destroy it.
+
+; 0x00734110 　なければアルマデルの進入は不可能
+0x00734110 Without it, it's impossible for almadel to enter.
+
+; 0x00734133 　だろう。ＭＡで先行し発見次第、破
+0x00734133 That's right. As soon as we find it on the MA, it'll break.
+
+; 0x00734156 　壊する事が今回の任務。
+0x00734156 This mission is to destroy it.
+
+; 0x00734170 作戦目標
+0x00734170 Operational target
+
+; 0x00734179 　地対空ミサイルの破壊と、
+0x00734179 The destruction of surface-to-air missiles
+
+; 0x00734194 　クーデター軍の殲滅
+0x00734194 Annihilate the coup d'etat army
+
+; 0x007341de 　残存するクーデター軍の排除。
+0x007341de Eliminate the remaining coup d'etat army.
+
+; 0x007341fe 作戦目標
+0x007341fe Operational target
+
+; 0x00734207 　残存するクーデター軍の殲滅
+0x00734207 Destroy the remaining coup d'etat forces
+
+; 0x0073425e 　スイラ山の山頂に設営された、レー
+0x0073425e Set up at the top of Mount Suila, Lay
+
+; 0x00734281 　ダー基地を破壊する事が今回の任務。
+0x00734281 This mission is to destroy dar base.
+
+; 0x007342a6 　この基地の破壊によって、空からの
+0x007342a6 With the destruction of this base, from the sky
+
+; 0x007342c9 　進行を察知されずにすむ。
+0x007342c9 I didn't have to sense her progress.
+
+; 0x007342e5 作戦目標
+0x007342e5 Operational target
+
+; 0x007342ee 　施設内レーダーの破壊と
+0x007342ee The destruction of the in-site radar
+
+; 0x00734307 　爆弾の設置
+0x00734307 Set up bombs.
+
+; 0x00734349 　残存するクーデター軍の排除。
+0x00734349 Eliminate the remaining coup d'etat army.
+
+; 0x00734369 作戦目標
+0x00734369 Operational target
+
+; 0x00734372 　残存するクーデター軍の殲滅
+0x00734372 Destroy the remaining coup d'etat forces
+
+; 0x007343c9 　クーデター軍の、新型機の試験場と
+0x007343c9 The coup d'etat army's testing ground for new models
+
+; 0x007343ec 　思われる場所が特定された。
+0x007343ec I've pinpointed the location she thinks I'm at.
+
+; 0x00734409 　先行調査に向かった友軍からの通信
+0x00734409 A message from a friendly force sent to investigate ahead.
+
+; 0x0073442c 　が途絶えた為、我々が調査に向かう
+0x0073442c Since it's stopped, we're going to investigate.
+
+; 0x0073444f 　事となった。
+0x0073444f That's what happened.
+
+; 0x0073445f 作戦目標
+0x0073445f Operational target
+
+; 0x00734468 　味方部隊の捜索
+0x00734468 Searching for allies
+
+; 0x007344a5 　　　　　　　非戦闘地域
+0x007344a5 Noncombat Area
+
+; 0x007344f1 　占拠されたエネルギー製造プラント
+0x007344f1 Occupied Energy Plant
+
+; 0x00734514 　へ向かうよう言いわたされた。
+0x00734514 I was told to go.
+
+; 0x00734533 　この山岳地帯を越えると、施設には
+0x00734533 If you cross this mountain range, you'll find
+
+; 0x00734556 　最短で到着する事が出来るが、山頂
+0x00734556 We can get there in the shortest amount of time, but the summit
+
+; 0x00734579 　には長距離砲が設置されている。
+0x00734579 Long-range cannons are set up in .
+
+; 0x0073459a 　ＭＡでの先行出撃が決まった。
+0x0073459a It's been decided that we're going ahead with the MA.
+
+; 0x007345ba 作戦目標
+0x007345ba Operational target
+
+; 0x007345c3 　長距離砲の破壊
+0x007345c3 Long-range cannons destroyed.
+
+; 0x00734609 　残存するクーデター軍の排除。
+0x00734609 Eliminate the remaining coup d'etat army.
+
+; 0x00734629 作戦目標
+0x00734629 Operational target
+
+; 0x00734632 　残存するクーデター軍の殲滅
+0x00734632 Destroy the remaining coup d'etat forces
+
+; 0x0073468b 　占拠されたエネルギー製造プラント
+0x0073468b Occupied Energy Plant
+
+; 0x007346ae 　へ向かうよう言いわたされた。
+0x007346ae I was told to go.
+
+; 0x007346cd 　クーデター軍の守りが手薄な道を選
+0x007346cd The coup d'etat army's defenses chose the weaker path
+
+; 0x007346f0 　びはしたが、ここは地雷原であった。
+0x007346f0 This is a minefield.
+
+; 0x00734715 　後続部隊への被害を出さない為にも
+0x00734715 In order to avoid causing any damage to the rear guard, we need to do something
+
+; 0x00734738 　全ての地雷を撤去する事となった。
+0x00734738 We decided to remove all land mines.
+
+; 0x0073475c 作戦目
+0x0073475c Operation
+
+; 0x00734763 　全ての地雷の撤去
+0x00734763 Clear all mines.
+
+; 0x007347a8 　残存するクーデター軍の排除。
+0x007347a8 Eliminate the remaining coup d'etat army.
+
+; 0x007347c8 作戦目標
+0x007347c8 Operational target
+
+; 0x007347d1 　残存するクーデター軍の殲滅
+0x007347d1 Destroy the remaining coup d'etat forces
+
+; 0x0073482a 　占拠されたエネルギー製造プラント
+0x0073482a Occupied Energy Plant
+
+; 0x0073484d 　へ向かうよう言いわたされた。
+0x0073484d I was told to go.
+
+; 0x0073486c 　安全とされる、ギノンシブ陸橋へ向
+0x0073486c Head for the Ginnon Siv overpass, which is considered safe.
+
+; 0x0073488f 　かう事にしたが、クーデター軍を発
+0x0073488f I've decided to do it, but I'm leaving the coup d'etat army.
+
+; 0x007348b2 　見した。前線と合流する前に、ここ
+0x007348b2 I saw it. Before we met up with the front line, here.
+
+; 0x007348d5 　でくい止めなければならない。
+0x007348d5 I have to stop it.
+
+; 0x007348f5 作戦目標
+0x007348f5 Operational target
+
+; 0x007348fe 　クーデター軍の殲滅
+0x007348fe Annihilate the coup d'etat army
+
+; 0x00734945 　残存するクーデター軍の排除。
+0x00734945 Eliminate the remaining coup d'etat army.
+
+; 0x00734965 作戦目標
+0x00734965 Operational target
+
+; 0x007349c5 　クーデター軍に占拠された、エネル
+0x007349c5 Energized by the coup d'etat army.
+
+; 0x007349e8 　ギー製造プラントの奪還が今回の任
+0x007349e8 The recapture of Gii's production plant is our duty.
+
+; 0x00734a0b 　務だ。地下へとつづく施設の為、敵
+0x00734a0b It's my duty. For the facility leading underground, the enemy.
+
+; 0x00734a2e 　の待ち伏せを受けやすいだろう。
+0x00734a2e It'll be easy to get ambushed.
+
+; 0x00734a50 作戦目標
+0x00734a50 Operational target
+
+; 0x00734a59 　エネルギー製造プラントの進入と、
+0x00734a59 The entry of the energy production plant
+
+; 0x00734a7c 　内部のクーデター軍の殲滅
+0x00734a7c Annihilating the coup d'etat forces inside
+
+; 0x00734ac9 　残存するクーデター軍の排除。
+0x00734ac9 Eliminate the remaining coup d'etat army.
+
+; 0x00734ae9 作戦目標
+0x00734ae9 Operational target
+
+; 0x00734af2 　残存するクーデター軍の殲滅
+0x00734af2 Destroy the remaining coup d'etat forces
+
+; 0x00734b49 　アルマデルに向けて、補給物資が届
+0x00734b49 We have supplies for Almadel.
+
+; 0x00734b6c 　くはずが、輸送機のエンジン故障に
+0x00734b6c Or so I thought, but the engine failure of the transporter
+
+; 0x00734b8f 　より、近くの森へ潜伏中との事だ。
+0x00734b8f He's hiding in a nearby forest.
+
+; 0x00734bb2 　重要な物資のようで、早急に合流し
+0x00734bb2 It seemed to be an important resource, so we quickly regrouped
+
+; 0x00734bd5 　確保するようにとの命令を受けた。
+0x00734bd5 I was ordered to secure it.
+
+; 0x00734bf9 作戦目標
+0x00734bf9 Operational target
+
+; 0x00734c02 　補給物資の受け取り
+0x00734c02 Receiving supplies
+
+; 0x00734c49 　残存するクーデター軍の排除。
+0x00734c49 Eliminate the remaining coup d'etat army.
+
+; 0x00734c69 作戦目標
+0x00734c69 Operational target
+
+; 0x00734c72 　残存するクーデター軍の殲滅
+0x00734c72 Destroy the remaining coup d'etat forces
+
+; 0x00734cc9 　クーデター軍が、地下鉱物資源を宇
+0x00734cc9 The coup d'etat army is using underground mineral resources
+
+; 0x00734cec 　宙へ運ぶ為、シャトル打上げを進め
+0x00734cec In order to carry it into the air, we have to launch the shuttle.
+
+; 0x00734d0f 　ている。戦いを長引かせない為に、
+0x00734d0f She's here. In order not to prolong the fight,
+
+; 0x00734d32 　シャトルの打上げを阻止しなければ
+0x00734d32 We have to stop the shuttle from firing.
+
+; 0x00734d55 　ならない。
+0x00734d55 I won't.
+
+; 0x00734d63 作戦目標
+0x00734d63 Operational target
+
+; 0x00734d6c 　シャトルの打ち上げ阻止
+0x00734d6c Stop shuttle launch.
+
+; 0x00734db1 　　　　　　　非戦闘地域
+0x00734db1 Noncombat Area
+
+; 0x00734dfd 　イスマラン山の洞窟内に、忘れ去ら
+0x00734dfd In a cave on Mt. Ismaran, forget.
+
+; 0x00734e20 　れた古い施設がある。どうやらクー
+0x00734e20 There's an old facility. Looks like coo.
+
+; 0x00734e43 　デター軍は、ここを地下武器集積所
+0x00734e43 This is the underground weapons center.
+
+; 0x00734e66 　として使用しているらしい。
+0x00734e66 Or so it seems.
+
+; 0x00734e83 　着々と反撃のチャンスをうかがい息
+0x00734e83 Breathe steadily, waiting for a chance to strike back
+
+; 0x00734ea6 　を潜めているのだろう。
+0x00734ea6 He must be hiding.
+
+; 0x00734ec0 作戦目標
+0x00734ec0 Operational target
+
+; 0x00734ec9 　クーデター軍の殲滅
+0x00734ec9 Annihilate the coup d'etat army
+
+; 0x00734f10 　残存するクーデター軍の排除。
+0x00734f10 Eliminate the remaining coup d'etat army.
+
+; 0x00734f30 作戦目標
+0x00734f30 Operational target
+
+; 0x00734f39 　残存するクーデター軍の殲滅
+0x00734f39 Destroy the remaining coup d'etat forces
+
+; 0x00734f90 　廃棄されたエネルギー施設に、ＭＡ
+0x00734f90 Abandoned energy facilities, MA
+
+; 0x00734fb3 　の目撃情報があると連絡を受けた。
+0x00734fb3 I received a report of an eyewitness.
+
+; 0x00734fd6 　この施設は軍事的利用価値はないが、
+0x00734fd6 This facility isn't worth military use,
+
+; 0x00734ffb 　クーデター軍が潜伏している可能性
+0x00734ffb It's possible the coup d'etat army is hiding.
+
+; 0x0073501e 　ある為、調査に向かう事となった。
+0x0073501e Because of that, we decided to investigate.
+
+; 0x00735042 作戦目標
+0x00735042 Operational target
+
+; 0x0073504b 　エネルギー施設の調査
+0x0073504b Investigate energy facilities
+
+; 0x0073508e 　　　　　　　非戦闘地域
+0x0073508e Noncombat Area
+
+; 0x007350d6 　巨大地下空洞で、味方機らしい救難
+0x007350d6 It’s a giant underground cavern, a rescue like an ally’s
+
+; 0x007350f9 　信号をキャッチした。内部は複雑な
+0x007350f9 I've got a signal. It's complicated.
+
+; 0x0073511c 　構造になっており、ＭＡでの救助と
+0x0073511c It's structured, with the help of MA.
+
+; 0x0073513f 　なった。
+0x0073513f That's it.
+
+; 0x0073514b 作戦目標
+0x0073514b Operational target
+
+; 0x00735154 　味方部隊の救助
+0x00735154 Rescue an ally unit
+
+; 0x00735191 　　　　　　　非戦闘地域
+0x00735191 Noncombat Area
+
+; 0x007351dd 　宇宙から輸送型の攻撃艦を降下した
+0x007351dd A transport-type attack ship descended from space.
+
+; 0x00735200 　との連絡を受けた。
+0x00735200 Or so I was told.
+
+; 0x00735215 　輸送中の物資の確認、もしくは輸送
+0x00735215 Checking or transporting goods in transit
+
+; 0x00735238 　攻撃艦を破壊するよう命令を受けた。
+0x00735238 I was ordered to destroy the attack ship.
+
+; 0x0073525d 　どうやら、クーデター軍には大きな
+0x0073525d Apparently, the coup d'etat army has a big one
+
+; 0x00735280 　後ろだてがあるようだ。
+0x00735280 Looks like there's a backdoor.
+
+; 0x0073529a 作戦目標
+0x0073529a Operational target
+
+; 0x007352a3 　輸送型攻撃艦の破壊
+0x007352a3 Destruction of transport-type attack ships
+
+; 0x007352ea 　残存するクーデター軍の排除。
+0x007352ea Eliminate the remaining coup d'etat army.
+
+; 0x0073530a 作戦目標
+0x0073530a Operational target
+
+; 0x00735313 　残存するクーデター軍の殲滅
+0x00735313 Destroy the remaining coup d'etat forces
+
+; 0x00735368 　ダミッハの街で、輸送型攻撃艦との
+0x00735368 In the city of Damich, with a transport-type attack ship
+
+; 0x0073538b 　戦闘中との連絡を受けた。ここから
+0x0073538b I've been contacted during battle. From here.
+
+; 0x007353ae 　ならばアルマデルが一番早く到着で
+0x007353ae In that case, Almadel would be the first to arrive
+
+; 0x007353d1 　きる為、援護に向かう事となった。
+0x007353d1 I'm going to support her.
+
+; 0x007353f5 作戦目標
+0x007353f5 Operational target
+
+; 0x007353fe 　輸送型攻撃艦の破壊
+0x007353fe Destruction of transport-type attack ships
+
+; 0x00735445 　残存するクーデター軍の排除。
+0x00735445 Eliminate the remaining coup d'etat army.
+
+; 0x00735465 作戦目標
+0x00735465 Operational target
+
+; 0x0073546e 　残存するクーデター軍の殲滅
+0x0073546e Destroy the remaining coup d'etat forces
+
+; 0x007354c7 　アムレハ防衛基地。ここはエミコワ
+0x007354c7 Amreha Defense Base. This is Emikova.
+
+; 0x007354ea 　島最大の軍事施設である。おそらく
+0x007354ea It's the island's largest military facility. Probably.
+
+; 0x0073550d 　この戦いによって、クーデターに終
+0x0073550d This battle ends in a coup d'etat.
+
+; 0x00735530 　わりをむかえる事となるだろう。
+0x00735530 I'm sure I'll have to turn around.
+
+; 0x00735551 　気がかりは、Ｅ．Ｐ．Ｋ．Ｆ中央部
+0x00735551 My concern is in the middle of E.P.K.F.
+
+; 0x00735574 　は地下施設をやけに気にしている。
+0x00735574 He's really worried about the underground facility.
+
+; 0x00735598 作戦目標
+0x00735598 Operational target
+
+; 0x007355a1 　地下施設への侵入
+0x007355a1 Invasion of underground facility
+
+; 0x007355ca 　　　　ＭＩＳＳＩＯＮ　２５−１
+0x007355ca MISSION 25-1
+
+; 0x00735604 　　　　　　　非戦闘地域
+0x00735604 Noncombat Area
+
+; 0x0073564e 　地下施設へと続く、長いトンネルを
+0x0073564e A long tunnel leading to an underground facility
+
+; 0x00735671 　確認した。Ｅ．Ｐ．Ｋ．Ｆ中央部が
+0x00735671 Confirmed. Central E.P.K.F.
+
+; 0x00735694 　気にしていた施設はおそらくここの
+0x00735694 The facility I was worried about was probably here
+
+; 0x007356b7 　事だろう。だが既に、何者かの進入
+0x007356b7 I'm sure that's the case. But someone's already in.
+
+; 0x007356da 　の形跡がそこにはあった。
+0x007356da There were signs there.
+
+; 0x007356f6 作戦目標
+0x007356f6 Operational target
+
+; 0x007356ff 　地下施設最深部への進行
+0x007356ff Progress to the deepest underground facility
+
+; 0x00735744 　　　　　　　非戦闘地域
+0x00735744 Noncombat Area
+
+; 0x0073578c 　もはや、ムーンレイの起動を止める
+0x0073578c I'll stop activating the Moonray now.
+
+; 0x007357af 　事が出来なくなってしまった。
+0x007357af I can't do it anymore.
+
+; 0x007357ce 　だが、最後の望みをかけ最下層部の
+0x007357ce But, with my last hope, the lowest level
+
+; 0x007357f1 　中枢コンピュータへと向かった。
+0x007357f1 I head to the central computer.
+
+; 0x00735813 作戦目標
+0x00735813 Operational target
+
+; 0x0073581c 　中枢コンピュータの破壊
+0x0073581c Destroy the central computer.
+
+; 0x00735861 　　　　　　　非戦闘地域
+0x00735861 Noncombat Area
+
+; 0x00735952 セーブ
+0x00735952 Save
+
+; 0x00735959 ロード
+0x00735959 Load
+
+; 0x00735960 タイトル
+0x00735960 Title
+
+; 0x00735969 移動
+0x00735969 Move
+
+; 0x0073596e 作戦室
+0x0073596e Operation Room
+
+; 0x0073597a ガレージ
+0x0073597a Garage
+
+; 0x00735983 キャンセル
+0x00735983 Cancel
+
+; 0x0073598e 作戦説明
+0x0073598e Strategy Details
+
+; 0x00735997 自室
+0x00735997 My room
+
+; 0x0073599c ＭＡ換装
+0x0073599c MA Switch
+
+; 0x007359a5 装備変更
+0x007359a5 Change of gear
+
+; 0x007359ae アイテム変更
+0x007359ae Change Item
+
+; 0x007359bb ビューモード
+0x007359bb View Mode
+
+; 0x007359d7 ハンドガン
+0x007359d7 Handgun
+
+; 0x007359e2 Ｓマシンガン
+0x007359e2 S-machine gun
+
+; 0x007359ef Ａライフル
+0x007359ef A Rifle
+
+; 0x007359fa ショットガン
+0x007359fa Shotgun
+
+; 0x00735a07 レイルガン
+0x00735a07 Railgun
+
+; 0x00735a12 レーザー
+0x00735a12 Laser
+
+; 0x00735a1b 火炎放射
+0x00735a1b Flame Blow
+
+; 0x00735a24 ガトリング
+0x00735a24 Gatling
+
+; 0x00735a2f Ｇランチャ
+0x00735a2f G-Ranta
+
+; 0x00735a3a Ｒランチャ
+0x00735a3a R-Rancha
+
+; 0x00735a45 手榴弾
+0x00735a45 Grenade
+
+; 0x00735a4c ナックル
+0x00735a4c Knuckle
+
+; 0x00735a55 メイス
+0x00735a55 Mace
+
+; 0x00735a5c ナイフ
+0x00735a5c Knife
+
+; 0x00735a63 シールド
+0x00735a63 Shield
+
+; 0x00735a6c Ｐブレイカー
+0x00735a6c P-Braker
+
+; 0x00735a79 Ｂランチャ
+0x00735a79 B-Rancha
+
+; 0x00735a84 装備解除
+0x00735a84 Unequipped.
+
+; 0x00735a8d ＭＡパーツ
+0x00735a8d MAPart
+
+; 0x00735a9d アイテム
+0x00735a9d Item
+
+; 0x00735aa6 ヘッド
+0x00735aa6 Head
+
+; 0x00735aad ボディ
+0x00735aad Body
+
+; 0x00735ab4 アーム
+0x00735ab4 Arm
+
+; 0x00735abb レッグ
+0x00735abb Leg
+
+; 0x00735ac7 個数選択
+0x00735ac7 Selective unit
+
+; 0x00735ada （装備数　）
+0x00735ada (Number of equipment)
+
+; 0x00735b10 ＨＰ
+0x00735b10 HP
+
+; 0x00735b19 耐実弾
+0x00735b19 Anti-life bullet
+
+; 0x00735b22 耐熱
+0x00735b22 Heatproof
+
+; 0x00735b2b 耐格闘
+0x00735b2b Resistance
+
+; 0x00735b34 固定武装
+0x00735b34 Fixed-arms
+
+; 0x00735b3d スロット
+0x00735b3d Slot
+
+; 0x00735b46 索敵能力
+0x00735b46 Enemy Search
+
+; 0x00735b4f 格闘攻撃
+0x00735b4f Combat attack
+
+; 0x00735b58 武器種別
+0x00735b58 Weapon type
+
+; 0x00735b61 ブースト
+0x00735b61 Boost
+
+; 0x00735b6a 燃焼時間
+0x00735b6a Burning time
+
+; 0x00735b73 走行力
+0x00735b73 Runner power
+
+; 0x00735b7c 走行距離
+0x00735b7c Miles
+
+; 0x00735b85 跳躍力
+0x00735b85 Jump power
+
+; 0x00735b8e サイズ
+0x00735b8e Size
+
+; 0x00735b97 威力
+0x00735b97 Power
+
+; 0x00735ba0 命中率
+0x00735ba0 Hit rate
+
+; 0x00735ba9 リロード
+0x00735ba9 Reload
+
+; 0x00735bb2 弾間隔
+0x00735bb2 Bullet space
+
+; 0x00735bbb コスト
+0x00735bbb Cost
+
+; 0x00735bc4 耐久力
+0x00735bc4 HP
+
+; 0x00735bcd よろしいですか？
+0x00735bcd May I?
+
+; 0x00735be3 いいえ
+0x00735be3 No. No.
+
+; 0x00735cb2 セーブ
+0x00735cb2 Save
+
+; 0x00735cb9 ロード
+0x00735cb9 Load
+
+; 0x00735cc0 タイトル
+0x00735cc0 Title
+
+; 0x00735cce ブリッジ
+0x00735cce Bridge
+
+; 0x00735cdc ガレージ
+0x00735cdc Garage
+
+; 0x00735ce5 キャンセル
+0x00735ce5 Cancel
+
+; 0x00735cf0 作戦説明
+0x00735cf0 Strategy  Details
+
+; 0x00735cfe ＭＡ換装
+0x00735cfe MA Switch
+
+; 0x00735d07 装備変更
+0x00735d07 Change of gear
+
+; 0x00735d10 アイテム変更
+0x00735d10 Change Item
+
+; 0x00735d1d ビューモード
+0x00735d1d View Mode
+
+; 0x00735d39 ハンドガン
+0x00735d39 Handgun
+
+; 0x00735d44 Ｓマシンガン
+0x00735d44 S-machine gun
+
+; 0x00735d51 Ａライフル
+0x00735d51 A Rifle
+
+; 0x00735d5c ショットガン
+0x00735d5c Shotgun
+
+; 0x00735d69 レイルガン
+0x00735d69 Railgun
+
+; 0x00735d74 レーザー
+0x00735d74 Laser
+
+; 0x00735d7d 火炎放射
+0x00735d7d Flame Blow
+
+; 0x00735d86 ガトリング
+0x00735d86 Gatling
+
+; 0x00735d91 Ｇランチャ
+0x00735d91 G-Ranta
+
+; 0x00735d9c Ｒランチャ
+0x00735d9c R-Rancha
+
+; 0x00735da7 手榴弾
+0x00735da7 Grenade
+
+; 0x00735dae ナックル
+0x00735dae Knuckle
+
+; 0x00735db7 メイス
+0x00735db7 Mace
+
+; 0x00735dbe ナイフ
+0x00735dbe Knife
+
+; 0x00735dc5 シールド
+0x00735dc5 Shield
+
+; 0x00735dce Ｐブレイカー
+0x00735dce P-Braker
+
+; 0x00735ddb Ｂランチャ
+0x00735ddb B-Rancha
+
+; 0x00735de6 装備解除
+0x00735de6 Unequipped.
+
+; 0x00735def ＭＡパーツ
+0x00735def MAPart
+
+; 0x00735dff アイテム
+0x00735dff Item
+
+; 0x00735e08 ヘッド
+0x00735e08 Head
+
+; 0x00735e0f ボディ
+0x00735e0f Body
+
+; 0x00735e16 アーム
+0x00735e16 Arm
+
+; 0x00735e1d レッグ
+0x00735e1d Leg
+
+; 0x00735e29 個数選択
+0x00735e29 Selective unit
+
+; 0x00735e3c （装備数　）
+0x00735e3c (Number of equipment)
+
+; 0x00735e72 ＨＰ
+0x00735e72 HP
+
+; 0x00735e7b 耐実弾
+0x00735e7b Anti-life bullet
+
+; 0x00735e84 耐熱
+0x00735e84 Heatproof
+
+; 0x00735e8d 耐格闘
+0x00735e8d Resistance
+
+; 0x00735e96 固定武装
+0x00735e96 Fixed-arms
+
+; 0x00735ea8 索敵能力
+0x00735ea8 Enemy Search
+
+; 0x00735eb1 格闘攻撃
+0x00735eb1 Combat attack
+
+; 0x00735eba 武器種別
+0x00735eba Weapon type
+
+; 0x00735ec3 ブースト
+0x00735ec3 Boost
+
+; 0x00735ecc 燃焼時間
+0x00735ecc Burning time
+
+; 0x00735ed5 走行力
+0x00735ed5 Runner power
+
+; 0x00735ede 走行距離
+0x00735ede Miles
+
+; 0x00735ee7 跳躍力
+0x00735ee7 Jump power
+
+; 0x00735ef0 サイズ
+0x00735ef0 Size
+
+; 0x00735ef9 威力
+0x00735ef9 Power
+
+; 0x00735f02 命中率
+0x00735f02 Hit rate
+
+; 0x00735f0b リロード
+0x00735f0b Reload
+
+; 0x00735f14 弾間隔
+0x00735f14 Bullet space
+
+; 0x00735f1d コスト
+0x00735f1d Cost
+
+; 0x00735f26 耐久力
+0x00735f26 HP
+
+; 0x00735f2f よろしいですか？
+0x00735f2f May I?
+
+; 0x00735f45 いいえ
+0x00735f45 No. No.
+
+; 0x00735fa0 前の画面に戻ります。
+0x00735fa0 Return to the front screen.
+
+; 0x00735fb5 セーブを行います。
+0x00735fb5 Save.
+
+; 0x00735fc8 ロードを行います。
+0x00735fc8 I'll load.
+
+; 0x00735fdb 作戦の説明を受けます。
+0x00735fdb I'll accept your explanation.
+
+; 0x00735ff2 自室に移動します。
+0x00735ff2 Move to my room.
+
+; 0x00736005 作戦室に移動します。
+0x00736005 Move to Operations.
+
+; 0x0073601a 調達を行ないます。
+0x0073601a I'll get you some.
+
+; 0x0073602d ガレージに移動します。
+0x0073602d Go to the garage.
+
+; 0x00736044 他の場所へ移動します。
+0x00736044 Move elsewhere.
+
+; 0x0073605b ＭＡパーツの組み替えを¥n行う事が出来ます。
+0x0073605b Rearrange MA parts
+
+; 0x00736086 装備の変更を¥n行う事が出来ます。
+0x00736086 Change equipment
+
+; 0x007360a7 アイテムの変更を¥n行う事が出来ます。
+0x007360a7 Change items
+
+; 0x007360cc セットアップしたＭＡを¥n見る事が出来ます。
+0x007360cc View the MA setup
+
+; 0x00736102 装備を解除します。
+0x00736102 Disarming equipment.
+
+; 0x00736115 ＭＡパーツの購入を¥n行う事が出来ます。
+0x00736115 Buy MA Parts
+
+; 0x0073613c 武器の購入を¥n行う事が出来ます。
+0x0073613c Buy weapons
+
+; 0x0073615d アイテムの購入を¥n行う事が出来ます。
+0x0073615d Buy items
+
+; 0x00736182 タイトルへ戻ります。
+0x00736182 Back to title.
+
+; 0x00736197 自室に戻ります。
+0x00736197 I'm going to my room.
+
+; 0x007361a8 作戦室に戻ります。
+0x007361a8 I'll return to the operations room.
+
+; 0x007361bb 調達に戻ります。
+0x007361bb I'll go back and get it.
+
+; 0x007361cc ガレージに戻ります。
+0x007361cc Back to the garage.
+
+; 0x007361e1 固定武装は
+0x007361e1 Fixed weapon
+
+; 0x007361ec 装備変更できません。
+0x007361ec Cannot change gear.
+
+; 0x00736260 前の画面に戻ります。
+0x00736260 Return to the title screen.
+
+; 0x00736275 セーブを行います。
+0x00736275 Save.
+
+; 0x00736288 ロードを行います。
+0x00736288 Load.
+
+; 0x0073629b 作戦の説明を受けます。
+0x0073629b Briefing strategy
+
+; 0x007362b2 自室に移動します。
+0x007362b2 Move to my room.
+
+; 0x007362c5 ブリッジに移動します。
+0x007362c5 Move to bridge.
+
+; 0x007362dc 調達を行ないます。
+0x007362dc I'll get you some.
+
+; 0x007362ef ガレージに移動します。
+0x007362ef Go to the garage.
+
+; 0x00736306 他の場所へ移動します。
+0x00736306 Move elsewhere.
+
+; 0x0073631d ＭＡパーツの組み替えを¥n行う事が出来ます。
+0x0073631d Rearrange MA parts
+
+; 0x00736348 装備の変更を¥n行う事が出来ます。
+0x00736348 Change equipment
+
+; 0x00736369 アイテムの変更を¥n行う事が出来ます。
+0x00736369 Change items
+
+; 0x0073638e セットアップしたＭＡを¥n見る事が出来ます。
+0x0073638e View the MA setup
+
+; 0x007363c4 装備を解除します。
+0x007363c4 Disarming equipment.
+
+; 0x007363d7 ＭＡパーツの購入を¥n行う事が出来ます。
+0x007363d7 Buy MA Parts
+
+; 0x007363fe 武器の購入を¥n行う事が出来ます。
+0x007363fe Buy weapons
+
+; 0x0073641f アイテムの購入を¥n行う事が出来ます。
+0x0073641f Buy items
+
+; 0x00736444 タイトルへ戻ります。
+0x00736444 Back to title.
+
+; 0x00736459 自室に戻ります。
+0x00736459 I'm going to my room.
+
+; 0x0073646a ブリッジに戻ります。
+0x0073646a Back to the bridge.
+
+; 0x0073647f 調達に戻ります。
+0x0073647f I'll go back and get it.
+
+; 0x00736490 ガレージに戻ります。
+0x00736490 Back to the garage.
+
+; 0x007364a5 固定武装は
+0x007364a5 Fixed weapon
+
+; 0x007364b0 装備変更できません。
+0x007364b0 Cannot change gear.
+
+; 0x0073bf13 ロードする
+0x0073bf13 Load.
+
+; 0x0073bf1e セーブしました
+0x0073bf1e Saved.
+
+; 0x0073bf2d ロードしました
+0x0073bf2d Loaded.
+
+; 0x0073bf3c キャンセル
+0x0073bf3c Cancel
+
+; 0x0073bf4c 強くて初めから
+0x0073bf4c Strong from the start.
+
+; 0x0073bf5b 続きから
+0x0073bf5b Continue.
+
+; 0x0073bf73 ガレージＭＡ
+0x0073bf73 Garage MA
+
+; 0x0073bf80 ＭＡパーツ
+0x0073bf80 MA Part
+
+; 0x0073bf8b ウェポン
+0x0073bf8b Weapon
+
+; 0x0073bf94 所持金
+0x0073bf94 Money on hand
+
+; 0x0073bf9b データがありません
+0x0073bf9b No data.
+
+; 0x00788298 アルマデルの艦橋から
+0x00788298 From Almadel's bridge.
+
+; 0x007882ad 爆発する基地を見つめていた。
+0x007882ad She stared at the exploding base.
+
+; 0x007882ca おそらく、ここで戦った全ての者が、
+0x007882ca Most likely, everyone who fought here
+
+; 0x007882ed この光を見つめているだろう。
+0x007882ed You're staring at this light.
+
+; 0x0078830a この戦いにより、取り戻すことの出来ない
+0x0078830a Because of this battle, we can't get it back.
+
+; 0x00788331 多くのものを失ってしまった。
+0x00788331 I lost a lot of things.
+
+; 0x0078834e しかし、倒れこみそうなオレをささえる
+0x0078834e But she holds me back as I fall.
+
+; 0x00788373 リオンの瞳からは
+0x00788373 From Rion’s eyes
+
+; 0x00788384 希望が消えたようには見えない。
+0x00788384 It didn't look like hope had vanished.
+
+; 0x007883a3 オレもまた、それを信じているからこそ
+0x007883a3 It's because I believe in that, too.
+
+; 0x007883c8 歩む事が出来るのだから・・・
+0x007883c8 You can walk.
+
+; 0x007883e5 この年、
+0x007883e5 This year,
+
+; 0x007883ee Ｅ．Ｐ．Ｋ．Ｆと火星圏との間で
+0x007883ee Between E.P.K.F. and the Mars region
+
+; 0x0078840d 平和条約が結ばれる事となった。
+0x0078840d A peace treaty was signed.
+
+; 0x00788690 オレは収容された別の艦から
+0x00788690 I'm from another ship.
+
+; 0x007886ab 爆発する基地を見つめていた。
+0x007886ab She stared at the exploding base.
+
+; 0x007886c8 おそらく、ここで戦った全ての者が、
+0x007886c8 Most likely, everyone who fought here
+
+; 0x007886eb この光を見つめているだろう。
+0x007886eb You're staring at this light.
+
+; 0x00788708 この戦いにより、取り戻すことの出来ない
+0x00788708 Because of this battle, we can't get it back.
+
+; 0x0078872f 多くのものを失ってしまった。
+0x0078872f I lost a lot of things.
+
+; 0x0078874c しかし、希望を捨てた訳ではない。
+0x0078874c Still, she hadn’t given up hope
+
+; 0x0078876d パンドラの箱のように
+0x0078876d Like Pandora's Box
+
+; 0x00788782 欠片でも希望が残っているのならば
+0x00788782 If even a sliver of hope remains
+
+; 0x007887b6 歩む事が出来るのだから・・・
+0x007887b6 You can walk.
+
+; 0x007887d3 この年、
+0x007887d3 This year,
+
+; 0x007887dc Ｅ．Ｐ．Ｋ．Ｆと火星圏との間で
+0x007887dc Between E.P.K.F. and the Mars region
+
+; 0x007887fb 平和条約が結ばれる事となった。
+0x007887fb A peace treaty was signed.
+
+; 0x00788c70 ２３世紀
+0x00788c70 23rd century
+
+; 0x00788c79 月の移住を果たした人類は、
+0x00788c79 Humanity, who had moved to the moon
+
+; 0x00788c94 新たな移住先と資源の採掘の場
+0x00788c94 A new place to move and a site to mine resources
+
+; 0x00788cb1 として火星を選んだ。
+0x00788cb1 I chose Mars.
+
+; 0x00788cc6 過酷な環境の下、工作用重機として
+0x00788cc6 Under harsh conditions, as construction heavy machinery
+
+; 0x00788ce7 開発されたマシンワーカー（ＭＷ）
+0x00788ce7 Machine Worker (M.W.W.)
+
+; 0x00788d08 ではあったが、火星内での
+0x00788d08 But in mars
+
+; 0x00788d21 大規模な戦争によって、
+0x00788d21 Because of a largescale war
+
+; 0x00788d38 軍事利用される事となった。
+0x00788d38 It was used for military purposes.
+
+; 0x00788d53 マシンアーマー（ＭＡ）の誕生である。
+0x00788d53 Machine armor (MA) is born.
+
+; 0x00788d78 戦いは終結したが、地球圏では
+0x00788d78 The battle is over, but in the Earth Sphere
+
+; 0x00788d95 ４度目の世界戦争が始まる。
+0x00788d95 The fourth world war will begin.
+
+; 0x00788db0 火星での運用実績から戦いは既に、
+0x00788db0 Based on our performance on Mars, we've already fought.
+
+; 0x00788dd1 ＭＡを用いたものへと変わっていた。
+0x00788dd1 It had changed to one that used MA.
+
+; 0x00788df4 終戦後、地球では秩序を求め、
+0x00788df4 After the war, on Earth, we sought order
+
+; 0x00788e11 国と国とがまとまり世界国家として、
+0x00788e11 As a cohesive world nation and nation,
+
+; 0x00788e57 を結成したのである。
+0x00788e57 That's how he formed it.
+
+; 0x00788e6c 自国の軍隊にいたオレは、
+0x00788e6c I was in my country's army.
+
+; 0x00788e85 国がＥ．Ｐ．Ｋ．Ｆとの統合により、
+0x00788e85 Because the country was united with E.P.K.F.
+
+; 0x00788ea8 新たな部隊へと配属された。
+0x00788ea8 I was assigned to a new unit.
+
+; 0x00788ec3 今回下された任務は、Ｅ．Ｐ．Ｋ．Ｆの
+0x00788ec3 The mission assigned this time was E.P.K.F
+
+; 0x00788ee8 軍事産業島として発展していた
+0x00788ee8 It had developed as a military-industry island
+
+; 0x00788f05 『エミコワ島』
+0x00788f05 “Emikowa Island”
+
+; 0x00788f14 そこで起きた軍事クーデターの、
+0x00788f14 The military coup d'etat that occurred there
+
+; 0x00788f33 治安維持派遣である。
+0x00788f33 They were sent to maintain order.
+
+; 0x00788f48 表面上の平和の影に、
+0x00788f48 The shadow of peace on the surface,
+
+; 0x00788f5d 世界はまた新たな歪みを
+0x00788f5d The world is warped again.
+
+; 0x00788f74 生み出しているのだろう・・・。
+0x00788f74 You're creating it.
+
+; 0x007e1720 デビット：
+0x007e1720 David:
+
+; 0x007e172b 隊長！敵ミサイル多数接近！
+0x007e172b Captain! Enemy missiles incoming!
+
+; 0x007e1746 くそ、避けられない
+0x007e1746 Damn, I can't avoid it.
+
+; 0x007e1778 カイト：
+0x007e1778 Kite:
+
+; 0x007e1781 こちら第０６ＭＡ小隊、
+0x007e1781 This is Team 06MA,
+
+; 0x007e1798 降下完了しました。
+0x007e1798 We're down.
+
+; 0x007e17b1 部隊長：
+0x007e17b1 Squad:
+
+; 0x007e17ba 了解した。スレイター小隊は
+0x007e17ba Understood. Slater platoon
+
+; 0x007e17d5 基地の西側から制圧を開始しろ。
+0x007e17d5 Start conquering the base from the west.
+
+; 0x007e1800 カイト：
+0x007e1800 Kite:
+
+; 0x007e1809 了解。
+0x007e1809 Roger.
+
+; 0x007e1810 ロバート、デビット付いて来い。
+0x007e1810 Robert, follow me.
+
+; 0x007e1835 ロバート：
+0x007e1835 ROB:
+
+; 0x007e1840 了解。
+0x007e1840 Roger.
+
+; 0x007e1854 デビット：
+0x007e1854 David:
+
+; 0x007e185f 了解しました。
+0x007e185f Yes, sir.
+
+; 0x007e1890 デビット：
+0x007e1890 David:
+
+; 0x007e189b うわぁーっ！
+0x007e189b Whoa!
+
+; 0x007e18c8 カイト：
+0x007e18c8 Kite:
+
+; 0x007e18d1 デビーートッ！
+0x007e18d1 Debbit!
+
+; 0x007e18e7 ロバート：
+0x007e18e7 ROB:
+
+; 0x007e18f2 こちら、ロバート！
+0x007e18f2 Here, Robert!
+
+; 0x007e1905 敵ＭＡが動き出した！
+0x007e1905 Enemy MA's on the move!
+
+; 0x007e1920 カイト：
+0x007e1920 Kite:
+
+; 0x007e1929 デビットがやられた。
+0x007e1929 David's down.
+
+; 0x007e193e ロバート、気をつけろ！
+0x007e193e Robert, watch it!
+
+; 0x007e1970 デビット：
+0x007e1970 David:
+
+; 0x007e197b 隊長っ敵ミサイル多数接近！
+0x007e197b Captain, enemy missiles approaching!
+
+; 0x007e1996 くそっ、避けられない！
+0x007e1996 Dammit, I can't dodge it!
+
+; 0x007e19cc カイト：
+0x007e19cc Kite:
+
+; 0x007e19e6 西側格納地区を制圧した。
+0x007e19e6 They conquered the west hangar.
+
+; 0x007e1a05 カイト：
+0x007e1a05 Kite:
+
+; 0x007e1a0e これより帰還する。
+0x007e1a0e I'm going home.
+
+; 0x007e1a28 カイト：
+0x007e1a28 Kite:
+
+; 0x007e1a31 ・・・
+0x007e1a31 ...
+
+; 0x007e1a3f カイト：
+0x007e1a3f Kite:
+
+; 0x007e1a48 デビット・・・
+0x007e1a48 David.
+
+; 0x007e1a57 おれはまた仲間を・・・
+0x007e1a57 I'll get my friends again.
+
+; 0x007e2238 デビット：
+0x007e2238 David:
+
+; 0x007e2243 隊長！敵ミサイル多数接近！
+0x007e2243 Captain! Enemy missiles incoming!
+
+; 0x007e225e くそ、避けられない
+0x007e225e Damn, I can't avoid it.
+
+; 0x007e2290 カイト：
+0x007e2290 Kite:
+
+; 0x007e2299 こちら第０６ＭＡ小隊、
+0x007e2299 This is Team 06MA,
+
+; 0x007e22b0 降下完了しました。
+0x007e22b0 We're down.
+
+; 0x007e22c9 部隊長：
+0x007e22c9 Squad:
+
+; 0x007e22d2 了解した。スレイター小隊は
+0x007e22d2 Understood. Slater platoon
+
+; 0x007e22ed 基地の西側から制圧を開始しろ。
+0x007e22ed Start conquering the base from the west.
+
+; 0x007e2318 カイト：
+0x007e2318 Kite:
+
+; 0x007e2321 了解。
+0x007e2321 Roger.
+
+; 0x007e2328 ロバート、デビット付いて来い。
+0x007e2328 Robert, follow me.
+
+; 0x007e234d ロバート：
+0x007e234d ROB:
+
+; 0x007e2358 了解。
+0x007e2358 Roger.
+
+; 0x007e236c デビット：
+0x007e236c David:
+
+; 0x007e2377 了解しました。
+0x007e2377 Yes, sir.
+
+; 0x007e23a8 デビット：
+0x007e23a8 David:
+
+; 0x007e23b3 うわぁーっ！
+0x007e23b3 Whoa!
+
+; 0x007e23e0 カイト：
+0x007e23e0 Kite:
+
+; 0x007e23e9 デビーートッ！
+0x007e23e9 Debbit!
+
+; 0x007e23ff ロバート：
+0x007e23ff ROB:
+
+; 0x007e240a こちら、ロバート！
+0x007e240a Here, Robert!
+
+; 0x007e241d 敵ＭＡが動き出した！
+0x007e241d Enemy MA's on the move!
+
+; 0x007e2438 カイト：
+0x007e2438 Kite:
+
+; 0x007e2441 デビットがやられた。
+0x007e2441 David's down.
+
+; 0x007e2456 ロバート、気をつけろ！
+0x007e2456 Robert, watch it!
+
+; 0x007e2488 デビット：
+0x007e2488 David:
+
+; 0x007e2493 隊長っ敵ミサイル多数接近！
+0x007e2493 Captain, enemy missiles approaching!
+
+; 0x007e24ae くそっ、避けられない！
+0x007e24ae Dammit, I can't dodge it!
+
+; 0x007e24e4 カイト：
+0x007e24e4 Kite:
+
+; 0x007e251d カイト：
+0x007e251d Kite:
+
+; 0x007e2526 これより帰還する。
+0x007e2526 I'm going home.
+
+; 0x007e2540 カイト：
+0x007e2540 Kite:
+
+; 0x007e2549 ・・・
+0x007e2549 ...
+
+; 0x007e2557 カイト：
+0x007e2557 Kite:
+
+; 0x007e2560 デビット・・・
+0x007e2560 David.
+
+; 0x007e256f おれはまた仲間を・・・
+0x007e256f I'll get my friends again.
+
+; 0x007e2e48 デビット：
+0x007e2e48 David:
+
+; 0x007e2e53 隊長！敵ミサイル多数接近！
+0x007e2e53 Captain! Enemy missiles incoming!
+
+; 0x007e2e6e くそ、避けられない
+0x007e2e6e Damn, I can't avoid it.
+
+; 0x007e2ea0 カイト：
+0x007e2ea0 Kite:
+
+; 0x007e2ea9 こちら第０６ＭＡ小隊、
+0x007e2ea9 This is Team 06MA,
+
+; 0x007e2ec0 降下完了しました。
+0x007e2ec0 We're down.
+
+; 0x007e2ed9 部隊長：
+0x007e2ed9 Squad:
+
+; 0x007e2ee2 了解した。スレイター小隊は
+0x007e2ee2 Understood. Slater platoon
+
+; 0x007e2efd 基地の西側から制圧を開始しろ。
+0x007e2efd Start conquering the base from the west.
+
+; 0x007e2f28 カイト：
+0x007e2f28 Kite:
+
+; 0x007e2f31 了解。
+0x007e2f31 Roger.
+
+; 0x007e2f38 ロバート、デビット付いて来い。
+0x007e2f38 Robert, follow me.
+
+; 0x007e2f5d ロバート：
+0x007e2f5d ROB:
+
+; 0x007e2f68 了解。
+0x007e2f68 Roger.
+
+; 0x007e2f7c デビット：
+0x007e2f7c David:
+
+; 0x007e2f87 了解しました。
+0x007e2f87 Yes, sir.
+
+; 0x007e2fb8 デビット：
+0x007e2fb8 David:
+
+; 0x007e2fc3 うわぁーっ！
+0x007e2fc3 Whoa!
+
+; 0x007e2ff0 カイト：
+0x007e2ff0 Kite:
+
+; 0x007e2ff9 デビーートッ！
+0x007e2ff9 Debbit!
+
+; 0x007e300f ロバート：
+0x007e300f ROB:
+
+; 0x007e301a こちら、ロバート！
+0x007e301a Here, Robert!
+
+; 0x007e302d 敵ＭＡが動き出した！
+0x007e302d Enemy MA's on the move!
+
+; 0x007e3048 カイト：
+0x007e3048 Kite:
+
+; 0x007e3051 デビットがやられた。
+0x007e3051 David's down.
+
+; 0x007e3066 ロバート、気をつけろ！
+0x007e3066 Robert, watch it!
+
+; 0x007e3098 デビット：
+0x007e3098 David:
+
+; 0x007e30a3 隊長っ敵ミサイル多数接近！
+0x007e30a3 Captain, enemy missiles approaching!
+
+; 0x007e30be くそっ、避けられない！
+0x007e30be Dammit, I can't dodge it!
+
+; 0x007e30f4 カイト：
+0x007e30f4 Kite:
+
+; 0x007e310e 西側格納地区を制圧した。
+0x007e310e They conquered the west hangar.
+
+; 0x007e312d カイト：
+0x007e312d Kite:
+
+; 0x007e3136 これより帰還する。
+0x007e3136 I'm going home.
+
+; 0x007e3150 カイト：
+0x007e3150 Kite:
+
+; 0x007e3159 ・・・
+0x007e3159 ...
+
+; 0x007e3167 カイト：
+0x007e3167 Kite:
+
+; 0x007e3170 デビット・・・
+0x007e3170 David.
+
+; 0x007e317f おれはまた仲間を・・・
+0x007e317f I'll get my friends again.
+
+; 0x007e3a38 デビット：
+0x007e3a38 David:
+
+; 0x007e3a43 隊長！敵ミサイル多数接近！
+0x007e3a43 Captain! Enemy missiles incoming!
+
+; 0x007e3a5e くそ、避けられない
+0x007e3a5e Damn, I can't avoid it.
+
+; 0x007e3a90 カイト：
+0x007e3a90 Kite:
+
+; 0x007e3a99 こちら第０６ＭＡ小隊、
+0x007e3a99 This is Team 06MA,
+
+; 0x007e3ab0 降下完了しました。
+0x007e3ab0 We're down.
+
+; 0x007e3ac9 部隊長：
+0x007e3ac9 Squad:
+
+; 0x007e3ad2 了解した。スレイター小隊は
+0x007e3ad2 Understood. Slater platoon
+
+; 0x007e3aed 基地の西側から制圧を開始しろ。
+0x007e3aed Start conquering the base from the west.
+
+; 0x007e3b18 カイト：
+0x007e3b18 Kite:
+
+; 0x007e3b21 了解。
+0x007e3b21 Roger.
+
+; 0x007e3b28 ロバート、デビット付いて来い。
+0x007e3b28 Robert, follow me.
+
+; 0x007e3b4d ロバート：
+0x007e3b4d ROB:
+
+; 0x007e3b58 了解。
+0x007e3b58 Roger.
+
+; 0x007e3b6c デビット：
+0x007e3b6c David:
+
+; 0x007e3b77 了解しました。
+0x007e3b77 Yes, sir.
+
+; 0x007e3ba8 デビット：
+0x007e3ba8 David:
+
+; 0x007e3bb3 うわぁーっ！
+0x007e3bb3 Whoa!
+
+; 0x007e3be0 カイト：
+0x007e3be0 Kite:
+
+; 0x007e3be9 デビーートッ！
+0x007e3be9 Debbit!
+
+; 0x007e3bff ロバート：
+0x007e3bff ROB:
+
+; 0x007e3c0a こちら、ロバート！
+0x007e3c0a Here, Robert!
+
+; 0x007e3c1d 敵ＭＡが動き出した！
+0x007e3c1d Enemy MA's on the move!
+
+; 0x007e3c38 カイト：
+0x007e3c38 Kite:
+
+; 0x007e3c41 デビットがやられた。
+0x007e3c41 David's down.
+
+; 0x007e3c56 ロバート、気をつけろ！
+0x007e3c56 Robert, watch it!
+
+; 0x007e3c88 デビット：
+0x007e3c88 David:
+
+; 0x007e3c93 隊長っ敵ミサイル多数接近！
+0x007e3c93 Captain, enemy missiles approaching!
+
+; 0x007e3cae くそっ、避けられない！
+0x007e3cae Dammit, I can't dodge it!
+
+; 0x007e3ce4 カイト：
+0x007e3ce4 Kite:
+
+; 0x007e3cfe 西側格納地区を制圧した。
+0x007e3cfe They conquered the west hangar.
+
+; 0x007e3d1d カイト：
+0x007e3d1d Kite:
+
+; 0x007e3d26 これより帰還する。
+0x007e3d26 I'm going home.
+
+; 0x007e3d40 カイト：
+0x007e3d40 Kite:
+
+; 0x007e3d49 ・・・
+0x007e3d49 ...
+
+; 0x007e3d57 カイト：
+0x007e3d57 Kite:
+
+; 0x007e3d60 デビット・・・
+0x007e3d60 David.
+
+; 0x007e3d6f おれはまた仲間を・・・
+0x007e3d6f I'll get my friends again.
+
+; 0x018c6350 デビット：
+0x018c6350 David:
+
+; 0x018c635b 隊長！敵ミサイル多数接近！
+0x018c635b Captain! Enemy missiles incoming!
+
+; 0x018c6376 くそ、避けられない
+0x018c6376 Damn, I can't avoid it.
+
+; 0x018c63a8 カイト：
+0x018c63a8 Kite:
+
+; 0x018c63b1 こちら第０６ＭＡ小隊、
+0x018c63b1 This is Team 06MA,
+
+; 0x018c63c8 降下完了しました。
+0x018c63c8 We're down.
+
+; 0x018c63e1 部隊長：
+0x018c63e1 Squad:
+
+; 0x018c63ea 了解した。スレイター小隊は
+0x018c63ea Understood. Slater platoon
+
+; 0x018c6405 基地の西側から制圧を開始しろ。
+0x018c6405 Start conquering the base from the west.
+
+; 0x018c6430 カイト：
+0x018c6430 Kite:
+
+; 0x018c6439 了解。
+0x018c6439 Roger.
+
+; 0x018c6440 ロバート、デビット付いて来い。
+0x018c6440 Robert, follow me.
+
+; 0x018c6465 ロバート：
+0x018c6465 ROB:
+
+; 0x018c6470 了解。
+0x018c6470 Roger.
+
+; 0x018c6484 デビット：
+0x018c6484 David:
+
+; 0x018c648f 了解しました。
+0x018c648f Yes, sir.
+
+; 0x018c64c0 デビット：
+0x018c64c0 David:
+
+; 0x018c64f8 カイト：
+0x018c64f8 Kite:
+
+; 0x018c6501 デビーートッ！
+0x018c6501 Debbit!
+
+; 0x018c6517 ロバート：
+0x018c6517 ROB:
+
+; 0x018c6522 こちら、ロバート！
+0x018c6522 Here, Robert!
+
+; 0x018c6535 敵ＭＡが動き出した！
+0x018c6535 Enemy MA's on the move!
+
+; 0x018c6550 カイト：
+0x018c6550 Kite:
+
+; 0x018c6559 デビットがやられた。
+0x018c6559 David's down.
+
+; 0x018c656e ロバート、気をつけろ！
+0x018c656e Robert, watch it!
+
+; 0x018c65a0 デビット：
+0x018c65a0 David:
+
+; 0x018c65ab 隊長っ敵ミサイル多数接近！
+0x018c65ab Captain, enemy missiles approaching!
+
+; 0x018c65c6 くそっ、避けられない！
+0x018c65c6 Dammit, I can't dodge it!
+
+; 0x018c65fc カイト：
+0x018c65fc Kite:
+
+; 0x018c6616 西側格納地区を制圧した。
+0x018c6616 They conquered the west hangar.
+
+; 0x018c6635 カイト：
+0x018c6635 Kite:
+
+; 0x018c663e これより帰還する。
+0x018c663e I'm going home.
+
+; 0x018c6658 カイト：
+0x018c6658 Kite:
+
+; 0x018c6661 ・・・
+0x018c6661 ...
+
+; 0x018c666f カイト：
+0x018c666f Kite:
+
+; 0x018c6678 デビット・・・
+0x018c6678 David.
+
+; 0x018c6687 おれはまた仲間を・・・
+0x018c6687 I'll get my friends again.
+
+; 0x018c6ee0 ミルン：
+0x018c6ee0 Miln:
+
+; 0x018c6ee9 今日はどうするの？
+0x018c6ee9 What are you doing today?
+
+; 0x018c6f18 一般兵：
+0x018c6f18 General Soldier
+
+; 0x018c6f21 第０３ＭＡ小隊、潜伏中の
+0x018c6f21 3MA Platoon, in hiding
+
+; 0x018c6f5e カイト：
+0x018c6f5e Kite:
+
+; 0x018c6f67 近いな・・・　第０６ＭＡ小隊
+0x018c6f67 It's close. 06MA Platoon.
+
+; 0x018c6f84 援護に向かいます。
+0x018c6f84 I'll go support you.
+
+; 0x018c6f9d カイト：
+0x018c6f9d Kite:
+
+; 0x018c6fa6 ロバート行くぞ！
+0x018c6fa6 Robert, come on!
+
+; 0x018c6fbe ロバート：
+0x018c6fbe ROB:
+
+; 0x018c6fc9 了解。
+0x018c6fc9 Roger.
+
+; 0x018c6fec 部隊長：
+0x018c6fec Squad:
+
+; 0x018c6ff5 敵部隊、撤退を確認
+0x018c6ff5 Enemy unit, retreat confirmed.
+
+; 0x018c7008 こちらも撤退せよ
+0x018c7008 Retreat now.
+
+; 0x018c701f カイト：
+0x018c701f Kite:
+
+; 0x018c7028 了解。
+0x018c7028 Roger.
+
+; 0x018c7048 一般兵：
+0x018c7048 General Soldier
+
+; 0x018c7051 うわぁぁ・・・
+0x018c7051 Wow...
+
+; 0x018c7060 ッザー・・・
+0x018c7060 Hsssss.
+
+; 0x018c7079 カイト：
+0x018c7079 Kite:
+
+; 0x018c7082 くそっ、
+0x018c7082 Damn,
+
+; 0x018c708b おそかったかっ！
+0x018c708b You're late!
+
+; 0x018c76b0 ミルン：
+0x018c76b0 Miln:
+
+; 0x018c76b9 今日はどうするの？
+0x018c76b9 What are you doing today?
+
+; 0x018c76f3 Ｅ．Ｐ．Ｋ．Ｆの奇襲だ！
+0x018c76f3 E.P.K.F. surprise attack!
+
+; 0x018c770c 出撃可能なものは迎え撃て
+0x018c770c If you can deploy, intercept.
+
+; 0x018c7731 部隊長：
+0x018c7731 Squad:
+
+; 0x018c773a こちら第０１ＭＡ小隊、
+0x018c773a This is Team 01MA,
+
+; 0x018c7751 東側は既に戦闘が始まっている。
+0x018c7751 A battle had already begun on the east side.
+
+; 0x018c7776 部隊長：
+0x018c7776 Squad:
+
+; 0x018c777f スレイター小隊は、北側から進軍
+0x018c777f Slater platoon marched from the north.
+
+; 0x018c779e して、敵のキャンプを制圧しろ。
+0x018c779e And conquer the enemy camp.
+
+; 0x018c77c3 カイト：
+0x018c77c3 Kite:
+
+; 0x018c77cc 了解。
+0x018c77cc Roger.
+
+; 0x018c77d3 ロバート、後ろは任せたぞ。
+0x018c77d3 Robert, I'll leave the rear to you.
+
+; 0x018c77fa ロバート：
+0x018c77fa ROB:
+
+; 0x018c7805 了解。
+0x018c7805 Roger.
+
+; 0x018c7f58 ミルン：
+0x018c7f58 Miln:
+
+; 0x018c7f61 今日はどうするの？
+0x018c7f61 What are you doing today?
+
+; 0x018c7f90 部隊長：
+0x018c7f90 Squad:
+
+; 0x018c7f99 敵が次々と防衛ラインを
+0x018c7f99 One by one, the enemy formed a defensive line
+
+; 0x018c7fb0 越えて来ているぞ！
+0x018c7fb0 It's coming over!
+
+; 0x018c7fc9 部隊長：
+0x018c7fc9 Squad:
+
+; 0x018c7fd2 各部隊、準備が出来次第
+0x018c7fd2 As soon as we're ready.
+
+; 0x018c7fe9 ＭＡで迎え撃て！
+0x018c7fe9 Attack with MA!
+
+; 0x018c8000 カイト：
+0x018c8000 Kite:
+
+; 0x018c8009 了解。
+0x018c8009 Roger.
+
+; 0x018c8758 ミルン：
+0x018c8758 Miln:
+
+; 0x018c8761 今日はどうするの？
+0x018c8761 What are you doing today?
+
+; 0x018c8790 ロバート：
+0x018c8790 ROB:
+
+; 0x018c879b くそっ　倒しても倒しても
+0x018c879b Damn it, no matter how much I beat him.
+
+; 0x018c87b4 やつら、出てきやがる！
+0x018c87b4 They're out!
+
+; 0x018c87d1 カイト：
+0x018c87d1 Kite:
+
+; 0x018c87da ロバート
+0x018c87da Robert
+
+; 0x018c87e3 ぼやいてるヒマはないぞ！
+0x018c87e3 There's no time to grumble!
+
+; 0x018c8802 ロバート：
+0x018c8802 ROB:
+
+; 0x018c880d 了解。
+0x018c880d Roger.
+
+; 0x018c8f68 ミルン：
+0x018c8f68 Miln:
+
+; 0x018c8f71 今日はどうするの？
+0x018c8f71 What are you doing today?
+
+; 0x018c8fa0 ロバート：
+0x018c8fa0 ROB:
+
+; 0x018c8fab 隊長っ！
+0x018c8fab Sir!
+
+; 0x018c8fb4 脚部損傷しました。
+0x018c8fb4 My leg is damaged.
+
+; 0x018c8fcd カイト：
+0x018c8fcd Kite:
+
+; 0x018c8fd6 大丈夫か！　ロバートッ！
+0x018c8fd6 You okay, Robert?
+
+; 0x018c8ff6 ロバート：
+0x018c8ff6 ROB:
+
+; 0x018c9001 戦車の砲撃に、
+0x018c9001 To a tank bombardment...
+
+; 0x018c9010 直撃しちまいました。
+0x018c9010 It's a direct hit.
+
+; 0x018c902b カイト：
+0x018c902b Kite:
+
+; 0x018c9034 ロバートはこの場で待機しろ。
+0x018c9034 Robert, wait here.
+
+; 0x018c9051 残りは、おれがなんとかする。
+0x018c9051 I'll handle the rest.
+
+; 0x018c9074 ロバート：
+0x018c9074 ROB:
+
+; 0x018c907f 無茶です隊長！
+0x018c907f That's crazy, captain!
+
+; 0x018c908e この数のやつらに！
+0x018c908e To this many!
+
+; 0x018c99a8 ミルン：
+0x018c99a8 Miln:
+
+; 0x018c99b1 今日はどうするの？
+0x018c99b1 What are you doing today?
+
+; 0x018c99e0 カイト：
+0x018c99e0 Kite:
+
+; 0x018c99e9 見えた、アレか！
+0x018c99e9 I see it, that!
+
+; 0x018c9a01 女性：
+0x018c9a01 Lady:
+
+; 0x018c9a08 そこのＭＡ！　味方なんでしょ？
+0x018c9a08 You there, MA! You're on our side, aren't you?
+
+; 0x018c9a27 離陸まで援護して！
+0x018c9a27 Cover for takeoff!
+
+; 0x018c9a49 ・・・
+0x018c9a49 ...
+
+; 0x018c9a57 女性：
+0x018c9a57 Lady:
+
+; 0x018c9a5e ちょっと、聞こえてるの！？
+0x018c9a5e Hey, can you hear me!?
+
+; 0x018c9a80 カイト：
+0x018c9a80 Kite:
+
+; 0x018c9a89 分かっている！
+0x018c9a89 I know!
+
+; 0x018c9a98 それがオレの任務だ
+0x018c9a98 That's my job.
+
+; 0x018c9ab1 女性：
+0x018c9ab1 Lady:
+
+; 0x018c9ab8 なに？　感じわるいっ！
+0x018c9ab8 What? It's disgusting!
+
+; 0x018c9acf キャッ！　左舷被弾！
+0x018c9acf Kyah! A port hit!
+
+; 0x018c9aea 女性：
+0x018c9aea Lady:
+
+; 0x018c9af1 ちょっとぉ〜
+0x018c9af1 Hey~
+
+; 0x018c9afe しっかり守ってよっ！
+0x018c9afe Make sure to protect me!
+
+; 0x018c9b19 カイト：
+0x018c9b19 Kite:
+
+; 0x018c9b22 やってるだろ！　なんなら
+0x018c9b22 You're doing it!
+
+; 0x018c9b3b おまえが戦ったらどうだ？
+0x018c9b3b Why don't you fight?
+
+; 0x018c9b5a 女性：
+0x018c9b5a Lady:
+
+; 0x018c9b61 なんて人っ！？
+0x018c9b61 What a person!?
+
+; 0x018c9b8c カイト：
+0x018c9b8c Kite:
+
+; 0x018c9b95 あらかた片付いたようだな。
+0x018c9b95 Looks like we're pretty much done here.
+
+; 0x018c9bb7 女性：
+0x018c9bb7 Lady:
+
+; 0x018c9bcd 撤退して行きます。
+0x018c9bcd I'll retreat.
+
+; 0x018c9bec 艦長：
+0x018c9bec Sir:
+
+; 0x018c9bf3 艦長のオーウェンだ
+0x018c9bf3 Captain Owen.
+
+; 0x018c9c06 よくやってくれた。
+0x018c9c06 Good job.
+
+; 0x018c9c1f 艦長：
+0x018c9c1f Sir:
+
+; 0x018c9c26 ヘルメットをはずして、
+0x018c9c26 I took off my helmet.
+
+; 0x018c9c3d 名前と所属部隊を教えてくれ。
+0x018c9c3d Tell me your name and unit.
+
+; 0x018c9c66 カイト：
+0x018c9c66 Kite:
+
+; 0x018c9c8e 第０６ＭＡ小隊　小隊長
+0x018c9c8e Captain of the 06MA Platoon
+
+; 0x018c9cab カイト：
+0x018c9cab Kite:
+
+; 0x018c9cb4 カイト・スレイター少尉です。
+0x018c9cb4 2nd Lt. Kite Slater.
+
+; 0x018c9cd8 艦長：
+0x018c9cd8 Sir:
+
+; 0x018c9cdf ごくろうだった　憶えておこう。
+0x018c9cdf I'll remember that.
+
+; 0x018c9cfe 艦のＭＡ回収後、発艦しろ！
+0x018c9cfe After retrieving the ship's MA, set sail!
+
+; 0x018c9d34 一般兵：
+0x018c9d34 General Soldier
+
+; 0x018c9d3d こちら第０２ＭＡ小隊
+0x018c9d3d This is Squad 02MA
+
+; 0x018c9d52 クルーの救出は成功した。
+0x018c9d52 We successfully rescued the crew.
+
+; 0x018c9d71 一般兵：
+0x018c9d71 General Soldier
+
+; 0x018c9d7a 発艦までにまだ時間が
+0x018c9d7a There's still time before we leave.
+
+; 0x018c9d8f かかる。
+0x018c9d8f I take it.
+
+; 0x018c9d9e 一般兵：
+0x018c9d9e General Soldier
+
+; 0x018c9da7 急いでくれ。
+0x018c9da7 Hurry.
+
+; 0x018ca548 ミルン：
+0x018ca548 Miln:
+
+; 0x018ca551 今日はどうするの？
+0x018ca551 What are you doing today?
+
+; 0x018ca580 カイト：
+0x018ca580 Kite:
+
+; 0x018ca589 こんなもの・・・。
+0x018ca589 That's...
+
+; 0x018ca59c 何に使おうというんだ。
+0x018ca59c What am I going to use it for?
+
+; 0x018cac50 ミルン：
+0x018cac50 Miln:
+
+; 0x018cac59 今日はどうするの？
+0x018cac59 What are you doing today?
+
+; 0x018cac88 ロバート：
+0x018cac88 ROB:
+
+; 0x018cac93 調査部隊はどこだ？　それより、
+0x018cac93 Where's the investigation team? More importantly,
+
+; 0x018cacb2 やつら何を運んでやがったんだ？
+0x018cacb2 What did they carry?
+
+; 0x018cacec カイト：
+0x018cacec Kite:
+
+; 0x018cacf5 やめろ　ロバート
+0x018cacf5 Stop, Robert.
+
+; 0x018cad06 任務外の行動だぞ。
+0x018cad06 It's not part of the mission.
+
+; 0x018cad34 ロバート：
+0x018cad34 ROB:
+
+; 0x018cad3f なんだこの部品は！
+0x018cad3f What is this part?!
+
+; 0x018cad52 まさかこんな物まで・・・
+0x018cad52 I can't believe this thing...
+
+; 0x018cad71 ロバート：
+0x018cad71 ROB:
+
+; 0x018cad7c ヤツらは一体・・・
+0x018cad7c Who the hell are they?
+
+; 0x018cada8 ロバート：
+0x018cada8 ROB:
+
+; 0x018cadb3 うわぁ〜！
+0x018cadb3 Wow!
+
+; 0x018cadd8 カイト：
+0x018cadd8 Kite:
+
+; 0x018cade1 ロバート！
+0x018cade1 Robert!
+
+; 0x018cadec くそっ、どこからだ！？
+0x018cadec Dammit, where did it come from?!
+
+; 0x018cae09 カイト：
+0x018cae09 Kite:
+
+; 0x018cae12 こちら第０６ＭＡ小隊
+0x018cae12 This is Team 06MA.
+
+; 0x018cae27 仲間がやられた！
+0x018cae27 My men are down!
+
+; 0x018cae3e 部隊長：
+0x018cae3e Squad:
+
+; 0x018cae47 敵が多数接近している。
+0x018cae47 Many enemies are approaching.
+
+; 0x018cae5e すぐに撤退しろ！
+0x018cae5e Retreat now!
+
+; 0x018cae75 カイト：
+0x018cae75 Kite:
+
+; 0x018cae7e っつ　・・・了解。
+0x018cae7e Ugh... Okay.
+
+; 0x018cb768 ミルン：
+0x018cb768 Miln:
+
+; 0x018cb771 今日はどうするの？
+0x018cb771 What are you doing today?
+
+; 0x018cb7a0 部隊長：
+0x018cb7a0 Squad:
+
+; 0x018cb7a9 敵部隊、撤退を確認
+0x018cb7a9 Enemy unit, retreat confirmed.
+
+; 0x018cb7bc だが、警戒を怠るな。
+0x018cb7bc But keep your guard up.
+
+; 0x018cbf68 ミルン：
+0x018cbf68 Miln:
+
+; 0x018cbf71 今日はどうするの？
+0x018cbf71 What are you doing today?
+
+; 0x018cbfa0 カイト：
+0x018cbfa0 Kite:
+
+; 0x018cbfa9 ターゲットを全て破壊した。
+0x018cbfa9 Target destroyed.
+
+; 0x018cbfc4 作戦エリアを離脱する。
+0x018cbfc4 Leave the operation area.
+
+; 0x018cc670 ミルン：
+0x018cc670 Miln:
+
+; 0x018cc679 今日はどうするの？
+0x018cc679 What are you doing today?
+
+; 0x018cc6a8 カイト：
+0x018cc6a8 Kite:
+
+; 0x018cc6b1 爆弾を全て解除した。
+0x018cc6b1 I removed all the bombs.
+
+; 0x018cc6c6 作戦エリアを離脱する。
+0x018cc6c6 Leave the operation area.
+
+; 0x018cce80 ミルン：
+0x018cce80 Miln:
+
+; 0x018cce89 今日はどうするの？
+0x018cce89 What are you doing today?
+
+; 0x018cceb8 男性：
+0x018cceb8 Man:
+
+; 0x018ccebf こち・・艦・ルマ・・ル
+0x018ccebf This ship, luma, luma.
+
+; 0x018cced6 ・・・ナー大尉・
+0x018cced6 Captain Nah.
+
+; 0x018cceed 男性：
+0x018cceed Man:
+
+; 0x018ccef4 敵の直撃をく・った
+0x018ccef4 I took a direct hit from an enemy.
+
+; 0x018ccf07 チクショウッ・後退す・・
+0x018ccf07 Damn, I'm retreating.
+
+; 0x018ccf26 カイト：
+0x018ccf26 Kite:
+
+; 0x018ccf40 援護にまわりつつ、進軍する。
+0x018ccf40 We go around to support her and advance.
+
+; 0x018ccf63 男性：
+0x018ccf63 Man:
+
+; 0x018ccf6a 応援か・・ガガッ・・
+0x018ccf6a Reinforcements. Gagah.
+
+; 0x018ccf96 男性：
+0x018ccf96 Man:
+
+; 0x018ccf9d この先に大型機動兵・・
+0x018ccf9d Large mobile soldiers up ahead.
+
+; 0x018ccfb4 を確認・・た。　注意しろ
+0x018ccfb4 Check. Be careful.
+
+; 0x018ccfe8 カイト：
+0x018ccfe8 Kite:
+
+; 0x018ccff1 ０６ＭＡ小隊　敵大型機動兵器を
+0x018ccff1 06MA Platoon, enemy large mobile weapon.
+
+; 0x018cd010 破壊した　繰り返す・・・
+0x018cd010 Destroyed. Repeat...
+
+; 0x018cd02f 男性：
+0x018cd02f Man:
+
+; 0x018cd036 聞いた声だとは思ったが、
+0x018cd036 I thought it was a voice I’d heard,
+
+; 0x018cd04f カイト、カイト・スレイターか？
+0x018cd04f Kite, Kite Slater?
+
+; 0x018cd074 カイト：
+0x018cd074 Kite:
+
+; 0x018cd07d まさか・・・ガーナー教官！？
+0x018cd07d Instructor garner?!
+
+; 0x018cd0a1 ガーナー教官：
+0x018cd0a1 Instructor Garner:
+
+; 0x018cd0b0 久しぶりだなカイト　色々あって
+0x018cd0b0 It's been a while, Kite.
+
+; 0x018cd0cf また戦場に逆戻りよ！
+0x018cd0cf Back to the battlefield!
+
+; 0x018cd0ea ガーナー教官：
+0x018cd0ea Instructor Garner:
+
+; 0x018cd0f9 それに今は教官でなく
+0x018cd0f9 And now I'm not an instructor.
+
+; 0x018cd10e 大尉だ！　タ・イ・イッ！
+0x018cd10e Captain! Ta-i-i!
+
+; 0x018cd12d カイト：
+0x018cd12d Kite:
+
+; 0x018cd136 ご無事で何よりです、大尉。
+0x018cd136 Glad you're safe, Captain.
+
+; 0x018cd158 大尉：
+0x018cd158 Capt:
+
+; 0x018cd15f はははっまだおまえに心配される
+0x018cd15f Hahaha, you still worry about me.
+
+; 0x018cd17e 歳でもねーぞ　そんな事より
+0x018cd17e I'm not old enough. More importantly
+
+; 0x018cd19f 大尉：
+0x018cd19f Capt:
+
+; 0x018cd1a6 とっとと帰還しろ！　話はその後
+0x018cd1a6 Go home! We'll talk later.
+
+; 0x018cd1c5 ゆっくり聞かせてやる
+0x018cd1c5 I'll tell you slowly
+
+; 0x018cd1e0 カイト：
+0x018cd1e0 Kite:
+
+; 0x018cd1e9 了解　第０６ＭＡ小隊
+0x018cd1e9 Roger, 06MA Platoon.
+
+; 0x018cd1fe 帰還します。
+0x018cd1fe I'm returning.
+
+; 0x018cd224 カイト：
+0x018cd224 Kite:
+
+; 0x018cd22d さっきの通信にあった、
+0x018cd22d The one in the transmission earlier...
+
+; 0x018cd244 大型機動兵器はコイツだな・・・
+0x018cd244 He's the big mobile weapon.
+
+; 0x018cd978 ミルン：
+0x018cd978 Miln:
+
+; 0x018cd981 今日はどうするの？
+0x018cd981 What are you doing today?
+
+; 0x018cd9b0 リオン：
+0x018cd9b0 Rion:
+
+; 0x018cd9b9 １番機、射出しました。
+0x018cd9b9 Number one, ejected.
+
+; 0x018cd9ec 大尉：
+0x018cd9ec Capt:
+
+; 0x018cd9f3 カイト先に行ってるぞ。
+0x018cd9f3 Kite's going ahead.
+
+; 0x018cda0a 射出には気をつけろよ！
+0x018cda0a Watch your ejection!
+
+; 0x018cda3c リオン：
+0x018cda3c Rion:
+
+; 0x018cda45 ２番機、準備はいい？
+0x018cda45 Ready, TSF Two?
+
+; 0x018cda61 カイト：
+0x018cda61 Kite:
+
+; 0x018cda6a ああ　いつでも・・・
+0x018cda6a Yeah. Anytime.
+
+; 0x018cda98 カイト：
+0x018cda98 Kite:
+
+; 0x018cdaa1 うっ！
+0x018cdaa1 Uu!
+
+; 0x018cdaa8 （すごいＧだっ）
+0x018cdaa8 (Amazing G!)
+
+; 0x018cdabf リオン：
+0x018cdabf Rion:
+
+; 0x018cdac8 ２番機、射出しましたー。
+0x018cdac8 No. 2's ejected.
+
+; 0x018cdae1 ニッコリ
+0x018cdae1 Nicky.
+
+; 0x018cdb04 大尉：
+0x018cdb04 Capt:
+
+; 0x018cdb0b ６機撃破っ！　カイトッ
+0x018cdb0b Six down! Kite!
+
+; 0x018cdb22 腕がなまったんじゃないのか？
+0x018cdb22 Didn't you get rusty?
+
+; 0x018cdb45 リオン：
+0x018cdb45 Rion:
+
+; 0x018cdb4e ガーナー大尉っ
+0x018cdb4e Captain Garner!
+
+; 0x018cdb5d あんまり無茶しないでください！
+0x018cdb5d Don't push yourself too hard!
+
+; 0x018ce1d8 ミルン：
+0x018ce1d8 Miln:
+
+; 0x018ce1e1 今日はどうするの？
+0x018ce1e1 What are you doing today?
+
+; 0x018ce210 カイト：
+0x018ce210 Kite:
+
+; 0x018ce219 スレイター機、出ますっ
+0x018ce219 Slater, I'm leaving!
+
+; 0x018ce250 リオン：
+0x018ce250 Rion:
+
+; 0x018ce259 この信号・・・
+0x018ce259 This signal.
+
+; 0x018ce268 気をつけてスレイター少尉。
+0x018ce268 Be careful, 2nd Lt. Slater.
+
+; 0x018ce289 リオン：
+0x018ce289 Rion:
+
+; 0x018ce292 クーデター発生当時に大きな打撃
+0x018ce292 A major blow at the time of the coup.
+
+; 0x018ce2b1 を受けた拠点で必ず目撃された、
+0x018ce2b1 It was always seen at the base where they received it.
+
+; 0x018ce2d6 リオン：
+0x018ce2d6 Rion:
+
+; 0x018ce2df 敵の特殊部隊の情報と
+0x018ce2df Information on the enemy special forces
+
+; 0x018ce2f4 似ているわ。
+0x018ce2f4 It's similar.
+
+; 0x018ce31c 敵パイロット：
+0x018ce31c Enemy pilot:
+
+; 0x018ce32b んっ？　弾切れか・・・
+0x018ce32b Hm? Out of ammo?
+
+; 0x018ce342 運の良いヤツめ
+0x018ce342 You're lucky.
+
+; 0x018ce357 敵パイロット：
+0x018ce357 Enemy pilot:
+
+; 0x018ce366 目的は達成した。
+0x018ce366 I've achieved my goal.
+
+; 0x018ce377 残った者は引き上げるぞ！
+0x018ce377 Let's pull out the rest!
+
+; 0x018ce3a8 カイト：
+0x018ce3a8 Kite:
+
+; 0x018ce3b1 待てっ！
+0x018ce3b1 Wait!
+
+; 0x018ce3c1 大尉：
+0x018ce3c1 Capt:
+
+; 0x018ce3c8 やめろっカイト！
+0x018ce3c8 Stop, Kite!
+
+; 0x018ce3d9 深追いはするな
+0x018ce3d9 Don't give chase.
+
+; 0x018ce400 カイト：
+0x018ce400 Kite:
+
+; 0x018ce409 クソッ　何者なんだ
+0x018ce409 Damn it, who the hell is he?
+
+; 0x018ce41c あの蒼いＭＡのパイロットは
+0x018ce41c That blue MA pilot
+
+; 0x018cea60 ミルン：
+0x018cea60 Miln:
+
+; 0x018cea69 今日はどうするの？
+0x018cea69 What are you doing today?
+
+; 0x018cea98 カイト：
+0x018cea98 Kite:
+
+; 0x018ceaa1 こちらスレイター機
+0x018ceaa1 This is Slater.
+
+; 0x018ceab4 なんとか追いついた。
+0x018ceab4 I manage to catch up.
+
+; 0x018ceacf リオン：
+0x018ceacf Rion:
+
+; 0x018cead8 気をつけて、列車に損害を
+0x018cead8 Careful, damage to the train
+
+; 0x018ceaf1 与えないようにして！
+0x018ceaf1 Don't give me that!
+
+; 0x018ceb2d ふぅ・・・助かったぜ。
+0x018ceb2d Phew... Thanks.
+
+; 0x018ceb44 ヤツら逃げてったようだな。
+0x018ceb44 Looks like they escaped.
+
+; 0x018ceb6b カイト：
+0x018ceb6b Kite:
+
+; 0x018ceb74 クーデター軍が撤退した。
+0x018ceb74 The coup d'etat army withdrew.
+
+; 0x018ceb8d 列車は別部隊にまかせる。
+0x018ceb8d Leave the train to another unit.
+
+; 0x018cebac カイト：
+0x018cebac Kite:
+
+; 0x018cebb5 ホイールが焼き付きそうだ。
+0x018cebb5 The wheel feels like it's burning.
+
+; 0x018cebec リオン：
+0x018cebec Rion:
+
+; 0x018cebf5 もうすぐ列車に追いつくはずよ
+0x018cebf5 The train should catch up soon.
+
+; 0x018cec19 カイト：
+0x018cec19 Kite:
+
+; 0x018cec22 目標を補足した
+0x018cec22 I added the target.
+
+; 0x018cec4e リオン：
+0x018cec4e Rion:
+
+; 0x018cec57 補給物資が積まれている貨物に
+0x018cec57 To the cargo loaded with supplies
+
+; 0x018cec74 攻撃をされないよう気をつけて！
+0x018cec74 Be careful not to get hit!
+
+; 0x018cec99 カイト：
+0x018cec99 Kite:
+
+; 0x018ceca2 了解した。
+0x018ceca2 Yes, sir.
+
+; 0x018cf398 ミルン：
+0x018cf398 Miln:
+
+; 0x018cf3a1 今日はどうするの？
+0x018cf3a1 What are you doing today?
+
+; 0x018cf3d0 リオン：
+0x018cf3d0 Rion:
+
+; 0x018cf3d9 かなりの数の敵が予想されるわ
+0x018cf3d9 We expect quite a few enemies.
+
+; 0x018cf3fd リオン：
+0x018cf3fd Rion:
+
+; 0x018cf406 空からの降下部隊も確認。
+0x018cf406 We've confirmed the descent from the sky.
+
+; 0x018cf41f ２人とも気をつけて・・・
+0x018cf41f Take care, you two.
+
+; 0x018cf43e 大尉：
+0x018cf43e Capt:
+
+; 0x018cf445 了解だ。
+0x018cf445 Got it.
+
+; 0x018cf44e カイト、気をつけろよ。
+0x018cf44e Kite, watch out.
+
+; 0x018cf46b リオン：
+0x018cf46b Rion:
+
+; 0x018cf474 敵の先行部隊は街の中心部へ
+0x018cf474 The enemy advance force is heading for the city center.
+
+; 0x018cf48f 移動を完了しているわ。
+0x018cf48f I've finished moving.
+
+; 0x018cf4ac リオン：
+0x018cf4ac Rion:
+
+; 0x018cf4b5 スレイター少尉は、
+0x018cf4b5 2nd Lt. Slater...
+
+; 0x018cf4c8 後続部隊を撃破して！
+0x018cf4c8 Defeat the rear guard!
+
+; 0x018cf4e9 カイト：
+0x018cf4e9 Kite:
+
+; 0x018cf4f2 了解。
+0x018cf4f2 Roger.
+
+; 0x018cf514 リオン：
+0x018cf514 Rion:
+
+; 0x018cf51d 周囲の敵反応なし！
+0x018cf51d No hostiles around!
+
+; 0x018cf530 後続部隊の沈黙を確認。
+0x018cf530 The silence of the rear unit confirmed.
+
+; 0x018cf54d リオン：
+0x018cf54d Rion:
+
+; 0x018cf556 でも・・・
+0x018cf556 But..
+
+; 0x018cf568 リオン：
+0x018cf568 Rion:
+
+; 0x018cf571 彼らはなぜ街の中心部へと、
+0x018cf571 Why did they go to the center of the city
+
+; 0x018cf58c 向かっていたのかしら・・・
+0x018cf58c I wonder if he's on his way.
+
+; 0x018cf5c0 大尉：
+0x018cf5c0 Capt:
+
+; 0x018cf5c7 ガーナー機
+0x018cf5c7 Garner
+
+; 0x018cf5d2 西側工業区を制圧した。
+0x018cf5d2 He conquered the western industrial district.
+
+; 0x018cf5ef リオン：
+0x018cf5ef Rion:
+
+; 0x018cf5f8 了解しました。
+0x018cf5f8 Yes, sir.
+
+; 0x018cf60e 大尉：
+0x018cf60e Capt:
+
+; 0x018cf615 カイト
+0x018cf615 Kite
+
+; 0x018cf61c そちらの状況はどうだ？
+0x018cf61c How's your situation?
+
+; 0x018cf639 カイト：
+0x018cf639 Kite:
+
+; 0x018cf642 いぜん、敵の攻撃を受けてます。
+0x018cf642 We're under attack.
+
+; 0x018cf668 リオン：
+0x018cf668 Rion:
+
+; 0x018cf671 敵、残存勢力のこり２０
+0x018cf671 20 Enemy, Remaining Force
+
+; 0x018cf688 あともう少しよ！
+0x018cf688 Just a bit more!
+
+; 0x018cf69f カイト：
+0x018cf69f Kite:
+
+; 0x018cf6a8 了解。
+0x018cf6a8 Roger.
+
+; 0x018cffb0 ミルン：
+0x018cffb0 Miln:
+
+; 0x018cffb9 今日はどうするの？
+0x018cffb9 What are you doing today?
+
+; 0x018cffe8 カイト：
+0x018cffe8 Kite:
+
+; 0x018cfff1 ヤツら街で何かを行っているみた
+0x018cfff1 They did something in the city.
+
+; 0x018d0010 いだ。どうしようっていうんだ？
+0x018d0010 Ouch. What am I going to do?
+
+; 0x018d0035 リオン：
+0x018d0035 Rion:
+
+; 0x018d003e 地下鉄を使って、物資を運び出す
+0x018d003e We'll use the subway to get supplies out.
+
+; 0x018d005d つもりのようね。
+0x018d005d Looks like you're planning to.
+
+; 0x018d0074 カイト：
+0x018d0074 Kite:
+
+; 0x018d007d 先回りする事はできるか？
+0x018d007d Can you get ahead of me?
+
+; 0x018d009d リオン：
+0x018d009d Rion:
+
+; 0x018d00a6 先回りなん・・・ちょっとまって
+0x018d00a6 I'm ahead of you. Wait a minute.
+
+; 0x018d00c5 地下鉄につづく水路がある！
+0x018d00c5 There's a waterway to the subway!
+
+; 0x018d00e6 リオン：
+0x018d00e6 Rion:
+
+; 0x018d00ef 突き当たりの壁をなんとか破壊で
+0x018d00ef I managed to destroy the wall at the end
+
+; 0x018d010e きれば、列車より先回りできるわ
+0x018d010e If you do, you'll get ahead of the train.
+
+; 0x018d0133 カイト：
+0x018d0133 Kite:
+
+; 0x018d013c よしっ
+0x018d013c Okay!
+
+; 0x018d0143 了解した！
+0x018d0143 Roger!
+
+; 0x018d0168 リオン：
+0x018d0168 Rion:
+
+; 0x018d0171 付近の敵が散開して行きました。
+0x018d0171 The nearby enemies spread out.
+
+; 0x018d0190 お疲れ様でした、少尉。
+0x018d0190 Good work, Lieutenant.
+
+; 0x018d01c0 リオン：
+0x018d01c0 Rion:
+
+; 0x018d01c9 そこの壁を破壊して！
+0x018d01c9 Destroy the wall!
+
+; 0x018d01f8 リオン：
+0x018d01f8 Rion:
+
+; 0x018d0201 熱源反応、何かがいるわ！
+0x018d0201 Heat signature, there's something!
+
+; 0x018d021a 気をつけてスレイター少尉！
+0x018d021a Be careful, 2nd Lt. Slater!
+
+; 0x018d023b カイト：
+0x018d023b Kite:
+
+; 0x018d0244 くっ、待ち伏せか！
+0x018d0244 Ugh, ambushes!
+
+; 0x018d09b0 ミルン：
+0x018d09b0 Miln:
+
+; 0x018d09b9 今日はどうするの？
+0x018d09b9 What are you doing today?
+
+; 0x018d09e8 オーウェン艦長：
+0x018d09e8 Captain Owen:
+
+; 0x018d09f9 ＭＡ部隊、発進してくれ。
+0x018d09f9 MA Unit, take off.
+
+; 0x018d0a19 リオン：
+0x018d0a19 Rion:
+
+; 0x018d0a31 ２番機射出します。
+0x018d0a31 No. 2 will fire.
+
+; 0x018d0a5c 大尉：
+0x018d0a5c Capt:
+
+; 0x018d0a63 目標は地対空ミサイル　こいつを
+0x018d0a63 The target is a surface-to-air missile. Get this.
+
+; 0x018d0a82 破壊しないと帰る家がなくなるぞ
+0x018d0a82 If we don't destroy it, we won't have a home to return to.
+
+; 0x018d0aa7 大尉：
+0x018d0aa7 Capt:
+
+; 0x018d0aae 後の敵は無視しろ。
+0x018d0aae Ignore the rest of them.
+
+; 0x018d0ac1 目標破壊が最優先だ　いいなっ！
+0x018d0ac1 Target destruction is our top priority.
+
+; 0x018d0ae6 カイト：
+0x018d0ae6 Kite:
+
+; 0x018d0aef 了解！
+0x018d0aef Roger!
+
+; 0x018d0b10 敵パイロット：
+0x018d0b10 Enemy pilot:
+
+; 0x018d0b1f くっ、調整不足か・・・
+0x018d0b1f Ugh, I don't think I've adjusted enough...
+
+; 0x018d0b36 貴様ッ何者だ！？
+0x018d0b36 Who are you?!
+
+; 0x018d0b58 ファウス少佐！
+0x018d0b58 Major Faus!
+
+; 0x018d0b67 本部より帰還命令が入りました。
+0x018d0b67 We received an order from HQ to return.
+
+; 0x018d0b8c ファウス：
+0x018d0b8c Fau:
+
+; 0x018d0b97 ・・・了解した。
+0x018d0b97 ...Okay.
+
+; 0x018d0ba8 Ｅ．Ｐ．Ｋ．Ｆの犬共め！
+0x018d0ba8 E.P.K.F. dogs!
+
+; 0x018d0bdc リオン：
+0x018d0bdc Rion:
+
+; 0x018d0be5 周囲にまだ動体反応があるわ
+0x018d0be5 There's still a kinetic reaction around.
+
+; 0x018d0c00 気をつけて！
+0x018d0c00 Careful!
+
+; 0x018d1481 今日はどうするの？
+0x018d1481 What are you doing today?
+
+; 0x018d14b0 リオン：
+0x018d14b0 Rion:
+
+; 0x018d14b9 今回の作戦は共同作戦よ
+0x018d14b9 This is a joint operation.
+
+; 0x018d14d0 このレーダー基地を破壊すれば
+0x018d14d0 If we destroy this radar base
+
+; 0x018d14f3 リオン：
+0x018d14f3 Rion:
+
+; 0x018d14fc 空からの防衛手段が、
+0x018d14fc A means of defense from the sky
+
+; 0x018d1511 手薄になるわ
+0x018d1511 We're gonna run out.
+
+; 0x018d1524 リオン：
+0x018d1524 Rion:
+
+; 0x018d152d 彼らもここは取り返されたく
+0x018d152d They want this place taken back.
+
+; 0x018d1548 ないはず・・・　気をつけて
+0x018d1548 I don't think so. Watch out.
+
+; 0x018d157c カイト：
+0x018d157c Kite:
+
+; 0x018d1585 全ての爆弾を設置した。
+0x018d1585 I set up all the bombs.
+
+; 0x018d15a3 大尉：
+0x018d15a3 Capt:
+
+; 0x018d15aa こっちも終わったぞ！
+0x018d15aa We're done here!
+
+; 0x018d15d2 リオン：
+0x018d15d2 Rion:
+
+; 0x018d15db 了解しました。ＭＡ部隊は、
+0x018d15db Understood. The MA unit...
+
+; 0x018d15f6 ただちに撤退してください。
+0x018d15f6 Retreat immediately.
+
+; 0x018d1e60 ミルン：
+0x018d1e60 Miln:
+
+; 0x018d1e69 今日はどうするの？
+0x018d1e69 What are you doing today?
+
+; 0x018d1e98 リオン：
+0x018d1e98 Rion:
+
+; 0x018d1ea1 通信はこの辺りで途切れたみたい
+0x018d1ea1 The transmission seems to have ended around here.
+
+; 0x018d1ec0 静かね・・・
+0x018d1ec0 It's quiet.
+
+; 0x018d1ed3 オーウェン艦長：
+0x018d1ed3 Captain Owen:
+
+; 0x018d1ee4 各機散開し、周囲の探索にあたれ
+0x018d1ee4 Everyone spread out to search the area.
+
+; 0x018d1f10 大尉：
+0x018d1f10 Capt:
+
+; 0x018d1f17 了解。
+0x018d1f17 Roger.
+
+; 0x018d1f1e 北側を調べてみる。
+0x018d1f1e I check the north side.
+
+; 0x018d1f3d カイト：
+0x018d1f3d Kite:
+
+; 0x018d1f46 了解しました。
+0x018d1f46 Yes, sir.
+
+; 0x018d1f70 リオン：
+0x018d1f70 Rion:
+
+; 0x018d1f79 え！？　この反応・・・
+0x018d1f79 Huh? This reaction...
+
+; 0x018d1f97 リオン：
+0x018d1f97 Rion:
+
+; 0x018d1fa0 おかしい、速すぎる。
+0x018d1fa0 Strange, she's too fast.
+
+; 0x018d1fb5 気をつけて、少尉っ！
+0x018d1fb5 Be careful, Lieutenant!
+
+; 0x018d1fd0 リオン：
+0x018d1fd0 Rion:
+
+; 0x018d1fd9 何かがあなたへ向かって・・・
+0x018d1fd9 Something's heading for you.
+
+; 0x018d1ff6 ガー・・・ガガッ
+0x018d1ff6 Gah... Gah!
+
+; 0x018d2028 リオン：
+0x018d2028 Rion:
+
+; 0x018d2031 ・・・して・・応答してっ
+0x018d2031 Come on... Answer me!
+
+; 0x018d204a ・イ・・！　カイトッ！
+0x018d204a Kite!
+
+; 0x018d2067 カイト：
+0x018d2067 Kite:
+
+; 0x018d2080 なんとか生きているようだ・・・
+0x018d2080 Looks like he's alive.
+
+; 0x018d20a5 リオン：
+0x018d20a5 Rion:
+
+; 0x018d20ae ・・・グスッ
+0x018d20ae *sob*
+
+; 0x018d20bb ・・よかった、本当に・・・
+0x018d20bb I'm so glad. Really.
+
+; 0x018d20e2 大尉：
+0x018d20e2 Capt:
+
+; 0x018d20e9 カイトッ無事か？　ジャミングで
+0x018d20e9 Kite, are you okay?
+
+; 0x018d2108 通信が妨害されていたぞ。
+0x018d2108 The signal was jammed.
+
+; 0x018d2127 大尉：
+0x018d2127 Capt:
+
+; 0x018d212e 何があったんだ？
+0x018d212e What happened?
+
+; 0x018d214c カイト：
+0x018d214c Kite:
+
+; 0x018d2155 わかりません、突然襲われて・・
+0x018d2155 I don't know. I was suddenly attacked.
+
+; 0x018d2174 でもまさか、あの機体・・・
+0x018d2174 But that aircraft...
+
+; 0x018d28c0 ミルン：
+0x018d28c0 Miln:
+
+; 0x018d28c9 今日はどうするの？
+0x018d28c9 What are you doing today?
+
+; 0x018d28f8 リオン：
+0x018d28f8 Rion:
+
+; 0x018d2901 各機　ポイントに到着しました。
+0x018d2901 All units have reached the point.
+
+; 0x018d2927 オーウェン艦長：
+0x018d2927 Captain Owen:
+
+; 0x018d2938 うむっ・・・
+0x018d2938 Um...
+
+; 0x018d2945 ミッションを開始してくれ
+0x018d2945 Start the mission.
+
+; 0x018d2964 リオン：
+0x018d2964 Rion:
+
+; 0x018d296d 敵部隊を殲滅しつつ、目標のある
+0x018d296d While annihilating enemy units, with a target.
+
+; 0x018d298c 山頂へ向かってください。
+0x018d298c Head to the summit.
+
+; 0x018d29ab 大尉：
+0x018d29ab Capt:
+
+; 0x018d29b2 了解！
+0x018d29b2 Roger!
+
+; 0x018d29c0 カイト：
+0x018d29c0 Kite:
+
+; 0x018d29c9 了解。
+0x018d29c9 Roger.
+
+; 0x018d3170 ミルン：
+0x018d3170 Miln:
+
+; 0x018d3179 今日はどうするの？
+0x018d3179 What are you doing today?
+
+; 0x018d31a8 リオン：
+0x018d31a8 Rion:
+
+; 0x018d31b1 敵部隊が展開中。
+0x018d31b1 Enemy units are deployed.
+
+; 0x018d31c2 その先に地雷原があるわ。
+0x018d31c2 There's a minefield ahead.
+
+; 0x018d31f4 リオン：
+0x018d31f4 Rion:
+
+; 0x018d31fd カイト、気をつけて
+0x018d31fd Kite, watch out.
+
+; 0x018d3210 ここからは地雷原よ。
+0x018d3210 It's a minefield.
+
+; 0x018d322b リオン：
+0x018d322b Rion:
+
+; 0x018d3234 地雷に到達したら、
+0x018d3234 Once we reach the mine,
+
+; 0x018d3247 解除コードを送るわ。
+0x018d3247 I'll send you the code.
+
+; 0x018d3262 カイト：
+0x018d3262 Kite:
+
+; 0x018d326b 了解した。
+0x018d326b Yes, sir.
+
+; 0x018d3b58 ミルン：
+0x018d3b58 Miln:
+
+; 0x018d3b61 今日はどうするの？
+0x018d3b61 What are you doing today?
+
+; 0x018d3b90 カイト：
+0x018d3b90 Kite:
+
+; 0x018d3b99 目標を補足した。
+0x018d3b99 I add the target.
+
+; 0x018d3baa 戦闘を開始する。
+0x018d3baa Commence battle.
+
+; 0x018d4260 ミルン：
+0x018d4260 Miln:
+
+; 0x018d4269 今日はどうするの？
+0x018d4269 What are you doing today?
+
+; 0x018d4298 リオン：
+0x018d4298 Rion:
+
+; 0x018d42a1 敵大型機動兵器　確認・・・
+0x018d42a1 Enemy mobile weapon confirmed.
+
+; 0x018d42bc かなり大きいわ！
+0x018d42bc It's so big!
+
+; 0x018d42d3 リオン：
+0x018d42d3 Rion:
+
+; 0x018d42dc 注意して！
+0x018d42dc Careful!
+
+; 0x018d4300 リオン：
+0x018d4300 Rion:
+
+; 0x018d4309 敵大型機動兵器、沈黙しました。
+0x018d4309 Enemy large mobile weapon silent.
+
+; 0x018d4328 カイト、お疲れ様。
+0x018d4328 Kite, good job.
+
+; 0x018d4354 リオン：
+0x018d4354 Rion:
+
+; 0x018d435d その先のゲートには、
+0x018d435d At the gate ahead of us...
+
+; 0x018d4372 ロックがかかっているわ。
+0x018d4372 It's locked.
+
+; 0x018d4391 リオン：
+0x018d4391 Rion:
+
+; 0x018d439a 直接行って解除しないと、
+0x018d439a I have to go directly and disarm it,
+
+; 0x018d43cc カイト：
+0x018d43cc Kite:
+
+; 0x018d43d5 了解。
+0x018d43d5 Roger.
+
+; 0x018d43dc なんとかやってみる。
+0x018d43dc I'll try.
+
+; 0x018d4ce8 ミルン：
+0x018d4ce8 Miln:
+
+; 0x018d4cf1 今日はどうするの？
+0x018d4cf1 What are you doing today?
+
+; 0x018d4d20 一般兵：
+0x018d4d20 General Soldier
+
+; 0x018d4d29 助かった・・・
+0x018d4d29 I'm saved.
+
+; 0x018d4d38 この積荷は一体何なんだ？
+0x018d4d38 What the hell is this cargo?
+
+; 0x018d4d57 カイト：
+0x018d4d57 Kite:
+
+; 0x018d4d60 さぁなっ　オレたちも、
+0x018d4d60 I don't know. We don't know.
+
+; 0x018d4d77 中身は聞かされていない。
+0x018d4d77 I wasn't told what was inside.
+
+; 0x018d4da8 リオン：
+0x018d4da8 Rion:
+
+; 0x018d4dc0 ミサイルよ　退避して！！！
+0x018d4dc0 Missile, evacuate!
+
+; 0x018d4df4 一般兵：
+0x018d4df4 General Soldier
+
+; 0x018d4dfd 間に合わない！
+0x018d4dfd I won't make it!
+
+; 0x018d4e0c うわぁぁー
+0x018d4e0c Uwaaaaa
+
+; 0x018d4e30 リオン：
+0x018d4e30 Rion:
+
+; 0x018d4e39 敵の・・・蒼いＭＡに
+0x018d4e39 The enemy's... Blue MA.
+
+; 0x018d4e4e 通信を割り込まれました！
+0x018d4e4e I've been interrupted!
+
+; 0x018d4e73 ファウス：
+0x018d4e73 Fau:
+
+; 0x018d4e7e ・・・
+0x018d4e7e ...
+
+; 0x018d4e85 ふふふっ
+0x018d4e85 Fufufu
+
+; 0x018d4e94 ファウス：
+0x018d4e94 Fau:
+
+; 0x018d4e9f ふははははっ
+0x018d4e9f Fuhahahaha!
+
+; 0x018d4eac 貴様、覚えているか？
+0x018d4eac You remember?
+
+; 0x018d4ec7 カイト：
+0x018d4ec7 Kite:
+
+; 0x018d4ed0 おまえはっ
+0x018d4ed0 You!
+
+; 0x018d4edb ファウスか！？
+0x018d4edb Faus?!
+
+; 0x018d4ef0 ファウス：
+0x018d4ef0 Fau:
+
+; 0x018d4f00 私の名を知っているのか？
+0x018d4f00 You know my name?
+
+; 0x018d4f1f ファウス：
+0x018d4f1f Fau:
+
+; 0x018d4f2a 貴様の名は・・・
+0x018d4f2a You're...
+
+; 0x018d4f42 カイト：
+0x018d4f42 Kite:
+
+; 0x018d4f4b カイト・・・
+0x018d4f4b Kite.
+
+; 0x018d4f58 カイト・スレイターだ。
+0x018d4f58 Kite Slater.
+
+; 0x018d4f75 ファウス：
+0x018d4f75 Fau:
+
+; 0x018d4f80 ふんっ　カイトか・・・
+0x018d4f80 Kite, huh?
+
+; 0x018d4f97 この前は挨拶代わりだったが、
+0x018d4f97 Last time, it was just a greeting.
+
+; 0x018d4fba ファウス：
+0x018d4fba Fau:
+
+; 0x018d4fc5 今回はそうは行かんぞ。
+0x018d4fc5 That won't happen this time.
+
+; 0x018d4fdc 屈辱は返させてもらう。
+0x018d4fdc I'll return the humiliation.
+
+; 0x018d4fff 大尉：
+0x018d4fff Capt:
+
+; 0x018d5006 カイト　ヤツの挑発に乗るなっ
+0x018d5006 Kite, don't take his bait!
+
+; 0x018d5023 任務を優先しろ！
+0x018d5023 Prioritize mission!
+
+; 0x018d503a カイト：
+0x018d503a Kite:
+
+; 0x018d5043 しかし、このままでは
+0x018d5043 But at this rate,
+
+; 0x018d5058 ヤツが・・・
+0x018d5058 He's...
+
+; 0x018d5080 ファウス：
+0x018d5080 Fau:
+
+; 0x018d508b ちぃ！　またしても
+0x018d508b Tch! Again.
+
+; 0x018d509e ヤツに敗れたというのか！
+0x018d509e You lost to him?!
+
+; 0x018d50d0 カイト：
+0x018d50d0 Kite:
+
+; 0x018d50d9 ファウス・・・
+0x018d50d9 Faus.
+
+; 0x018d50e8 なんてヤツなんだ！
+0x018d50e8 What a guy!
+
+; 0x018d5101 カイト：
+0x018d5101 Kite:
+
+; 0x018d510a アルマデル　応答してくれ。
+0x018d510a Almadel, come in.
+
+; 0x018d5125 積荷を確保した。回収してくれ
+0x018d5125 We've secured the cargo. Get it back.
+
+; 0x018d515c カイト：
+0x018d515c Kite:
+
+; 0x018d5165 ファウス・・・
+0x018d5165 Faus.
+
+; 0x018d5174 なんてヤツなんだ！
+0x018d5174 What a guy!
+
+; 0x018d51a0 リオン：
+0x018d51a0 Rion:
+
+; 0x018d51a9 この先に補給機がいるわ。
+0x018d51a9 There's a supply plane ahead.
+
+; 0x018d51c2 もうすぐよ。
+0x018d51c2 It's almost time.
+
+; 0x018d51d5 カイト：
+0x018d51d5 Kite:
+
+; 0x018d51de しかし、なんて敵の数なんだ。
+0x018d51de Still, what an enemy number.
+
+; 0x018d51fb そんなにも重要な物なのか！？
+0x018d51fb Is it that important!?
+
+; 0x018d5a70 ミルン：
+0x018d5a70 Miln:
+
+; 0x018d5a79 今日はどうするの？
+0x018d5a79 What are you doing today?
+
+; 0x018d5aa8 リオン：
+0x018d5aa8 Rion:
+
+; 0x018d5ab1 艦長！
+0x018d5ab1 Sir!
+
+; 0x018d5abf リオン：
+0x018d5abf Rion:
+
+; 0x018d5ac8 シャトル
+0x018d5ac8 Shuttle
+
+; 0x018d5ad1 発射されました・・・
+0x018d5ad1 It's fired.
+
+; 0x018d5af2 オーウェン艦長：
+0x018d5af2 Captain Owen:
+
+; 0x018d5b03 ・・・
+0x018d5b03 ...
+
+; 0x018d5b0a 先手を打たれてしまったか・・・
+0x018d5b0a I guess he made the first move.
+
+; 0x018d5b2f オーウェン艦長：
+0x018d5b2f Captain Owen:
+
+; 0x018d5b40 ２番機、本艦に接近してくる、
+0x018d5b40 No. 2, approaching the main ship.
+
+; 0x018d5b5d 敵ＭＡ部隊を排除してくれ。
+0x018d5b5d Eliminate the enemy MA unit.
+
+; 0x018d5b84 カイト：
+0x018d5b84 Kite:
+
+; 0x018d5b8d 了解しました。
+0x018d5b8d Yes, sir.
+
+; 0x018d5ba9 リオン：
+0x018d5ba9 Rion:
+
+; 0x018d5bb2 レーダーに新しい敵反応！
+0x018d5bb2 New enemy signal on radar!
+
+; 0x018d5bcb 敵増援部隊が接近しています。
+0x018d5bcb Enemy reinforcements are coming.
+
+; 0x018d5bee カイト：
+0x018d5bee Kite:
+
+; 0x018d5bf7 味方の援軍到着まで、
+0x018d5bf7 Until our ally reinforcements arrived,
+
+; 0x018d5c0c 敵の進攻をここでくい止める。
+0x018d5c0c I'll stop the enemy's advance here.
+
+; 0x018d5c2f リオン：
+0x018d5c2f Rion:
+
+; 0x018d5c38 大尉もいないのよ。
+0x018d5c38 The Captain's not here either.
+
+; 0x018d5c52 リオン：
+0x018d5c52 Rion:
+
+; 0x018d5c5b 無茶言わないで
+0x018d5c5b Don't be reckless
+
+; 0x018d5c6a カイト！！
+0x018d5c6a Kite!
+
+; 0x018d5c81 オーウェン艦長：
+0x018d5c81 Captain Owen:
+
+; 0x018d5c92 ・・・
+0x018d5c92 ...
+
+; 0x018d5ca6 カイト：
+0x018d5ca6 Kite:
+
+; 0x018d5caf このままでは敵のＭＡが、
+0x018d5caf At this rate, the enemy’s MA will
+
+; 0x018d5cc8 アルマデルに向かってしまう！
+0x018d5cc8 I'm going to Almadel!
+
+; 0x018d5cf1 オーウェン艦長：
+0x018d5cf1 Captain Owen:
+
+; 0x018d5d02 スレイター君・・・
+0x018d5d02 Slater...
+
+; 0x018d5d15 頼んだぞ・・・
+0x018d5d15 I'm counting on you.
+
+; 0x018d5d30 リオン：
+0x018d5d30 Rion:
+
+; 0x018d5d49 カイト：
+0x018d5d49 Kite:
+
+; 0x018d5d52 大丈夫だ。
+0x018d5d52 I'm fine.
+
+; 0x018d5d5d なんとかしてみせる！
+0x018d5d5d I'll do something!
+
+; 0x018d5d8c 大尉：
+0x018d5d8c Capt:
+
+; 0x018d5d93 シャトルの発射場まで距離がある
+0x018d5d93 There's a distance to the shuttle launch site.
+
+; 0x018d5db2 なるべく急ぐぞ！
+0x018d5db2 Let's hurry!
+
+; 0x018d5dc9 カイト：
+0x018d5dc9 Kite:
+
+; 0x018d5dd2 了解！
+0x018d5dd2 Roger!
+
+; 0x018d5df4 大尉：
+0x018d5df4 Capt:
+
+; 0x018d5dfb 機体を損傷した。
+0x018d5dfb I damaged the aircraft.
+
+; 0x018d5e0c カイト　すまない後退する。
+0x018d5e0c Kite, I'm sorry. I'm retreating.
+
+; 0x018d5e2d カイト：
+0x018d5e2d Kite:
+
+; 0x018d5e36 こちらも敵の攻撃が激しく
+0x018d5e36 The enemy's attacks are fierce, too.
+
+; 0x018d5e4f なかなか先に進めない。
+0x018d5e4f I can't move on.
+
+; 0x018d5e72 リオン：
+0x018d5e72 Rion:
+
+; 0x018d5e7b カイト　急いで！
+0x018d5e7b Kite, hurry!
+
+; 0x018d5e93 リオン：
+0x018d5e93 Rion:
+
+; 0x018d5e9c シャトルがカウントダウンを
+0x018d5e9c The shuttle counts down
+
+; 0x018d5eb7 始めたわ！
+0x018d5eb7 I'm starting!
+
+; 0x018d6688 ミルン：
+0x018d6688 Miln:
+
+; 0x018d6691 今日はどうするの？
+0x018d6691 What are you doing today?
+
+; 0x018d66c0 カイト：
+0x018d66c0 Kite:
+
+; 0x018d66c9 ポイントＡ　入り口を発見した。
+0x018d66c9 Point A Found entrance.
+
+; 0x018d66e8 これより突入する。
+0x018d66e8 We're going in.
+
+; 0x018d6701 大尉：
+0x018d6701 Capt:
+
+; 0x018d6708 ポイントＢ到着
+0x018d6708 Point B arrived
+
+; 0x018d6717 こちらも突入する。
+0x018d6717 We're going in too.
+
+; 0x018d6744 大尉：
+0x018d6744 Capt:
+
+; 0x018d674b こっ、こいつは！
+0x018d674b Th-This guy!
+
+; 0x018d6763 大尉：
+0x018d6763 Capt:
+
+; 0x018d676a ぐおわぁぁ
+0x018d676a Gwaaaaah!
+
+; 0x018d6775 ガガー・・・
+0x018d6775 Gagar...
+
+; 0x018d679c カイト：
+0x018d679c Kite:
+
+; 0x018d67a5 大尉っ！
+0x018d67a5 Captain!
+
+; 0x018d67ae くそっ！！
+0x018d67ae Shit!!
+
+; 0x018d67d4 カイト：
+0x018d67d4 Kite:
+
+; 0x018d67dd 付近の敵は一掃した。
+0x018d67dd I wiped out the nearby enemies.
+
+; 0x018d67f2 いそいで救護班をよこしてくれ！
+0x018d67f2 Send me the infirmary!
+
+; 0x018d7040 ミルン：
+0x018d7040 Miln:
+
+; 0x018d7049 今日はどうするの？
+0x018d7049 What are you doing today?
+
+; 0x018d7078 リオン：
+0x018d7078 Rion:
+
+; 0x018d7081 施設内の最深部で
+0x018d7081 In the deepest part of the facility
+
+; 0x018d7092 熱源反応があります。
+0x018d7092 There's a heat signature.
+
+; 0x018d70ad カイト：
+0x018d70ad Kite:
+
+; 0x018d70bb これより調査に向かう。
+0x018d70bb We're going to investigate.
+
+; 0x018d70ec ファウス：
+0x018d70ec Fau:
+
+; 0x018d70f7 待っていたぞ。カイトッ！
+0x018d70f7 I've been waiting. Kite!
+
+; 0x018d7110 ずいぶん遅かったではないか。
+0x018d7110 It was quite late, wasn't it?
+
+; 0x018d7133 カイト：
+0x018d7133 Kite:
+
+; 0x018d713c ファウス・・・
+0x018d713c Faus.
+
+; 0x018d7152 ファウス：
+0x018d7152 Fau:
+
+; 0x018d715d 貴様はこの戦いの本当の意味を
+0x018d715d You know the true meaning of this battle
+
+; 0x018d717a 知りながら戦っているのか？
+0x018d717a You're fighting knowing that?
+
+; 0x018d719b ファウス：
+0x018d719b Fau:
+
+; 0x018d71a6 Ｅ．Ｐ．Ｋ．Ｆの外宇宙への圧政
+0x018d71a6 E.P.K.F.’s tyranny of outer space
+
+; 0x018d71c5 そして、それに苦しむ人々
+0x018d71c5 And people suffering from it.
+
+; 0x018d71e4 カイト：
+0x018d71e4 Kite:
+
+; 0x018d71ed ？　何をいっている！
+0x018d71ed What are you saying?!
+
+; 0x018d7209 ファウス：
+0x018d7209 Fau:
+
+; 0x018d7214 やはりな　大儀なき者に、
+0x018d7214 I knew it. To the unworthy,
+
+; 0x018d722d 負けるわけには行かぬのだよ。
+0x018d722d I can't lose.
+
+; 0x018d7250 ファウス：
+0x018d7250 Fau:
+
+; 0x018d725b 貴様のようなヤツは
+0x018d725b Guys like you
+
+; 0x018d726e この私が倒す！！
+0x018d726e I'll defeat him!!
+
+; 0x018d7298 ファウス：
+0x018d7298 Fau:
+
+; 0x018d72a3 なぜだーー！
+0x018d72a3 Whyyy?!
+
+; 0x018d72b7 カイト：
+0x018d72b7 Kite:
+
+; 0x018d72c0 ・・・
+0x018d72c0 ...
+
+; 0x018d72ce ファウス：
+0x018d72ce Fau:
+
+; 0x018d72d9 私と、このＭＡでは
+0x018d72d9 Me and this MA
+
+; 0x018d72ec 貴様を倒せんというのか！？
+0x018d72ec You're saying I can't defeat you?!
+
+; 0x018d730d ファウス：
+0x018d730d Fau:
+
+; 0x018d7318 ・・・認めん
+0x018d7318 I won't admit it.
+
+; 0x018d732c ファウス：
+0x018d732c Fau:
+
+; 0x018d7337 私は認めんぞ！
+0x018d7337 I won't admit it!
+
+; 0x018d734d ファウス：
+0x018d734d Fau:
+
+; 0x018d7358 うおぉぉーー！！
+0x018d7358 Whoaaaa!!
+
+; 0x018d7a40 ミルン：
+0x018d7a40 Miln:
+
+; 0x018d7a49 今日はどうするの？
+0x018d7a49 What are you doing today?
+
+; 0x018d7a78 リオン：
+0x018d7a78 Rion:
+
+; 0x018d7a81 施設内の最深部で熱源反・・・
+0x018d7a81 In the deepest part of the facility, a heat signature anti-...
+
+; 0x018d7a9e カイト、気をつけてファウスよ！
+0x018d7a9e Kite, watch out, Fauss!
+
+; 0x018d7ac3 カイト：
+0x018d7ac3 Kite:
+
+; 0x018d7acc ・・・ファウスか
+0x018d7acc Fauss.
+
+; 0x018d7ae4 リオン：
+0x018d7ae4 Rion:
+
+; 0x018d7aed 待ってカイト！　一度引き・・・
+0x018d7aed Wait, kaito! Pull...
+
+; 0x018d7b0c プツッ・・・
+0x018d7b0c *squeeze*
+
+; 0x018d7b25 カイト：
+0x018d7b25 Kite:
+
+; 0x018d7b2e 決着をつけてやる！
+0x018d7b2e I'll settle it!
+
+; 0x018d7b5c ファウス：
+0x018d7b5c Fau:
+
+; 0x018d7b67 待っていたぞ。カイトッ！
+0x018d7b67 I've been waiting. Kite!
+
+; 0x018d7b80 ずいぶん遅かったではないか。
+0x018d7b80 It was quite late, wasn't it?
+
+; 0x018d7ba3 カイト：
+0x018d7ba3 Kite:
+
+; 0x018d7bac ファウス・・・
+0x018d7bac Faus.
+
+; 0x018d7bc2 ファウス：
+0x018d7bc2 Fau:
+
+; 0x018d7bcd 貴様はこの戦いの本当の意味を
+0x018d7bcd You know the true meaning of this battle
+
+; 0x018d7bea 知りながら戦っているのか？
+0x018d7bea You're fighting knowing that?
+
+; 0x018d7c0b カイト：
+0x018d7c0b Kite:
+
+; 0x018d7c14 一兵士であるオレに、
+0x018d7c14 As a soldier,
+
+; 0x018d7c29 わかるはずがないだろ！
+0x018d7c29 There's no way I'd know!
+
+; 0x018d7c51 Ｅ．Ｐ．Ｋ．Ｆの外宇宙への圧政
+0x018d7c51 E.P.K.F.’s tyranny of outer space
+
+; 0x018d7c70 そして、それに苦しむ人々
+0x018d7c70 And people suffering from it.
+
+; 0x018d7c8f カイト：
+0x018d7c8f Kite:
+
+; 0x018d7c98 何を言っている！
+0x018d7c98 What are you saying!
+
+; 0x018d7ca9 Ｅ．Ｐ．Ｋ．Ｆは平和維持の為に
+0x018d7ca9 E.P.K.F. was designed to maintain peace
+
+; 0x018d7cce ファウス：
+0x018d7cce Fau:
+
+; 0x018d7cd9 やはりな　大儀なき者に、
+0x018d7cd9 I knew it. To the unworthy,
+
+; 0x018d7cf2 負けるわけには行かぬのだよ。
+0x018d7cf2 I can't lose.
+
+; 0x018d7d15 ファウス：
+0x018d7d15 Fau:
+
+; 0x018d7d20 貴様のようなヤツは
+0x018d7d20 Guys like you
+
+; 0x018d7d33 この私が倒す！！
+0x018d7d33 I'll defeat him!!
+
+; 0x018d7d5c ファウス：
+0x018d7d5c Fau:
+
+; 0x018d7d67 なぜだーー！
+0x018d7d67 Whyyy?!
+
+; 0x018d7d7b カイト：
+0x018d7d7b Kite:
+
+; 0x018d7d84 ・・・
+0x018d7d84 ...
+
+; 0x018d7d92 ファウス：
+0x018d7d92 Fau:
+
+; 0x018d7d9d 私と、このＭＡでは
+0x018d7d9d Me and this MA
+
+; 0x018d7db0 貴様を倒せんというのか！？
+0x018d7db0 You're saying I can't defeat you?!
+
+; 0x018d7dd1 ファウス：
+0x018d7dd1 Fau:
+
+; 0x018d7ddc ・・・認めん
+0x018d7ddc I won't admit it.
+
+; 0x018d7df0 ファウス：
+0x018d7df0 Fau:
+
+; 0x018d7dfb 私は認めんぞ！
+0x018d7dfb I won't admit it!
+
+; 0x018d7e11 ファウス：
+0x018d7e11 Fau:
+
+; 0x018d7e1c うおぉぉーー！！
+0x018d7e1c Whoaaaa!!
+
+; 0x018d8560 ミルン：
+0x018d8560 Miln:
+
+; 0x018d8569 今日はどうするの？
+0x018d8569 What are you doing today?
+
+; 0x018d8598 リオン：
+0x018d8598 Rion:
+
+; 0x018d85a1 あんな大きな輸送艦がなぜ・・・
+0x018d85a1 Why is such a big transport ship...
+
+; 0x018d85c7 リオン：
+0x018d85c7 Rion:
+
+; 0x018d85d0 何をいったいどこへ
+0x018d85d0 What's going on? Where did you go?
+
+; 0x018d85e3 運ぼうって言うの！？
+0x018d85e3 You want me to carry it?!
+
+; 0x018d85fe カイト：
+0x018d85fe Kite:
+
+; 0x018d8607 間に合わなくなるぞっ
+0x018d8607 You won't make it!
+
+; 0x018d861c スレイター機、射出してくれ！
+0x018d861c Slater, eject!
+
+; 0x018d8654 カイト：
+0x018d8654 Kite:
+
+; 0x018d866f リオン：
+0x018d866f Rion:
+
+; 0x018d8678 艦長！
+0x018d8678 Sir!
+
+; 0x018d867f 緊急通信が入りました。
+0x018d867f We've received an emergency call.
+
+; 0x018d869c オーウェン艦長：
+0x018d869c Captain Owen:
+
+; 0x018d86ad うむっ
+0x018d86ad Mm.
+
+; 0x018d86b4 で、何といっている？
+0x018d86b4 So, what's it say?
+
+; 0x018d86cf リオン：
+0x018d86cf Rion:
+
+; 0x018d86d8 同型の攻撃輸送艦が、
+0x018d86d8 An attack transport ship of the same type
+
+; 0x018d86ed 各地で降下を確認したようです。
+0x018d86ed It seems they've confirmed their descent across the land.
+
+; 0x018d8718 カイト：
+0x018d8718 Kite:
+
+; 0x018d8721 何だって！？
+0x018d8721 What?!
+
+; 0x018d8735 リオン：
+0x018d8735 Rion:
+
+; 0x018d873e アムレハ防衛基地に
+0x018d873e To the Amreha defense base.
+
+; 0x018d8751 向かっているわ・・・
+0x018d8751 I'm on my way.
+
+; 0x018d8772 オーウェン艦長：
+0x018d8772 Captain Owen:
+
+; 0x018d8783 スレイター君
+0x018d8783 Slater.
+
+; 0x018d8790 帰還したまえ。
+0x018d8790 Return.
+
+; 0x018d87a5 カイト：
+0x018d87a5 Kite:
+
+; 0x018d87ae ・・・了解しました。
+0x018d87ae ...Roger.
+
+; 0x018d87c3 これより帰還します。
+0x018d87c3 I'm going home now.
+
+; 0x018d8f60 ミルン：
+0x018d8f60 Miln:
+
+; 0x018d8f69 今日はどうするの？
+0x018d8f69 What are you doing today?
+
+; 0x018d8f98 オーウェン艦長：
+0x018d8f98 Captain Owen:
+
+; 0x018d8fa9 街の中を横断するとは
+0x018d8fa9 Crossing the city.
+
+; 0x018d8fbe よほど急いでいるのか？
+0x018d8fbe You're in a hurry?
+
+; 0x018d8fdb リオン：
+0x018d8fdb Rion:
+
+; 0x018d8fe4 あんな大きな輸送艦がなんで・・
+0x018d8fe4 Why is such a big transport ship...
+
+; 0x018d900a カイト：
+0x018d900a Kite:
+
+; 0x018d9013 間に合わなくなるぞっ
+0x018d9013 You won't make it!
+
+; 0x018d9028 スレイター機、射出してくれ！
+0x018d9028 Slater, eject!
+
+; 0x018d9060 カイト：
+0x018d9060 Kite:
+
+; 0x018d907b リオン：
+0x018d907b Rion:
+
+; 0x018d9084 艦長！
+0x018d9084 Sir!
+
+; 0x018d908b 緊急通信が入りました。
+0x018d908b We've received an emergency call.
+
+; 0x018d90a8 オーウェン艦長：
+0x018d90a8 Captain Owen:
+
+; 0x018d90b9 うむっ
+0x018d90b9 Mm.
+
+; 0x018d90c0 で、何といっている？
+0x018d90c0 So, what's it say?
+
+; 0x018d90db リオン：
+0x018d90db Rion:
+
+; 0x018d90e4 同型の攻撃輸送艦が、
+0x018d90e4 An attack transport ship of the same type
+
+; 0x018d90f9 各地で降下を確認したようです。
+0x018d90f9 It seems they've confirmed their descent across the land.
+
+; 0x018d9124 カイト：
+0x018d9124 Kite:
+
+; 0x018d912d 何だって！？
+0x018d912d What?!
+
+; 0x018d9141 リオン：
+0x018d9141 Rion:
+
+; 0x018d914a アムレハ防衛基地に
+0x018d914a To the Amreha defense base.
+
+; 0x018d915d 向かっているわ・・・
+0x018d915d I'm on my way.
+
+; 0x018d917e オーウェン艦長：
+0x018d917e Captain Owen:
+
+; 0x018d918f スレイター君
+0x018d918f Slater.
+
+; 0x018d919c 帰還したまえ。
+0x018d919c Return.
+
+; 0x018d91b1 カイト：
+0x018d91b1 Kite:
+
+; 0x018d91ba ・・・了解しました。
+0x018d91ba ...Roger.
+
+; 0x018d91cf これより帰還します。
+0x018d91cf I'm going home now.
+
+; 0x018d98e8 ミルン：
+0x018d98e8 Miln:
+
+; 0x018d98f1 今日はどうするの？
+0x018d98f1 What are you doing today?
+
+; 0x018d9920 リオン：
+0x018d9920 Rion:
+
+; 0x018d9929 艦長　ＭＡ射出ポイントに
+0x018d9929 Captain, at the MA ejection point.
+
+; 0x018d9942 到着しました。
+0x018d9942 We're here.
+
+; 0x018d9957 オーウェン艦長：
+0x018d9957 Captain Owen:
+
+; 0x018d9970 オーウェン艦長：
+0x018d9970 Captain Owen:
+
+; 0x018d9981 時間だな・・・
+0x018d9981 It's time.
+
+; 0x018d9997 オーウェン艦長：
+0x018d9997 Captain Owen:
+
+; 0x018d99cc 大尉：
+0x018d99cc Capt:
+
+; 0x018d99d3 カイトッ
+0x018d99d3 Kite!
+
+; 0x018d99dc 終わったら一杯付き合え
+0x018d99dc Go out for a drink when you're done.
+
+; 0x018d99f9 大尉：
+0x018d99f9 Capt:
+
+; 0x018d9a00 ガーナー機出るぞっ
+0x018d9a00 Garner's coming out!
+
+; 0x018d9a35 リオン・・・
+0x018d9a35 Rion.
+
+; 0x018d9a42 行って来る。
+0x018d9a42 I'm off.
+
+; 0x018d9a55 リオン：
+0x018d9a55 Rion:
+
+; 0x018d9a65 いってらっしゃい
+0x018d9a65 Take care.
+
+; 0x018d9a7c カイト：
+0x018d9a7c Kite:
+
+; 0x018d9a85 スレイター機、出ますっ！
+0x018d9a85 Slater's coming out!
+
+; 0x018d9ab8 リオン：
+0x018d9ab8 Rion:
+
+; 0x018d9ac1 待ってカイト！
+0x018d9ac1 Wait, Kite!
+
+; 0x018d9ad0 その付近に入り口があるはずよ。
+0x018d9ad0 There should be an entrance nearby.
+
+; 0x018d9af5 カイト：
+0x018d9af5 Kite:
+
+; 0x018d9afe 了解！
+0x018d9afe Roger!
+
+; 0x018d9b0c リオン：
+0x018d9b0c Rion:
+
+; 0x018d9b15 施設内はジャミングされていて、
+0x018d9b15 The facility was jammed
+
+; 0x018d9b34 中の状況は分からないわっ
+0x018d9b34 I don't know what's inside!
+
+; 0x018d9b53 リオン：
+0x018d9b53 Rion:
+
+; 0x018d9b5c 敵に注意して潜入して！
+0x018d9b5c Watch out for the enemy! Infiltrate!
+
+; 0x018d9b8c カイト：
+0x018d9b8c Kite:
+
+; 0x018d9b95 アルマデル、無事か？
+0x018d9b95 Almadel, are you okay?
+
+; 0x018d9baa 中枢部らしき場所に到達した。
+0x018d9baa We reach what appears to be the core.
+
+; 0x018d9bcd リオン：
+0x018d9bcd Rion:
+
+; 0x018d9bd6 ・・・に・・・つけて・・・
+0x018d9bd6 Put it on.
+
+; 0x018d9bf1 ガーナー・・・戦・・・
+0x018d9bf1 Garner. War.
+
+; 0x018d9c14 大尉：
+0x018d9c14 Capt:
+
+; 0x018d9c1b カイト！　こっちへ来るな
+0x018d9c1b Kite! Stay back!
+
+; 0x018d9c34 コイツはまずいっ！！
+0x018d9c34 This is bad!!
+
+; 0x018d9c4f カイト：
+0x018d9c4f Kite:
+
+; 0x018d9c58 大尉！
+0x018d9c58 Captain!
+
+; 0x018d9c5f どこですか！？
+0x018d9c5f Where is it?!
+
+; 0x018d9c88 カイト：
+0x018d9c88 Kite:
+
+; 0x018d9c91 大尉っ！！
+0x018d9c91 Captain!
+
+; 0x018d9cb8 大尉：
+0x018d9cb8 Capt:
+
+; 0x018d9cbf カイト、後はまかせたぞ！
+0x018d9cbf Kite, leave the rest to me!
+
+; 0x018d9cd8 この戦いを終わらせろっ！
+0x018d9cd8 End this war!
+
+; 0x018d9d0c 大尉：
+0x018d9d0c Capt:
+
+; 0x018d9d13 これじゃ　またミルンに、
+0x018d9d13 At this rate, I'll be back in Milne,
+
+; 0x018d9d2c グフッ・・・　怒られちまうな
+0x018d9d2c Gufuu... Don't get mad.
+
+; 0x018d9d64 カイト：
+0x018d9d64 Kite:
+
+; 0x018d9d6d ガーナー大尉ーーー！！！
+0x018d9d6d Capt. Garner!
+
+; 0x018d9da0 カイト：
+0x018d9da0 Kite:
+
+; 0x018d9da9 ・・・
+0x018d9da9 ...
+
+; 0x018d9db7 カイト：
+0x018d9db7 Kite:
+
+; 0x018d9dc0 ガーナー大尉・・・
+0x018d9dc0 Captain Garner.
+
+; 0x018da5a8 ミルン：
+0x018da5a8 Miln:
+
+; 0x018da5b1 今日はどうするの？
+0x018da5b1 What are you doing today?
+
+; 0x018da5e0 カイト：
+0x018da5e0 Kite:
+
+; 0x018da5e9 聞こえるか？　アルマデル！
+0x018da5e9 Can you hear me, Almadel?
+
+; 0x018da604 ・・・ダメだ。ジャミングか
+0x018da604 No. Jamming.
+
+; 0x018da625 カイト：
+0x018da625 Kite:
+
+; 0x018da62e まだ中枢部は機能している！
+0x018da62e The core's still working!
+
+; 0x018da649 最深部まで進むしかないっ
+0x018da649 We have no choice but to go to the deepest part!
+
+; 0x018da67c ファウス：
+0x018da67c Fau:
+
+; 0x018da687 ふっはっはっはっはっ
+0x018da687 Fuhahahahaha
+
+; 0x018da69c ・・・・
+0x018da69c ...
+
+; 0x018da6ab カイト：
+0x018da6ab Kite:
+
+; 0x018da6b4 ・・・ファウス
+0x018da6b4 Fauss.
+
+; 0x018da6c3 生きていたのか・・・
+0x018da6c3 You're alive.
+
+; 0x018da6de カイト：
+0x018da6de Kite:
+
+; 0x018da6e7 降伏しろっ
+0x018da6e7 Surrender!
+
+; 0x018da6f2 もう勝ち目はない！
+0x018da6f2 I don't have a chance anymore!
+
+; 0x018da70b ファウス：
+0x018da70b Fau:
+
+; 0x018da716 降伏？　我々がか？
+0x018da716 Surrender?
+
+; 0x018da729 はっはっはっはっ
+0x018da729 Ha ha ha ha
+
+; 0x018da740 カイト：
+0x018da740 Kite:
+
+; 0x018da749 ・・・お前たちは
+0x018da749 You're...
+
+; 0x018da75a 一体何者なんだ？
+0x018da75a Who the hell is he?
+
+; 0x018da771 ファウス：
+0x018da771 Fau:
+
+; 0x018da77c 我々は火星解放軍だ。
+0x018da77c We're the Mars Liberation Army.
+
+; 0x018da798 カイト：
+0x018da798 Kite:
+
+; 0x018da7a1 そんな戦争はもう、
+0x018da7a1 Such a war was no longer
+
+; 0x018da7b4 とっくに終わっている！
+0x018da7b4 It's all over!
+
+; 0x018da7d1 ファウス：
+0x018da7d1 Fau:
+
+; 0x018da7dc 終わってなどいないっ！
+0x018da7dc It's not over!
+
+; 0x018da7fa ファウス：
+0x018da7fa Fau:
+
+; 0x018da805 火星は未だ苦しんでいる。
+0x018da805 Mars still suffers.
+
+; 0x018da81e 苛酷な環境下の中、
+0x018da81e In a harsh environment,
+
+; 0x018da837 ファウス：
+0x018da837 Fau:
+
+; 0x018da842 Ｅ．Ｐ．Ｋ．Ｆからの不当な
+0x018da842 Unjustified from E.P.K.F.
+
+; 0x018da85d 搾取は続いているではないか！
+0x018da85d The exploitation continues!
+
+; 0x018da880 ファウス：
+0x018da880 Fau:
+
+; 0x018da88b 火星は独立なくして、
+0x018da88b Mars will cease to exist.
+
+; 0x018da8a0 真の平和は訪れんのだよ！
+0x018da8a0 True peace will not come!
+
+; 0x018da8bf カイト：
+0x018da8bf Kite:
+
+; 0x018da8c8 では、関係のない者まで
+0x018da8c8 Then, even those unrelated.
+
+; 0x018da8df まき込む必要はあるのか！？
+0x018da8df Do I need to get involved?!
+
+; 0x018da900 ファウス：
+0x018da900 Fau:
+
+; 0x018da90b ふっ　地球にいる以上、
+0x018da90b Heh. Since you're on Earth,
+
+; 0x018da922 関係のない者など存在しない
+0x018da922 No one is unrelated.
+
+; 0x018da943 ファウス：
+0x018da943 Fau:
+
+; 0x018da94e どちらが正しいか
+0x018da94e I don't know who's right
+
+; 0x018da95f はっきりさせようではないか？
+0x018da95f Let's make this clear.
+
+; 0x018da982 ファウス：
+0x018da982 Fau:
+
+; 0x018da98d ここで決着を付けさせてもらう。
+0x018da98d I'll settle this here.
+
+; 0x018da9ac 行くぞ！
+0x018da9ac Let's go!
+
+; 0x018da9d0 ファウス：
+0x018da9d0 Fau:
+
+; 0x018da9db ぐうわぁ！
+0x018da9db Uwah!
+
+; 0x018da9ed カイト：
+0x018da9ed Kite:
+
+; 0x018da9f6 あきらめろファウス
+0x018da9f6 Give up, faus.
+
+; 0x018daa09 このままでは何も変わらない。
+0x018daa09 At this rate, nothing will change.
+
+; 0x018daa2c ファウス：
+0x018daa2c Fau:
+
+; 0x018daa52 何も変わらんのだよ。
+0x018daa52 Nothing changes.
+
+; 0x018daa6d カイト：
+0x018daa6d Kite:
+
+; 0x018daa76 ・・・
+0x018daa76 ...
+
+; 0x018daa84 ファウス：
+0x018daa84 Fau:
+
+; 0x018daa8f ふっ、まぁいい・・・　我々は
+0x018daa8f Well, whatever. We're...
+
+; 0x018daaac 既にムーンレイを起動した。
+0x018daaac Already activated Moonray.
+
+; 0x018daacd カイト：
+0x018daacd Kite:
+
+; 0x018daad6 ムーンレイ？
+0x018daad6 Moonray?
+
+; 0x018daae3 なんだそれは！
+0x018daae3 What's that?!
+
+; 0x018daaf8 ファウス：
+0x018daaf8 Fau:
+
+; 0x018dab03 ？・・・ふっはっはっ
+0x018dab03 ? ...Fuhaha.
+
+; 0x018dab18 貴様、何も聞かされてないのか？
+0x018dab18 Didn't you hear anything?
+
+; 0x018dab3d ファウス：
+0x018dab3d Fau:
+
+; 0x018dab48 なぜ我々が、この島のここを
+0x018dab48 Why are we here on this island
+
+; 0x018dab63 最後の拠点としたか？
+0x018dab63 Have you made your last base?
+
+; 0x018dab7e ファウス：
+0x018dab7e Fau:
+
+; 0x018dab89 なぜＥ．Ｐ．Ｋ．Ｆ中央部は
+0x018dab89 Why is central E.P.K.F.
+
+; 0x018daba4 クーデター鎮圧にこだわったか？
+0x018daba4 Were you fixated on suppressing the coup?
+
+; 0x018dabc9 カイト：
+0x018dabc9 Kite:
+
+; 0x018dabd2 ・・・
+0x018dabd2 ...
+
+; 0x018dabe0 ファウス：
+0x018dabe0 Fau:
+
+; 0x018dabeb Ｅ．Ｐ．Ｋ．Ｆらしい
+0x018dabeb E.P.K.F. apparently
+
+; 0x018dac00 やり方だな。
+0x018dac00 That's the way.
+
+; 0x018dac13 ファウス：
+0x018dac13 Fau:
+
+; 0x018dac1e 全てはムーンレイだよ。
+0x018dac1e It's all moonray.
+
+; 0x018dac3c カイト：
+0x018dac3c Kite:
+
+; 0x018dac45 ・・・
+0x018dac45 ...
+
+; 0x018dac4c ムーンレイ！？
+0x018dac4c Moonray?
+
+; 0x018dac61 ファウス：
+0x018dac61 Fau:
+
+; 0x018dac6c 最後に貴様に教えてやろう。
+0x018dac6c In the end, I will tell you.
+
+; 0x018dac87 マーズ戦争後、火星と月の間に
+0x018dac87 After the mars war, between mars and the moon
+
+; 0x018dacaa ファウス：
+0x018dacaa Fau:
+
+; 0x018dacb5 Ｅ．Ｐ．Ｋ．Ｆは、
+0x018dacb5 E.P.K.F.
+
+; 0x018dacc8 巨大な兵器を建造している。
+0x018dacc8 We're building a huge weapon.
+
+; 0x018dace9 ファウス：
+0x018dace9 Fau:
+
+; 0x018dacf4 ・・・それこそがムーンレイ！
+0x018dacf4 That's moonray!
+
+; 0x018dad18 ファウス：
+0x018dad18 Fau:
+
+; 0x018dad23 その光は、火星のどの都市をも
+0x018dad23 And that light is so powerful
+
+; 0x018dad40 一瞬で消滅させる事が可能だ。
+0x018dad40 It can be annihilated in an instant.
+
+; 0x018dad63 カイト：
+0x018dad63 Kite:
+
+; 0x018dad6c なんてものを作っているんだ
+0x018dad6c What are you making?
+
+; 0x018dad87 ・・・
+0x018dad87 ...
+
+; 0x018dad94 ファウス：
+0x018dad94 Fau:
+
+; 0x018dad9f ほとんどの機能は完成し、
+0x018dad9f Most of its functions were complete
+
+; 0x018dadb8 残すはこの島にある、
+0x018dadb8 The rest is on this island,
+
+; 0x018dadd3 ファウス：
+0x018dadd3 Fau:
+
+; 0x018dadde 唯一の制御コンピュータとの
+0x018dadde The only control computer
+
+; 0x018dadf9 接続確認を行うのみだったのだよ
+0x018dadf9 I had to check the connection.
+
+; 0x018dae1e ファウス：
+0x018dae1e Fau:
+
+; 0x018dae29 管理ＡＩは既に我々の手に落ち、
+0x018dae29 The management AI was already in our hands
+
+; 0x018dae48 発射体制に移行している。
+0x018dae48 We've moved on to the firing system.
+
+; 0x018dae67 カイト：
+0x018dae67 Kite:
+
+; 0x018dae70 まさかっ　お前たちは
+0x018dae70 No way, you guys.
+
+; 0x018dae85 それをどこに使うつもりなんだ！
+0x018dae85 Where are you going to use it?!
+
+; 0x018daeaa ファウス：
+0x018daeaa Fau:
+
+; 0x018daeb5 ふふふふっ
+0x018daeb5 Fufufufu
+
+; 0x018daec0 まずは、Ｅ．Ｐ．Ｋ．Ｆ中央部
+0x018daec0 First, in the middle of E.P.K.F.
+
+; 0x018daee3 ファウス：
+0x018daee3 Fau:
+
+; 0x018daeee そしてムーンコロニー、
+0x018daeee And a moon colony,
+
+; 0x018daf05 最後はこの島だ。
+0x018daf05 Finally, this island.
+
+; 0x018daf1c カイト：
+0x018daf1c Kite:
+
+; 0x018daf25 それでは、月と地球も
+0x018daf25 So, the moon and earth
+
+; 0x018daf3a 再び戦争に入ってしまう！
+0x018daf3a We'll go back to war!
+
+; 0x018daf59 ファウス：
+0x018daf59 Fau:
+
+; 0x018daf64 ふっはっはっ・・・
+0x018daf64 Ha ha ha.
+
+; 0x018daf77 うぐっ
+0x018daf77 Ugh!
+
+; 0x018daf84 ファウス：
+0x018daf84 Fau:
+
+; 0x018daf8f もう・・・　誰にも・・・
+0x018daf8f I'm... I'm...
+
+; 0x018dafa8 止める事などできん。
+0x018dafa8 I can't stop it.
+
+; 0x018dafc3 ファウス：
+0x018dafc3 Fau:
+
+; 0x018dafce 指をくわえて・・・
+0x018dafce Put your finger in your mouth.
+
+; 0x018dafe1 見ているん・・・だ・な・・・
+0x018dafe1 I'm watching you.
+
+; 0x018db004 カイト：
+0x018db004 Kite:
+
+; 0x018db00d オレが必ず止めてやる！
+0x018db00d I swear I'll stop you!
+
+; 0x018db02b ファウス：
+0x018db02b Fau:
+
+; 0x018db036 ・・・
+0x018db036 ...
+
+; 0x018db044 カイト：
+0x018db044 Kite:
+
+; 0x018db04d 制御コンピュータはこの先か。
+0x018db04d The control computer's up ahead.
+
+; 0x018db06a 発射される前に止めなくては！
+0x018db06a We have to stop it before it fires!
+
+; 0x018db7a0 ミルン：
+0x018db7a0 Miln:
+
+; 0x018db7a9 今日はどうするの？
+0x018db7a9 What are you doing today?
+
+; 0x018db7d8 カイト：
+0x018db7d8 Kite:
+
+; 0x018db7e1 これが、制御コンピュータか
+0x018db7e1 This is a control computer.
+
+; 0x018db7fc ・・・なんて大きさなんだ。
+0x018db7fc ...How big.
+
+; 0x018db81d ＡＩ：
+0x018db81d AI:
+
+; 0x018db824 識別信号ニ応答ナシ。
+0x018db824 No ID signal.
+
+; 0x018db839 侵入者ト判断、排除シマス。
+0x018db839 Intruders judged, eliminated.
+
+; 0x018db85a カイト：
+0x018db85a Kite:
+
+; 0x018db863 なに？
+0x018db863 What?
+
+; 0x018db86a 攻撃するつもりなのかっ
+0x018db86a Are you going to attack?!
+
+; 0x018db89c ファウス：
+0x018db89c Fau:
+
+; 0x018db8a7 シンニュウシャノ・・・
+0x018db8a7 Xingyushano...
+
+; 0x018db8be ハイジョ・・・
+0x018db8be Haijo...
+
+; 0x018db8d3 カイト：
+0x018db8d3 Kite:
+
+; 0x018db8e1 ファウス！
+0x018db8e1 Faus!
+
+; 0x018db8f2 カイト：
+0x018db8f2 Kite:
+
+; 0x018db8fb まさか、
+0x018db8fb No way,
+
+; 0x018db904 蘇生させたのか！？
+0x018db904 You resurrected him?!
+
+; 0x018db91d カイト：
+0x018db91d Kite:
+
+; 0x018db926 ・・・こんなモノの為に、
+0x018db926 For something like this.
+
+; 0x018db952 カイト：
+0x018db952 Kite:
+
+; 0x018db95b オレたちは戦っていたなんて！
+0x018db95b We were fighting!
+
+; 0x018db978 必ず止めてやる！！
+0x018db978 I'll stop you!!
+
+; 0x018db9a4 ＡＩ：
+0x018db9a4 AI:
+
+; 0x018db9ab 第１目標ニ、ムーンレイ
+0x018db9ab Target number one, Moonray.
+
+; 0x018db9c2 照射・・・
+0x018db9c2 Firing...
+
+; 0x018db9d3 カイト：
+0x018db9d3 Kite:
+
+; 0x018db9dc くそっ！！
+0x018db9dc Shit!!
+
+; 0x018db9e7 間に合わなかったか・・・
+0x018db9e7 I didn't make it.
+
+; 0x018dba06 ＡＩ：
+0x018dba06 AI:
+
+; 0x018dba0d ムーンレイトノ接続エラーガ
+0x018dba0d Moonrateno Connection Errorga
+
+; 0x018dba28 発生イタシマシタ。
+0x018dba28 It's happening.
+
+; 0x018dba41 ＡＩ：
+0x018dba41 AI:
+
+; 0x018dba48 ムーンレイ発射システムヲ
+0x018dba48 Moonray launch system
+
+; 0x018dba61 凍結シマス。
+0x018dba61 Frozen simus.
+
+; 0x018dba88 カイト：
+0x018dba88 Kite:
+
+; 0x018dba91 よしっ！
+0x018dba91 Okay!
+
+; 0x018dbaaa ・・・イ・・
+0x018dbaaa I...
+
+; 0x018dbab7 ・応・・・・て・・・
+0x018dbab7 O-O-O-O...
+
+; 0x018dbad2 カイト：
+0x018dbad2 Kite:
+
+; 0x018dbadb 通信ができるのか！？
+0x018dbadb Can we communicate?!
+
+; 0x018dbaf7 カイト：
+0x018dbaf7 Kite:
+
+; 0x018dbb00 こちらスレイター、施設内部の
+0x018dbb00 This is Slater.
+
+; 0x018dbb1d 破壊に成功。繰り返す・・・
+0x018dbb1d Destroyed. Repeat...
+
+; 0x018dbb3e リオン：
+0x018dbb3e Rion:
+
+; 0x018dbb47 カイト！！
+0x018dbb47 Kite!
+
+; 0x018dbb59 カイト：
+0x018dbb59 Kite:
+
+; 0x018dbb62 リオンッ！
+0x018dbb62 Rion!
+
+; 0x018dbb6d 無事か？
+0x018dbb6d You okay?
+
+; 0x018dbb7c リオン：
+0x018dbb7c Rion:
+
+; 0x018dbb85 ええ　でもアルマデルは・・・
+0x018dbb85 Yes, but Almadel...
+
+; 0x018dbba2 それよりもっ！
+0x018dbba2 Anyway!
+
+; 0x018dbbb7 リオン：
+0x018dbbb7 Rion:
+
+; 0x018dbbc0 起爆信号をキャッチしたわ
+0x018dbbc0 I got the detonator signal.
+
+; 0x018dbbd9 おそらく施設全体が爆発する。
+0x018dbbd9 The whole facility will probably explode.
+
+; 0x018dbbfc カイト：
+0x018dbbfc Kite:
+
+; 0x018dbc05 あと、どれくらい時間はある！？
+0x018dbc05 How much more time do I have?!
+
+; 0x018dbc2b リオン：
+0x018dbc2b Rion:
+
+; 0x018dbc34 わからない・・・
+0x018dbc34 I don't...
+
+; 0x018dbc45 だから急いで！！
+0x018dbc45 So hurry!
+
+; 0x018dbc5c リオン：
+0x018dbc5c Rion:
+
+; 0x018dbc65 ガーナー大尉にも伝えて！
+0x018dbc65 Tell Captain Garner!
+
+; 0x018dbc7e こちらの呼びかけに反応がないの
+0x018dbc7e He's not answering my call.
+
+; 0x018dbca3 カイト：
+0x018dbca3 Kite:
+
+; 0x018dbcba カイト：
+0x018dbcba Kite:
+
+; 0x018dbcc3 ・・・大尉は・・・
+0x018dbcc3 Captain...
+
+; 0x018dbce3 ミルン：
+0x018dbce3 Miln:
+
+; 0x018dbcec ・・・ウソよっ
+0x018dbcec It's a lie.
+
+; 0x018dbcfb そんはず・・・
+0x018dbcfb That should be...
+
+; 0x018dbd10 カイト：
+0x018dbd10 Kite:
+
+; 0x018dbd19 ・・・すまない・・・
+0x018dbd19 Sorry...
+
+; 0x018dbd2e ミルン・・・
+0x018dbd2e Miln.
+
+; 0x018dbd41 ミルン：
+0x018dbd41 Miln:
+
+; 0x018dbd4a ウソよ・・・
+0x018dbd4a It's a lie.
+
+; 0x018dbd57 あの人が死ぬはずない！
+0x018dbd57 He's not going to die!
+
+; 0x018dbd74 ミルン：
+0x018dbd74 Miln:
+
+; 0x018dbd7d いやぁっ　やめてっ
+0x018dbd7d Nooo! Stop!
+
+; 0x018dbd90 離してー！
+0x018dbd90 Let go!
+
+; 0x018dbda7 リオン：
+0x018dbda7 Rion:
+
+; 0x018dbdb7 カイト・・・
+0x018dbdb7 Kite.
+
+; 0x018dbdd0 オーウェン艦長：
+0x018dbdd0 Captain Owen:
+
+; 0x018dbde1 スレイター君　急ぎたまえ！
+0x018dbde1 Slater, hurry!
+
+; 0x018dbe03 カイト：
+0x018dbe03 Kite:
+
+; 0x018dbe1a オーウェン艦長：
+0x018dbe1a Captain Owen:
+
+; 0x018dbe2b 彼の死を無駄にしない為にも
+0x018dbe2b To not waste his death.
+
+; 0x018dbe46 君が生き残らなければ！
+0x018dbe46 If you don't survive!
+
+; 0x018dbe63 カイト：
+0x018dbe63 Kite:
+
+; 0x018dbe7a カイト：
+0x018dbe7a Kite:
+
