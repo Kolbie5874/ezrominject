@@ -30,7 +30,7 @@ patch_repeated_blocks() {
 }
 
 
-# jap dub ver
+# jap dub build
 
 INPUT_ROM="PopfulMail (Japan) (Track 02).bin"
 OUTPUT_ROM="PopfulMail (Japan) (Track 02) (patched).bin"
@@ -50,10 +50,10 @@ rm "$OUTPUT_ROM.tmp"
 #sfk replace "$OUTPUT_ROM" -binary /$ITEMS_JAP_STR/$ITEMS_ENG_STR/  -yes 
 patch_repeated_blocks
 
-xdelta3 -S none -f -e -s "$INPUT_ROM" "$OUTPUT_ROM"  "$OUTPUT_ROM.xdelta"
+xdelta3 -S none -f -e -s "$INPUT_ROM" "$OUTPUT_ROM"  "$INPUT_ROM.xdelta"
 
 
-## eng dub
+## eng dub build
 
 INPUT_ROM="02 Magical Fantasy Adventure - Popful Mail (J).bin"
 OUTPUT_ROM="02 Magical Fantasy Adventure - Popful Mail (J) (patched).bin"
@@ -71,4 +71,4 @@ rm "$OUTPUT_ROM.tmp"
 #sfk replace "$OUTPUT_ROM" -binary /$ITEMS_JAP_STR/$ITEMS_ENG_STR/  -yes 
 patch_repeated_blocks
 
-xdelta3 -S none -f -e -s "02 Magical Fantasy Adventure - Popful Mail (J).iso" "$OUTPUT_ROM"  "$OUTPUT_ROM.xdelta"
+xdelta3 -S none -f -e -s "02 Magical Fantasy Adventure - Popful Mail (J).iso" "$OUTPUT_ROM"  "$INPUT_ROM.xdelta"
