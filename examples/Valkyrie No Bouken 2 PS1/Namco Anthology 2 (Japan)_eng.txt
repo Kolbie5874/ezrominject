@@ -4,6 +4,8 @@
 ; - https://namco.fandom.com/wiki/Walk%C3%BCre_no_B%C5%8Dken:_Toki_no_Kagi_Densetsu
 
 
+;; items in submenu
+
 ; 0x0c4c6e88 天界の戦士の杖
 0x0c4c6e88 Celestial Staff
 
@@ -145,8 +147,14 @@
 ; 0x0c4c72a8 雪の術
 0x0c4c72a8 Snow Magic
 
+
+;; savegame name?
+
 ; 0x0c4c7ee8 ワルキューレの冒険　　　　　　　　　　　　　ナムコアンソロジー２
 ;0x0c4c7ee8 Valkyrie’s Adventures
+
+
+;; chests messages
 
 ; 0x0c5dd688 ＜月のカケラを手に入れた！＞
 0x0c5dd688 <Got the Moon Fragment!>
@@ -158,43 +166,43 @@
 0x0c5ec954 I already saved her.
 
 ; 0x0c5f3d00 ＜３０Ｇｏｌｄを手に入れた！＞
-0x0c5f3d00 <Got 30 gold!>
+0x0c5f3d00 <Found 30 gold!>
 
 ; 0x0c5f3d38 ＜５０Ｇｏｌｄを手に入れた！＞
-0x0c5f3d38 <Got 50 gold!>
+0x0c5f3d38 <Found 50 gold!>
 
 ; 0x0c5f3d70 ＜ライフ回復薬を手に入れた！＞
-0x0c5f3d70 <Got a Life Recovery Potion!>
+0x0c5f3d70 <Found a Life Recovery Potion!>
 
 ; 0x0c5f3d94 宝箱にはライフ回復薬が入っていた
-0x0c5f3d94 The chest contained a Life Recovery Potion
+0x0c5f3d94 Found a Life Recovery Potion
 
 ; 0x0c5f3db8 しかし、もう荷物がいっぱいで、
-0x0c5f3db8 However, there is no space
+0x0c5f3db8 but, there is no space
 
 ; 0x0c5f3ddc 持てない。
 0x0c5f3ddc left.
 
 ; 0x0c5f3e00 ライフ回復薬を宝箱へ返した。
-0x0c5f3e00 Returned Life Recovery Potions to chest.
+0x0c5f3e00 Returned Life Recovery Potion.
 
 ; 0x0c5f3f8c ＜マジック回復薬を手に入れた！＞
-0x0c5f3f8c <Got a Magic Recovery Potion!>
+0x0c5f3f8c <Found a Magic Recovery Potion!>
 
 ; 0x0c5f3fb0 宝箱にはマジック回復薬が
-0x0c5f3fb0 The chest has a Magic Recovery Potion
+0x0c5f3fb0 Found a a Magic Recovery Potion
 
 ; 0x0c5f3fd4 入っていた。　しかし、荷物が
-0x0c5f3fd4 It’s in there. But the package...
+0x0c5f3fd4 but, there is no 
 
 ; 0x0c5f3ff8 いっぱいで持てない。
-0x0c5f3ff8 I can’t hold it all.
+0x0c5f3ff8 space.
 
 ; 0x0c5f401c マジック回復薬を宝箱へ返した。
-0x0c5f401c Magic Recovery Potion returned to chest.
+0x0c5f401c Magic Recovery Potion returned.
 
 ; 0x0c5f4078 ＜万能薬を手に入れた！＞
-0x0c5f4078 <Got a Panacea!>
+0x0c5f4078 <Found a Panacea!>
 
 ; 0x0c5f409c 宝箱には万能薬が入っていた。
 0x0c5f409c The chest contained a Panacea
@@ -295,8 +303,11 @@
 ; 0x0c5f46d8 爆弾を宝箱へ返しました。
 0x0c5f46d8 Bomb returned to chest.
 
+
+;; Save messages
+
 ; 0x0c5f5e38 私は、時を記すもの。
-0x0c5f5e38 I am the Stone of Time.
+0x0c5f5e38 I am the Time Stone.
 
 ; 0x0c5f5e5c あなたの時を私に記録しますか？
 0x0c5f5e5c Shall I record your time? 
@@ -436,6 +447,9 @@
 ; 0x0c5f6984 ロードを中断しますか？
 0x0c5f6984 Cancel loading?
 
+
+;; Locations
+
 ; 0x0c5f6b20 はじまりの国
 0x0c5f6b20 Land of Origin
 
@@ -463,6 +477,8 @@
 ; 0x0c5f6bbc 　データが壊れています
 0x0c5f6bbc The data is corrupted.
 
+;; Shop messages
+
 ; 0x0c5f9428 いらっしゃいませ〜。
 0x0c5f9428 Welcome.
 
@@ -470,22 +486,22 @@
 0x0c5f9458 Customer...
 
 ; 0x0c5f947c お金が足りないようですねぇ？
-0x0c5f947c You don’t have enough money?
+0x0c5f947c Not enough money?
 
 ; 0x0c5f94ac 残念、そのアイテムはもう、
-0x0c5f94ac That item is no longer available.
+0x0c5f94ac That item is no 
 
 ; 0x0c5f94d0 お持ちになれないようですねぇ。
-0x0c5f94d0 You won’t be able to take it.
+0x0c5f94d0 longer available.
 
 ; 0x0c5f9500 まいどありがとうございました〜。
 0x0c5f9500 Thank you very much~.
 
 ; 0x0c5f9530 なんだい、ただの冷やかしとは
-0x0c5f9530 What’s this, just teasing?
+0x0c5f9530 So, you're just teasing me?
 
 ; 0x0c5f9554 おひとが悪い。
-0x0c5f9554 It’s my fault.
+0x0c5f9554 How mean.
 
 ; 0x0c5f9584 また御利用下さいませ〜。
 0x0c5f9584 Please come again!
@@ -497,7 +513,7 @@
 0x0c5f95ea Life Recovery Potion.
 
 ; 0x0c5f960c これ一本で気力満点！
-0x0c5f960c With just this one, I’m full of energy!
+0x0c5f960c Full energy boost!
 
 ; 0x0c5f962e マジック回復薬。
 0x0c5f962e Magic Recovery Potion.
@@ -512,16 +528,16 @@
 0x0c5f96b6 Thirty undefeated shots ahead!
 
 ; 0x0c5f96d8 ズールお勧めの３方向攻撃！
-0x0c5f96d8 Zul recommended three-way attack!
+0x0c5f96d8 Zul recommended 3-way attack!
 
 ; 0x0c5f96fa ３０発で１セットだ！
 0x0c5f96fa One set for 30 shots!
 
 ; 0x0c5f971c 前後左右の４方向攻撃！
-0x0c5f971c Four-way attack, front, back, left, right!
+0x0c5f971c 4-way attack!
 
 ; 0x0c5f973e ３０発セットでこの価格！
-0x0c5f973e 30 rounds for this price!
+0x0c5f973e 30 rounds included!
 
 ; 0x0c5f9760 威力満点！ズール印の爆弾だ！
 0x0c5f9760 Super powerful! It’s a Zul-branded bomb
@@ -530,37 +546,40 @@
 0x0c5f9782 These 30 shots are terrifying!
 
 ; 0x0c5f97a4 敵を追っかける誘導弾！
-0x0c5f97a4 chasing the enemy!
+0x0c5f97a4 Chase the enemy!
 
 ; 0x0c5f97c6 この３０発で敵を蹴散らせ！
-0x0c5f97c6 Kick the enemy out with these 30 shots!
+0x0c5f97c6 30 shots to wipe the enemy!
 
 ; 0x0c5f97e8 全方向攻撃で迫る敵をなぎ倒せ！
-0x0c5f97e8 Take out the enemies closing in on you with a full-range attack!
+0x0c5f97e8 Attack in all directions!
 
 ; 0x0c5f980a 今なら３０発でこの価格だ！
-0x0c5f980a 30 shots is this price now!
+0x0c5f980a 30 shots for this price now!
 
 ; 0x0c5f982c ピクシー族が精魂込めた逸品！
 0x0c5f982c A masterpiece from the Pixie tribe!
 
 ; 0x0c5f984e セレクトボタンで華麗に変身。
-0x0c5f984e Transform your character with the select button.
+0x0c5f984e Transform with select button.
 
 ; 0x0c5fa5cc ゲームに復帰します
-0x0c5fa5cc Back to the game.
+0x0c5fa5cc Back to the game
 
 ; 0x0c5fa5e4 ゲームを終了して
 0x0c5fa5e4 End the game
 
 ; 0x0c5fa5fc ホームページに戻ります
-0x0c5fa5fc Back to the homepage.
+0x0c5fa5fc Back to the homepage
 
 ; 0x0c5fa614 このゲームのタイトルに
-0x0c5fa614 The title of this game
+0x0c5fa614 Return to the game
 
 ; 0x0c5fa62c 戻ります
-0x0c5fa62c I’ll be back.
+0x0c5fa62c title.
+
+
+;; Dialogues
 
 ; 0x0c6e469d 誰だ？
 0x0c6e469d Who is it?
@@ -572,37 +591,37 @@
 0x0c6e46df Looks like a human?
 
 ; 0x0c6e470c いや、すまなかったね。
-0x0c6e470c No, sorry.
+0x0c6e470c Oh, I'm sorry.
 
 ; 0x0c6e472d 最近この辺りもすっかり物騒に
-0x0c6e472d It’s been pretty dangerous around here lately.
+0x0c6e472d It’s been pretty dangerous around here 
 
 ; 0x0c6e474e なってね・・・。
-0x0c6e474e Become...
+0x0c6e474e lately...
 
 ; 0x0c6e477c 魔物達はどんどん
-0x0c6e477c The monsters kept going
+0x0c6e477c The monsters keep
 
 ; 0x0c6e479d 増え続けているし、　　　　
-0x0c6e479d We’re getting more and more.
+0x0c6e479d increasing, and
 
 ; 0x0c6e48ee 港町からの便りもない。
-0x0c6e48ee No word from the port town.
+0x0c6e48ee there's no news from the port town.
 
 ; 0x0c6e491c さっきは、南の遺跡に
-0x0c6e491c Earlier, in the ruins to the south
+0x0c6e491c Earlier, a bright light shone
 
 ; 0x0c6e493d すごい光が落ちたし・・・。
-0x0c6e493d There’s a lot of light.
+0x0c6e493d the ruins to the south.
 
 ; 0x0c6e496c 私見たわ！
 0x0c6e496c I saw it!
 
 ; 0x0c6e498d あの光、まるで人間みたいな形を
-0x0c6e498d That light, it looks like a human
+0x0c6e498d That light... it had a shape just 
 
 ; 0x0c6e49ae していたの。
-0x0c6e49ae I was.
+0x0c6e49ae like a human.
 
 ; 0x0c6e49dc あれはきっと天の御使い様よ！
 0x0c6e49dc That must be the messenger of heaven!
@@ -611,13 +630,13 @@
 0x0c6e4a2d Sorry, ever since I saw that light.
 
 ; 0x0c6e4a4e この調子で・・・。
-0x0c6e4a4e Keep it up.
+0x0c6e4a4e I've been like this...
 
 ; 0x0c6e4a7c よければ少し
-0x0c6e4a7c A little, if you like.
+0x0c6e4a7c If you don't mind,
 
 ; 0x0c6e4a9d ゆっくりしていってくれ。
-0x0c6e4a9d Take it easy.
+0x0c6e4a9d please stay a while.
 
 ; 0x0c6e4acc ＜ライフが回復した！＞
 0x0c6e4acc <Life restored>
@@ -626,34 +645,35 @@
 0x0c6e4b98 See you, Sis.
 
 ; 0x0c6e4bf4 へえ・・・このご時世に、
-0x0c6e4bf4 Wow... In these days,
+0x0c6e4bf4 Wow... I’m surprised
 
 ; 0x0c6e4c15 女の子の一人旅とは驚いたな。
-0x0c6e4c15 I’m surprised you’re traveling alone.
+0x0c6e4c15 to see a traveling girl alone.
 
 ; 0x0c6e4c44 俺様の名前は、
-0x0c6e4c44 My name...
+0x0c6e4c44 My name is...
 
 ; 0x0c6e4c65 ズーリー・ズルコビッチ・
-0x0c6e4c65 Zury Zulkovich
+0x0c6e4c65 Zuri Zurukobitchi
 
 ; 0x0c6e4c86 コズルイネン。
-0x0c6e4c86 Kozurinen.
+0x0c6e4c86 Kozuruinen.
 
 ; 0x0c6e4cb4 マーベルランドいちの行商人、
-0x0c6e4cb4 Marvel Land’s best peddler,
+;0x0c6e4cb4 Marvel Land’s best traveling merchant,
+0x0c6e4cb4 Marvel Land’s best merchant,
 
 ; 0x0c6e4cd5 ズール様たあ俺のことさ！
 0x0c6e4cd5 Master Zul, it’s me!
 
 ; 0x0c6e4d04 ここで会ったのも、
-0x0c6e4d04 I met her here, too.
+0x0c6e4d04 Meeting here must
 
 ; 0x0c6e4d25 何かの縁ってやつだ。
-0x0c6e4d25 It’s some kind of fate.
+0x0c6e4d25 be fate.
 
 ; 0x0c6e4d54 どうだい？　俺の品物を
-0x0c6e4d54 How do you like my stuff?
+0x0c6e4d54 How about it?
 
 ; 0x0c6e4d75 見ていかないかい？
 0x0c6e4d75 Wanna take a look?
@@ -662,7 +682,7 @@
 0x0c6e4da4 I’m sure it’ll help you on your journey.
 
 ; 0x0c6e4dc5 立つものばかりだぜ！
-0x0c6e4dc5 It’s all standing!
+0x0c6e4dc5 on your journey!
 
 ; 0x0c6e4df4 じゃあな、
 0x0c6e4df4 Bye,
@@ -670,14 +690,18 @@
 ; 0x0c6e4e15 せいぜい気をつけるこった。
 0x0c6e4e15 Take care.
 
+
+; isolated home
+
 ; 0x0c6e4eac 旅の人、よくこんな所まで
-0x0c6e4eac Travelers often come here.
+0x0c6e4eac Traveler, thank you for 
 
 ; 0x0c6e4ecd きてくれたね。
-0x0c6e4ecd You came.
+0x0c6e4ecd coming all the way to this place.
 
 ; 0x0c6e4eee 何もないがゆっくりしておいき。
 0x0c6e4eee There’s nothing here, but take it easy.
+
 
 ; 0x0c6e4f3c 南の列石遺跡には、
 0x0c6e4f3c To the south, in the Rekkaishi Ruins,
@@ -957,6 +981,8 @@
 
 ; 0x0c6e62f5 北の港町で暮らしていたんだが・・
 0x0c6e62f5 I lived in a port town in the north.
+
+; TODO: missing line
 
 ; 0x0c6e6324 数ヶ月前、いきなりタッタ族が
 0x0c6e6324 A few months ago, the Tattas suddenly appeared
@@ -1271,7 +1297,7 @@
 0x0c752949 Oh, Valkyrie!
 
 ; 0x0c75296a またお会いできるとは！
-0x0c75296a To see you again!
+0x0c75296a Glad to see you again!
 
 ; 0x0c752998 え？
 0x0c752998 Eh?
@@ -1355,7 +1381,7 @@
 0x0c752ea8 Put a sinner in there.
 
 ; 0x0c752ec9 何回も、何回も、砂時計ごと
-0x0c752ec9 Again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again
+0x0c752ec9 Again, and again
 
 ; 0x0c752eea ひっくり返すんだそうです。
 0x0c752eea They’re turning it over.
@@ -1466,7 +1492,7 @@
 0x0c753644 When I go to a new place,
 
 ; 0x0c753665 ‘時の石碑’で、冒険の記録を
-0x0c753665  Record your adventure at the Stone of Time
+0x0c753665  Record your adventure at the Time Stone
 
 ; 0x0c753686 しておくことをおすすめします。
 0x0c753686 I recommend.

@@ -426,6 +426,7 @@ def run_injection(jap_path, eng_path, rom_path):
         eng_text = eng_text.replace("~", "〜")
         eng_text = eng_text.replace(".", "。")
         eng_text = eng_text.replace("\'", "’")
+        eng_text = eng_text.replace("\"", "”")
         #eng_text = eng_text.replace(" ", "　")  # double-width space
         #eng_text = eng_text.replace(", ", ",")
         
