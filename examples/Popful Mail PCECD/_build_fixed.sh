@@ -29,12 +29,14 @@ patch_repeated_blocks() {
     repeat_block 0x8352a0 0x235274 2380  "$OUTPUT_ROM"  # shop items (alt. smaller) -> TODO: test
 }
 
+extract_gfx() {
+    mkdir gfx
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x1060860 0x10616c0 gfx/locations_jap.bin -yes
+    #TODO: sfk partcopy "$OUTPUT_ROM" -fromto ... gfx/menu_jap.bin -yes
+}
+
 patch_gfx() {
     echo "patch_gfx:"
-    # extract
-    #sfk partcopy "$OUTPUT_ROM" -fromto 0x1060860 0x10616c0 gfx/locations_jap.bin -yes
-    #TODO: sfk partcopy "$OUTPUT_ROM" -fromto ... gfx/menu_jap.bin -yes
-    # replace
     #repeat_block ...
 }
 
@@ -46,6 +48,7 @@ OUTPUT_ROM="PopfulMail (Japan) (Track 02) (patched).bin"
 
 cp "$INPUT_ROM" "$OUTPUT_ROM.tmp"
 
+# patch text
 rominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM.tmp"  --ascii-bios-hack 
 #NOT COMPATIBLE: --ascii-mode
 
@@ -54,6 +57,8 @@ bchunk-bin2iso -t 00:03:00 "$OUTPUT_ROM.tmp" "$OUTPUT_ROM"
 rm "$OUTPUT_ROM.tmp"
 
 patch_repeated_blocks
+
+[ ! -d "gfx" ] && extract_gfx
 
 patch_gfx
 
