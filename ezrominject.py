@@ -348,9 +348,21 @@ def run_injection(jap_path, eng_path, rom_path):
         #        text = text[1:]
                 
         # strip 1-byte chars from the beginning
-        while len(text) > 0 and is_sjis_single_byte(text[0]):
-            addr_int += 1
-            text = text[1:]
+        #while len(text) > 0 and is_sjis_single_byte(text[0]):
+        #    addr_int += 1
+        #    text = text[1:]
+        # FIX: not working with strings like: "$奄烽ｵゴルアデスを倒せたら、" or "$父uラッキィさん…。"
+        # Search backwards to find the index of the last single-byte character
+        last_idx = next((i for i in range(len(text)-1, -1, -1) if is_sjis_single_byte(text[i])), -1)
+        if last_idx != -1:
+            # The exact memory offset is just the encoded byte-length of the prefix!
+            try:
+                addr_int += len(text[:last_idx + 1].encode('cp932'))
+            except:
+                print("error with (skipped): " + str(text[:last_idx + 1]))
+                continue
+            text = text[last_idx + 1:]
+            #print("stripped: " + str(text))
 
         # strip 1-byte chars from the end
         while len(text) > 0 and is_sjis_single_byte(text[-1]):
@@ -359,7 +371,7 @@ def run_injection(jap_path, eng_path, rom_path):
         if len(text)==0:
             continue
                 
-        if len(text)>=5 and has_no_kanas(text):
+        if len(text)>=6 and has_no_kanas(text):
             # prolly not text
             print("skipped control line: " + text)
             continue

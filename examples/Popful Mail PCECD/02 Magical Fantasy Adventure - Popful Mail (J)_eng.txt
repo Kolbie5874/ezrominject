@@ -4,10 +4,14 @@
 ; - https://tcrf.net/Popful_Mail_(Sega_CD)
 ; - https://www.youtube.com/watch?v=2ji4t2JCu7Y
 
+; NOTE: many jap lines have control codes at the begining that should be skipped by the patcher
+;       (They usually appear as random 1-byte chars like "eｦ$&", " $C", ...).
+;       If they are not skipped, you need to manually change the offset both here and in *_jap.txt, since they may cause breakages.
+
 
 ; items in submenu  (only 1st occurrence, will be duplicated in _build.sh)
 ; 0x00f3e6a3 　　　　　　　　ショートソード　ロングソード　　ファルシオン　　フレイムソード　ライトセイバー　ファイア　　　　ファイアＤＸ　　サンダー　　　　ホーミング　　　フォース　　　　ファイアボール　テイルアタック　アックス　　　　アイアンクロー　ファイアブレス　レザーアーマー　チェーンメイル　プレートメイル　ミスリルアーマーゴールドアーマーレッドローブ　　ブルーローブ　　イエローローブ　シルバーローブ　ゴールドローブ　レザーアーマー　チェーンメイル　プレートメイル　ミスリルアーマーゴールドアーマーウッドシールド　スモールシールドラージシールド　ミスリルシールドゴールドシールドブロンズミラー　メタルミラー　　プラチナミラー　ミスリルミラー　ゴールドミラー　ウッドシールド　スモールシールドラージシールド　ミスリルシールドゴールドシールド無敵　　　９９個ヘルメット９９個スパイクブーツ　石靴　　　　　　つるはし　　　　ダガー　　　　　ブーメラン　　　オレンジ　　９個チェリー　　９個リンゴ　　　９個　　　　　　　　金塊　　　　９個エリクサー　９個魔法瓶　　　　　爆弾　　　　　　はしご　　　　　カギ　　　　　　牢屋の鍵　　　　細工物　　　　　クリスタル　　　クリスタル　　　クリスタル　　　クリスタル　　　宝玉　　　　　　　　ＤＸ
-0x00f3e6a3                 Short Sword     Long Sword      Falchion        Flame Sword     Light Saber     Fire            Fire DX         Thunder         Homing          Force           Fireball        Tail Attack     Axe             Iron Claw       Fire Breath     Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Red Robe        Blue Robe       Yellow Robe     Silver Robe     Gold Robe       Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Bronze Mirror   Metal Mirror    Platinum Mirror Silver Mirror   Gold Mirror     Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Invincible    99 Helmets    99 Spike Boots  Stone Shoes     Pickaxe         Dagger          Boomerang       Orange      9  Cherry      9  Apple       9                  Gold Bar    9  Elixyr      9  Magic Bottle    Bomb            Ladder          Key             Jail Key        Ornament        Crystal         Crystal         Crystal         Crystal         Jewel           DX
+0x00f3e6a3                 Short Sword     Long Sword      Falchion        Flame Sword     Light Saber     Fire            Fire DX         Thunder         Homing          Force           Fireball        Tail Attack     Axe             Iron Claw       Fire Breath     Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Red Robe        Blue Robe       Yellow Robe     Silver Robe     Gold Robe       Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Bronze Mirror   Metal Mirror    Platinum Mirror Silver Mirror   Gold Mirror     Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Invincibil99  Helmet    99  Spike Boots     Stone Shoes     Pickaxe          Dagger          Boomerang       Orange      9  Cherry      9  Apple       9                  Gold Bar    9  Elixyr      9  Magic Bottle    Bomb            Ladder          Key             Jail Key        Ornament        Crystal         Crystal         Crystal         Crystal         Jewel           DX
 
 ;shop menu1
 ; 0x002351b6 買う
@@ -95,7 +99,7 @@
 ; 0x0023599a ゴールドミラー　魔法の力で敵の攻撃を跳ね返す。
 0x0023599a Gold Mirror: Magic repels enemy attacks.
 ; 0x002359ca 無敵　　　　　　一定時間無敵！！
-0x002359ca Invincible: Invincible for a time!!
+0x002359ca Invincibility: Invincible for a time!!
 ; 0x002359ec ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x002359ec Helmet: Blocks attacks from above for a time.
 ; 0x00235a28 スパイクブーツ　氷の上でも滑らない。
@@ -198,7 +202,7 @@
 ; 0x000dd163 このファイルは実行出来ません。
 0x000dd163 Cannot execute this file.
 ; 0x000dd185 ぽっぷるメイルのファイルでないとコピー出来ません。
-0x000dd185 Cannot copy different file.
+0x000dd185 Cannot copy a different save.
 ; 0x000dd1bb タイトルに戻ります。
 0x000dd1bb Return to title.
 ; 0x000dd1d0 よろしいですか？
@@ -212,11 +216,11 @@
 ; 0x000dd263 メモリーベース１２８
 0x000dd263 Memory Base 128
 ; 0x000dd279 の接続に異常があります。
-0x000dd279 Connection error detected.
+0x000dd279 not detected.
 ; 0x000dd295 メモリーベース１２８
 0x000dd295 Memory Base 128
 ; 0x000dd2ab が初期化されていません。
-0x000dd2ab Not initialized.
+0x000dd2ab not initialized.
 ; 0x000dd2c4 初期化しますか？
 0x000dd2c4 Initialize?
 ; 0x000dd2ea 初期化しました。
@@ -224,21 +228,21 @@
 ; 0x000dd2fe メモリーベース１２８
 0x000dd2fe Memory Base 128
 ; 0x000dd314 は接続されていません。
-0x000dd314 Not connected.
+0x000dd314 not connected.
 ; 0x000dd32e メモリーベース１２８
 0x000dd32e Memory Base 128
 ; 0x000dd344 は使用しません。
-0x000dd344 Cannot use.
+0x000dd344 won't be used.
 ; 0x000dd358 メモリーベース１２８
 0x000dd358 Memory Base 128
 ; 0x000dd36e は使用出来ません。
-0x000dd36e Cannot use.
+0x000dd36e won't be used.
 ; 0x000dd384 バックアップのタイプを選んで
-0x000dd384 Select backup type
+0x000dd384 Please select backup
 ; 0x000dd3a1 下さい。
-0x000dd3a1 Please.
+0x000dd3a1 type.
 ; 0x000dd3ac １ボタンを押すとコマンド選択
-0x000dd3ac Press 1 to select a command
+0x000dd3ac Press 1 to select a command,
 ; 0x000dd3c9 ２ボタンを押すとタイトルに戻ります。
 0x000dd3c9 Press 2 to return to the title.
 ; 0x000dd3f0 コマンドを選んで下さい。
@@ -248,11 +252,11 @@
 ; 0x000dd424 セレクトボタンで次のページにする事が出来ます。
 0x000dd424 Press Select for next page.
 ; 0x000dd456 現在セーブ出来るファイル数は
-0x000dd456 The current number of save files is
+0x000dd456 Number of available save slots
 ; 0x000dd478 個です。（セーブは内蔵のバックアップラムに行われます。）
-0x000dd478 . (Save to internal backup RAM.)
+0x000dd478  (in internal backup RAM)
 ; 0x000dd4de ユ中｡
-0x000dd4de Full.
+;TODO: 0x000dd4de Full.
 ; 0x000dd4fe 「ぽっぷるメイル」のファイルではありません。
 0x000dd4fe Not a Popful Mail file.
 
@@ -278,16 +282,16 @@
 0x000dd578 Mechanical world
 
 ; 0x000dd587 「氷山　
-0x000dd587 Icycal
+0x000dd587 Iceberg
 
 ; 0x000dd592 「アルカザール城　
 0x000dd592 Kazyr Castle
 
 ; 0x000dd5a7 エルフの森
-0x000dd5a7 Elf Woods
+0x000dd5a7 Elf Forest
 
 ; 0x000dd5b8 大樹木の塔
-0x000dd5b8 Treesun
+0x000dd5b8 Tree Tower
 
 ; 0x000dd5c9 ゴーレムの塔
 0x000dd5c9 Golem Tower
@@ -296,76 +300,76 @@
 0x000dd5dc Wind Cave
 
 ; 0x000dd5ed 化石の洞窟
-0x000dd5ed Fossil Rock
+0x000dd5ed Fossil Cave
 
 ; 0x000dd5fe 地下泉洞
-0x000dd5fe Hot Springs
+0x000dd5fe Spring Cave
 
 ; 0x000dd60d 怪獣の巣
 0x000dd60d Deviant Den
 
 ; 0x000dd61c ゴルアデス
-0x000dd61c Panic Peak
+0x000dd61c Golaides
 
 ; 0x000dd62d 鉱山
-0x000dd62d Mine
+0x000dd62d Mines
 
 ; 0x000dd638 古代神殿
-0x000dd638 Zoth Shrine
+0x000dd638 Ancient Temple
 
 ; 0x000dd647 ツェイマー
-0x000dd647 Fort Fryght
+0x000dd647 Zeimar
 
 ; 0x000dd658 偽りの荒野
-0x000dd658 Fake wasteland
+0x000dd658 False Wilderness
 
 ; 0x000dd669 偽りの塔
-0x000dd669 Fake Tower
+0x000dd669 Tower of Deception
 
 ; 0x000dd678 幻影城
-0x000dd678 Illusion Castle
+0x000dd678 Castle of Illusion
 
 ; 0x000dd685 船の墓場
 0x000dd685 Ship Graveyard
 
 ; 0x000dd694 海底神殿
-0x000dd694 Ocean Temple
+0x000dd694 Underwater Temple
 
 ; 0x000dd6a3 海底宮殿
-0x000dd6a3 Beneath Sea
+0x000dd6a3 Undersea Palace
 
 ; 0x000dd6b2 異次元の街
-0x000dd6b2 Other Dim City
+0x000dd6b2 Otherworld City
 
 ; 0x000dd6c3 組み立て工場
 0x000dd6c3 Assembly Plant
 
 ; 0x000dd6d6 次元要塞
-0x000dd6d6 Dim Fortress
+0x000dd6d6 Dimensional Fortress
 
 ; 0x000dd6e5 氷山
-0x000dd6e5 Icycal
+0x000dd6e5 Iceberg
 
 ; 0x000dd6f0 リップの山
 0x000dd6f0 Mt. Rip
 
 ; 0x000dd701 ラップの船
-0x000dd701 Gyp Ship
+0x000dd701 Rap Ship
 
 ; 0x000dd712 水晶神殿
-0x000dd712 Crystal Tower
+0x000dd712 Crystal Temple
 
 ; 0x000dd721 正面城壁
-0x000dd721 Freaky Foyer
+0x000dd721 Front Gate
 
 ; 0x000dd730 宝物庫
-0x000dd730 Hassle Hall
+0x000dd730 Treasury
 
 ; 0x000dd73d 地下迷宮
-0x000dd73d Maniac Mazes
+0x000dd73d Underground Maze
 
 ; 0x000dd74c 封玉宮
-0x000dd74c Fengyu Palace
+0x000dd74c Sealed Palace
 
 ; 0x000dd759 ガイストレイス
 0x000dd759 Ulgar
@@ -782,7 +786,7 @@
 0x002b1b2e He made everyone worry...
 
 ; 0x002b1b55 爆弾？
-0x002b1b57 A bomb?
+;TODO: 0x002b1b57 A bomb?
 
 ; 0x002b1b5e そういえばブラッキィさん、
 0x002b1b5e Come to think, Blacky...
@@ -815,13 +819,13 @@
 0x002b1c4b Maybe it’s that bomb-throwing monster that Fire’s magic didn’t work?
 
 ; 0x002b1c8d あら、こんな所に、よその人が
-0x002b1c8d Oh, it's unusual to see a
+0x002b1c8d Oh, it's very rare to see
 
 ; 0x002b1caa くるなんて珍しいわね。
-0x002b1caa stranger here.
+0x002b1caa visitors here.
 
 ; 0x002b1cc3 そういえば、何日か前にも赤い
-0x002b1cc3 Come to think of it, a man
+0x002b1cc3 Come to think of it... A man
 
 ; 0x002b1ce0 マントをはおった男の人が、
 0x002b1ce0 wearing a red cloak came a
@@ -848,7 +852,7 @@
 0x002b1da1 you'll see in big cities.
 
 ; 0x002b1dbc 大丈夫かしらね…。
-0x002b1dbc Be safe...
+0x002b1dbc Hope he is safe...
 
 ; 0x002b1dd3 ｮ0ｮあら、
 0x002b1dd3 Oh,
@@ -884,13 +888,13 @@
 0x002b1e81 I'm the monster Gaw!!
 
 ; 0x002b1e98 ･ぼくらの他にも、仲間がいたんだけど、みんな魔物にやられて
-0x002b1e98 All my companions were killed by monsters
+0x002b1e98 We had more companions, but they were all killed by 
 
 ; 0x002b1ed2 しまったんだ。
-0x002b1ed2 .
+0x002b1ed2 the monsters.
 
 ; 0x002b1ee1 僕らが、ふがいないばっかり
-0x002b1ee1 We are just so pathetic.
+0x002b1ee1 We just weren’t good enough…
 
 ; 0x002b1efc に…。
 ;0x002b1efc N...
@@ -1389,7 +1393,7 @@
 0x002b2ea0 So now we can go to the
 
 ; 0x002b2eb9 行けるよ。
-0x002b2eb9 Treesun.
+0x002b2eb9 Tree Tower.
 
 ; 0x002b2ec8 ﾞ･君のおかげで、無事村に戻る
 0x002b2ec8 Thanks to you, we're safely back in the village.
@@ -1536,7 +1540,7 @@
 0x002d59d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x002d5a04 無敵　　　　　　一定時間無敵！！
-0x002d5a04 Invincible: Invincible for a time!!
+0x002d5a04 Invincibility: Invincible for a time!!
 
 ; 0x002d5a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x002d5a26 Helmet: Blocks attacks from above for a time.
@@ -1857,7 +1861,7 @@
 0x00301c1e Listen, dear.
 
 ; 0x00301c39 $8そこにいるミフィさんの
-0x00301c39 $8. That's Mifi's.
+0x00301c39 That's Mifi's.
 
 ; 0x00301c52 だんなさんて、鉱山で金脈掘り
 0x00301c52 Don't be so lazy. I'll dig a vein in the mine.
@@ -1866,7 +1870,7 @@
 0x00301c6f I hear you're doing it,
 
 ; 0x00301c88 $9一度も金なんて、
-0x00301c88 Ninety-nine bucks.
+0x00301c88 I've never had any money.
 
 ; 0x00301c9b 持って帰ったことないのよ。
 0x00301c9b I've never taken it home.
@@ -2235,7 +2239,7 @@
 0x003259d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00325a04 無敵　　　　　　一定時間無敵！！
-0x00325a04 Invincible: Invincible for a time!!
+0x00325a04 Invincibility: Invincible for a time!!
 
 ; 0x00325a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00325a26 Helmet: Blocks attacks from above for a time.
@@ -2379,7 +2383,7 @@
 0x003513a6 you're Material, aren't you?
 
 ; 0x003513c7 魔導師
-0x003513c7 Sorcerer
+0x003513c7 Mage
 
 ; 0x003513d0 $>いかにも。わしこそこの国を恐怖で満たし、暗黒の世界をも支配できる魔導師の中の魔導師。
 0x003513d0 Indeed. Indeed! I am the greatest mage of all! One who shall fill this country with fear and rule the underworld! 
@@ -2611,7 +2615,7 @@
 0x003d59d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x003d5a04 無敵　　　　　　一定時間無敵！！
-0x003d5a04 Invincible: Invincible for a time!!
+0x003d5a04 Invincibility: Invincible for a time!!
 
 ; 0x003d5a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x003d5a26 Helmet: Blocks attacks from above for a time.
@@ -3539,7 +3543,7 @@
 0x004259d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00425a04 無敵　　　　　　一定時間無敵！！
-0x00425a04 Invincible: Invincible for a time!!
+0x00425a04 Invincibility: Invincible for a time!!
 
 ; 0x00425a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00425a26 Helmet: Blocks attacks from above for a time.
@@ -4157,7 +4161,7 @@
 0x004759d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00475a04 無敵　　　　　　一定時間無敵！！
-0x00475a04 Invincible: Invincible for a time!!
+0x00475a04 Invincibility: Invincible for a time!!
 
 ; 0x00475a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00475a26 Helmet: Blocks attacks from above for a time.
@@ -4553,7 +4557,7 @@
 0x004c59d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x004c5a04 無敵　　　　　　一定時間無敵！！
-0x004c5a04 Invincible: Invincible for a time!!
+0x004c5a04 Invincibility: Invincible for a time!!
 
 ; 0x004c5a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x004c5a26 Helmet: Blocks attacks from above for a time.
@@ -4904,7 +4908,7 @@
 0x004f1e1d This cave is fine too.
 
 ; 0x004f1e30 だが、あの魔導師の奴は
-0x004f1e30 But that Sorcerer
+0x004f1e30 But that Mage
 
 ; 0x004f1e47 ゴルアデスを眠りから覚まそうとしているんだ。
 0x004f1e47 I'm trying to wake Goradus from his sleep.
@@ -5133,7 +5137,7 @@
 0x004f26b6 If we can defeat Goluades,
 
 ; 0x004f26d3 あの魔導師をオマエにくれて
-0x004f26d3 He gave you that Sorcerer
+0x004f26d3 He gave you that Mage
 
 ; 0x004f26ee やってもいいガウ。
 0x004f26ee I can do it, gaw.
@@ -5463,7 +5467,7 @@
 0x005159d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00515a04 無敵　　　　　　一定時間無敵！！
-0x00515a04 Invincible: Invincible for a time!!
+0x00515a04 Invincibility: Invincible for a time!!
 
 ; 0x00515a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00515a26 Helmet: Blocks attacks from above for a time.
@@ -5937,7 +5941,7 @@
 0x006259d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00625a04 無敵　　　　　　一定時間無敵！！
-0x00625a04 Invincible: Invincible for a time!!
+0x00625a04 Invincibility: Invincible for a time!!
 
 ; 0x00625a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00625a26 Helmet: Blocks attacks from above for a time.
@@ -6051,13 +6055,13 @@
 0x0065198f Guard
 
 ; 0x00651999 ヤコブ
-0x00651999 Glug
+0x00651999 Jacob
 
 ; 0x006519a5 ブラッキィ
 0x006519a5 Blacky
 
 ; 0x006519b5 エリク
-0x006519b5 Venuncio
+0x006519b5 Erik
 
 ; 0x006519bf ドワーフ知らないガウか？
 0x006519bf Dwarves don't know gaw?
@@ -6369,7 +6373,7 @@
 0x006524f1 The leader of the Rebel Army,
 
 ; 0x0065250c エリクなんとかという長い名前の奴なんだけどよ。
-0x0065250c He's got a long name, Venuncio.
+0x0065250c He's got a long name, Erik.
 
 ; 0x0065253b なんでもドワーフの作る細工物を欲しがってるって話だぜ。(
 0x0065253b They say they want something made by dwarves. (
@@ -6863,7 +6867,7 @@
 0x00653499 Riezenberg Kreutzer Bertrand von Erik Ratzeln IV.
 
 ; 0x006534ec $ エリク伯爵と呼んでくれたまえ。
-0x006534ec Call me Earl Venuncio.
+0x006534ec Call me Earl Erik.
 
 ; 0x00653515 $!よく舌かまないわね。
 0x00653515 You don't bite your tongue.
@@ -6872,7 +6876,7 @@
 0x00653530 That's a very old name.
 
 ; 0x00653555 $Xえりくう？
-0x00653555 Venuncio?
+0x00653555 Erik?
 
 ; 0x00653562 なんか食わしてくれるのかガウ？
 0x00653562 Will you feed me something, gaw?
@@ -7031,7 +7035,7 @@
 0x00653a96 Ah!
 
 ; 0x00653a9f エリク！
-0x00653a9f Venuncio!
+0x00653a9f Erik!
 
 ; 0x00653aa8 どういうつもりよ！！
 0x00653aa8 What are you trying to do?!
@@ -7142,7 +7146,7 @@
 0x00653e29 Hehehe...
 
 ; 0x00653e40 エリク！
-0x00653e40 Venuncio!
+0x00653e40 Erik!
 
 ; 0x00653e49 見つけたぞ、テメェ！
 0x00653e49 I found you!
@@ -7151,10 +7155,10 @@
 0x00653e5f Ah!
 
 ; 0x00653e66 エリク伯！
-0x00653e66 Earl Venuncio!
+0x00653e66 Earl Erik!
 
 ; 0x00653e72 あー！　エリク！！
-0x00653e72 Ah! Venuncio!
+0x00653e72 Ah! Erik!
 
 ; 0x00653e85 見つけたガウ！
 0x00653e85 Got it, gaw!
@@ -7202,7 +7206,7 @@
 0x00653fcf Where did she go?!
 
 ; 0x00653fea イテテ、エリクめー！
-0x00653fea Ow, ow, ow, Venuncio!
+0x00653fea Ow, ow, ow, Erik!
 
 ; 0x00653fff 一度ならず、二度までもー！！
 0x00653fff Not once, not twice!!
@@ -7229,13 +7233,13 @@
 0x006540b5 Well, we meet again...
 
 ; 0x006540d7 わぁ！　ヤコブ！？
-0x006540d7 Wow! Glug?
+0x006540d7 Wow! Jacob?
 
 ; 0x006540ea ま、また会ったわね。
 0x006540ea We meet again.
 
 ; 0x00654103 やぁ、ヤコブさん。
-0x00654103 Hi, Glug.
+0x00654103 Hi, Jacob.
 
 ; 0x00654116 奇遇ですね。
 0x00654116 What a coincidence.
@@ -7445,10 +7449,10 @@
 ;TODO: 0x0065469c Graz$ya! Aaah!
 
 ; 0x006546b7 $zどうしたの！？　ヤコブ。
-0x006546b7 What's wrong, Glug?
+0x006546b7 What's wrong, Jacob?
 
 ; 0x006546e8 ヤコブさん。
-0x006546e8 Glug.
+0x006546e8 Jacob.
 
 ; 0x006546f6 $ｸん？
 0x006546f6 uh?
@@ -7490,10 +7494,10 @@
 0x00654811 The fire's clean, gow.
 
 ; 0x0065482e $}ヤコブ、ここはあなたの村？
-0x0065482e Glug, is this your village?
+0x0065482e Jacob, is this your village?
 
 ; 0x00654851 ヤコブさん。
-0x00654851 Glug.
+0x00654851 Jacob.
 
 ; 0x0065485e ここ、あなたの村…だったんで
 0x0065485e This was your village.
@@ -7818,7 +7822,7 @@
 0x006759d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00675a04 無敵　　　　　　一定時間無敵！！
-0x00675a04 Invincible: Invincible for a time!!
+0x00675a04 Invincibility: Invincible for a time!!
 
 ; 0x00675a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00675a26 Helmet: Blocks attacks from above for a time.
@@ -7947,10 +7951,10 @@
 0x0068d212 Take care...
 
 ; 0x006a1ad3 エリク
-0x006a1ad3 Venuncio
+0x006a1ad3 Erik
 
 ; 0x006a1adf ツェイマー
-0x006a1adf Fort Fryght
+0x006a1adf Zeimar
 
 ; 0x006a1aef ブラッキィ
 0x006a1aef Blacky
@@ -7959,7 +7963,7 @@
 0x006a1aff Elder
 
 ; 0x006a1b09 ヤコブ
-0x006a1b09 Glug
+0x006a1b09 Jacob
 
 ; 0x006a1b15 人民解放軍兵士
 0x006a1b15 Rebel Army Soldiers
@@ -7983,7 +7987,7 @@
 0x006a1ba7 Oh well.
 
 ; 0x006a1bb4 早くヤコブを見つけなきゃ。
-0x006a1bb4 We have to find Glug.
+0x006a1bb4 We have to find Jacob.
 
 ; 0x006a1bd0 …まぁ、とにかくミスリルは取り返したし、先をいそごう
 0x006a1bd0 ...Well, at any rate, we got the silver back, so let's move on.
@@ -7995,7 +7999,7 @@
 0x006a1c25 But technically,
 
 ; 0x006a1c30 ヤコブに知らせるガウ。
-0x006a1c30 Let Glug know.
+0x006a1c30 Let Jacob know.
 
 ; 0x006a1c48 ﾝｪ臆病者が舞い戻ってきおったか。
 0x006a1c48 A coward has returned.
@@ -8637,7 +8641,7 @@
 0x006a2f1a But.
 
 ; 0x006a2f2b ツェイマー？
-0x006a2f2b Fort Fryght?
+0x006a2f2b Zeimar?
 
 ; 0x006a2f38 そいつなら、あたしがくたばら
 0x006a2f38 If it's him, I'll be a piece of shit
@@ -8655,7 +8659,7 @@
 0x006a2f9e We met.
 
 ; 0x006a2fb3 ツェイマー？
-0x006a2fb3 Fort Fryght?
+0x006a2fb3 Zeimar?
 
 ; 0x006a2fc0 そいつなら会ったガウ。
 0x006a2fc0 If you're looking for him, I met him.
@@ -8664,7 +8668,7 @@
 0x006a2fd9 You!
 
 ; 0x006a2fe3 ツェイマーと会ったのか！？
-0x006a2fe3 Did you meet Fort Fryght?!
+0x006a2fe3 Did you meet Zeimar?!
 
 ; 0x006a3006 大口たたいていたけどね。
 0x006a3006 He was talking big.
@@ -8733,7 +8737,7 @@
 0x006a3208 I don't want you to call my name!
 
 ; 0x006a3235 $Sツェイマー！
-0x006a3235 Fort Fryght!
+0x006a3235 Zeimar!
 
 ; 0x006a3244 $Tあんた、あたしを利用したわね！やられたふりをして、あたしの
 0x006a3244 You used me, $T! Pretend you got me!
@@ -8742,7 +8746,7 @@
 0x006a3281 She was hiding in the shadows!!
 
 ; 0x006a329b $nツェイマー、僕を利用したな！
-0x006a329b You used me, Fort Fryght!
+0x006a329b You used me, Zeimar!
 
 ; 0x006a32ba 結界を破るために、僕の影に
 0x006a32ba To break the barrier, to my shadow.
@@ -8842,7 +8846,7 @@
 0x006a3641 Wait!
 
 ; 0x006a364a ツェイマー！！
-0x006a364a Fort Fryght!!
+0x006a364a Zeimar!!
 
 ; 0x006a365a $rだから、僕を利用したんだな！
 0x006a365a That's why you used me!
@@ -8935,7 +8939,7 @@
 0x006a39c8 Leave it to me.
 
 ; 0x006a39df エリク！
-0x006a39df Venuncio!
+0x006a39df Erik!
 
 ; 0x006a39e8 あんたモンスターなんかと、
 0x006a39e8 You're a monster,
@@ -8944,7 +8948,7 @@
 0x006a3a03 Isn't it embarrassing to hang out?!
 
 ; 0x006a3a24 エリク伯！
-0x006a3a24 Venuncio!
+0x006a3a24 Erik!
 
 ; 0x006a3a2f あなたはモンスターなどと、
 0x006a3a2f You're a monster.
@@ -8956,7 +8960,7 @@
 0x006a3a65 Is that so?!
 
 ; 0x006a3a74 エリク！
-0x006a3a74 Venuncio!
+0x006a3a74 Erik!
 
 ; 0x006a3a7d オメェ、こいつとグルだったん
 0x006a3a7d You were in league with him.
@@ -9019,7 +9023,7 @@
 0x006a3c2c Sh-Shit!!
 
 ; 0x006a3c43 エリク！
-0x006a3c43 Venuncio!
+0x006a3c43 Erik!
 
 ; 0x006a3c4c なんとかして、
 0x006a3c4c Somehow,
@@ -9028,7 +9032,7 @@
 0x006a3c5b We gotta get out of here!
 
 ; 0x006a3c74 エ、エリク伯！
-0x006a3c74 V-Venuncio!
+0x006a3c74 V-Erik!
 
 ; 0x006a3c83 なんとかして
 0x006a3c83 Somehow.
@@ -9082,13 +9086,13 @@
 0x006a3e37 Wow!
 
 ; 0x006a3e48 エリク！
-0x006a3e48 Venuncio!
+0x006a3e48 Erik!
 
 ; 0x006a3e55 エリク伯！
-0x006a3e55 Venuncio!
+0x006a3e55 Erik!
 
 ; 0x006a3e64 エリクー！
-0x006a3e64 Venuncio!
+0x006a3e64 Erik!
 
 ; 0x006a3e80 私にはもう、後悔するひますら、ないようだ。
 0x006a3e80 It seems I have no more regrets.
@@ -9283,7 +9287,7 @@
 0x006a43f3 Give me money!!
 
 ; 0x006a4413 ツェイマー、エリク伯のかたき
-0x006a4413 Zeimer, Count Venuncio's Strike
+0x006a4413 Zeimer, Count Erik's Strike
 
 ; 0x006a4430 とらせてもらう！
 0x006a4430 I'll get it!
@@ -9295,7 +9299,7 @@
 0x006a445d That's it.
 
 ; 0x006a446c 僕にも、エリク伯にも。
-0x006a446c Not me, not Count Venuncio.
+0x006a446c Not me, not Count Erik.
 
 ; 0x006a4483 伯のかたきは、
 0x006a4483 Haku's body...
@@ -9481,7 +9485,7 @@
 0x006c59d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x006c5a04 無敵　　　　　　一定時間無敵！！
-0x006c5a04 Invincible: Invincible for a time!!
+0x006c5a04 Invincibility: Invincible for a time!!
 
 ; 0x006c5a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x006c5a26 Helmet: Blocks attacks from above for a time.
@@ -9688,7 +9692,7 @@
 0x00739212 Take care...
 
 ; 0x0074d1ed ツェイマー
-0x0074d1ed Fort Fryght
+0x0074d1ed Zeimar
 
 ; 0x0074d202 ｡来たか。
 0x0074d202 He's here.
@@ -9850,7 +9854,7 @@
 0x008217bc Gold Mirror: Magic repels enemy attacks.
 
 ; 0x008217ec 無敵　　　　　個一定時間無敵！！
-0x008217ec Invincible: Invincible for a time!!
+0x008217ec Invincibility: Invincible for a time!!
 
 ; 0x0082180e ヘルメット　　個一定時間上空からの攻撃を防ぐことができる。
 0x0082180e Helmet Can block attacks from above for a set time.
@@ -10009,7 +10013,7 @@
 0x008359c4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x008359f4 無敵　　　　　　一定時間無敵！！
-0x008359f4 Invincible: Invincible for a time!!
+0x008359f4 Invincibility: Invincible for a time!!
 
 ; 0x00835a16 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00835a16 Helmet: Blocks attacks from above for a time.
@@ -10162,7 +10166,7 @@
 0x00861506 Mail, let's go to the iceberg together, gaw.
 
 ; 0x00861526 氷山？　何よそれ？
-0x00861526 Icycal? What's that?
+0x00861526 Iceberg? What's that?
 
 ; 0x0086153a タットも一緒に行って、
 0x0086153a Tatt went with me,
@@ -10573,7 +10577,7 @@
 0x008859c4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x008859f4 無敵　　　　　　一定時間無敵！！
-0x008859f4 Invincible: Invincible for a time!!
+0x008859f4 Invincibility: Invincible for a time!!
 
 ; 0x00885a16 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00885a16 Helmet: Blocks attacks from above for a time.
@@ -10675,13 +10679,13 @@
 0x0089d157 Nothing more to sell.
 
 ; 0x008b155a 保安隊長
-0x008b155a Sheriff.
+0x008b155a Security Chief
 
 ; 0x008b1568 町長
 0x008b1568 Mayor
 
 ; 0x008b1582 門番
-0x008b1582 Monban
+0x008b1582 Gatekeeper
 
 ; 0x008b158c ブラッキィ
 0x008b158c Blacky
@@ -10774,7 +10778,7 @@
 0x008b1897 To return to your world,
 
 ; 0x008b18b4 幻影城にある
-0x008b18b4 In the phantom castle.
+0x008b18b4 In the Castle of Illusion.
 
 ; 0x008b18c2 『空間の扉』
 0x008b18c2 “A door to space.”
@@ -10789,7 +10793,7 @@
 0x008b18f3 Space Door Gaw, huh?
 
 ; 0x008b1909 幻影城に入るには、
-0x008b1909 To enter the phantom castle,
+0x008b1909 To enter the Castle of Illusion,
 
 ; 0x008b191e 『幻影の腕輪』
 0x008b191e “Illusory Bracelet.”
@@ -11243,7 +11247,7 @@
 0x008e59c4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x008e59f4 無敵　　　　　　一定時間無敵！！
-0x008e59f4 Invincible: Invincible for a time!!
+0x008e59f4 Invincibility: Invincible for a time!!
 
 ; 0x008e5a16 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x008e5a16 Helmet: Blocks attacks from above for a time.
@@ -11735,7 +11739,7 @@
 0x009959c4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x009959f4 無敵　　　　　　一定時間無敵！！
-0x009959f4 Invincible: Invincible for a time!!
+0x009959f4 Invincibility: Invincible for a time!!
 
 ; 0x00995a16 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00995a16 Helmet: Blocks attacks from above for a time.
@@ -11933,7 +11937,7 @@
 0x009c1a1a For you to return to your world,
 
 ; 0x009c1a33 この先にある海底宮殿内の
-0x009c1a33 In the undersea palace up ahead
+0x009c1a33 In the Undersea Palace up ahead
 
 ; 0x009c1a4e 次空の扉をくぐらなければ、
 0x009c1a4e If I don't go through the next door in the sky,
@@ -12080,16 +12084,16 @@
 0x009c1f15 Bye!
 
 ; 0x009c1f25 ﾏｦ海底宮殿へ行くには、海底神殿を突破しなくてはならない。
-0x009c1f25 In order to reach the Ocean Floor Palace, we must break through the Ocean Floor Temple.
+0x009c1f25 In order to reach the Undersea Palace, we must break through the Underwater Temple.
 
 ; 0x009c1f5e タットは、一刻も早く海底宮殿に到達出来るように、
-0x009c1f5e Tat wanted to reach the Underwater Palace as soon as possible
+0x009c1f5e Tat wanted to reach the Undersea Palace as soon as possible
 
 ; 0x009c1f8f がんばってくれ！
 0x009c1f8f Good luck!
 
 ; 0x009c1fa0 我々は、タットが海底宮殿に、
-0x009c1fa0 We've got tatt in the undersea palace
+0x009c1fa0 We've got tatt in the Undersea Palace
 
 ; 0x009c1fbd たどり着けるよう支援する。
 0x009c1fbd I'll help you reach it.
@@ -12356,7 +12360,7 @@
 0x009e59c4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x009e59f4 無敵　　　　　　一定時間無敵！！
-0x009e59f4 Invincible: Invincible for a time!!
+0x009e59f4 Invincibility: Invincible for a time!!
 
 ; 0x009e5a16 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x009e5a16 Helmet: Blocks attacks from above for a time.
@@ -12764,7 +12768,7 @@
 0x00a359c4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00a359f4 無敵　　　　　　一定時間無敵！！
-0x00a359f4 Invincible: Invincible for a time!!
+0x00a359f4 Invincibility: Invincible for a time!!
 
 ; 0x00a35a16 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00a35a16 Helmet: Blocks attacks from above for a time.
@@ -13091,7 +13095,7 @@
 0x00af59c4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00af59f4 無敵　　　　　　一定時間無敵！！
-0x00af59f4 Invincible: Invincible for a time!!
+0x00af59f4 Invincibility: Invincible for a time!!
 
 ; 0x00af5a16 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00af5a16 Helmet: Blocks attacks from above for a time.
@@ -13205,7 +13209,7 @@
 0x00b217e6 Did I do it?
 
 ; 0x00b217f7 元の世界へ戻るには、次元要塞
-0x00b217f7 To return to the real world, it’s a dimensional fortress
+0x00b217f7 To return to the real world, it’s a Dimensional Fortress
 
 ; 0x00b21814 にある、空間転移装置を、
 0x00b21814 The teleportation device,
@@ -13217,7 +13221,7 @@
 0x00b21847 Dimensional fortress space transfer device...
 
 ; 0x00b21862 その次元要塞って、どこに
-0x00b21862 Where's this dimensional fortress?
+0x00b21862 Where's this Dimensional Fortress?
 
 ; 0x00b2187b あるの？
 0x00b2187b You got one?
@@ -13238,7 +13242,7 @@
 0x00b218d9 Wait.
 
 ; 0x00b218e4 君の装備では、とても次元要塞
-0x00b218e4 With your gear, it's a very dimensional fortress.
+0x00b218e4 With your gear, it's a very Dimensional Fortress.
 
 ; 0x00b21901 までたどり着くことは、
 0x00b21901 To get there,
@@ -13367,7 +13371,7 @@
 0x00b21cf2 It appears.
 
 ; 0x00b21d02 <ｧメイル、次元要塞に向かう前に、街の入口付近に出現した、
-0x00b21d02 Mail, before heading to the dimensional fortress, it appeared near the city entrance
+0x00b21d02 Mail, before heading to the Dimensional Fortress, it appeared near the city entrance
 
 ; 0x00b21d3b 敵の鎮圧に向かってくれ！！
 0x00b21d3b Head to suppress the enemy!
@@ -13826,7 +13830,7 @@
 0x00b459c4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00b459f4 無敵　　　　　　一定時間無敵！！
-0x00b459f4 Invincible: Invincible for a time!!
+0x00b459f4 Invincibility: Invincible for a time!!
 
 ; 0x00b45a16 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00b45a16 Helmet: Blocks attacks from above for a time.
@@ -13910,7 +13914,7 @@
 0x00b5d0fa Good luck!
 
 ; 0x00b716c3 フィーザ
-0x00b716c3 Fisa
+0x00b716c3 Fiza
 
 ; 0x00b716d1 ロボットゴーレム
 0x00b716d1 Robot Golem
@@ -13958,7 +13962,7 @@
 0x00b71833 But that little robot
 
 ; 0x00b71850 次元要塞内にある部品と合体しちゃうと、
-0x00b71850 If it merges with the parts inside the dimensional fortress,
+0x00b71850 If it merges with the parts inside the Dimensional Fortress,
 
 ; 0x00b71879 巨大ロボットになるように作られているらしいんだ。
 0x00b71879 It's apparently made to be a giant robot.
@@ -14213,7 +14217,7 @@
 0x00b959c4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00b959f4 無敵　　　　　　一定時間無敵！！
-0x00b959f4 Invincible: Invincible for a time!!
+0x00b959f4 Invincibility: Invincible for a time!!
 
 ; 0x00b95a16 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00b95a16 Helmet: Blocks attacks from above for a time.
@@ -14297,10 +14301,10 @@
 0x00bad0fa Good luck!
 
 ; 0x00bc1667 ラフィーア
-0x00bc1667 Lafia
+0x00bc1667 Rafia
 
 ; 0x00bc1677 フィーザ
-0x00bc1677 Fisa
+0x00bc1677 Fiza
 
 ; 0x00bc1685 機械こうもり　バッツ
 0x00bc1685 Machine Komori Bats
@@ -14795,7 +14799,7 @@
 0x00cb59d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00cb5a04 無敵　　　　　　一定時間無敵！！
-0x00cb5a04 Invincible: Invincible for a time!!
+0x00cb5a04 Invincibility: Invincible for a time!!
 
 ; 0x00cb5a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00cb5a26 Helmet: Blocks attacks from above for a time.
@@ -15809,7 +15813,7 @@
 0x00d059d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00d05a04 無敵　　　　　　一定時間無敵！！
-0x00d05a04 Invincible: Invincible for a time!!
+0x00d05a04 Invincibility: Invincible for a time!!
 
 ; 0x00d05a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00d05a26 Helmet: Blocks attacks from above for a time.
@@ -15947,10 +15951,10 @@
 0x00d315c1 Material
 
 ; 0x00d315d1 ナッツ・クラッカー
-0x00d315d1 Nut Cracker
+0x00d315d1 Nuts Cracker
 
 ; 0x00d315e9 リップ・ファジル
-0x00d315e9 Lip Fazir
+0x00d315e9 Rip Fazil
 
 ; 0x00d315fe ｡･は、早くしてくれ…。
 0x00d315fe Hurry up...
@@ -16364,7 +16368,7 @@
 0x00d32324 Mm! Who's there?
 
 ; 0x00d32339 ナッツ・クラッカー！？
-0x00d32339 Nut crackers?
+0x00d32339 Nuts Crackers?
 
 ; 0x00d32350 $ｦあんたら最初から
 0x00d32350 From the very beginning
@@ -16427,10 +16431,10 @@
 0x00d32517 My masterpiece,
 
 ; 0x00d32528 ナッツ・クラッカーじゃ。
-0x00d32528 Nut crackers.
+0x00d32528 Nuts Crackers.
 
 ; 0x00d32549 $ｨどうでもいいわよそんなこと。賞金首が二つ揃ったわね。覚悟しろマテリアル！ナッツクラッカー
-0x00d32549 Who cares about that? You've got two bounty heads. Prepare yourself, Material! Nut crackers!
+0x00d32549 Who cares about that? You've got two bounty heads. Prepare yourself, Material! Nuts Crackers!
 
 ; 0x00d325ae ｿ･$ｩほっほっほっ、あいかわらず
 0x00d325ae hoho, as usual.
@@ -16439,7 +16443,7 @@
 0x00d325cd I don't mind your energy.
 
 ; 0x00d325e2 $ｪナッツ・クラッカーよ、
-0x00d325e2 It's Nut cracker,
+0x00d325e2 It's Nuts Cracker,
 
 ; 0x00d325fb やってしまえ！
 0x00d325fb Do it!
@@ -16481,7 +16485,7 @@
 0x00d32721 Thank you for your hard work!
 
 ; 0x00d3273c Bｷ)ｸBｷ$ｫわはは、このあいだのお返しは、させてもらったぞ。
-0x00d3273c Biki) Biki$owahahaha, I got you back for last time.
+0x00d3273c ahahaha, I got you back for last time.
 
 ; 0x00d32775 $ｬさぁ、これで邪魔者は消えた。
 0x00d32775 Now the nuisance is gone.
@@ -16490,7 +16494,7 @@
 0x00d32794 It's only a matter of time until the world kneels before me.
 
 ; 0x00d327c3 $ｭよーし、ナッツ・クラッカー。
-0x00d327c3 All right, nut cracker.
+0x00d327c3 All right, Nuts Cracker.
 
 ; 0x00d327e2 引き上げるぞ。
 0x00d327e2 Let's pull out.
@@ -16502,7 +16506,7 @@
 0x00d3280c I have to finish it.
 
 ; 0x00d32829 $ｳわはは、タットよ、このあいだのお返しは、させてもらったぞ。
-0x00d32829 $Uwahaha, Tatt, I got you back for last time.
+0x00d32829 ahaha, Tatt, I got you back for last time.
 
 ; 0x00d32866 $ｴさぁ、これで邪魔者は消えた。
 0x00d32866 Now the nuisance is gone.
@@ -16511,13 +16515,13 @@
 0x00d32885 It's only a matter of time until the world kneels before me.
 
 ; 0x00d328b4 $ｵよーし、ナッツ・クラッカー。
-0x00d328b4 $Okay, nut cracker.
+0x00d328b4 Okay, Nuts Cracker.
 
 ; 0x00d328d3 引き上げるぞ。
 0x00d328d3 Let's pull out.
 
 ; 0x00d328e2 $ｶガイストレイス様
-0x00d328e2 $ Mr. Kagaistrace
+0x00d328e2 Mr. Kagaistrace
 
 ; 0x00d328f5 の身体を完成させねば、
 0x00d328f5 I have to complete my body,
@@ -16646,7 +16650,7 @@
 0x00d32d02 Actually, that silver was used to create the demon's body.
 
 ; 0x00d32d2f $Qナッツ・クラッカーが、
-0x00d32d2f Nut Cracker.
+0x00d32d2f Nuts Cracker.
 
 ; 0x00d32d48 マテリアルのために盗んだのさ。
 0x00d32d48 I stole it for material.
@@ -16679,7 +16683,7 @@
 0x00d32e5c Actually, that silver was used to build an Archdemon's body
 
 ; 0x00d32e89 $aナッツ・クラッカーが、
-0x00d32e89 Nut Cracker.
+0x00d32e89 Nuts Cracker.
 
 ; 0x00d32ea2 マテリアルのために盗んだのさ。
 0x00d32ea2 I stole it for material.
@@ -17036,7 +17040,7 @@
 0x00d559d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00d55a04 無敵　　　　　　一定時間無敵！！
-0x00d55a04 Invincible: Invincible for a time!!
+0x00d55a04 Invincibility: Invincible for a time!!
 
 ; 0x00d55a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00d55a26 Helmet: Blocks attacks from above for a time.
@@ -17588,7 +17592,7 @@
 0x00da59d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00da5a04 無敵　　　　　　一定時間無敵！！
-0x00da5a04 Invincible: Invincible for a time!!
+0x00da5a04 Invincibility: Invincible for a time!!
 
 ; 0x00da5a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00da5a26 Helmet: Blocks attacks from above for a time.
@@ -18113,7 +18117,7 @@
 0x00e119b8 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00e119e8 無敵　　　　　　一定時間無敵！！
-0x00e119e8 Invincible: Invincible for a time!!
+0x00e119e8 Invincibility: Invincible for a time!!
 
 ; 0x00e11a0a ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00e11a0a Helmet: Blocks attacks from above for a time.
@@ -18584,7 +18588,7 @@
 0x00e559d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00e55a04 無敵　　　　　　一定時間無敵！！
-0x00e55a04 Invincible: Invincible for a time!!
+0x00e55a04 Invincibility: Invincible for a time!!
 
 ; 0x00e55a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00e55a26 Helmet: Blocks attacks from above for a time.
@@ -18851,7 +18855,7 @@
 0x00ea59d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00ea5a04 無敵　　　　　　一定時間無敵！！
-0x00ea5a04 Invincible: Invincible for a time!!
+0x00ea5a04 Invincibility: Invincible for a time!!
 
 ; 0x00ea5a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00ea5a26 Helmet: Blocks attacks from above for a time.
@@ -19112,7 +19116,7 @@
 0x00ef59d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00ef5a04 無敵　　　　　　一定時間無敵！！
-0x00ef5a04 Invincible: Invincible for a time!!
+0x00ef5a04 Invincibility: Invincible for a time!!
 
 ; 0x00ef5a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00ef5a26 Helmet: Blocks attacks from above for a time.
@@ -19241,7 +19245,7 @@
 0x00f0d212 Take care...
 
 ; 0x00f21870 ヤコブ
-0x00f21870 Glug
+0x00f21870 Jacob
 
 ; 0x00f2187c ブラッキィ
 0x00f2187c Blacky
@@ -19250,7 +19254,7 @@
 0x00f2188c Material
 
 ; 0x00f218a2 あら、ブラッキィとヤコブ
-0x00f218a2 Oh, Blacky and Glug.
+0x00f218a2 Oh, Blacky and Jacob.
 
 ; 0x00f218bb じゃない。
 0x00f218bb No.
@@ -19268,7 +19272,7 @@
 0x00f2190b In a place like this.
 
 ; 0x00f21926 あっ、ブラッキィとヤコブだ
-0x00f21926 Oh, it's Blacky and Glug.
+0x00f21926 Oh, it's Blacky and Jacob.
 
 ; 0x00f21941 ガウ。
 0x00f21941 Gaw.
@@ -19334,7 +19338,7 @@
 0x00f21b5a Wow, that's amazing.
 
 ; 0x00f21b77 ヤコブさん。
-0x00f21b77 Glug.
+0x00f21b77 Jacob.
 
 ; 0x00f21b88 たいしたもんだガウ。
 0x00f21b88 That's impressive, gaw.
@@ -19373,7 +19377,7 @@
 0x00f21caf Huh? Master?!
 
 ; 0x00f21cc6 ヤコブさん。
-0x00f21cc6 Glug.
+0x00f21cc6 Jacob.
 
 ; 0x00f21cd3 実はそのマテリアルが、
 0x00f21cd3 Actually, that material
@@ -19394,7 +19398,7 @@
 0x00f21d61 Gaw.
 
 ; 0x00f21d6a ヤコブ、そいつにだまされてる
-0x00f21d6a Glug, he's tricking me.
+0x00f21d6a Jacob, he's tricking me.
 
 ; 0x00f21d87 ガウ。
 0x00f21d87 Gaw.
@@ -19613,7 +19617,7 @@
 0x00f459d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00f45a04 無敵　　　　　　一定時間無敵！！
-0x00f45a04 Invincible: Invincible for a time!!
+0x00f45a04 Invincibility: Invincible for a time!!
 
 ; 0x00f45a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00f45a26 Helmet: Blocks attacks from above for a time.
@@ -19742,10 +19746,10 @@
 0x00f716d9 Material
 
 ; 0x00f716e9 ナッツ・クラッカー
-0x00f716e9 Nut Cracker
+0x00f716e9 Nuts Cracker
 
 ; 0x00f71701 ヤコブ
-0x00f71701 Glug
+0x00f71701 Jacob
 
 ; 0x00f7170d ブラッキィ
 0x00f7170d Blacky
@@ -19760,7 +19764,7 @@
 0x00f71746 I can't help it.
 
 ; 0x00f71757 ナッツ・クラッカーよ、
-0x00f71757 Nut cracker,
+0x00f71757 Nuts Cracker,
 
 ; 0x00f7176e 後は頼んだぞ。
 0x00f7176e I'm counting on you.
@@ -19838,13 +19842,13 @@
 0x00f71973 Heh heh heh heh.
 
 ; 0x00f71994 あれっ、ヤコブとブラッキィ！
-0x00f71994 Hey, Glug and Blacky!
+0x00f71994 Hey, Jacob and Blacky!
 
 ; 0x00f719b1 あんたたち、怖くて逃げたんじゃなかったの？
 0x00f719b1 Weren't you guys scared and ran away?
 
 ; 0x00f719e0 あれっ、ヤコブさんとブラッキィさん。
-0x00f719e0 Oh, Glug and Blacky.
+0x00f719e0 Oh, Jacob and Blacky.
 
 ; 0x00f71a05 鉱山に戻ったんじゃなかったん
 0x00f71a05 I thought we were back at the mine.
@@ -20111,7 +20115,7 @@
 0x00f959d4 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x00f95a04 無敵　　　　　　一定時間無敵！！
-0x00f95a04 Invincible: Invincible for a time!!
+0x00f95a04 Invincibility: Invincible for a time!!
 
 ; 0x00f95a26 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x00f95a26 Helmet: Blocks attacks from above for a time.
@@ -20450,7 +20454,7 @@
 0x010059c7 Gold Mirror: Magic repels enemy attacks.
 
 ; 0x010059f7 無敵　　　　　　一定時間無敵！！
-0x010059f7 Invincible: Invincible for a time!!
+0x010059f7 Invincibility: Invincible for a time!!
 
 ; 0x01005a19 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x01005a19 Helmet: Blocks attacks from above for a time.
@@ -20867,7 +20871,7 @@
 0x010c19ae Gold Mirror: Magic repels enemy attacks.
 
 ; 0x010c19de 無敵　　　　　　一定時間無敵！！
-0x010c19de Invincible: Invincible for a time!!
+0x010c19de Invincibility: Invincible for a time!!
 
 ; 0x010c1a00 ヘルメット　　　一定時間上空からの攻撃を防ぐことができる。
 0x010c1a00 Helmet: Blocks attacks from above for a time.
