@@ -30,7 +30,7 @@ patch_repeated_blocks() {
     
 
 extract_gfx() {
-    mkdir gfx
+    mkdir -p gfx
     
     # locations
     sfk partcopy "$OUTPUT_ROM" -fromto 0x10608D1 0x1060951 gfx/location_elf_forest_jap.bin -yes
@@ -122,7 +122,8 @@ rominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM"  --ascii-bios-hack
 
 patch_repeated_blocks "$OUTPUT_ROM"
 
-[ ! -d "gfx" ] && extract_gfx
+#[ ! -d "gfx" ] && 
+extract_gfx
 
 patch_gfx
 

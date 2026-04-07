@@ -11,7 +11,7 @@
 
 ; items in submenu  (only 1st occurrence, will be duplicated in _build.sh)
 ; 0x00f3e6a3 　　　　　　　　ショートソード　ロングソード　　ファルシオン　　フレイムソード　ライトセイバー　ファイア　　　　ファイアＤＸ　　サンダー　　　　ホーミング　　　フォース　　　　ファイアボール　テイルアタック　アックス　　　　アイアンクロー　ファイアブレス　レザーアーマー　チェーンメイル　プレートメイル　ミスリルアーマーゴールドアーマーレッドローブ　　ブルーローブ　　イエローローブ　シルバーローブ　ゴールドローブ　レザーアーマー　チェーンメイル　プレートメイル　ミスリルアーマーゴールドアーマーウッドシールド　スモールシールドラージシールド　ミスリルシールドゴールドシールドブロンズミラー　メタルミラー　　プラチナミラー　ミスリルミラー　ゴールドミラー　ウッドシールド　スモールシールドラージシールド　ミスリルシールドゴールドシールド無敵　　　９９個ヘルメット９９個スパイクブーツ　石靴　　　　　　つるはし　　　　ダガー　　　　　ブーメラン　　　オレンジ　　９個チェリー　　９個リンゴ　　　９個　　　　　　　　金塊　　　　９個エリクサー　９個魔法瓶　　　　　爆弾　　　　　　はしご　　　　　カギ　　　　　　牢屋の鍵　　　　細工物　　　　　クリスタル　　　クリスタル　　　クリスタル　　　クリスタル　　　宝玉　　　　　　　　ＤＸ
-0x00f3e6a3                 Short Sword     Long Sword      Falchion        Flame Sword     Light Saber     Fire            Fire DX         Thunder         Homing          Force           Fireball        Tail Attack     Axe             Iron Claw       Fire Breath     Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Red Robe        Blue Robe       Yellow Robe     Silver Robe     Gold Robe       Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Bronze Mirror   Metal Mirror    Platinum Mirror Silver Mirror   Gold Mirror     Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Invincibil99  Helmet    99  Spike Boots     Stone Shoes     Pickaxe          Dagger          Boomerang       Orange      9  Cherry      9  Apple       9                  Gold Bar    9  Elixyr      9  Magic Bottle    Bomb            Ladder          Key             Jail Key        Ornament        Crystal         Crystal         Crystal         Crystal         Jewel           DX
+0x00f3e6a3                 Short Sword     Long Sword      Falchion        Flame Sword     Light Saber     Fire            Fire DX         Thunder         Homing          Force           Fireball        Tail Attack     Axe             Iron Claw       Fire Breath     Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Red Robe        Blue Robe       Yellow Robe     Silver Robe     Gold Robe       Leather Mail    Chain Mail      Plate Mail      Silver Mail     Gold Mail       Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Bronze Mirror   Metal Mirror    Platinum Mirror Silver Mirror   Gold Mirror     Wood Shield     Small Shield    Large Shield    Silver Shield   Gold Shield     Invincibil99  Helmet    99  Spike Boots     Stone Shoes     Pickaxe         Dagger          Boomerang       Orange      9  Cherry      9  Apple       9                  Gold Bar    9  Elixyr      9  Magic Bottle    Bomb            Ladder          Key             Jail Key        Ornament        Crystal         Crystal         Crystal         Crystal         Jewel           DX
 
 ;shop menu1
 ; 0x002351b6 買う
@@ -134,7 +134,8 @@
 
 ;shop menu2
 ; 0x0024d019 いらっしゃいませご用件は？　　　
-0x0024d019 Welcome. How   can I help you today?
+; 0x0024d019 Welcome. How   can I help you today?
+0x0024d019 Welcome. How can I help?
 ; 0x0024d03a 　買う
 0x0024d03a Buy
 ; 0x0024d041 　　売る　
@@ -279,7 +280,7 @@
 0x000dd569 Undersea World
 
 ; 0x000dd578 「機械世界　
-0x000dd578 Mechanical world
+0x000dd578 Mechanical World
 
 ; 0x000dd587 「氷山　
 0x000dd587 Iceberg
@@ -500,7 +501,7 @@
 0x002858a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x002858e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x002858e2 Gold Shield: Could be called the strongest shield.
+0x002858e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00285914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00285914 Bronze Mirror: Magic repels enemy attacks.
@@ -564,7 +565,7 @@
 
 
 ; 0x0029d019 いらっしゃいませご用件は？　　　
-0x0029d019 Welcome. How   can I help you today?
+0x0029d019 Welcome. How can I help?
 
 ; 0x0029d03a 　買う
 0x0029d03a Buy
@@ -1330,16 +1331,16 @@
 0x002b2cd5 Be careful...
 
 ; 0x002b2cf6 えっ！
-0x002b2cf6 Eh!
+0x002b2cf6 What!
 
 ; 0x002b2cfd やつを倒したのかい！
-0x002b2cfd You beat him!
+0x002b2cfd You really beat him!
 
 ; 0x002b2d12 スゴイなあ。
-0x002b2d12 That's amazing.
+0x002b2d12 Incredible!
 
 ; 0x002b2d21 よし、さっそく大樹木の塔に
-0x002b2d21 Okay, let's get to the tower of big trees.
+0x002b2d21 Let's get to the Bit Tree Tower.
 
 ; 0x002b2d3c 行ってみよう。
 0x002b2d3c Right away.
@@ -1357,7 +1358,7 @@
 0x002b2d8d the bounty hunter.
 
 ; 0x002b2da7 メイルか。
-0x002b2da7 Mail, huh?
+0x002b2da7 So, Mail.
 
 ; 0x002b2db2 僕は、魔法使いのタットって
 0x002b2db2 I'm Tatto and I'm a
@@ -1366,7 +1367,7 @@
 0x002b2dcd mage.
 
 ; 0x002b2dd8 $#まだ、修業中の身だけどね。
-0x002b2dd8 I'm still in training though.
+0x002b2dd8 Although I'm still in training.
 
 ; 0x002b2df5 じゃあメイル、機会があったら
 0x002b2df5 Well, Mail, let's hope we
@@ -1522,7 +1523,7 @@
 0x002d58a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x002d58e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x002d58e2 Gold Shield: Could be called the strongest shield.
+0x002d58e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x002d5914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x002d5914 Bronze Mirror: Magic repels enemy attacks.
@@ -1588,7 +1589,7 @@
 0x002d6d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x002ed019 いらっしゃいませご用件は？　　　
-0x002ed019 Welcome. How   can I help you today?
+0x002ed019 Welcome. How can I help?
 
 ; 0x002ed03a 　買う
 0x002ed03a Buy
@@ -2221,7 +2222,7 @@
 0x003258a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x003258e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x003258e2 Gold Shield: Could be called the strongest shield.
+0x003258e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00325914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00325914 Bronze Mirror: Magic repels enemy attacks.
@@ -2287,7 +2288,7 @@
 0x00326d9e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x0033d019 いらっしゃいませご用件は？　　　
-0x0033d019 Welcome. How   can I help you today?
+0x0033d019 Welcome. How can I help?
 
 ; 0x0033d03a 　買う
 0x0033d03a Buy
@@ -2597,7 +2598,7 @@
 0x003d58a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x003d58e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x003d58e2 Gold Shield: Could be called the strongest shield.
+0x003d58e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x003d5914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x003d5914 Bronze Mirror: Magic repels enemy attacks.
@@ -3525,7 +3526,7 @@
 0x004258a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x004258e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x004258e2 Gold Shield: Could be called the strongest shield.
+0x004258e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00425914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00425914 Bronze Mirror: Magic repels enemy attacks.
@@ -4143,7 +4144,7 @@
 0x004758a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x004758e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x004758e2 Gold Shield: Could be called the strongest shield.
+0x004758e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00475914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00475914 Bronze Mirror: Magic repels enemy attacks.
@@ -4539,7 +4540,7 @@
 0x004c58a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x004c58e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x004c58e2 Gold Shield: Could be called the strongest shield.
+0x004c58e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x004c5914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x004c5914 Bronze Mirror: Magic repels enemy attacks.
@@ -5449,7 +5450,7 @@
 0x005158a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x005158e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x005158e2 Gold Shield: Could be called the strongest shield.
+0x005158e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00515914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00515914 Bronze Mirror: Magic repels enemy attacks.
@@ -5923,7 +5924,7 @@
 0x006258a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x006258e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x006258e2 Gold Shield: Could be called the strongest shield.
+0x006258e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00625914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00625914 Bronze Mirror: Magic repels enemy attacks.
@@ -5986,7 +5987,7 @@
 0x00626d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x0063d019 いらっしゃいませご用件は？　　　
-0x0063d019 Welcome. How   can I help you today?
+0x0063d019 Welcome. How can I help?
 
 ; 0x0063d03a 　買う
 0x0063d03a Buy
@@ -7804,7 +7805,7 @@
 0x006758a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x006758e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x006758e2 Gold Shield: Could be called the strongest shield.
+0x006758e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00675914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00675914 Bronze Mirror: Magic repels enemy attacks.
@@ -7870,7 +7871,7 @@
 0x00676d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x0068d019 いらっしゃいませご用件は？　　　
-0x0068d019 Welcome. How   can I help you today?
+0x0068d019 Welcome. How can I help?
 
 ; 0x0068d03a 　買う
 0x0068d03a Buy
@@ -9467,7 +9468,7 @@
 0x006c58a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x006c58e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x006c58e2 Gold Shield: Could be called the strongest shield.
+0x006c58e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x006c5914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x006c5914 Bronze Mirror: Magic repels enemy attacks.
@@ -9533,7 +9534,7 @@
 0x006c6d9e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x006dd019 いらっしゃいませご用件は？　　　
-0x006dd019 Welcome. How   can I help you today?
+0x006dd019 Welcome. How can I help?
 
 ; 0x006dd03a 　買う
 0x006dd03a Buy
@@ -9611,7 +9612,7 @@
 0x006dd212 Take care...
 
 ; 0x00739019 いらっしゃいませご用件は？　　　
-0x00739019 Welcome. How   can I help you today?
+0x00739019 Welcome. How can I help?
 
 ; 0x0073903a 　買う
 0x0073903a Buy
@@ -9836,7 +9837,7 @@
 0x00821688 Silver Shield: Enough power to block foe attacks
 
 ; 0x008216ca ゴールドシールドこの盾は最強の盾といえるだろう。
-0x008216ca Gold Shield: Could be called the strongest shield.
+0x008216ca Gold Shield: Arguably the strongest shield.
 
 ; 0x008216fc ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x008216fc Bronze Mirror: Magic repels enemy attacks.
@@ -9995,7 +9996,7 @@
 0x00835890 Silver Shield: Enough power to block foe attacks
 
 ; 0x008358d2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x008358d2 Gold Shield: Could be called the strongest shield.
+0x008358d2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00835904 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00835904 Bronze Mirror: Magic repels enemy attacks.
@@ -10559,7 +10560,7 @@
 0x00885890 Silver Shield: Enough power to block foe attacks
 
 ; 0x008858d2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x008858d2 Gold Shield: Could be called the strongest shield.
+0x008858d2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00885904 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00885904 Bronze Mirror: Magic repels enemy attacks.
@@ -11229,7 +11230,7 @@
 0x008e5890 Silver Shield: Enough power to block foe attacks
 
 ; 0x008e58d2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x008e58d2 Gold Shield: Could be called the strongest shield.
+0x008e58d2 Gold Shield: Arguably the strongest shield.
 
 ; 0x008e5904 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x008e5904 Bronze Mirror: Magic repels enemy attacks.
@@ -11721,7 +11722,7 @@
 0x00995890 Silver Shield: Enough power to block foe attacks
 
 ; 0x009958d2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x009958d2 Gold Shield: Could be called the strongest shield.
+0x009958d2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00995904 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00995904 Bronze Mirror: Magic repels enemy attacks.
@@ -12342,7 +12343,7 @@
 0x009e5890 Silver Shield: Enough power to block foe attacks
 
 ; 0x009e58d2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x009e58d2 Gold Shield: Could be called the strongest shield.
+0x009e58d2 Gold Shield: Arguably the strongest shield.
 
 ; 0x009e5904 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x009e5904 Bronze Mirror: Magic repels enemy attacks.
@@ -12750,7 +12751,7 @@
 0x00a35890 Silver Shield: Enough power to block foe attacks
 
 ; 0x00a358d2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00a358d2 Gold Shield: Could be called the strongest shield.
+0x00a358d2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00a35904 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00a35904 Bronze Mirror: Magic repels enemy attacks.
@@ -13077,7 +13078,7 @@
 0x00af5890 Silver Shield: Enough power to block foe attacks
 
 ; 0x00af58d2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00af58d2 Gold Shield: Could be called the strongest shield.
+0x00af58d2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00af5904 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00af5904 Bronze Mirror: Magic repels enemy attacks.
@@ -13812,7 +13813,7 @@
 0x00b45890 Silver Shield: Enough power to block foe attacks
 
 ; 0x00b458d2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00b458d2 Gold Shield: Could be called the strongest shield.
+0x00b458d2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00b45904 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00b45904 Bronze Mirror: Magic repels enemy attacks.
@@ -14199,7 +14200,7 @@
 0x00b95890 Silver Shield: Enough power to block foe attacks
 
 ; 0x00b958d2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00b958d2 Gold Shield: Could be called the strongest shield.
+0x00b958d2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00b95904 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00b95904 Bronze Mirror: Magic repels enemy attacks.
@@ -14781,7 +14782,7 @@
 0x00cb58a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x00cb58e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00cb58e2 Gold Shield: Could be called the strongest shield.
+0x00cb58e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00cb5914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00cb5914 Bronze Mirror: Magic repels enemy attacks.
@@ -15795,7 +15796,7 @@
 0x00d058a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x00d058e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00d058e2 Gold Shield: Could be called the strongest shield.
+0x00d058e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00d05914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00d05914 Bronze Mirror: Magic repels enemy attacks.
@@ -17022,7 +17023,7 @@
 0x00d558a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x00d558e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00d558e2 Gold Shield: Could be called the strongest shield.
+0x00d558e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00d55914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00d55914 Bronze Mirror: Magic repels enemy attacks.
@@ -17574,7 +17575,7 @@
 0x00da58a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x00da58e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00da58e2 Gold Shield: Could be called the strongest shield.
+0x00da58e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00da5914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00da5914 Bronze Mirror: Magic repels enemy attacks.
@@ -18099,7 +18100,7 @@
 0x00e11884 Silver Shield: Enough power to block foe attacks
 
 ; 0x00e118c6 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00e118c6 Gold Shield: Could be called the strongest shield.
+0x00e118c6 Gold Shield: Arguably the strongest shield.
 
 ; 0x00e118f8 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00e118f8 Bronze Mirror: Magic repels enemy attacks.
@@ -18570,7 +18571,7 @@
 0x00e558a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x00e558e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00e558e2 Gold Shield: Could be called the strongest shield.
+0x00e558e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00e55914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00e55914 Bronze Mirror: Magic repels enemy attacks.
@@ -18636,7 +18637,7 @@
 0x00e56d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00e6d019 いらっしゃいませご用件は？　　　
-0x00e6d019 Welcome. How   can I help you today?
+0x00e6d019 Welcome. How can I help?
 
 ; 0x00e6d03a 　買う
 0x00e6d03a Buy
@@ -18837,7 +18838,7 @@
 0x00ea58a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x00ea58e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00ea58e2 Gold Shield: Could be called the strongest shield.
+0x00ea58e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00ea5914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00ea5914 Bronze Mirror: Magic repels enemy attacks.
@@ -18903,7 +18904,7 @@
 0x00ea6d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00ebd019 いらっしゃいませご用件は？　　　
-0x00ebd019 Welcome. How   can I help you today?
+0x00ebd019 Welcome. How can I help?
 
 ; 0x00ebd03a 　買う
 0x00ebd03a Buy
@@ -19101,7 +19102,7 @@
 0x00ef58a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x00ef58e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00ef58e2 Gold Shield: Could be called the strongest shield.
+0x00ef58e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00ef5914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00ef5914 Bronze Mirror: Magic repels enemy attacks.
@@ -19164,7 +19165,7 @@
 0x00ef6d6e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00f0d019 いらっしゃいませご用件は？　　　
-0x00f0d019 Welcome. How   can I help you today?
+0x00f0d019 Welcome. How can I help?
 
 ; 0x00f0d03a 　買う
 0x00f0d03a Buy
@@ -19599,7 +19600,7 @@
 0x00f458a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x00f458e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00f458e2 Gold Shield: Could be called the strongest shield.
+0x00f458e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00f45914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00f45914 Bronze Mirror: Magic repels enemy attacks.
@@ -19665,7 +19666,7 @@
 0x00f46d9e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00f5d019 いらっしゃいませご用件は？　　　
-0x00f5d019 Welcome. How   can I help you today?
+0x00f5d019 Welcome. How can I help?
 
 ; 0x00f5d03a 　買う
 0x00f5d03a Buy
@@ -20097,7 +20098,7 @@
 0x00f958a0 Silver Shield: Enough power to block foe attacks
 
 ; 0x00f958e2 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x00f958e2 Gold Shield: Could be called the strongest shield.
+0x00f958e2 Gold Shield: Arguably the strongest shield.
 
 ; 0x00f95914 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x00f95914 Bronze Mirror: Magic repels enemy attacks.
@@ -20163,7 +20164,7 @@
 0x00f96d9e Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x00fad019 いらっしゃいませご用件は？　　　
-0x00fad019 Welcome. How   can I help you today?
+0x00fad019 Welcome. How can I help?
 
 ; 0x00fad03a 　買う
 0x00fad03a Buy
@@ -20436,7 +20437,7 @@
 0x01005893 Silver Shield: Enough power to block foe attacks
 
 ; 0x010058d5 ゴールドシールドこの盾は最強の盾といえるだろう。
-0x010058d5 Gold Shield: Could be called the strongest shield.
+0x010058d5 Gold Shield: Arguably the strongest shield.
 
 ; 0x01005907 ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x01005907 Bronze Mirror: Magic repels enemy attacks.
@@ -20502,7 +20503,7 @@
 0x01006d86 Plasma Armor P Aqua Robe P Battle Armor @Iron Shield
 
 ; 0x0101d019 いらっしゃいませご用件は？　　　
-0x0101d019 Welcome. How   can I help you today?
+0x0101d019 Welcome. How can I help?
 
 ; 0x0101d03a 　買う
 0x0101d03a Buy
@@ -20658,7 +20659,7 @@
 0x01031352 But I'm more concerned about myself than others. I have to go for the treasure!
 
 ; 0x01069019 いらっしゃいませご用件は？　　　
-0x01069019 Welcome. How   can I help you today?
+0x01069019 Welcome. How can I help?
 
 ; 0x0106903a 　買う
 0x0106903a Buy
@@ -20853,7 +20854,7 @@
 0x010c187a Silver Shield: Enough power to block foe attacks
 
 ; 0x010c18bc ゴールドシールドこの盾は最強の盾といえるだろう。
-0x010c18bc Gold Shield: Could be called the strongest shield.
+0x010c18bc Gold Shield: Arguably the strongest shield.
 
 ; 0x010c18ee ブロンズミラー　魔法の力で敵の攻撃を跳ね返す。
 0x010c18ee Bronze Mirror: Magic repels enemy attacks.
@@ -20928,7 +20929,7 @@
 0x010ed173 Ulgar
 
 ; 0x010ed186 K｡ば、
-0x010ed186 K. B-
+0x010ed186 N-
 
 ; 0x010ed18d  馬鹿な！
 0x010ed18d No way!
