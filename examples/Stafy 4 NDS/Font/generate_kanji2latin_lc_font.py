@@ -17,16 +17,6 @@ def get_glyph(font_data, char_code):
         return b'\x00' * 16
     return font_data[offset : offset + 16]
 
-def get_sjis_header_for_id(target_id):
-    """
-    Replaces the uni_to_sjis dictionary.
-    Attempts to find the Shift-JIS bytes that decode to the target Unicode ID.
-    """
-    try:
-        return chr(target_id).encode('CP932')
-    except (UnicodeEncodeError, ValueError):
-        # The target_id does not exist in the CP932 character set
-        return None
 
 def generate_lc_font():
     if not os.path.exists(FONT_PATH):
@@ -46,17 +36,11 @@ def generate_lc_font():
 
     for char1 in letters:
         for char2 in letters:
-            # Use our new function instead of the dictionary
-            #print("%X" % sjis_value)
-            #header = get_sjis_header_for_id(sjis_value)
-            # raw sjis
             b1 = (sjis_value >> 8) & 0xFF
             b2 = sjis_value & 0xFF
             header = bytes([b1, b2])
             #print( header)
             
-            # If a specific ID can't be represented in SJIS, we must skip it
-            # because the tool requires valid, ascending headers.
             if header:
                 glyph1 = get_glyph(font_data, ord(char1))
                 glyph2 = get_glyph(font_data, ord(char2))
@@ -64,8 +48,20 @@ def generate_lc_font():
                 # Stitch 16x16 bitmap (32 bytes)
                 bitmap = bytearray()
                 for i in range(16):
-                    bitmap.append(glyph1[i])
-                    bitmap.append(glyph2[i])
+                    
+                    row1 = glyph1[i]
+                    row2 = glyph2[i]
+                    
+                    # FIX: If the right-hand character is a space, 
+                    # NitroPaint trims the width. We force a single pixel 
+                    # at the far right (bit 0) of one row (e.g., row 15).
+                    if char1 == " " and i == 15:
+                        row1 |= 0x80  # 0x80 is the bit for the leftmost pixel
+                    if char2 == " " and i == 15:
+                        row2 |= 0x01  # right-most pixel
+                          
+                    bitmap.append(row1)
+                    bitmap.append(row2)
                 
                 # Store as a tuple (header_value, full_record_bytes)
                 header_int = (header[0] << 8) | header[1]
