@@ -4,7 +4,7 @@ OUTPUT_ROM="Rakugaki Showtime (English).bin"
 
 cp "$INPUT_ROM" "$OUTPUT_ROM"
 
-rominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM"
+python ../../ezrominject.py *_jap.txt *_eng.txt "$OUTPUT_ROM"
 # TODO: fix 00, 0R escape codes
 #NOT SUPORTED: --ascii-mode
 #NOT SUPORTED: --ascii-bios-hack 
