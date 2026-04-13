@@ -67,7 +67,9 @@ extract_gfx() {
     sfk partcopy "$OUTPUT_ROM" -fromto 0x2e3d02 0x2e3ef0 gfx/menu_pause2_jap.bin -yes  # single char overworld ver.
     sfk partcopy "$OUTPUT_ROM" -fromto 0x2e3ef0 0x2e40e3 gfx/menu_pause3_jap.bin -yes  # multi-char underworld ver.
     sfk partcopy "$OUTPUT_ROM" -fromto 0x2940e3 0x2942ad gfx/menu_pause4_jap.bin -yes  # single-char underworld ver
-    # TODO: menu_save, menu_load, menu_confirm
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x2942ad 0x294429 gfx/menu_save_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x294429 0x2945A1 gfx/menu_load_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x2945A1 0x294852 gfx/menu_confirm_jap.bin -yes
     #TODO: sfk partcopy "$OUTPUT_ROM" -fromto 0x1680400 0x gfx/_sound_test_menu_jap.bin -yes
 }
 
@@ -116,6 +118,9 @@ patch_gfx() {
     replace_gfx menu_pause2
     replace_gfx menu_pause3
     replace_gfx menu_pause4
+    replace_gfx menu_save
+    replace_gfx menu_load
+    replace_gfx menu_confirm
 }
 
 
