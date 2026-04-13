@@ -64,6 +64,7 @@ extract_gfx() {
     
     # menus
     sfk partcopy "$OUTPUT_ROM" -fromto 0x2940e3 0x2942ad gfx/menu_pause_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" -fromto 0x2e3afd 0x2e3d9b gfx/menu_pause2_jap.bin -yes
     #TODO: sfk partcopy "$OUTPUT_ROM" -fromto 0x1680400 0x gfx/_sound_test_menu_jap.bin -yes
 }
 
@@ -107,7 +108,9 @@ patch_gfx() {
     replace_gfx location_sealed_palace
     
     #truncate --reference=menu_pause_jap.bin menu_pause_eng.bin  # fill with 0s to match the original block size
+    #truncate --reference=menu_pause2_jap.bin menu_pause2_eng.bin  # fill with 0s to match the original block size
     replace_gfx menu_pause
+    replace_gfx menu_pause2
 }
 
 
