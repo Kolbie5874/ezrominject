@@ -113,9 +113,9 @@
 ; 0x00235ac0 ブーメラン　　　回転しながら手元にもどってくる、武器。
 0x00235ac0 Boomerang: Spins and returns to hand.
 ; 0x00235af8 オレンジ　　　　体力が２０回復する。
-0x00235af8 Orange: Restores 20 HP.
+0x00235af8 Orange: +20HP restored.
 ; 0x00235b1e チェリー　　　　体力が５０回復する。
-0x00235b1e Cherry: Restores 50 HP.
+0x00235b1e Cherry: +50HP restored.
 ; 0x00235b44 リンゴ　　　　　体力が完全回復する。
 0x00235b44 Apple: Fully restores stamina.
 ; 0x00235b6a 金塊　　　　　　
@@ -161,7 +161,7 @@
 0x0024d0c1 Is that okay?
 
 ; 0x0024d0f4 あなたはそのアイテムをこれ以上持てません。
-0x0024d0f4 Cannot carry more items.
+0x0024d0f4 Already have it.
 ; 0x0024d120 お金が足りません
 0x0024d120 Not enough money.
 ; 0x0024d134 ありがとうございました。
@@ -537,10 +537,10 @@
 0x00285afa Boomerang: Spins and returns to hand.
 
 ; 0x00285b32 オレンジ　　　　体力が２０回復する。
-0x00285b32 Orange: Restores 20 HP.
+0x00285b32 Orange: +20HP restored.
 
 ; 0x00285b58 チェリー　　　　体力が５０回復する。
-0x00285b58 Cherry: Restores 50 HP.
+0x00285b58 Cherry: +50HP restored.
 
 ; 0x00285b7e リンゴ　　　　　体力が完全回復する。
 0x00285b7e Apple: Fully restores stamina.
@@ -601,7 +601,7 @@
 0x0029d0c1 Is that okay?
 
 ; 0x0029d0f4 あなたはそのアイテムをこれ以上持てません。
-0x0029d0f4 Cannot carry more items.
+0x0029d0f4 Already have it.
 
 ; 0x0029d120 お金が足りません
 0x0029d120 Not enough money.
@@ -922,16 +922,16 @@
 0x002b1fb7 But,
 
 ; 0x002b1fbe ﾄｯﾍｯﾘｯ女の子
-;TODO: 0x002b1fbe Girl
+0x002b1fbe a girl
 
 ; 0x002b1fcb ﾜｯ魔法使い
-;TODO: 0x002b1fcb Wizard
+0x002b1fcb a mage
 
 ; 0x002b1fd6 ﾜｯ怪獣が、
-;TODO: 0x002b1fd6 Monster,
+0x002b1fd6 a monster,
 
 ; 0x002b1fe1 落ちてくるとは思わなかったよ。
-0x002b1fe1 I didn’t expect you to fall.
+0x002b1fe1 I didn’t expect to fall.
 
 ; 0x002b200a ｰ竺竺えっ、ブラッキィが抜け出し
 0x002b200f Huh? Blacky ran away.
@@ -994,7 +994,7 @@
 0x002b21d8 Hurry up.
 
 ; 0x002b21ef ｰやぁブラッキィを、助けて
-0x002b21ef Hey, I've come to rescue 
+0x002b21ef Hey, I rescued
 
 ; 0x002b2209 来たよ。
 0x002b2209 Blacky.
@@ -1003,7 +1003,7 @@
 0x002b2212 He's quite the troublemaker,
 
 ; 0x002b222b だよな。
-0x002b222b Right?
+0x002b222b isn't he?
 
 ; 0x002b223e ･やぁ、こんなジャングル奥地の
 0x002b223e It's rare to have visitors
@@ -1340,10 +1340,10 @@
 0x002b2d12 Incredible!
 
 ; 0x002b2d21 よし、さっそく大樹木の塔に
-0x002b2d21 Let's get to the Bit Tree Tower.
+0x002b2d21 Let's go to the Big Tree
 
 ; 0x002b2d3c 行ってみよう。
-0x002b2d3c Right away.
+0x002b2d3c Tower, Right away.
 
 ; 0x002b2d4b $ どうもありがとう。
 0x002b2d4b Thank you very much.
@@ -1382,7 +1382,7 @@
 0x002b2e31 Wait a minute!!
 
 ; 0x002b2e46 ｦひどいなぁ、魔物を倒せたんなら教えてよ。
-0x002b2e46 You really were able to defeat that maniacal mech!?
+0x002b2e46 You really were able to defeat that mech!?
 
 ; 0x002b2e70 でも、スゴイなぁ。
 0x002b2e70 Tell me how!
@@ -1397,16 +1397,16 @@
 0x002b2eb9 Tree Tower.
 
 ; 0x002b2ec8 ﾞ･君のおかげで、無事村に戻る
-0x002b2ec8 Thanks to you, we're safely back in the village.
+0x002b2ec8 Thanks to you, I'm safely 
 
 ; 0x002b2ee5 ことが出来たよ。
-0x002b2ee5 I did it.
+0x002b2ee5 back to the village.
 
 ; 0x002b2ef6 でも、僕はいつか町へ行って
-0x002b2ef6 But one day, I'll go to town
+0x002b2ef6 But one day, I'll go to 
 
 ; 0x002b2f11 やるんだ。
-0x002b2f11 Do it.
+0x002b2f11 town.
 
 ; 0x002d3db9 メイル
 0x002d3db9 Mail
@@ -1562,10 +1562,10 @@
 0x002d5afa Boomerang: Spins and returns to hand.
 
 ; 0x002d5b32 オレンジ　　　　体力が２０回復する。
-0x002d5b32 Orange: Restores 20 HP.
+0x002d5b32 Orange: +20HP restored.
 
 ; 0x002d5b58 チェリー　　　　体力が５０回復する。
-0x002d5b58 Cherry: Restores 50 HP.
+0x002d5b58 Cherry: +50HP restored.
 
 ; 0x002d5b7e リンゴ　　　　　体力が完全回復する。
 0x002d5b7e Apple: Fully restores stamina.
@@ -1631,7 +1631,7 @@
 0x002ed0ee No
 
 ; 0x002ed0f4 あなたはそのアイテムをこれ以上持てません。
-0x002ed0f4 Cannot carry more items.
+0x002ed0f4 Already have it.
 
 ; 0x002ed120 お金が足りません
 0x002ed120 Not enough money.
@@ -2099,10 +2099,10 @@
 0x003023eb I close the open door again.
 
 ; 0x00302409 閉ざされた扉を開けた。
-0x00302409 I open the closed door.
+0x00302409 Locked door is now open.
 
 ; 0x00302423 魔物が倒れると同時に
-0x00302423 At the same time the monsters fell
+0x00302423 As the enemies fall,
 
 ; 0x00302438 隠し扉が開く音が聞こえた。
 0x00302438 I heard a hidden door open.
@@ -2261,10 +2261,10 @@
 0x00325afa Boomerang: Spins and returns to hand.
 
 ; 0x00325b32 オレンジ　　　　体力が２０回復する。
-0x00325b32 Orange: Restores 20 HP.
+0x00325b32 Orange: +20HP restored.
 
 ; 0x00325b58 チェリー　　　　体力が５０回復する。
-0x00325b58 Cherry: Restores 50 HP.
+0x00325b58 Cherry: +50HP restored.
 
 ; 0x00325b7e リンゴ　　　　　体力が完全回復する。
 0x00325b7e Apple: Fully restores stamina.
@@ -2324,7 +2324,7 @@
 0x0033d0c1 Is that okay?
 
 ; 0x0033d0f4 あなたはそのアイテムをこれ以上持てません。
-0x0033d0f4 Cannot carry more items.
+0x0033d0f4 Already have it.
 
 ; 0x0033d120 お金が足りません
 0x0033d120 Not enough money.
@@ -2354,25 +2354,25 @@
 0x003512df Material
 
 ; 0x003512f3 　バカな！！
-0x003512f3 Impossible!
+0x003512f3 No way!
 
 ; 0x00351300 　わしのウッド・ゴーレムが
 0x00351300 My Wood Golem
 
 ; 0x0035131b 　負けるとは！！
-0x0035131b To lose!!
+0x0035131b has lost!!
 
 ; 0x0035132e  ・・・・・？
 0x0035132e ...?
 
 ; 0x0035133d この辺から声が…。
-0x0035133d A voice from around here...
+0x0035133d I heard a voice coming from here…
 
 ; 0x00351355 仕方ない。
-0x00351355 I had no choice.
+0x00351355 It’s no use.
 
 ; 0x00351363 この場は一端
-0x00351363 This is a part of it.
+0x00351363 Dead end
 
 ; 0x0035137d あ！！
 0x0035137d Ah!
@@ -2393,10 +2393,10 @@
 0x00351427 The great material!
 
 ; 0x0035143f $@なるほど、
-0x0035143f I see...
+0x0035143f I see... And
 
 ; 0x0035144c お前がタットの師匠ね。
-0x0035144c And you're Tato's master. 
+0x0035144c you are Tatto's master. 
 
 ; 0x00351464 ﾝ｢$Aほう、タットを知っとるのか。
 0x00351464 Oh, so you know Tatto?
@@ -2420,25 +2420,25 @@
 0x003514df HAHAHAHA!
 
 ; 0x003514e7 $Cそんな事、あたしの知った
-0x003514e7 That's what I know.
+0x003514e7 That stuff is none of 
 
 ; 0x00351502 こっちゃないわよ。
-0x00351502 I'm not here.
+0x00351502 my business.
 
 ; 0x00351515 $Dあたしに関係あるのは、
-0x00351515 That stuff is none of my business.
+0x00351515 The only thing that matters
 
 ; 0x0035152e おまえにかかっている
-0x0035152e The only thing that matters to me 
+0x0035152e to me is the bounty
 
 ; 0x00351543 賞金だけよ！
-0x00351543 is the bounty on your head.
+0x00351543 on your head!
 
 ; 0x00351550 $E捕まえてやる！！
 0x00351550 I'll get you!
 
 ; 0x00351564 ﾝ｢$Fわしを捕まえるだと？
-0x00351564 You're going to catch me?
+0x00351568 You’re going to get me?
 
 ; 0x0035157e  バカめ！！そんなにわしを捕まえたくば、追ってくるがいい！！
 0x0035157e You idiot! If you want me so badly, come after me!
@@ -2447,7 +2447,7 @@
 0x003515ba Farewell!!
 
 ; 0x003515cc $H君は確か
-0x003515cc If I remember correctly
+0x003515cc Thank god
 
 ; 0x003515e4 メイル！！
 0x003515e4 Mail!
@@ -2456,7 +2456,7 @@
 0x003515ef Mail, please.
 
 ; 0x00351602 僕の言うとおりに、
-0x00351602 That switch over there.. 
+0x00351602 That switch over there.. ,
 
 ; 0x00351615 左のスイッチを動かしてくれ！！
 0x00351615 To your left. Can you move it for me?
@@ -2471,13 +2471,13 @@
 0x0035165b Actually...
 
 ; 0x0035166d $Lそうか…。
-0x0035166d I see...
+0x0035166d Perhaps
 
 ; 0x0035167a 多分、お師匠様は古代の洞窟に
-0x0035167a Perhaps my master went to hide 
+0x0035167a my master went to hide in the
 
 ; 0x00351697 いるはずだ。
-0x00351697 in the ancient caves.
+0x00351697 ancient caves.
 
 ; 0x003516a4 $M何度か僕も行った事がある。
 0x003516a4 I’ve been there a few times.
@@ -2637,10 +2637,10 @@
 0x003d5afa Boomerang: Spins and returns to hand.
 
 ; 0x003d5b32 オレンジ　　　　体力が２０回復する。
-0x003d5b32 Orange: Restores 20 HP.
+0x003d5b32 Orange: +20HP restored.
 
 ; 0x003d5b58 チェリー　　　　体力が５０回復する。
-0x003d5b58 Cherry: Restores 50 HP.
+0x003d5b58 Cherry: +50HP restored.
 
 ; 0x003d5b7e リンゴ　　　　　体力が完全回復する。
 0x003d5b7e Apple: Fully restores stamina.
@@ -2700,7 +2700,7 @@
 0x003ed0a5 Okay?
 
 ; 0x003ed0c8 そのアイテムを、これ以上持つことは出来ないぞ。
-0x003ed0c8 Cannot carry more items.
+0x003ed0c8 Already have it.
 
 ; 0x003ed0f8 お金が足りねぇな
 0x003ed0f8 Not enough money.
@@ -2737,10 +2737,10 @@
 0x00401687 I knew you’d come after me.
 
 ; 0x004016a0 お嬢ちゃんが、わしを捕まえ
-0x004016a0 You’re a hundred years too 
+0x004016a0 You are a hundred years too 
 
 ; 0x004016bb ようなんて百年早いわ。
-0x004016bb early to catch me, little girl.
+0x004016bb early to catch me.
 
 ; 0x004016d4 ここで返り討ちにして
 0x004016d4 Now I’ll take my 
@@ -2764,10 +2764,10 @@
 0x0040178b Material.
 
 ; 0x0040179d 先ほどの醜態。
-0x0040179d Your previous failure
+0x0040179d Your failure
 
 ; 0x004017b1 みていたぞ。
-0x004017b1 I saw it.
+0x004017b1 I witnessed it
 
 ; 0x004017c2 わしたちの与えた、
 0x004017c2 I witnessed it
@@ -2824,13 +2824,13 @@
 0x0040190c Oh,
 
 ; 0x00401915 あんたブラッキィじゃない。
-0x00401915 You're not a brat.
+0x00401915 You're Blacky. What
 
 ; 0x00401930 こんな所で何してんのよ？
-0x00401930 What are you doing here?
+0x00401930 are you doing here?
 
 ; 0x0040194a iｦやぁ、君か。
-0x0040194a Oh, it's you.
+0x0040194a Oh it's you.
 
 ; 0x0040195c 4ｫひどいよな。
 0x0040195c that's mean.
@@ -2860,37 +2860,37 @@
 0x004019ff I saw.
 
 ; 0x00401a0a で、このまま村にも帰れないし、古代の洞窟にお宝が眠っている
-0x00401a0a So, we can’t go back to the village like this, and there’s treasure in an ancient cave
+0x00401a0a I didn’t wanna stay there. Besides, I remembered there
 
 ; 0x00401a45 という噂を思いだしたんで、
-0x00401a45 That's the rumor I remembered.
+0x00401a45 were rumours of a hidden 
 
 ; 0x00401a60 その宝を村のみんなに持って
-0x00401a60 Take the treasure to everyone in the village
+0x00401a60 treasure in these caves!
 
 ; 0x00401a7b 帰ってやろうと思ってね。
-0x00401a7b I wanted to go home.
+0x00401a7b ...
 
 ; 0x00401a94 そういえば、この洞窟の中を
-0x00401a94 Come to think of it, we’re in this cave
+0x00401a94 By the way, I was digging 
 
 ; 0x00401aaf あっちこっち掘っていたら、
-0x00401aaf I was digging here and there, and...
+0x00401aaf around in this cave and 
 
 ; 0x00401aca こんな盾を見つけたんだけど、
-0x00401aca I found this shield, but...
+0x00401aca found a shield. 
 
 ; 0x00401ae7 買ってくれないか？
-0x00401ae7 Will you buy it?
+0x00401ae7 Wanna buy it?
 
 ; 0x00401afa 今なら
-0x00401afa Now.
+0x00401afa For
 
 ; 0x00401b02 ３００Ｇｏｒｄ
 0x00401b02 300 Gold
 
 ; 0x00401b12 でいいよ。
-0x00401b12 That's fine.
+0x00401b12 .
 
 ; 0x00401b1e 買う
 0x00401b1e Buy
@@ -2899,16 +2899,16 @@
 0x00401b28 Don't buy it.
 
 ; 0x00401b33 *さっきは、どうもありがとう。
-0x00401b33 *Thanks for earlier.
+0x00401b33 Thanks a lot for before.
 
 ; 0x00401b51 実は、あれからまた村を
-0x00401b51 Actually, I've been in the village ever since.
+0x00401b51 Actually, after that,
 
 ; 0x00401b68 抜け出して町にいこうとしたら、町の門番につっかえされて
-0x00401b68 If I tried to slip out and go to town, I’d be stuck at the town gatekeeper
+0x00401b68 when I tried to sneak out of the village again,
 
 ; 0x00401b9f しまったんだ。
-0x00401b9f Crap.
+0x00401b9f I was stopped by the guards.
 
 ; 0x00401bb2 iｦおや、こんな所で人に会う
 0x00401bb2 Oh, I see someone here.
@@ -2995,46 +2995,46 @@
 0x00401e2b Let's go.
 
 ; 0x00401e39 盾をもらいました
-0x00401e39 I got a shield.
+0x00401e39 Received shield.
 
 ; 0x00401e4b iｦところで、この先に出口が
-0x00401e4b By the way, the exit is up ahead.
+0x00401e4b There’s an exit up ahead
 
 ; 0x00401e66 あるんだが、この岩が邪魔で
-0x00401e66 I do, but this rock is in the way
+0x00401e66 but I cannot go any further 
 
 ; 0x00401e81 先に進めないんだ。
-0x00401e81 I can't go on.
+0x00401e81 because those rocks are in the way.
 
 ; 0x00401e94 でも、こんなこともあろうかと
-0x00401e94 But I thought this might happen.
+0x00401e94 But I brought a bomb just in 
 
 ; 0x00401eb1 爆弾を持ってきてあるのさ。
-0x00401eb1 I brought a bomb.
+0x00401eb1 case something like this would happen. 
 
 ; 0x00401ecc さぁ、いくぞ。
-0x00401ecc Now, let's go.
+0x00401ecc Here we go! 
 
 ; 0x00401edb ちょっと離れててくれ。
-0x00401edb Get away from me.
+0x00401edb Just stay back.
 
 ; 0x00401ef3 iｦこれで、ＯＫだ。
-0x00401ef3 I'm okay with this.
+0x00401ef3 Alright. Now,  
 
 ; 0x00401f06 さぁ、耳をふさいで…。
-0x00401f06 Now, cover my ears...
+0x00401f06 cover your ears...
 
 ; 0x00401f20 爆発の震動で、
-0x00401f20 The tremors of the explosion...
+0x00401f20 Ceiling rocks 
 
 ; 0x00401f2f 天井の岩が崩れそうだ。
-0x00401f2f The rock on the ceiling looks like it's about to collapse.
+0x00401f2f are about to collapse from the tremors of the explosion.
 
 ; 0x00401f4e 危ない！
 0x00401f4e Look out!
 
 ; 0x00401f57 早く逃げなきゃ！！
-0x00401f57 I have to get away!!
+0x00401f57 We have to get out of here!
 
 ; 0x00401f6b 危ない！
 0x00401f6b Look out!
@@ -3046,10 +3046,10 @@
 0x00401f85 Let's run away!!
 
 ; 0x00401fa6 何してんのよ！
-0x00401fa6 What are you doing!
+0x00401fa6 What are you 
 
 ; 0x00401fb5 早く逃げないと危ないわよ！
-0x00401fb5 If you don't run away soon, it's dangerous!
+0x00401fb5 doing! Get away!! It’s not safe!!
 
 ; 0x00401fd4 $"ブラッキィさん。
 0x00401fd4 Mr. Blacky.
@@ -3058,16 +3058,16 @@
 0x00401fe7 We gotta get out of here!
 
 ; 0x00402000 わかっているけど荷物が重くて。ちょっと待ってくれよ、
-0x00402000 I know, but it's too heavy. Wait a minute,
+0x00402000 I know, but my stuff is HEAVY... Give me one second,
 
 ; 0x00402035 今荷物を降ろすから…。
-0x00402035 I'm going to unload my things now...
+0x00402035 I’m unloading my bag now.
 
 ; 0x00402056 なにやってんのよ、まったく。
-0x00402056 What are you doing, geez.
+0x00402056 WHAT IS WRONG WITH YOU!?
 
 ; 0x00402076 早く逃げないから、こんなことになんのよ。
-0x00402076 This is all because I won't run away quickly.
+0x00402076 This is what you get for messing around!!
 
 ; 0x004020a3 $%ブラッキィさん。
 0x004020a3 Blacky.
@@ -3076,43 +3076,43 @@
 0x004020b6 Are you okay?!
 
 ; 0x004020cf いやぁ、また失敗してしまった。どうやら、洞窟内で爆弾を
-0x004020cf Man, I screwed up again. Looks like I got a bomb in a cave.
+0x004020cf Well, I failed again. It seems it’s dangerous to
 
 ; 0x00402106 使うのは危険みたいだな。
-0x00402106 It seems dangerous to use.
+0x00402106 use bombs inside of caves.
 
 ; 0x00402121 何か、岩を砕くものがあれば
-0x00402121 If there's anything that can break a rock...
+0x00402121 If only I had something to 
 
 ; 0x0040213c いいんだけど…。
-0x0040213c I don't mind...
+0x0040213c break down the rocks with...
 
 ; 0x0040214f この洞窟には、出口が２か所
-0x0040214f This cave has two exits.
+0x0040214f There are two exits to this 
 
 ; 0x0040216a あるんだ。
-0x0040216a I do.
+0x0040216a cave!
 
 ; 0x00402177 ひとつは、この先へいくとすぐにあって、もうひとつは
-0x00402177 One was right up ahead, and the other
+0x00402177 The first one is where you came from, but the 
 
 ; 0x004021aa 反対側にあるんだ。
-0x004021aa On the other side.
+0x004021aa second one is further up.
 
 ; 0x004021bf だが、もうひとつのほうはカギがかかってて開けることが、
-0x004021bf But the other one is locked, so I can't open it.
+0x004021bf But that other exit was locked and I wasn’t able 
 
 ; 0x004021f6 できない。
-0x004021f6 I can't.
+0x004021f6 to open it without a key.
 
 ; 0x00402208 $ 君には、また借りを作ってしまうことになるんだけど、頼む！
-0x00402208 I'm gonna owe you again, but please!
+0x00402208 I know I’ll owe you again, but please! Please
 
 ; 0x00402243 僕を、ここからだしてくれ！
-0x00402243 Get me outta here!
+0x00402243 get me out of here!
 
 ; 0x0040225e $!助けてくれよ！
-0x0040225e Help!
+0x0040225e Please save me!
 
 ; 0x0040226f 頼む！
 0x0040226f Please!
@@ -3123,38 +3123,41 @@
 ; 0x00402291 $!助けてくれよ！
 0x00402291 Help!
 
+; 0x004022a5 iｦ$,おーい！
+0x004022a5 HEY!!
+
 ; 0x004022b2 早く助けてくれ！！
-0x004022b2 Hurry up and help!!
+0x004022b2 HURRY UP AND SAVE ME ALREADY!!”
 
 ; 0x004022cd $-ちょっと待ってよ。
-0x004022cd Wait a minute.
+0x004022cd Hold on a second!
 
 ; 0x004022e2 助けてあげたいのは、
-0x004022e2 I want to help you...
+0x004022e2 I really wanna help you, but..
 
 ; 0x004022f7 やまやまだけど、
-0x004022f7 It's not that bad,
+0x004022f7 you, but..
 
 ; 0x00402308 $.どうやってこの岩を、
-0x00402308 How do we get this rock?
+0x00402308 I don’t know how to  
 
 ; 0x0040231f 崩せばいいのかな…。
-0x0040231f Should I break it down...?
+0x0040231f break this rock wall..
 
 ; 0x00402334 $/あ、そうそう。
-0x00402334 Oh, yeah, yeah.
+0x00402334 Oh yeah, I was 
 
 ; 0x00402345 この洞窟をうろうろしてたら
-0x00402345 I was wandering around this cave
+0x00402345 exploring the cave and I 
 
 ; 0x00402360 怪獣と会ったわよ。
-0x00402360 I met a monster.
+0x00402360 met a small monster.
 
 ; 0x00402373 $0追っかけて岩を崩す道具のこと
-0x00402373 A tool to chase after and break down rocks.
+0x00402373 When I chased after him and asked 
 
 ; 0x00402392 聞いたら、何も教えてくれないで逃げちゃったけど。
-0x00402392 When I asked, she ran away without telling me anything.
+0x00402392 for some help he ran away from me without saying much…
 
 ; 0x004023c7 $;すみません。　一生懸命、岩を
 0x004023c7 I'm sorry. I'll do my best to rock.
@@ -3169,28 +3172,28 @@
 0x0040246c I ran away.
 
 ; 0x00402485 iｦ$1そりゃあそうだ。
-0x00402485 Of course.
+0x00402489 Yeah, that’s right.
 
 ; 0x0040249a 怪獣たちは、侵入者をえらく
-0x0040249a The monster pick on intruders.
+0x0040249a The monsters here really 
 
 ; 0x004024b5 嫌うらしいからね。
-0x004024b5 She doesn't like it.
+0x004024b5 don’t like us outsiders.
 
 ; 0x004024c8 $2僕も、ちょっかいだして
-0x004024c8 I'll give you a hand.
+0x004024c8 I have actually been 
 
 ; 0x004024e1 かまれたことがあったよ。
-0x004024e1 I was bitten.
+0x004024e1 bitten by a few of them!
 
 ; 0x004024fa ところで、その怪獣が逃げてったのはどの辺だい？
-0x004024fa By the way, where did the monster escape to?
+0x004024fa By the way, where did that monster run off to?
 
 ; 0x00402531 $3あんたがさっき言ってた、
-0x00402531 That’s what you said earlier,
+0x00402531 It was next to that other
 
 ; 0x0040254c あの反対側の出入り口あたりよ。
-0x0040254c The entrance on the other side.
+0x0040254c exit you were talking about earlier.
 
 ; 0x0040256f $?さっきブラッキィさんが、
 0x0040256f Just now, Mr. Blackye...
@@ -3202,34 +3205,34 @@
 0x004025a3 It's around here.
 
 ; 0x004025b8 iｦ$4そうか…。
-0x004025b8 huh?
+0x004025b8 I see...
 
 ; 0x004025c7 怪獣たちは、横穴みたいな
-0x004025c7 The monster are like side tunnels.
+0x004025c7 So, the monster ran into 
 
 ; 0x004025e0 所へ逃げこんだだろ？
-0x004025e0 Didn't you run away?
+0x004025e0 some kinda sidehole?
 
 ; 0x004025f5 $5多分、そこが怪獣の巣なんだ。
-0x004025f5 That's probably the monster nest.
+0x004025f5 That’s where the monsters live.
 
 ; 0x00402614 そこへ行けば、何かあるかも
-0x00402614 There might be something there.
+0x00402614 If we go there we might find 
 
 ; 0x0040262f しれない。
-0x0040262f I don't know.
+0x0040262f something.
 
 ; 0x00402642 $6でも、高い所にあって
-0x00402642 But it’s high up.
+0x00402642 But it’s too high  
 
 ; 0x00402659 届かないのよ。
-0x00402659 I can’t reach it.
+0x00402659 for me to reach.
 
 ; 0x00402668 $7何か、踏台みたいなものが
-0x00402668 Something like a stepping stone.
+0x00402668 I wish I had a stepladder 
 
 ; 0x00402683 あればいいんだけど…。
-0x00402683 I wish I had one...
+0x00402683 or something...
 
 ; 0x0040269e $Bでも、その横穴は高い所に
 0x0040269e But that side tunnel is high up.
@@ -3246,23 +3249,23 @@
 ; 0x004026f2 いいんですけど。
 0x004026f2 I don't mind.
 
-; 0x00402707 iｦ$Dそうか、それなら爆弾を使うしかないな。爆発の衝撃で岩を崩せばそれが踏台になるだろう。
-0x00402707 I see. In that case, we'll have to use a bomb. If we break the rock from the explosion, it'll be a stepping stone.
+; 0x0040270b そうか、それなら爆弾を使うしかないな。爆発の衝撃で岩を崩せばそれが踏台になるだろう。
+0x0040270b Really? Then we can use a bomb. The explosion will cause the rocks to collapse, becoming a platform!
 
-; 0x00402760 $E爆弾は
-0x00402760 A bomb.
+; 0x00402762 爆弾は
+0x00402762 I got 
 
 ; 0x0040276a 僕の村
-0x0040276a My village
+0x0040276a some
 
 ; 0x00402775 行けばあるはずだ。
-0x00402775 It should be there if you go.
+0x00402775 bombs in my village.
 
 ; 0x00402788 $Fさぁ、急いでくれ！
-0x00402788 Come on, hurry up!
+0x00402788 Come on Hurry up!
 
 ; 0x0040279d 僕の為に！！
-0x0040279d For me!
+0x0040279d Do it for me!
 
 ; 0x004027ce 横穴があそこだから、とりあえずこのへんに置けばいいよね。
 0x004027ce There's a side tunnel over there, so I'll just put it here for now.
@@ -3316,28 +3319,28 @@
 0x00402981 .. .. ..
 
 ; 0x0040298f あたしの知合いがさ、岩崩れで
-0x0040298f My acquaintances were in a cave.
+0x0040298f Someone I know was trapped 
 
 ; 0x004029ac 閉じ込められたのよ。
-0x004029ac I'm trapped.
+0x004029ac by a rockslide.
 
 ; 0x004029c1 その岩を崩すのに必要な道具が
-0x004029c1 The tools needed to break that rock
+0x004029c1 I need some tools to break down
 
 ; 0x004029de 欲しいんだけどさ、持ってない？
-0x004029de I'd like to. Do you have any?
+0x004029de the rocks, do you have anything?
 
 ; 0x004029ff 怪獣
 0x004029ff Monster
 
 ; 0x00402a06 オレたちのドークツ。
-0x00402a06 Our docs.
+0x00402a06 Our caves. We won’t
 
 ; 0x00402a1d こわすやつ
-0x00402a1d The one that breaks.
+0x00402a1d tolerate 
 
-; 0x00402a29 ゆるさない。"
-0x00402a29 I won't forgive you.
+; 0x00402a29 ゆるさない。
+0x00402a29 anyone destroying them.
 
 ; 0x00402a40 そんな逃げないで話を聞いてよ。何もしないからさ。
 0x00402a40 Don't run away. Listen to me. I won't do anything.
@@ -3349,40 +3352,40 @@
 0x00402a7a .. .. ..
 
 ; 0x00402a88 僕の知合いが、岩崩れで
-0x00402a88 My acquaintances, in a landslide
+0x00402a88 Someone I know was trapped 
 
 ; 0x00402a9f 閉じ込められてしまったんだ。
-0x00402a9f I'm trapped.
+0x00402a9f by a rockslide.
 
 ; 0x00402abc 彼を助け出すために
-0x00402abc To save him.
+0x00402abc I need some tools 
 
 ; 0x00402acf 岩を崩す道具が必要なんだけど
-0x00402acf I need a tool to break the rock.
+0x00402acf to break down the rocks, do
 
 ; 0x00402aec 持ってないかい？
-0x00402aec Do you have any?
+0x00402aec you have anything?
 
 ; 0x00402aff 怪獣
 0x00402aff Monster
 
 ; 0x00402b06 オレたちのドークツ。
-0x00402b06 Our docs.
+0x00402b06 Our caves. We won’t 
 
 ; 0x00402b1d こわすやつ
-0x00402b1d The one that breaks.
+0x00402b1d tolerate
 
-; 0x00402b29 ゆるさない。"
-0x00402b29 I won't forgive you.
+; 0x00402b29 ゆるさない。
+0x00402b29 anyone destroying them.
 
 ; 0x00402b40 iｦ爆弾を使うのは、
-;TODO: 0x00402b40 Using i-bombs...
+0x00402b40 Don’t use the 
 
 ; 0x00402b53 ここじゃないよー！
-0x00402b53 Not here!
+0x00402b53 bombs here!
 
 ; 0x00402b66 向こうだよ。　向こう！！
-0x00402b66 Over there! Over there!
+0x00402b66 Use them on the sidehole.
 
 ; 0x00402b80 iｦ$,おーい！
 0x00402b80 Hey!
@@ -3565,10 +3568,10 @@
 0x00425afa Boomerang: Spins and returns to hand.
 
 ; 0x00425b32 オレンジ　　　　体力が２０回復する。
-0x00425b32 Orange: Restores 20 HP.
+0x00425b32 Orange: +20HP restored.
 
 ; 0x00425b58 チェリー　　　　体力が５０回復する。
-0x00425b58 Cherry: Restores 50 HP.
+0x00425b58 Cherry: +50HP restored.
 
 ; 0x00425b7e リンゴ　　　　　体力が完全回復する。
 0x00425b7e Apple: Fully restores stamina.
@@ -3628,7 +3631,7 @@
 0x0043d0a5 Okay?
 
 ; 0x0043d0c8 そのアイテムを、これ以上持つことは出来ないぞ。
-0x0043d0c8 Cannot carry more items.
+0x0043d0c8 Already have it.
 
 ; 0x0043d0f8 お金が足りねぇな
 0x0043d0f8 Not enough money.
@@ -3865,7 +3868,7 @@
 0x00451b5e With Goradus dead, everyone seems a little relieved.
 
 ; 0x00451ba0 z､やぁ、あなたでしたか。
-0x00451ba0 Z, hi, it's you.
+0x00451ba0 hi, it's you.
 
 ; 0x00451bb9 これはささやかなお礼ですが、
 0x00451bb9 This is a small token of my gratitude,
@@ -4183,10 +4186,10 @@
 0x00475afa Boomerang: Spins and returns to hand.
 
 ; 0x00475b32 オレンジ　　　　体力が２０回復する。
-0x00475b32 Orange: Restores 20 HP.
+0x00475b32 Orange: +20HP restored.
 
 ; 0x00475b58 チェリー　　　　体力が５０回復する。
-0x00475b58 Cherry: Restores 50 HP.
+0x00475b58 Cherry: +50HP restored.
 
 ; 0x00475b7e リンゴ　　　　　体力が完全回復する。
 0x00475b7e Apple: Fully restores stamina.
@@ -4246,7 +4249,7 @@
 0x0048d0a5 Okay?
 
 ; 0x0048d0c8 そのアイテムを、これ以上持つことは出来ないぞ。
-0x0048d0c8 Cannot carry more items.
+0x0048d0c8 Already have it.
 
 ; 0x0048d0f8 お金が足りねぇな
 0x0048d0f8 Not enough money.
@@ -4579,10 +4582,10 @@
 0x004c5afa Boomerang: Spins and returns to hand.
 
 ; 0x004c5b32 オレンジ　　　　体力が２０回復する。
-0x004c5b32 Orange: Restores 20 HP.
+0x004c5b32 Orange: +20HP restored.
 
 ; 0x004c5b58 チェリー　　　　体力が５０回復する。
-0x004c5b58 Cherry: Restores 50 HP.
+0x004c5b58 Cherry: +50HP restored.
 
 ; 0x004c5b7e リンゴ　　　　　体力が完全回復する。
 0x004c5b7e Apple: Fully restores stamina.
@@ -4642,7 +4645,7 @@
 0x004dd0a5 Okay?
 
 ; 0x004dd0c8 そのアイテムを、これ以上持つことは出来ないぞ。
-0x004dd0c8 Cannot carry more items.
+0x004dd0c8 Already have it.
 
 ; 0x004dd0f8 お金が足りねぇな
 0x004dd0f8 Not enough money.
@@ -5234,10 +5237,10 @@
 0x004f29bc I can.
 
 ; 0x004f29d7 んた、あたしからかっぱらっていった、ツルハシがあった
-0x004f29d7 There's a pickaxe you took from me.
+0x004f29d7 You’ve still got the pickaxe you stole from me, right? 
 
 ; 0x004f2a0c でしょう？あれ返しなさい。
-0x004f2a0c Right? Give it back.
+0x004f2a0c Well, give it back!!
 
 ; 0x004f2a2b $ｩ前にあなたを助けた時に使った、あれを返していただけますか？
 0x004f2a2b Can you give me back the one I used to save you?
@@ -5489,10 +5492,10 @@
 0x00515afa Boomerang: Spins and returns to hand.
 
 ; 0x00515b32 オレンジ　　　　体力が２０回復する。
-0x00515b32 Orange: Restores 20 HP.
+0x00515b32 Orange: +20HP restored.
 
 ; 0x00515b58 チェリー　　　　体力が５０回復する。
-0x00515b58 Cherry: Restores 50 HP.
+0x00515b58 Cherry: +50HP restored.
 
 ; 0x00515b7e リンゴ　　　　　体力が完全回復する。
 0x00515b7e Apple: Fully restores stamina.
@@ -5552,7 +5555,7 @@
 0x0052d0a5 Okay?
 
 ; 0x0052d0c8 そのアイテムを、これ以上持つことは出来ないぞ。
-0x0052d0c8 Cannot carry more items.
+0x0052d0c8 Already have it.
 
 ; 0x0052d0f8 お金が足りねぇな
 0x0052d0f8 Not enough money.
@@ -5618,19 +5621,19 @@
 0x005412b6 I'll go with you. Come on, go go!
 
 ; 0x005412f1 $桙ｿょっと待って！
-0x005412f1 Hold on!
+0x005412f1 Wait a minute!
 
 ; 0x00541304 ブラッキィ！
 0x00541304 Blacky!
 
 ; 0x00541315 んた、あたしからかっぱらっていった、ツルハシがあった
-0x00541315 There's a pickaxe you took from me.
+0x00541315 You’ve still got the pickaxe you stole from me,
 
 ; 0x0054134a でしょう？
-0x0054134a Isn't it?
+0x0054134a right?
 
 ; 0x00541355 あれ、かえしなさい。
-0x00541355 Give it back.
+0x00541355 Well, give it back!!
 
 ; 0x0054136b $ｧその前にちょっと、ブラッキィ
 0x0054136b Hey, before that, Blacky.
@@ -5650,14 +5653,11 @@
 ; 0x00541411 あれがどうかしたのかい？
 0x00541411 What's with that?
 
-; 0x0054142b 1､巳
-;0x0054142b 1 Mi
-
 ; 0x00541432 $｡マテリアルの閉じ込められている所を発見したけど、岩で道が
-0x00541432 I found a place where materials are locked up, but the path is made of rocks.
+0x00541432 I found out where Material is trapped, but it’s blocked
 
 ; 0x0054146d ふさがれてて、ツルハシがないと駄目なの。
-0x0054146d It's blocked, and I need a pickax.
+0x0054146d by rocks and I need a pickaxe to get through.
 
 ; 0x00541497 $ｫお師匠様の居場所が、
 0x00541497 Where is my master's place...?
@@ -5960,10 +5960,10 @@
 0x00625afa Boomerang: Spins and returns to hand.
 
 ; 0x00625b32 オレンジ　　　　体力が２０回復する。
-0x00625b32 Orange: Restores 20 HP.
+0x00625b32 Orange: +20HP restored.
 
 ; 0x00625b58 チェリー　　　　体力が５０回復する。
-0x00625b58 Cherry: Restores 50 HP.
+0x00625b58 Cherry: +50HP restored.
 
 ; 0x00625b7e リンゴ　　　　　体力が完全回復する。
 0x00625b7e Apple: Fully restores stamina.
@@ -6023,7 +6023,7 @@
 0x0063d0c1 Is that okay?
 
 ; 0x0063d0f4 あなたはそのアイテムをこれ以上持てません。
-0x0063d0f4 Cannot carry more items.
+0x0063d0f4 Already have it.
 
 ; 0x0063d120 お金が足りません
 0x0063d120 Not enough money.
@@ -7844,10 +7844,10 @@
 0x00675afa Boomerang: Spins and returns to hand.
 
 ; 0x00675b32 オレンジ　　　　体力が２０回復する。
-0x00675b32 Orange: Restores 20 HP.
+0x00675b32 Orange: +20HP restored.
 
 ; 0x00675b58 チェリー　　　　体力が５０回復する。
-0x00675b58 Cherry: Restores 50 HP.
+0x00675b58 Cherry: +50HP restored.
 
 ; 0x00675b7e リンゴ　　　　　体力が完全回復する。
 0x00675b7e Apple: Fully restores stamina.
@@ -7913,7 +7913,7 @@
 0x0068d0ee No
 
 ; 0x0068d0f4 あなたはそのアイテムをこれ以上持てません。
-0x0068d0f4 Cannot carry more items.
+0x0068d0f4 Already have it.
 
 ; 0x0068d120 お金が足りません
 0x0068d120 Not enough money.
@@ -8862,13 +8862,13 @@
 0x006a36ac He's here?
 
 ; 0x006a36b9 $tいいとも、こいつはしばらく、
-0x006a36b9 Even if it's $t, for a while,
+0x006a36b9 Even if it's you, for a while,
 
 ; 0x006a36d8 始末せずにおいてやろう。
 0x006a36d8 Let's do it without getting rid of it.
 
 ; 0x006a36f1 $uゲームさ。　面白いだろう？
-0x006a36f1 It's a $u game. Isn't it fun?
+0x006a36f1 It's a game. Isn't it fun?
 
 ; 0x006a370e おまえが俺を追ってこれれば、こいつをかえしてやる。
 0x006a370e If you come after me, I’ll give you back.
@@ -9507,10 +9507,10 @@
 0x006c5afa Boomerang: Spins and returns to hand.
 
 ; 0x006c5b32 オレンジ　　　　体力が２０回復する。
-0x006c5b32 Orange: Restores 20 HP.
+0x006c5b32 Orange: +20HP restored.
 
 ; 0x006c5b58 チェリー　　　　体力が５０回復する。
-0x006c5b58 Cherry: Restores 50 HP.
+0x006c5b58 Cherry: +50HP restored.
 
 ; 0x006c5b7e リンゴ　　　　　体力が完全回復する。
 0x006c5b7e Apple: Fully restores stamina.
@@ -9576,7 +9576,7 @@
 0x006dd0ee No
 
 ; 0x006dd0f4 あなたはそのアイテムをこれ以上持てません。
-0x006dd0f4 Cannot carry more items.
+0x006dd0f4 Already have it.
 
 ; 0x006dd120 お金が足りません
 0x006dd120 Not enough money.
@@ -9654,7 +9654,7 @@
 0x007390ee No
 
 ; 0x007390f4 あなたはそのアイテムをこれ以上持てません。
-0x007390f4 Cannot carry more items.
+0x007390f4 Already have it.
 
 ; 0x00739120 お金が足りません
 0x00739120 Not enough money.
@@ -9876,10 +9876,10 @@
 0x008218e2 Boomerang: Spins and returns to hand.
 
 ; 0x0082191a オレンジ　　　　体力が２０回復する。
-0x0082191a Orange: Restores 20 HP.
+0x0082191a Orange: +20HP restored.
 
 ; 0x00821940 チェリー　　　　体力が５０回復する。
-0x00821940 Cherry: Restores 50 HP.
+0x00821940 Cherry: +50HP restored.
 
 ; 0x00821966 リンゴ　　　　　体力が完全回復する。
 0x00821966 Apple: Fully restores stamina.
@@ -10035,10 +10035,10 @@
 0x00835aea Boomerang: Spins and returns to hand.
 
 ; 0x00835b22 オレンジ　　　　体力が２０回復する。
-0x00835b22 Orange: Restores 20 HP.
+0x00835b22 Orange: +20HP restored.
 
 ; 0x00835b48 チェリー　　　　体力が５０回復する。
-0x00835b48 Cherry: Restores 50 HP.
+0x00835b48 Cherry: +50HP restored.
 
 ; 0x00835b6e リンゴ　　　　　体力が完全回復する。
 0x00835b6e Apple: Fully restores stamina.
@@ -10092,7 +10092,7 @@
 0x0084d0c6 No
 
 ; 0x0084d0cc あなたはそのアイテムをこれ以上持てません。
-0x0084d0cc Cannot carry more items.
+0x0084d0cc Already have it.
 
 ; 0x0084d0f8 お金が足りません
 0x0084d0f8 Not enough money.
@@ -10599,10 +10599,10 @@
 0x00885aea Boomerang: Spins and returns to hand.
 
 ; 0x00885b22 オレンジ　　　　体力が２０回復する。
-0x00885b22 Orange: Restores 20 HP.
+0x00885b22 Orange: +20HP restored.
 
 ; 0x00885b48 チェリー　　　　体力が５０回復する。
-0x00885b48 Cherry: Restores 50 HP.
+0x00885b48 Cherry: +50HP restored.
 
 ; 0x00885b6e リンゴ　　　　　体力が完全回復する。
 0x00885b6e Apple: Fully restores stamina.
@@ -10656,7 +10656,7 @@
 0x0089d0c6 No
 
 ; 0x0089d0cc あなたはそのアイテムをこれ以上持てません。
-0x0089d0cc Cannot carry more items.
+0x0089d0cc Already have it.
 
 ; 0x0089d0f8 お金が足りません
 0x0089d0f8 Not enough money.
@@ -11269,10 +11269,10 @@
 0x008e5aea Boomerang: Spins and returns to hand.
 
 ; 0x008e5b22 オレンジ　　　　体力が２０回復する。
-0x008e5b22 Orange: Restores 20 HP.
+0x008e5b22 Orange: +20HP restored.
 
 ; 0x008e5b48 チェリー　　　　体力が５０回復する。
-0x008e5b48 Cherry: Restores 50 HP.
+0x008e5b48 Cherry: +50HP restored.
 
 ; 0x008e5b6e リンゴ　　　　　体力が完全回復する。
 0x008e5b6e Apple: Fully restores stamina.
@@ -11326,7 +11326,7 @@
 0x008fd0c6 No
 
 ; 0x008fd0cc あなたはそのアイテムをこれ以上持てません。
-0x008fd0cc Cannot carry more items.
+0x008fd0cc Already have it.
 
 ; 0x008fd0f8 お金が足りません
 0x008fd0f8 Not enough money.
@@ -11761,10 +11761,10 @@
 0x00995aea Boomerang: Spins and returns to hand.
 
 ; 0x00995b22 オレンジ　　　　体力が２０回復する。
-0x00995b22 Orange: Restores 20 HP.
+0x00995b22 Orange: +20HP restored.
 
 ; 0x00995b48 チェリー　　　　体力が５０回復する。
-0x00995b48 Cherry: Restores 50 HP.
+0x00995b48 Cherry: +50HP restored.
 
 ; 0x00995b6e リンゴ　　　　　体力が完全回復する。
 0x00995b6e Apple: Fully restores stamina.
@@ -11818,7 +11818,7 @@
 0x009ad0c6 No
 
 ; 0x009ad0cc あなたはそのアイテムをこれ以上持てません。
-0x009ad0cc Cannot carry more items.
+0x009ad0cc Already have it.
 
 ; 0x009ad0f8 お金が足りません
 0x009ad0f8 Not enough money.
@@ -12382,10 +12382,10 @@
 0x009e5aea Boomerang: Spins and returns to hand.
 
 ; 0x009e5b22 オレンジ　　　　体力が２０回復する。
-0x009e5b22 Orange: Restores 20 HP.
+0x009e5b22 Orange: +20HP restored.
 
 ; 0x009e5b48 チェリー　　　　体力が５０回復する。
-0x009e5b48 Cherry: Restores 50 HP.
+0x009e5b48 Cherry: +50HP restored.
 
 ; 0x009e5b6e リンゴ　　　　　体力が完全回復する。
 0x009e5b6e Apple: Fully restores stamina.
@@ -12436,7 +12436,7 @@
 0x009fd0c6 No
 
 ; 0x009fd0cc あなたはそのアイテムをこれ以上持てません。
-0x009fd0cc Cannot carry more items.
+0x009fd0cc Already have it.
 
 ; 0x009fd0f8 お金が足りません
 0x009fd0f8 Not enough money.
@@ -12790,10 +12790,10 @@
 0x00a35aea Boomerang: Spins and returns to hand.
 
 ; 0x00a35b22 オレンジ　　　　体力が２０回復する。
-0x00a35b22 Orange: Restores 20 HP.
+0x00a35b22 Orange: +20HP restored.
 
 ; 0x00a35b48 チェリー　　　　体力が５０回復する。
-0x00a35b48 Cherry: Restores 50 HP.
+0x00a35b48 Cherry: +50HP restored.
 
 ; 0x00a35b6e リンゴ　　　　　体力が完全回復する。
 0x00a35b6e Apple: Fully restores stamina.
@@ -12847,7 +12847,7 @@
 0x00a4d0c6 No
 
 ; 0x00a4d0cc あなたはそのアイテムをこれ以上持てません。
-0x00a4d0cc Cannot carry more items.
+0x00a4d0cc Already have it.
 
 ; 0x00a4d0f8 お金が足りません
 0x00a4d0f8 Not enough money.
@@ -13117,10 +13117,10 @@
 0x00af5aea Boomerang: Spins and returns to hand.
 
 ; 0x00af5b22 オレンジ　　　　体力が２０回復する。
-0x00af5b22 Orange: Restores 20 HP.
+0x00af5b22 Orange: +20HP restored.
 
 ; 0x00af5b48 チェリー　　　　体力が５０回復する。
-0x00af5b48 Cherry: Restores 50 HP.
+0x00af5b48 Cherry: +50HP restored.
 
 ; 0x00af5b6e リンゴ　　　　　体力が完全回復する。
 0x00af5b6e Apple: Fully restores stamina.
@@ -13174,7 +13174,7 @@
 0x00b0d0c6 No
 
 ; 0x00b0d0cc あなたはそのアイテムをこれ以上持てません。
-0x00b0d0cc Cannot carry more items.
+0x00b0d0cc Already have it.
 
 ; 0x00b0d0fa がんばって！
 0x00b0d0fa Good luck!
@@ -13852,10 +13852,10 @@
 0x00b45aea Boomerang: Spins and returns to hand.
 
 ; 0x00b45b22 オレンジ　　　　体力が２０回復する。
-0x00b45b22 Orange: Restores 20 HP.
+0x00b45b22 Orange: +20HP restored.
 
 ; 0x00b45b48 チェリー　　　　体力が５０回復する。
-0x00b45b48 Cherry: Restores 50 HP.
+0x00b45b48 Cherry: +50HP restored.
 
 ; 0x00b45b6e リンゴ　　　　　体力が完全回復する。
 0x00b45b6e Apple: Fully restores stamina.
@@ -13909,7 +13909,7 @@
 0x00b5d0c6 No
 
 ; 0x00b5d0cc あなたはそのアイテムをこれ以上持てません。
-0x00b5d0cc Cannot carry more items.
+0x00b5d0cc Already have it.
 
 ; 0x00b5d0fa がんばって！
 0x00b5d0fa Good luck!
@@ -14239,10 +14239,10 @@
 0x00b95aea Boomerang: Spins and returns to hand.
 
 ; 0x00b95b22 オレンジ　　　　体力が２０回復する。
-0x00b95b22 Orange: Restores 20 HP.
+0x00b95b22 Orange: +20HP restored.
 
 ; 0x00b95b48 チェリー　　　　体力が５０回復する。
-0x00b95b48 Cherry: Restores 50 HP.
+0x00b95b48 Cherry: +50HP restored.
 
 ; 0x00b95b6e リンゴ　　　　　体力が完全回復する。
 0x00b95b6e Apple: Fully restores stamina.
@@ -14290,7 +14290,7 @@
 0x00bad099 Is that okay?
 
 ; 0x00bad0cc あなたはそのアイテムをこれ以上持てません。
-0x00bad0cc Cannot carry more items.
+0x00bad0cc Already have it.
 
 ; 0x00bad0fa がんばって！
 0x00bad0fa Good luck!
@@ -14815,10 +14815,10 @@
 0x00cb5afa Boomerang: Spins and returns to hand.
 
 ; 0x00cb5b32 オレンジ　　　　体力が２０回復する。
-0x00cb5b32 Orange: Restores 20 HP.
+0x00cb5b32 Orange: +20HP restored.
 
 ; 0x00cb5b58 チェリー　　　　体力が５０回復する。
-0x00cb5b58 Cherry: Restores 50 HP.
+0x00cb5b58 Cherry: +50HP restored.
 
 ; 0x00cb5b7e リンゴ　　　　　体力が完全回復する。
 0x00cb5b7e Apple: Fully restores stamina.
@@ -14884,7 +14884,7 @@
 0x00ccd0d0 No
 
 ; 0x00ccd0d6 あなたはそのアイテムをこれ以上持てないよ。
-0x00ccd0d6 Cannot carry more items.
+0x00ccd0d6 Already have it.
 
 ; 0x00ccd102 お金が足りないよ
 0x00ccd102 I'm short on money.
@@ -15829,10 +15829,10 @@
 0x00d05afa Boomerang: Spins and returns to hand.
 
 ; 0x00d05b32 オレンジ　　　　体力が２０回復する。
-0x00d05b32 Orange: Restores 20 HP.
+0x00d05b32 Orange: +20HP restored.
 
 ; 0x00d05b58 チェリー　　　　体力が５０回復する。
-0x00d05b58 Cherry: Restores 50 HP.
+0x00d05b58 Cherry: +50HP restored.
 
 ; 0x00d05b7e リンゴ　　　　　体力が完全回復する。
 0x00d05b7e Apple: Fully restores stamina.
@@ -15898,7 +15898,7 @@
 0x00d1d0d0 No
 
 ; 0x00d1d0d6 あなたはそのアイテムをこれ以上持てないよ。
-0x00d1d0d6 Cannot carry more items.
+0x00d1d0d6 Already have it.
 
 ; 0x00d1d102 お金が足りないよ
 0x00d1d102 I'm short on money.
@@ -17056,10 +17056,10 @@
 0x00d55afa Boomerang: Spins and returns to hand.
 
 ; 0x00d55b32 オレンジ　　　　体力が２０回復する。
-0x00d55b32 Orange: Restores 20 HP.
+0x00d55b32 Orange: +20HP restored.
 
 ; 0x00d55b58 チェリー　　　　体力が５０回復する。
-0x00d55b58 Cherry: Restores 50 HP.
+0x00d55b58 Cherry: +50HP restored.
 
 ; 0x00d55b7e リンゴ　　　　　体力が完全回復する。
 0x00d55b7e Apple: Fully restores stamina.
@@ -17125,7 +17125,7 @@
 0x00d6d0d0 No
 
 ; 0x00d6d0d6 あなたはそのアイテムをこれ以上持てないよ。
-0x00d6d0d6 Cannot carry more items.
+0x00d6d0d6 Already have it.
 
 ; 0x00d6d102 お金が足りないよ
 0x00d6d102 I'm short on money.
@@ -17605,10 +17605,10 @@
 0x00da5afa Boomerang: Spins and returns to hand.
 
 ; 0x00da5b32 オレンジ　　　　体力が２０回復する。
-0x00da5b32 Orange: Restores 20 HP.
+0x00da5b32 Orange: +20HP restored.
 
 ; 0x00da5b58 チェリー　　　　体力が５０回復する。
-0x00da5b58 Cherry: Restores 50 HP.
+0x00da5b58 Cherry: +50HP restored.
 
 ; 0x00da5b7e リンゴ　　　　　体力が完全回復する。
 0x00da5b7e Apple: Fully restores stamina.
@@ -17674,7 +17674,7 @@
 0x00dbd0d0 No
 
 ; 0x00dbd0d6 あなたはそのアイテムをこれ以上持てないよ。
-0x00dbd0d6 Cannot carry more items.
+0x00dbd0d6 Already have it.
 
 ; 0x00dbd102 お金が足りないよ
 0x00dbd102 I'm short on money.
@@ -18133,10 +18133,10 @@
 0x00e11ade Boomerang: Spins and returns to hand.
 
 ; 0x00e11b16 オレンジ　　　　体力が２０回復する。
-0x00e11b16 Orange: Restores 20 HP.
+0x00e11b16 Orange: +20HP restored.
 
 ; 0x00e11b3c チェリー　　　　体力が５０回復する。
-0x00e11b3c Cherry: Restores 50 HP.
+0x00e11b3c Cherry: +50HP restored.
 
 ; 0x00e11b62 リンゴ　　　　　体力が完全回復する。
 0x00e11b62 Apple: Fully restores stamina.
@@ -18604,10 +18604,10 @@
 0x00e55afa Boomerang: Spins and returns to hand.
 
 ; 0x00e55b32 オレンジ　　　　体力が２０回復する。
-0x00e55b32 Orange: Restores 20 HP.
+0x00e55b32 Orange: +20HP restored.
 
 ; 0x00e55b58 チェリー　　　　体力が５０回復する。
-0x00e55b58 Cherry: Restores 50 HP.
+0x00e55b58 Cherry: +50HP restored.
 
 ; 0x00e55b7e リンゴ　　　　　体力が完全回復する。
 0x00e55b7e Apple: Fully restores stamina.
@@ -18673,7 +18673,7 @@
 0x00e6d0ee No
 
 ; 0x00e6d0f4 あなたはそのアイテムをこれ以上持てません。
-0x00e6d0f4 Cannot carry more items.
+0x00e6d0f4 Already have it.
 
 ; 0x00e6d120 お金が足りません
 0x00e6d120 Not enough money.
@@ -18871,10 +18871,10 @@
 0x00ea5afa Boomerang: Spins and returns to hand.
 
 ; 0x00ea5b32 オレンジ　　　　体力が２０回復する。
-0x00ea5b32 Orange: Restores 20 HP.
+0x00ea5b32 Orange: +20HP restored.
 
 ; 0x00ea5b58 チェリー　　　　体力が５０回復する。
-0x00ea5b58 Cherry: Restores 50 HP.
+0x00ea5b58 Cherry: +50HP restored.
 
 ; 0x00ea5b7e リンゴ　　　　　体力が完全回復する。
 0x00ea5b7e Apple: Fully restores stamina.
@@ -18940,7 +18940,7 @@
 0x00ebd0ee No
 
 ; 0x00ebd0f4 あなたはそのアイテムをこれ以上持てません。
-0x00ebd0f4 Cannot carry more items.
+0x00ebd0f4 Already have it.
 
 ; 0x00ebd120 お金が足りません
 0x00ebd120 Not enough money.
@@ -19132,10 +19132,10 @@
 0x00ef5afa Boomerang: Spins and returns to hand.
 
 ; 0x00ef5b32 オレンジ　　　　体力が２０回復する。
-0x00ef5b32 Orange: Restores 20 HP.
+0x00ef5b32 Orange: +20HP restored.
 
 ; 0x00ef5b58 チェリー　　　　体力が５０回復する。
-0x00ef5b58 Cherry: Restores 50 HP.
+0x00ef5b58 Cherry: +50HP restored.
 
 ; 0x00ef5b7e リンゴ　　　　　体力が完全回復する。
 0x00ef5b7e Apple: Fully restores stamina.
@@ -19201,7 +19201,7 @@
 0x00f0d0ee No
 
 ; 0x00f0d0f4 あなたはそのアイテムをこれ以上持てません。
-0x00f0d0f4 Cannot carry more items.
+0x00f0d0f4 Already have it.
 
 ; 0x00f0d120 お金が足りません
 0x00f0d120 Not enough money.
@@ -19633,10 +19633,10 @@
 0x00f45afa Boomerang: Spins and returns to hand.
 
 ; 0x00f45b32 オレンジ　　　　体力が２０回復する。
-0x00f45b32 Orange: Restores 20 HP.
+0x00f45b32 Orange: +20HP restored.
 
 ; 0x00f45b58 チェリー　　　　体力が５０回復する。
-0x00f45b58 Cherry: Restores 50 HP.
+0x00f45b58 Cherry: +50HP restored.
 
 ; 0x00f45b7e リンゴ　　　　　体力が完全回復する。
 0x00f45b7e Apple: Fully restores stamina.
@@ -19702,7 +19702,7 @@
 0x00f5d0ee No
 
 ; 0x00f5d0f4 あなたはそのアイテムをこれ以上持てません。
-0x00f5d0f4 Cannot carry more items.
+0x00f5d0f4 Already have it.
 
 ; 0x00f5d120 お金が足りません
 0x00f5d120 Not enough money.
@@ -20131,10 +20131,10 @@
 0x00f95afa Boomerang: Spins and returns to hand.
 
 ; 0x00f95b32 オレンジ　　　　体力が２０回復する。
-0x00f95b32 Orange: Restores 20 HP.
+0x00f95b32 Orange: +20HP restored.
 
 ; 0x00f95b58 チェリー　　　　体力が５０回復する。
-0x00f95b58 Cherry: Restores 50 HP.
+0x00f95b58 Cherry: +50HP restored.
 
 ; 0x00f95b7e リンゴ　　　　　体力が完全回復する。
 0x00f95b7e Apple: Fully restores stamina.
@@ -20200,7 +20200,7 @@
 0x00fad0ee No
 
 ; 0x00fad0f4 あなたはそのアイテムをこれ以上持てません。
-0x00fad0f4 Cannot carry more items.
+0x00fad0f4 Already have it.
 
 ; 0x00fad120 お金が足りません
 0x00fad120 Not enough money.
@@ -20470,10 +20470,10 @@
 0x01005aed Boomerang: Spins and returns to hand.
 
 ; 0x01005b25 オレンジ　　　　体力が２０回復する。
-0x01005b25 Orange: Restores 20 HP.
+0x01005b25 Orange: +20HP restored.
 
 ; 0x01005b4b チェリー　　　　体力が５０回復する。
-0x01005b4b Cherry: Restores 50 HP.
+0x01005b4b Cherry: +50HP restored.
 
 ; 0x01005b71 リンゴ　　　　　体力が完全回復する。
 0x01005b71 Apple: Fully restores stamina.
@@ -20539,7 +20539,7 @@
 0x0101d0ee No
 
 ; 0x0101d0f4 あなたはそのアイテムをこれ以上持てません。
-0x0101d0f4 Cannot carry more items.
+0x0101d0f4 Already have it.
 
 ; 0x0101d120 お金が足りません
 0x0101d120 Not enough money.
@@ -20695,7 +20695,7 @@
 0x010690ee No
 
 ; 0x010690f4 あなたはそのアイテムをこれ以上持てません。
-0x010690f4 Cannot carry more items.
+0x010690f4 Already have it.
 
 ; 0x01069120 お金が足りません
 0x01069120 Not enough money.
@@ -20887,10 +20887,10 @@
 0x010c1ad4 Boomerang: Spins and returns to hand.
 
 ; 0x010c1b0c オレンジ　　　　体力が２０回復する。
-0x010c1b0c Orange: Restores 20 HP.
+0x010c1b0c Orange: +20HP restored.
 
 ; 0x010c1b32 チェリー　　　　体力が５０回復する。
-0x010c1b32 Cherry: Restores 50 HP.
+0x010c1b32 Cherry: +50HP restored.
 
 ; 0x010c1b58 リンゴ　　　　　体力が完全回復する。
 0x010c1b58 Apple: Fully restores stamina.
