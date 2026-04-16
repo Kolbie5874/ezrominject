@@ -15328,7 +15328,7 @@
 0x0023b299  for you.
 
 ; 0x0023b2e6 ロブじいさんぼんさいが！！！
-0x0023b2e6 Old Lobber is so stubborn!!!
+0x0023b2e6 Old Lobber
 
 ; 0x0023b303 ワシの…　ワシのかわいい
 0x0023b303 My bonsai!
@@ -15630,11 +15630,14 @@
 ; 0x0023befe ワープじぞう
 0x0023befe Warp Jizo
 
+; 0x0023bf0b わしはえらいので　
+0x0023bf0b And I'll take 
+
 ; 0x0023bf23 ワープじぞう王の
-0x0023bf23 I'll take you
+0x0023bf23 you to the 
 
 ; 0x0023bf34 ところまで　いっしゅんで
-0x0023bf34 to the Warp King by
+0x0023bf34 Warp King by
 
 ; 0x0023bf4d ワープ
 0x0023bf4d ㅤ
@@ -15681,8 +15684,11 @@
 ; 0x0023c08a ワープじぞう
 0x0023c08a Warp Jizo
 
+; 0x0023c097 だが
+0x0023c097 And...
+
 ; 0x0023c09c わしらが　えらいということだけは
-0x0023c09c Don´t forget the
+0x0023c09c don´t forget the
 
 ; 0x0023c0bd わすれるな
 0x0023c0bd details.
@@ -15765,8 +15771,11 @@
 ; 0x0023c3e9 ワープじぞう
 0x0023c3e9 Warp Jizo
 
+; 0x0023c097 だが
+0x0023c097 And...
+
 ; 0x0023c3fb わしらが　えらいということだけは
-0x0023c3fb Don`t forget the info we
+0x0023c3fb don`t forget the info we
 
 ; 0x0023c41c わすれるな
 0x0023c41c gave you.
@@ -40268,7 +40277,7 @@
 0x0032d2f5 Matter theme
 
 ; 0x0032d304 なし
-0x0032d304 No.
+0x0032d304 No
 
 ; 0x0032d309 きょく５８
 0x0032d309 Kyoku58
@@ -50606,3 +50615,5 @@
 ; 0x00828d0d シツレンの１つや２つ　よゆうで
 0x00828d0d A shitsuren or two.
 
+; 0x00828d2c のりこえるものじゃ
+0x00828d2c you have to overcome.
