@@ -11,11 +11,11 @@
     1. palette file `title_ue_ob_font.NCLR`
     2. tiles file `title_ue_ob_font.NCGR`
     3. cells file `title_ue_ob_font.NCER`
-    - Note: If the files are compressed, click "Unpack" before viewing.
+    - Note: If the files are compressed, click "Unpack" and view the nested file.
  6. scroll the "Bank" drop-down menu to view all the cells
  7. choose a gfx to replace and click the "Export" button. Save it with a png extension and edit it using an external tool like LibreSprite.
  8. when editing is complete, click the "Import" button to replace the original graphic in the same slot.
  9. click "Save ROM" and test the replacement in an emulator.
  10. if it works correctly, click "Extract" and save the modified tiles file `title_ue_ob_font.NCGR`.
-     - Note: If the file was compressed, keep the compression when exporting.
+     - Note: If the file was compressed, click "Pack" and keep the compression when exporting.
 
