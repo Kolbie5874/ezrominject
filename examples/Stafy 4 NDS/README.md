@@ -2,7 +2,7 @@
 
 ## Current status  🏗️
 
- - Only the dialogues of the intro and 1-1 were revised, still a lot of placeholder text.
+ - Revised dialogues up to 1-2 and some menus, still a lot of placeholder text.
  - Only a few gfx text/buttons are translated.
  - **Only partially tested, there may be crashes!**
 

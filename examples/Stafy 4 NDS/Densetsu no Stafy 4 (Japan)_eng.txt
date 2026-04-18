@@ -755,40 +755,40 @@
 0x000818fc gameplay.
 
 ; 0x0008191b でんげんは　タイトルがめんに
-0x0008191b The title is Menga.
+0x0008191b Turn off the power after 
 
 ; 0x00081938 もどってから　きってください
-0x00081938 Come back when you´re done.
+0x00081938 returning to the title screen.
 
 ; 0x00081962 ちゅうだんセーブしてもいいですか？
-0x00081962 Can I save it?
+0x00081962 Save and quit now?
 
 ; 0x00081985 　　　　はい
-0x00081985 Okay.
+0x00081985         Yes
 
 ; 0x00081992 　　　　いいえ
-0x00081992 No. No.
+0x00081992         No
 
 ; 0x000819cd ちゅうだんセーブ中です
-0x000819cd I´m saving.
+0x000819cd Saving...
 
 ; 0x000819e4 でんげんをきったり
-0x000819e4 I´ve heard of dengen
+0x000819e4 Don’t power off.
 
 ; 0x000819f7 ＤＳカードを　ぬいたりしないでね
 0x000819f7 Don’t pull out the DS card.
 
 ; 0x00081a65 てきすとひょうじてすと
-0x00081a65 Tekisutoyojitesuto
+; 0x00081a65 Tekisutoyojitesuto
 
 ; 0x00081a83 いろはにほへとちりぬるをわかよたれそ
-0x00081a83 Iroha nihohechiriru wo waka yoreru nare
+; 0x00081a83 Iroha nihohechiriru wo waka yoreru nare
 
 ; 0x00081ac0 ＤＥＦ、。：ＸＹＺ
-0x00081ac0 DEF.: XYZ
+; 0x00081ac0 DEF.: XYZ
 
 ; 0x00081ae1 いろへんこうてすと
-0x00081ae1 Irohenkotesuto
+; 0x00081ae1 Irohenkotesuto
 
 ; 0x00081afa いろかわった？
 0x00081afa You´ve changed?
@@ -872,34 +872,34 @@
 0x000824c9 May I?
 
 ; 0x000824db 　　　はい　　　いいえ
-0x000824db Yes. No.
+0x000824db       Yes      No
 
 ; 0x00082507 すべてのデータを
-0x00082507 All data.
+0x00082507 All data will
 
 ; 0x00082518 しょうきょします
-0x00082518 I´ll do it.
+0x00082518 be deleted.
 
 ; 0x00082529 しょうきょしたデータは
-0x00082529 That´s the data.
+0x00082529 Deleted data cannot 
 
 ; 0x00082540 もとにもどりません！
-0x00082540 It won´t go back to normal!
+0x00082540 be recovered!
 
 ; 0x00082555 よろしいですか？
-0x00082555 May I?
+0x00082555 Are you sure?
 
 ; 0x00082567 　　　はい　　　いいえ
-0x00082567 Yes. No.
+0x00082567       Yes      No
 
 ; 0x00082587 ほんとうによろしいですか？
-0x00082587 Is it really okay?
+0x00082587 Are you absolutely sure?
 
 ; 0x000825a3 　　　はい　　　いいえ
-0x000825a3 Yes. No.
+0x000825a3       Yes      No
 
 ; 0x000825eb 　　　はい　　　いいえ
-0x000825eb Yes. No.
+0x000825eb       Yes      No
 
 ; 0x00082ad7 キョロスケ
 0x00082ad7 Moe
@@ -15328,7 +15328,7 @@
 0x0023b299  for you.
 
 ; 0x0023b2e6 ロブじいさんぼんさいが！！！
-0x0023b2e6 Old Lobber is so stubborn!!!
+0x0023b2e6 Old Lobber
 
 ; 0x0023b303 ワシの…　ワシのかわいい
 0x0023b303 My bonsai!
@@ -15630,11 +15630,14 @@
 ; 0x0023befe ワープじぞう
 0x0023befe Warp Jizo
 
+; 0x0023bf0b わしはえらいので　
+0x0023bf0b And I'll take 
+
 ; 0x0023bf23 ワープじぞう王の
-0x0023bf23 I'll take you
+0x0023bf23 you to the 
 
 ; 0x0023bf34 ところまで　いっしゅんで
-0x0023bf34 to the Warp King by
+0x0023bf34 Warp King by
 
 ; 0x0023bf4d ワープ
 0x0023bf4d ㅤ
@@ -15681,8 +15684,11 @@
 ; 0x0023c08a ワープじぞう
 0x0023c08a Warp Jizo
 
+; 0x0023c097 だが
+0x0023c097 And...
+
 ; 0x0023c09c わしらが　えらいということだけは
-0x0023c09c Don´t forget the
+0x0023c09c don´t forget the
 
 ; 0x0023c0bd わすれるな
 0x0023c0bd details.
@@ -15765,8 +15771,11 @@
 ; 0x0023c3e9 ワープじぞう
 0x0023c3e9 Warp Jizo
 
+; 0x0023c097 だが
+0x0023c097 And...
+
 ; 0x0023c3fb わしらが　えらいということだけは
-0x0023c3fb Don`t forget the info we
+0x0023c3fb don`t forget the info we
 
 ; 0x0023c41c わすれるな
 0x0023c41c gave you.
@@ -40294,10 +40303,10 @@
 0x00352c98 True peace had finally
 
 ; 0x00352caf ほんとうの　平和がおとずれ
-0x00352caf befallen Pufftop. It`s
+0x00352caf befallen Pufftop. Its
 
 ; 0x00352cca みんなたのしくくらしています
-0x00352cca citizens enjoying peace.
+0x00352cca citizens are enjoying peace.
 
 ; 0x00352d39 ◆キョロスケ
 0x00352d39 ◆Moe
@@ -50605,3 +50614,6 @@
 ; 0x00828d0d シツレンの１つや２つ　よゆうで
 0x00828d0d A shitsuren or two.
 
+; TODO: fix crash when enabled
+; 0x00828d2c のりこえるものじゃ
+;0x00828d2c you have to overcome.
