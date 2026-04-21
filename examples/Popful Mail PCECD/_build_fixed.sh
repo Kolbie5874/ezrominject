@@ -70,6 +70,14 @@ extract_gfx() {
     sfk partcopy "$OUTPUT_ROM" -fromto 0x2942ad 0x294429 gfx/menu_save_jap.bin -yes
     sfk partcopy "$OUTPUT_ROM" -fromto 0x294429 0x2945A1 gfx/menu_load_jap.bin -yes
     sfk partcopy "$OUTPUT_ROM" -fromto 0x2945A1 0x294852 gfx/menu_confirm_jap.bin -yes
+    #TODO: sfk partcopy "$OUTPUT_ROM" -fromto 0x251280 ...  gfx/menu_equip_jap.bin -yes
+    #TODO: sfk partcopy "$OUTPUT_ROM" -fromto 0x251e36 0x2525c5 gfx/menu_use_jap.bin -yes
+    
+    # portraits
+    sfk partcopy "$OUTPUT_ROM" 0x245752 1490 gfx/portrait_mail_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" 0x245D32 1540 gfx/portrait_tatto_jap.bin -yes
+    sfk partcopy "$OUTPUT_ROM" 0x246342 1677 gfx/portrait_gaw_jap.bin -yes
+    
     #TODO: sfk partcopy "$OUTPUT_ROM" -fromto 0x1680400 0x gfx/_sound_test_menu_jap.bin -yes
 }
 
@@ -122,8 +130,12 @@ patch_gfx() {
     replace_gfx menu_load
     replace_gfx menu_confirm
     
-    # increase pointer to load menu +10 bytes 
+    # increase pointer of load menu +10 bytes 
     sfk replace "$OUTPUT_ROM" -binary /A502C983F01DA929A0B4442FB00160/A502C983F01DA933A0B4442FB00160/  -yes
+    
+    replace_gfx portrait_mail
+    replace_gfx portrait_tatto
+    replace_gfx portrait_gaw
 }
 
 
